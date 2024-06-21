@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+7376,iot wemo off,iot wemo off,36,True,True,True,{36: 1},[7376],7376,1,4,False
+4187,calendar query,datetime query,13,False,False,False,{36: 1},[7376],4187,1,4,False
+7357,iot wemo on,general neg,25,False,False,False,{36: 1},[7376],7357,1,4,False
+1863,iot wemo off,general neg,25,False,False,True,{36: 1},[7376],1863,1,4,False
+15293,lists create or add,lists query,39,False,False,False,{36: 1},[7376],15293,1,4,False
+4694,iot wemo off,qa fact,53,False,False,True,{36: 1},[7376],4694,1,4,False
+16690,iot wemo off,music li,42,False,False,True,{36: 1},[7376],16690,1,4,False
+17614,iot wemo on,lists query,39,False,False,False,{36: 1},[7376],17614,1,4,False
+13535,weather query,weather,67,False,True,False,{36: 1},[7376],13535,1,4,False
+4960,iot wemo off,recommendation locations,57,False,False,True,{36: 1},[7376],4960,1,4,False
+8703,calendar query,calendar query,7,False,True,False,{36: 1},[7376],8703,1,4,False
+13145,takeaway order,takeaway query,62,False,False,False,{36: 1},[7376],13145,1,4,False
+7665,iot wemo off,lists remove,40,False,False,True,{36: 1},[7376],7665,1,4,False
+15700,iot wemo off,general neg,25,False,False,True,{36: 1},[7376],15700,1,4,False
+5080,iot wemo off,general affirm,18,False,False,True,{36: 1},[7376],5080,1,4,False
+2686,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],2686,1,4,False
+12550,iot wemo off,qa currency,51,False,False,True,{36: 1},[7376],12550,1,4,False
+3569,iot wemo off,general neg,25,False,False,True,{36: 1},[7376],3569,1,4,False
+8318,iot wemo off,news,45,False,False,True,{36: 1},[7376],8318,1,4,False
+8697,lists create or add,qa fact,53,False,False,False,{36: 1},[7376],8697,1,4,False
+2045,calendar set,calendar set,9,False,True,False,{36: 1},[7376],2045,1,4,False
+14073,iot wemo off,general confirm,20,False,False,True,{36: 1},[7376],14073,1,4,False
+16898,music query,play music,48,False,False,False,{36: 1},[7376],16898,1,4,False
+4229,iot wemo off,qa fact,53,False,False,True,{36: 1},[7376],4229,1,4,False
+12206,email add contact,email add,14,False,True,False,{36: 1},[7376],12206,1,4,False
+9592,play audiobook,play aud,46,False,True,False,{36: 1},[7376],9592,1,4,False
+4142,play podcasts,play podcast,49,False,True,False,{36: 1},[7376],4142,1,4,False
+14341,iot wemo on,weather,67,False,False,False,{36: 1},[7376],14341,1,4,False
+1647,iot wemo off,recommendation events,56,False,False,True,{36: 1},[7376],1647,1,4,False
+8113,iot wemo off,general qu,27,False,False,True,{36: 1},[7376],8113,1,4,False
+13438,calendar set,calendar set,9,False,True,False,{36: 1},[7376],13438,1,4,False
+14219,iot wemo off,transport taxi,64,False,False,True,{36: 1},[7376],14219,1,4,False
+3719,iot wemo off,transport query,63,False,False,True,{36: 1},[7376],3719,1,4,False
+13113,music dislikeness,music dis,41,False,True,False,{36: 1},[7376],13113,1,4,False
+1643,iot wemo off,qa stock,55,False,False,True,{36: 1},[7376],1643,1,4,False
+11556,calendar set,calendar remove,8,False,False,False,{36: 1},[7376],11556,1,4,False
+11717,music query,play radio,50,False,False,False,{36: 1},[7376],11717,1,4,False
+18897,datetime query,datetime query,13,False,True,False,{36: 1},[7376],18897,1,4,False
+7172,alarm set,email query contact,16,False,False,False,{36: 1},[7376],7172,1,4,False
+17085,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],17085,1,4,False
+13664,iot wemo off,qa fact,53,False,False,True,{36: 1},[7376],13664,1,4,False
+4876,iot wemo off,general neg,25,False,False,True,{36: 1},[7376],4876,1,4,False
+1822,music query,play music,48,False,False,False,{36: 1},[7376],1822,1,4,False
+9174,weather query,weather,67,False,True,False,{36: 1},[7376],9174,1,4,False
+14845,alarm set,alarm set,2,False,True,False,{36: 1},[7376],14845,1,4,False
+16285,weather query,recommendation events,56,False,False,False,{36: 1},[7376],16285,1,4,False
+19030,email query,email query,15,False,True,False,{36: 1},[7376],19030,1,4,False
+17036,iot wemo off,general repeat,28,False,False,True,{36: 1},[7376],17036,1,4,False
+18420,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],18420,1,4,False
+18386,iot wemo off,general dont,21,False,False,True,{36: 1},[7376],18386,1,4,False
+13026,iot wemo off,general dont,21,False,False,True,{36: 1},[7376],13026,1,4,False
+2286,iot wemo off,general explain,22,False,False,True,{36: 1},[7376],2286,1,4,False
+8924,general quirky,qa definition,52,False,False,False,{36: 1},[7376],8924,1,4,False
+2249,iot wemo on,qa fact,53,False,False,False,{36: 1},[7376],2249,1,4,False
+3692,iot wemo off,qa definition,52,False,False,True,{36: 1},[7376],3692,1,4,False
+4530,iot coffee,iot coffee,30,False,True,False,{36: 1},[7376],4530,1,4,False
+16007,iot wemo off,general neg,25,False,False,True,{36: 1},[7376],16007,1,4,False
+15168,weather query,datetime query,13,False,False,False,{36: 1},[7376],15168,1,4,False
+5596,social post,social post,59,False,True,False,{36: 1},[7376],5596,1,4,False
+10055,news query,news,45,False,True,False,{36: 1},[7376],10055,1,4,False
+13549,iot wemo off,general repeat,28,False,False,True,{36: 1},[7376],13549,1,4,False
+11773,weather query,iot hue lighton,34,False,False,False,{36: 1},[7376],11773,1,4,False
+18248,iot wemo off,qa fact,53,False,False,True,{36: 1},[7376],18248,1,4,False
+5922,alarm query,alarm query,0,False,True,False,{36: 1},[7376],5922,1,4,False
+5180,play audiobook,play aud,46,False,True,False,{36: 1},[7376],5180,1,4,False
+4399,iot wemo off,general explain,22,False,False,True,{36: 1},[7376],4399,1,4,False
+13513,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],13513,1,4,False
+14146,music dislikeness,play radio,50,False,False,False,{36: 1},[7376],14146,1,4,False
+4010,iot wemo on,play radio,50,False,False,False,{36: 1},[7376],4010,1,4,False
+242,iot wemo off,general confirm,20,False,False,True,{36: 1},[7376],242,1,4,False
+8313,calendar set,calendar set,9,False,True,False,{36: 1},[7376],8313,1,4,False
+12749,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],12749,1,4,False
+7113,iot wemo off,general qu,27,False,False,True,{36: 1},[7376],7113,1,4,False
+68,iot wemo off,takeaway query,62,False,False,True,{36: 1},[7376],68,1,4,False
+10983,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],10983,1,4,False
+2389,music query,play music,48,False,False,False,{36: 1},[7376],2389,1,4,False
+12819,iot wemo off,iot hue light dim,32,False,False,True,{36: 1},[7376],12819,1,4,False
+8682,iot coffee,iot coffee,30,False,True,False,{36: 1},[7376],8682,1,4,False
+12170,cooking recipe,cooking recipe,11,False,True,False,{36: 1},[7376],12170,1,4,False
+17576,iot wemo off,qa stock,55,False,False,True,{36: 1},[7376],17576,1,4,False
+17185,calendar set,calendar set,9,False,True,False,{36: 1},[7376],17185,1,4,False
+18822,iot hue light change,qa fact,53,False,False,False,{36: 1},[7376],18822,1,4,False
+17296,iot wemo off,general command,19,False,False,True,{36: 1},[7376],17296,1,4,False
+12298,music query,play music,48,False,False,False,{36: 1},[7376],12298,1,4,False
+12975,takeaway order,takeaway order,61,False,True,False,{36: 1},[7376],12975,1,4,False
+13923,lists query,lists query,39,False,True,False,{36: 1},[7376],13923,1,4,False
+3320,alarm query,alarm query,0,False,True,False,{36: 1},[7376],3320,1,4,False
+16209,iot wemo on,lists create,38,False,False,False,{36: 1},[7376],16209,1,4,False
+17208,calendar query,calendar query,7,False,True,False,{36: 1},[7376],17208,1,4,False
+366,music query,music query,43,False,True,False,{36: 1},[7376],366,1,4,False
+9375,iot wemo off,email query contact,16,False,False,True,{36: 1},[7376],9375,1,4,False
+124,iot wemo off,calendar set,9,False,False,True,{36: 1},[7376],124,1,4,False
+1408,calendar set,calendar set,9,False,True,False,{36: 1},[7376],1408,1,4,False
+7439,iot wemo on,lists query,39,False,False,False,{36: 1},[7376],7439,1,4,False
+14559,iot wemo off,recommendation locations,57,False,False,True,{36: 1},[7376],14559,1,4,False
+1034,calendar remove,calendar remove,8,False,True,False,{36: 1},[7376],1034,1,4,False
+8799,calendar set,calendar set,9,False,True,False,{36: 1},[7376],8799,1,4,False
+7086,iot wemo on,iot hue light dim,32,False,False,False,{36: 1},[7376],7086,1,4,False
+8749,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],8749,1,4,False
+7052,iot wemo off,lists create,38,False,False,True,{36: 1},[7376],7052,1,4,False
+17777,audio volume up,play aud,46,False,False,False,{36: 1},[7376],17777,1,4,False
+7048,calendar query,qa fact,53,False,False,False,{36: 1},[7376],7048,1,4,False
+1783,iot wemo off,transport taxi,64,False,False,True,{36: 1},[7376],1783,1,4,False
+6116,iot wemo off,general neg,25,False,False,True,{36: 1},[7376],6116,1,4,False
+16205,calendar set,calendar set,9,False,True,False,{36: 1},[7376],16205,1,4,False
+2671,datetime query,datetime query,13,False,True,False,{36: 1},[7376],2671,1,4,False
+4294,calendar query,recommendation events,56,False,False,False,{36: 1},[7376],4294,1,4,False
+12579,iot wemo off,general neg,25,False,False,True,{36: 1},[7376],12579,1,4,False
+886,weather query,calendar query,7,False,False,False,{36: 1},[7376],886,1,4,False
+7207,cooking recipe,takeaway query,62,False,False,False,{36: 1},[7376],7207,1,4,False
+1280,iot wemo off,general explain,22,False,False,True,{36: 1},[7376],1280,1,4,False
+10504,iot wemo off,transport query,63,False,False,True,{36: 1},[7376],10504,1,4,False
+18029,music settings,play radio,50,False,False,False,{36: 1},[7376],18029,1,4,False
+1631,iot wemo off,general qu,27,False,False,True,{36: 1},[7376],1631,1,4,False
+8400,music query,music query,43,False,True,False,{36: 1},[7376],8400,1,4,False
+3577,iot coffee,iot coffee,30,False,True,False,{36: 1},[7376],3577,1,4,False
+17726,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],17726,1,4,False
+12504,music query,play music,48,False,False,False,{36: 1},[7376],12504,1,4,False
+8389,weather query,datetime query,13,False,False,False,{36: 1},[7376],8389,1,4,False
+12457,calendar remove,calendar remove,8,False,True,False,{36: 1},[7376],12457,1,4,False
+18611,weather query,qa fact,53,False,False,False,{36: 1},[7376],18611,1,4,False
+18231,calendar set,calendar set,9,False,True,False,{36: 1},[7376],18231,1,4,False
+15367,iot wemo off,general confirm,20,False,False,True,{36: 1},[7376],15367,1,4,False
+12811,iot wemo off,qa definition,52,False,False,True,{36: 1},[7376],12811,1,4,False
+13191,email sendemail,email send,17,False,True,False,{36: 1},[7376],13191,1,4,False
+16472,play radio,play radio,50,False,True,False,{36: 1},[7376],16472,1,4,False
+16023,iot wemo off,iot hue lighton,34,False,False,True,{36: 1},[7376],16023,1,4,False
+13146,iot wemo off,qa definition,52,False,False,True,{36: 1},[7376],13146,1,4,False
+19207,iot wemo off,lists remove,40,False,False,True,{36: 1},[7376],19207,1,4,False
+8491,iot wemo off,qa stock,55,False,False,True,{36: 1},[7376],8491,1,4,False
+18902,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],18902,1,4,False
+8106,email sendemail,email send,17,False,True,False,{36: 1},[7376],8106,1,4,False
+10657,weather query,weather,67,False,True,False,{36: 1},[7376],10657,1,4,False
+9567,iot wemo off,qa math,54,False,False,True,{36: 1},[7376],9567,1,4,False
+70,play game,iot wemo on,37,False,False,False,{36: 1},[7376],70,1,4,False
+13316,iot wemo on,iot hue light dim,32,False,False,False,{36: 1},[7376],13316,1,4,False
+14093,iot wemo off,qa fact,53,False,False,True,{36: 1},[7376],14093,1,4,False
+13010,news query,news,45,False,True,False,{36: 1},[7376],13010,1,4,False
+2394,iot wemo off,qa math,54,False,False,True,{36: 1},[7376],2394,1,4,False
+9637,recommendation movies,recommendation movies,58,False,True,False,{36: 1},[7376],9637,1,4,False
+13848,iot wemo off,weather,67,False,False,True,{36: 1},[7376],13848,1,4,False
+3524,calendar set,calendar set,9,False,True,False,{36: 1},[7376],3524,1,4,False
+9670,iot wemo off,general affirm,18,False,False,True,{36: 1},[7376],9670,1,4,False
+6216,cooking recipe,cooking recipe,11,False,True,False,{36: 1},[7376],6216,1,4,False
+6965,iot wemo off,general affirm,18,False,False,True,{36: 1},[7376],6965,1,4,False
+4840,weather query,weather,67,False,True,False,{36: 1},[7376],4840,1,4,False
+7521,weather query,weather,67,False,True,False,{36: 1},[7376],7521,1,4,False
+3407,iot wemo off,general repeat,28,False,False,True,{36: 1},[7376],3407,1,4,False
+4733,iot wemo on,calendar query,7,False,False,False,{36: 1},[7376],4733,1,4,False
+4286,iot wemo off,qa fact,53,False,False,True,{36: 1},[7376],4286,1,4,False
+2936,iot wemo off,iot hue light dim,32,False,False,True,{36: 1},[7376],2936,1,4,False
+13315,play music,play music,48,False,True,False,{36: 1},[7376],13315,1,4,False
+12307,calendar set,calendar set,9,False,True,False,{36: 1},[7376],12307,1,4,False
+4338,calendar remove,calendar remove,8,False,True,False,{36: 1},[7376],4338,1,4,False
+6179,weather query,datetime convert,12,False,False,False,{36: 1},[7376],6179,1,4,False
+5816,news query,news,45,False,True,False,{36: 1},[7376],5816,1,4,False
+19001,music query,play aud,46,False,False,False,{36: 1},[7376],19001,1,4,False
+94,weather query,weather,67,False,True,False,{36: 1},[7376],94,1,4,False
+16197,iot wemo off,social post,59,False,False,True,{36: 1},[7376],16197,1,4,False
+163,iot wemo off,email query contact,16,False,False,True,{36: 1},[7376],163,1,4,False
+468,music query,play music,48,False,False,False,{36: 1},[7376],468,1,4,False
+7942,iot wemo on,iot hue light up,35,False,False,False,{36: 1},[7376],7942,1,4,False
+15813,general quirky,qa fact,53,False,False,False,{36: 1},[7376],15813,1,4,False
+18727,alarm set,calendar set,9,False,False,False,{36: 1},[7376],18727,1,4,False
+1231,general quirky,qa fact,53,False,False,False,{36: 1},[7376],1231,1,4,False
+1093,iot coffee,iot coffee,30,False,True,False,{36: 1},[7376],1093,1,4,False
+10293,calendar remove,calendar remove,8,False,True,False,{36: 1},[7376],10293,1,4,False
+5449,iot wemo on,social post,59,False,False,False,{36: 1},[7376],5449,1,4,False
+5912,play podcasts,play podcast,49,False,True,False,{36: 1},[7376],5912,1,4,False
+2026,news query,general qu,27,False,False,False,{36: 1},[7376],2026,1,4,False
+897,email sendemail,email send,17,False,True,False,{36: 1},[7376],897,1,4,False
+18591,iot wemo off,general affirm,18,False,False,True,{36: 1},[7376],18591,1,4,False
+12057,music query,play music,48,False,False,False,{36: 1},[7376],12057,1,4,False
+18023,email sendemail,email send,17,False,True,False,{36: 1},[7376],18023,1,4,False
+6240,iot wemo off,calendar query,7,False,False,True,{36: 1},[7376],6240,1,4,False
+8454,iot wemo off,general confirm,20,False,False,True,{36: 1},[7376],8454,1,4,False
+2448,iot wemo off,social post,59,False,False,True,{36: 1},[7376],2448,1,4,False
+5488,iot wemo off,general qu,27,False,False,True,{36: 1},[7376],5488,1,4,False
+2823,calendar set,calendar set,9,False,True,False,{36: 1},[7376],2823,1,4,False
+2408,recommendation locations,recommendation locations,57,False,True,False,{36: 1},[7376],2408,1,4,False
+3587,iot wemo off,general affirm,18,False,False,True,{36: 1},[7376],3587,1,4,False
+18339,iot wemo off,calendar query,7,False,False,True,{36: 1},[7376],18339,1,4,False
+126,email sendemail,email send,17,False,True,False,{36: 1},[7376],126,1,4,False
+2247,iot wemo off,iot wemo off,36,True,True,True,{36: 1},[7376],2247,1,4,False
+10524,music query,play music,48,False,False,False,{36: 1},[7376],10524,1,4,False
+16607,calendar set,calendar set,9,False,True,False,{36: 1},[7376],16607,1,4,False
+4052,iot wemo on,lists query,39,False,False,False,{36: 1},[7376],4052,1,4,False
+15917,calendar query,calendar query,7,False,True,False,{36: 1},[7376],15917,1,4,False
+17756,iot wemo on,play radio,50,False,False,False,{36: 1},[7376],17756,1,4,False
+934,news query,news,45,False,True,False,{36: 1},[7376],934,1,4,False
+9090,iot wemo off,qa currency,51,False,False,True,{36: 1},[7376],9090,1,4,False
+17477,iot wemo off,general qu,27,False,False,True,{36: 1},[7376],17477,1,4,False
+13075,news query,recommendation movies,58,False,False,False,{36: 1},[7376],13075,1,4,False
+15931,play game,play game,47,False,True,False,{36: 1},[7376],15931,1,4,False
+2481,iot wemo off,qa math,54,False,False,True,{36: 1},[7376],2481,1,4,False
+13634,iot wemo off,general dont,21,False,False,True,{36: 1},[7376],13634,1,4,False
+18473,iot wemo off,general explain,22,False,False,True,{36: 1},[7376],18473,1,4,False
+6493,calendar set,calendar set,9,False,True,False,{36: 1},[7376],6493,1,4,False
+14484,weather query,weather,67,False,True,False,{36: 1},[7376],14484,1,4,False
+17819,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],17819,1,4,False
+4926,music query,play music,48,False,False,False,{36: 1},[7376],4926,1,4,False
+7605,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],7605,1,4,False
+8507,music query,play music,48,False,False,False,{36: 1},[7376],8507,1,4,False
+12051,weather query,transport traffic,66,False,False,False,{36: 1},[7376],12051,1,4,False
+18410,iot wemo off,general repeat,28,False,False,True,{36: 1},[7376],18410,1,4,False
+12664,iot wemo off,play aud,46,False,False,True,{36: 1},[7376],12664,1,4,False
+14198,iot hue light off,transport taxi,64,False,False,False,{36: 1},[7376],14198,1,4,False
+12558,iot wemo off,qa fact,53,False,False,True,{36: 1},[7376],12558,1,4,False
+18937,iot wemo off,qa currency,51,False,False,True,{36: 1},[7376],18937,1,4,False
+15430,iot wemo off,general repeat,28,False,False,True,{36: 1},[7376],15430,1,4,False
+15888,iot wemo off,general praise,26,False,False,True,{36: 1},[7376],15888,1,4,False
+4281,iot wemo on,iot hue light up,35,False,False,False,{36: 1},[7376],4281,1,4,False
+16289,weather query,weather,67,False,True,False,{36: 1},[7376],16289,1,4,False
+10201,music query,music settings,44,False,False,False,{36: 1},[7376],10201,1,4,False
+17893,iot wemo off,social post,59,False,False,True,{36: 1},[7376],17893,1,4,False
+11124,news query,news,45,False,True,False,{36: 1},[7376],11124,1,4,False
+2300,email sendemail,email send,17,False,True,False,{36: 1},[7376],2300,1,4,False
+3347,iot wemo off,general affirm,18,False,False,True,{36: 1},[7376],3347,1,4,False
+5179,email query,email query,15,False,True,False,{36: 1},[7376],5179,1,4,False
+13077,news query,news,45,False,True,False,{36: 1},[7376],13077,1,4,False
+15731,iot wemo off,general qu,27,False,False,True,{36: 1},[7376],15731,1,4,False
+16459,calendar set,calendar set,9,False,True,False,{36: 1},[7376],16459,1,4,False
+5567,weather query,weather,67,False,True,False,{36: 1},[7376],5567,1,4,False
+14720,music query,play music,48,False,False,False,{36: 1},[7376],14720,1,4,False
+9040,iot wemo off,lists remove,40,False,False,True,{36: 1},[7376],9040,1,4,False
+17805,news query,news,45,False,True,False,{36: 1},[7376],17805,1,4,False
+884,calendar query,datetime query,13,False,False,False,{36: 1},[7376],884,1,4,False
+12715,calendar remove,calendar remove,8,False,True,False,{36: 1},[7376],12715,1,4,False
+17402,iot wemo off,lists create,38,False,False,True,{36: 1},[7376],17402,1,4,False
+12599,datetime convert,calendar query,7,False,False,False,{36: 1},[7376],12599,1,4,False
+6002,datetime query,qa fact,53,False,False,False,{36: 1},[7376],6002,1,4,False
+15893,iot wemo off,transport ticket,65,False,False,True,{36: 1},[7376],15893,1,4,False
+9534,email query,email query,15,False,True,False,{36: 1},[7376],9534,1,4,False
+17364,recommendation movies,recommendation events,56,False,False,False,{36: 1},[7376],17364,1,4,False
+18308,email query,email query,15,False,True,False,{36: 1},[7376],18308,1,4,False
+15284,music query,play music,48,False,False,False,{36: 1},[7376],15284,1,4,False
+10821,iot wemo off,transport query,63,False,False,True,{36: 1},[7376],10821,1,4,False
+15934,news query,news,45,False,True,False,{36: 1},[7376],15934,1,4,False
+2942,calendar query,email query contact,16,False,False,False,{36: 1},[7376],2942,1,4,False
+12020,iot wemo off,general explain,22,False,False,True,{36: 1},[7376],12020,1,4,False
+10258,iot wemo on,email query contact,16,False,False,False,{36: 1},[7376],10258,1,4,False
+18256,iot wemo off,general explain,22,False,False,True,{36: 1},[7376],18256,1,4,False
+9752,play podcasts,play podcast,49,False,True,False,{36: 1},[7376],9752,1,4,False
+4601,iot wemo off,general neg,25,False,False,True,{36: 1},[7376],4601,1,4,False
+463,cooking recipe,cooking recipe,11,False,True,False,{36: 1},[7376],463,1,4,False
+3639,iot wemo on,general qu,27,False,False,False,{36: 1},[7376],3639,1,4,False
+7030,iot coffee,iot coffee,30,False,True,False,{36: 1},[7376],7030,1,4,False
+2001,music query,play aud,46,False,False,False,{36: 1},[7376],2001,1,4,False
+18979,play music,music query,43,False,False,False,{36: 1},[7376],18979,1,4,False
+16693,music query,play radio,50,False,False,False,{36: 1},[7376],16693,1,4,False

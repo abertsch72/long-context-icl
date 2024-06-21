@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+12948,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12948,10,9,False
+186,person age,person age,person age,False,True,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",186,10,9,False
+7675,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7675,10,9,False
+12851,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12851,10,9,False
+12672,person cause of death,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12672,10,9,False
+8801,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8801,10,9,False
+9109,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9109,10,9,False
+6626,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6626,10,9,False
+6986,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6986,10,9,False
+10809,organization city of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10809,10,9,False
+8743,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8743,10,9,False
+7015,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7015,10,9,False
+6534,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6534,10,9,False
+15099,na,organization country,organization country of headquarters,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",15099,10,9,False
+1784,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1784,10,9,False
+2675,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2675,10,9,False
+590,na,person countries,person countries of residence,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",590,10,9,False
+9253,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9253,10,9,False
+13398,organization country of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13398,10,9,False
+7279,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7279,10,9,False
+8839,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8839,10,9,False
+5483,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5483,10,9,False
+7806,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7806,10,9,False
+6757,organization founded by,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6757,10,9,False
+6976,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6976,10,9,False
+2308,organization country of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2308,10,9,False
+14581,person title,person title,person title,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14581,10,9,False
+6442,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6442,10,9,False
+3088,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3088,10,9,False
+4642,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4642,10,9,False
+615,na,person countries,person countries of residence,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",615,10,9,False
+2493,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2493,10,9,False
+15021,na,person title,person title,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",15021,10,9,False
+2373,organization city of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2373,10,9,False
+6504,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6504,10,9,False
+5920,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5920,10,9,False
+4948,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4948,10,9,False
+8614,person spouse,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8614,10,9,False
+10584,person spouse,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10584,10,9,False
+8336,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8336,10,9,False
+14030,organization member of,organization members,organization members,False,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14030,10,9,False
+10737,organization city of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10737,10,9,False
+9336,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9336,10,9,False
+3225,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3225,10,9,False
+13668,organization member of,organization top,organization top members or employees,False,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13668,10,9,False
+7373,organization founded in year,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7373,10,9,False
+8344,person country of birth,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8344,10,9,False
+5399,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5399,10,9,False
+3807,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3807,10,9,False
+5217,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5217,10,9,False
+3238,organization city of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3238,10,9,False
+7320,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7320,10,9,False
+5139,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5139,10,9,False
+11338,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11338,10,9,False
+14674,na,person title,person title,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14674,10,9,False
+3240,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3240,10,9,False
+10796,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10796,10,9,False
+14976,person title,person title,person title,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14976,10,9,False
+4031,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4031,10,9,False
+10686,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10686,10,9,False
+11772,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11772,10,9,False
+11681,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11681,10,9,False
+1566,person religion,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1566,10,9,False
+6451,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6451,10,9,False
+9680,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9680,10,9,False
+12777,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12777,10,9,False
+13784,na,organization top,organization top members or employees,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13784,10,9,False
+8549,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8549,10,9,False
+5158,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5158,10,9,False
+3576,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3576,10,9,False
+6245,organization number of employees or members,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6245,10,9,False
+13567,na,person country of death,person country of death,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13567,10,9,False
+9364,person spouse,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9364,10,9,False
+14463,person title,person origin,person origin,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14463,10,9,False
+11035,organization founded by,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11035,10,9,False
+9781,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9781,10,9,False
+11419,organization founded by,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11419,10,9,False
+3844,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3844,10,9,False
+12743,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12743,10,9,False
+5486,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5486,10,9,False
+7377,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7377,10,9,False
+6028,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6028,10,9,False
+12521,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12521,10,9,False
+13356,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13356,10,9,False
+9574,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9574,10,9,False
+1862,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1862,10,9,False
+13069,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13069,10,9,False
+11983,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11983,10,9,False
+14940,person title,person title,person title,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14940,10,9,False
+14170,organization alternate names,organization alternate,organization alternate names,False,True,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14170,10,9,False
+13410,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13410,10,9,False
+1658,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1658,10,9,False
+468,person title,person charges,person charges,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",468,10,9,False
+3318,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3318,10,9,False
+13125,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13125,10,9,False
+9488,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9488,10,9,False
+14303,person title,person religion,person religion,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14303,10,9,False
+13420,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13420,10,9,False
+7999,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7999,10,9,False
+15469,person title,organization founded by,organization founded by,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",15469,10,9,False
+7621,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7621,10,9,False
+6529,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6529,10,9,False
+10852,organization founded in year,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10852,10,9,False
+4668,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4668,10,9,False
+9912,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9912,10,9,False
+7419,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7419,10,9,False
+5485,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5485,10,9,False
+10532,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10532,10,9,False
+5625,organization founded by,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5625,10,9,False
+8245,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8245,10,9,False
+8043,organization founded by,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8043,10,9,False
+10691,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10691,10,9,False
+234,person title,person age,person age,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",234,10,9,False
+13055,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13055,10,9,False
+5116,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5116,10,9,False
+2238,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2238,10,9,False
+9131,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9131,10,9,False
+3050,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3050,10,9,False
+10182,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10182,10,9,False
+10414,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10414,10,9,False
+1638,organization website,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1638,10,9,False
+9535,organization website,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9535,10,9,False
+14945,person title,person title,person title,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14945,10,9,False
+5729,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5729,10,9,False
+14664,person title,person title,person title,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14664,10,9,False
+4563,organization founded by,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4563,10,9,False
+1913,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1913,10,9,False
+2267,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2267,10,9,False
+13139,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13139,10,9,False
+6084,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6084,10,9,False
+2887,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2887,10,9,False
+2304,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2304,10,9,False
+9470,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9470,10,9,False
+6969,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6969,10,9,False
+9126,person spouse,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9126,10,9,False
+3477,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3477,10,9,False
+12496,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12496,10,9,False
+343,person title,person age,person age,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",343,10,9,False
+13852,organization member of,organization top,organization top members or employees,False,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13852,10,9,False
+3653,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3653,10,9,False
+15,organization founded in year,organization founded in,organization founded in year,False,True,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",15,10,9,False
+11693,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11693,10,9,False
+697,person city of birth,person state or provin,person state or provinces of residence,False,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",697,10,9,False
+1602,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1602,10,9,False
+1211,na,person employee,person employee of,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1211,10,9,False
+7249,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7249,10,9,False
+12761,organization city of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12761,10,9,False
+10877,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10877,10,9,False
+4815,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4815,10,9,False
+7203,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7203,10,9,False
+14771,na,person title,person title,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14771,10,9,False
+12740,organization country of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12740,10,9,False
+983,person title,person parents,person parents,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",983,10,9,False
+13034,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13034,10,9,False
+3267,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3267,10,9,False
+1552,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1552,10,9,False
+3467,person employee of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3467,10,9,False
+3546,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3546,10,9,False
+13714,na,organization top,organization top members or employees,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13714,10,9,False
+9661,organization number of employees or members,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9661,10,9,False
+1954,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1954,10,9,False
+12429,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12429,10,9,False
+7461,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7461,10,9,False
+6526,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6526,10,9,False
+14563,person title,person title,person title,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14563,10,9,False
+4552,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4552,10,9,False
+12683,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12683,10,9,False
+15381,na,person other,person other family,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",15381,10,9,False
+2339,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2339,10,9,False
+1235,person title,person employee,person employee of,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1235,10,9,False
+94,organization city of headquarters,organization city,organization city of headquarters,False,True,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",94,10,9,False
+4162,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4162,10,9,False
+15199,na,person siblings,person siblings,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",15199,10,9,False
+5086,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5086,10,9,False
+4615,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4615,10,9,False
+2669,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2669,10,9,False
+11780,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11780,10,9,False
+5820,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5820,10,9,False
+5446,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5446,10,9,False
+6837,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6837,10,9,False
+5735,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5735,10,9,False
+6913,organization state or province of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",6913,10,9,False
+12853,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12853,10,9,False
+7224,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7224,10,9,False
+8501,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8501,10,9,False
+4330,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4330,10,9,False
+4275,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4275,10,9,False
+13264,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13264,10,9,False
+5340,organization founded by,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5340,10,9,False
+8237,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8237,10,9,False
+13362,organization state or province of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13362,10,9,False
+1727,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1727,10,9,False
+3571,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",3571,10,9,False
+12233,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12233,10,9,False
+9826,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9826,10,9,False
+10256,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10256,10,9,False
+280,person age,person age,person age,False,True,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",280,10,9,False
+4382,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",4382,10,9,False
+791,na,person cities,person cities of residence,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",791,10,9,False
+12644,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12644,10,9,False
+2925,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2925,10,9,False
+7303,organization country of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7303,10,9,False
+9860,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9860,10,9,False
+15044,organization number of employees or members,organization number,organization number of employees or members,False,True,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",15044,10,9,False
+8666,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8666,10,9,False
+2874,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2874,10,9,False
+2590,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2590,10,9,False
+7554,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7554,10,9,False
+9481,organization country of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9481,10,9,False
+12389,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12389,10,9,False
+15207,person title,person siblings,person siblings,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",15207,10,9,False
+1559,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",1559,10,9,False
+12287,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12287,10,9,False
+7086,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7086,10,9,False
+10297,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10297,10,9,False
+5020,organization country of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5020,10,9,False
+2078,organization state or province of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2078,10,9,False
+7984,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7984,10,9,False
+11425,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11425,10,9,False
+7508,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7508,10,9,False
+10488,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10488,10,9,False
+294,person age,person age,person age,False,True,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",294,10,9,False
+9262,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9262,10,9,False
+10121,organization city of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10121,10,9,False
+7467,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7467,10,9,False
+13186,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13186,10,9,False
+5046,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5046,10,9,False
+11848,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11848,10,9,False
+2456,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2456,10,9,False
+10793,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10793,10,9,False
+5191,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5191,10,9,False
+11195,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",11195,10,9,False
+2789,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2789,10,9,False
+14914,person title,person title,person title,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14914,10,9,False
+13209,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",13209,10,9,False
+5598,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5598,10,9,False
+5890,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5890,10,9,False
+5406,organization member of,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5406,10,9,False
+8239,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",8239,10,9,False
+10834,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10834,10,9,False
+5050,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5050,10,9,False
+12299,person spouse,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12299,10,9,False
+7644,organization country of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",7644,10,9,False
+10255,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",10255,10,9,False
+2399,person title,na,na,True,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",2399,10,9,False
+9541,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",9541,10,9,False
+14523,person state or province of birth,person state or province of birth,person state or province of birth,False,True,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",14523,10,9,False
+618,na,person countries,person countries of residence,False,False,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",618,10,9,False
+12758,organization country of headquarters,na,na,True,False,False,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",12758,10,9,False
+5115,na,na,na,True,True,True,"{'na': 8, 'person title': 1, 'person employee of': 1}","[25363, 66732, 48447, 41732, 43472, 37392, 27365, 28558, 51981, 65253]",5115,10,9,False

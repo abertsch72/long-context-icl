@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+152,numeric other,numeric other,43,False,True,False,"{5: 1, 35: 1}","[660, 648]",152,2,5,False,2
+94,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",94,2,5,False,2
+337,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",337,2,5,False,2
+78,location other,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",78,2,5,False,2
+323,entity creation,entity currency,6,False,False,True,"{5: 1, 35: 1}","[660, 648]",323,2,5,False,2
+143,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",143,2,5,False,2
+59,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",59,2,5,False,2
+17,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",17,2,5,False,2
+161,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",161,2,5,False,2
+220,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",220,2,5,False,2
+290,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",290,2,5,False,2
+224,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",224,2,5,False,2
+15,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",15,2,5,False,2
+162,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",162,2,5,False,2
+272,entity creation,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",272,2,5,False,2
+193,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",193,2,5,False,2
+325,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",325,2,5,False,2
+30,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",30,2,5,False,2
+331,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",331,2,5,False,2
+219,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",219,2,5,False,2
+286,entity creation,location other,35,True,False,True,"{5: 1, 35: 1}","[660, 648]",286,2,5,False,2
+246,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",246,2,5,False,2
+68,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",68,2,5,False,2
+205,entity creation,location other,35,True,False,True,"{5: 1, 35: 1}","[660, 648]",205,2,5,False,2
+232,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",232,2,5,False,2
+64,entity creation,location country,33,False,False,True,"{5: 1, 35: 1}","[660, 648]",64,2,5,False,2
+121,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",121,2,5,False,2
+201,abbreviation expansion,abbreviation expansion,1,False,True,False,"{5: 1, 35: 1}","[660, 648]",201,2,5,False,2
+315,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",315,2,5,False,2
+145,entity creation,location other,35,True,False,True,"{5: 1, 35: 1}","[660, 648]",145,2,5,False,2
+72,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",72,2,5,False,2
+184,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",184,2,5,False,2
+141,entity creation,numeric other,43,False,False,True,"{5: 1, 35: 1}","[660, 648]",141,2,5,False,2
+95,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",95,2,5,False,2
+213,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",213,2,5,False,2
+38,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",38,2,5,False,2
+256,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",256,2,5,False,2
+29,entity creation,entity plant,14,False,False,True,"{5: 1, 35: 1}","[660, 648]",29,2,5,False,2
+45,entity creation,entity food,9,False,False,True,"{5: 1, 35: 1}","[660, 648]",45,2,5,False,2
+151,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",151,2,5,False,2
+262,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",262,2,5,False,2
+115,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",115,2,5,False,2
+269,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",269,2,5,False,2
+69,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",69,2,5,False,2
+106,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",106,2,5,False,2
+123,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",123,2,5,False,2
+233,entity creation,entity plant,14,False,False,True,"{5: 1, 35: 1}","[660, 648]",233,2,5,False,2
+41,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",41,2,5,False,2
+236,entity creation,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",236,2,5,False,2
+55,location other,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",55,2,5,False,2
+289,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",289,2,5,False,2
+149,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",149,2,5,False,2
+239,entity creation,numeric other,43,False,False,True,"{5: 1, 35: 1}","[660, 648]",239,2,5,False,2
+103,entity creation,entity vehicle,22,False,False,True,"{5: 1, 35: 1}","[660, 648]",103,2,5,False,2
+35,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",35,2,5,False,2
+132,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",132,2,5,False,2
+172,location other,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",172,2,5,False,2
+74,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",74,2,5,False,2
+180,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",180,2,5,False,2
+241,location other,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",241,2,5,False,2
+140,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",140,2,5,False,2
+245,location other,entity currency,6,False,False,True,"{5: 1, 35: 1}","[660, 648]",245,2,5,False,2
+320,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",320,2,5,False,2
+1,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",1,2,5,False,2
+67,entity creation,human group,28,False,False,True,"{5: 1, 35: 1}","[660, 648]",67,2,5,False,2
+138,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",138,2,5,False,2
+298,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",298,2,5,False,2
+271,location other,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",271,2,5,False,2
+13,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",13,2,5,False,2
+235,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",235,2,5,False,2
+3,entity creation,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",3,2,5,False,2
+56,entity creation,numeric weight,49,False,False,True,"{5: 1, 35: 1}","[660, 648]",56,2,5,False,2
+258,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",258,2,5,False,2
+223,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",223,2,5,False,2
+65,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",65,2,5,False,2
+104,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",104,2,5,False,2
+308,entity creation,entity food,9,False,False,True,"{5: 1, 35: 1}","[660, 648]",308,2,5,False,2
+82,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",82,2,5,False,2
+11,entity creation,numeric other,43,False,False,True,"{5: 1, 35: 1}","[660, 648]",11,2,5,False,2
+324,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",324,2,5,False,2
+36,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",36,2,5,False,2
+318,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",318,2,5,False,2
+192,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",192,2,5,False,2
+130,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",130,2,5,False,2
+128,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",128,2,5,False,2
+197,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",197,2,5,False,2
+27,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",27,2,5,False,2
+295,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",295,2,5,False,2
+47,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",47,2,5,False,2
+10,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",10,2,5,False,2
+268,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",268,2,5,False,2
+316,entity creation,human group,28,False,False,True,"{5: 1, 35: 1}","[660, 648]",316,2,5,False,2
+243,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",243,2,5,False,2
+299,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",299,2,5,False,2
+127,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",127,2,5,False,2
+75,entity creation,numeric temperature,47,False,False,True,"{5: 1, 35: 1}","[660, 648]",75,2,5,False,2
+76,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",76,2,5,False,2
+251,abbreviation expansion,abbreviation expansion,1,False,True,False,"{5: 1, 35: 1}","[660, 648]",251,2,5,False,2
+263,entity creation,numeric other,43,False,False,True,"{5: 1, 35: 1}","[660, 648]",263,2,5,False,2
+142,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",142,2,5,False,2
+37,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",37,2,5,False,2
+292,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",292,2,5,False,2
+329,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",329,2,5,False,2
+48,location other,numeric other,43,False,False,True,"{5: 1, 35: 1}","[660, 648]",48,2,5,False,2
+2,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",2,2,5,False,2
+237,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",237,2,5,False,2
+102,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",102,2,5,False,2
+273,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",273,2,5,False,2
+117,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",117,2,5,False,2
+62,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",62,2,5,False,2
+195,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",195,2,5,False,2
+57,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",57,2,5,False,2
+327,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",327,2,5,False,2
+135,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",135,2,5,False,2
+255,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",255,2,5,False,2
+53,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",53,2,5,False,2
+98,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",98,2,5,False,2
+310,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",310,2,5,False,2
+111,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",111,2,5,False,2
+217,entity creation,abbreviation expansion,1,False,False,True,"{5: 1, 35: 1}","[660, 648]",217,2,5,False,2
+238,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",238,2,5,False,2
+278,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",278,2,5,False,2
+280,entity creation,entity plant,14,False,False,True,"{5: 1, 35: 1}","[660, 648]",280,2,5,False,2
+230,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",230,2,5,False,2
+88,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",88,2,5,False,2
+90,location other,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",90,2,5,False,2
+8,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",8,2,5,False,2
+0,location other,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",0,2,5,False,2
+284,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",284,2,5,False,2
+144,entity creation,numeric temperature,47,False,False,True,"{5: 1, 35: 1}","[660, 648]",144,2,5,False,2
+191,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",191,2,5,False,2
+244,entity creation,numeric weight,49,False,False,True,"{5: 1, 35: 1}","[660, 648]",244,2,5,False,2
+93,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",93,2,5,False,2
+212,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",212,2,5,False,2
+54,entity creation,entity currency,6,False,False,True,"{5: 1, 35: 1}","[660, 648]",54,2,5,False,2
+66,entity creation,numeric temperature,47,False,False,True,"{5: 1, 35: 1}","[660, 648]",66,2,5,False,2
+126,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",126,2,5,False,2
+335,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",335,2,5,False,2
+185,abbreviation abbreviation,abbreviation abbre,0,False,True,False,"{5: 1, 35: 1}","[660, 648]",185,2,5,False,2
+178,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",178,2,5,False,2
+250,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",250,2,5,False,2
+101,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",101,2,5,False,2
+283,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",283,2,5,False,2
+165,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",165,2,5,False,2
+169,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",169,2,5,False,2
+277,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",277,2,5,False,2
+167,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",167,2,5,False,2
+332,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",332,2,5,False,2
+97,entity creation,human title,30,False,False,True,"{5: 1, 35: 1}","[660, 648]",97,2,5,False,2
+168,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",168,2,5,False,2
+287,entity creation,entity vehicle,22,False,False,True,"{5: 1, 35: 1}","[660, 648]",287,2,5,False,2
+9,entity creation,numeric weight,49,False,False,True,"{5: 1, 35: 1}","[660, 648]",9,2,5,False,2
+39,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",39,2,5,False,2
+136,entity creation,entity currency,6,False,False,True,"{5: 1, 35: 1}","[660, 648]",136,2,5,False,2
+159,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",159,2,5,False,2
+60,numeric other,numeric other,43,False,True,False,"{5: 1, 35: 1}","[660, 648]",60,2,5,False,2
+276,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",276,2,5,False,2
+228,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",228,2,5,False,2
+157,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",157,2,5,False,2
+31,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",31,2,5,False,2
+99,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",99,2,5,False,2
+312,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",312,2,5,False,2
+179,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",179,2,5,False,2
+296,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",296,2,5,False,2
+210,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",210,2,5,False,2
+108,entity creation,human group,28,False,False,True,"{5: 1, 35: 1}","[660, 648]",108,2,5,False,2
+80,entity creation,entity plant,14,False,False,True,"{5: 1, 35: 1}","[660, 648]",80,2,5,False,2
+19,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",19,2,5,False,2
+265,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",265,2,5,False,2
+129,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",129,2,5,False,2
+187,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",187,2,5,False,2
+304,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",304,2,5,False,2
+118,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",118,2,5,False,2
+155,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",155,2,5,False,2
+209,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",209,2,5,False,2
+139,entity creation,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",139,2,5,False,2
+131,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",131,2,5,False,2
+207,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",207,2,5,False,2
+249,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",249,2,5,False,2
+110,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",110,2,5,False,2
+122,entity creation,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",122,2,5,False,2
+71,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",71,2,5,False,2
+221,entity creation,entity vehicle,22,False,False,True,"{5: 1, 35: 1}","[660, 648]",221,2,5,False,2
+225,entity creation,entity food,9,False,False,True,"{5: 1, 35: 1}","[660, 648]",225,2,5,False,2
+6,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",6,2,5,False,2
+186,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",186,2,5,False,2
+175,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",175,2,5,False,2
+288,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",288,2,5,False,2
+321,location other,entity currency,6,False,False,True,"{5: 1, 35: 1}","[660, 648]",321,2,5,False,2
+114,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",114,2,5,False,2
+248,entity creation,entity food,9,False,False,True,"{5: 1, 35: 1}","[660, 648]",248,2,5,False,2
+226,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",226,2,5,False,2
+302,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",302,2,5,False,2
+77,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",77,2,5,False,2
+12,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",12,2,5,False,2
+267,numeric other,numeric other,43,False,True,False,"{5: 1, 35: 1}","[660, 648]",267,2,5,False,2
+240,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",240,2,5,False,2
+119,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",119,2,5,False,2
+22,entity creation,location other,35,True,False,True,"{5: 1, 35: 1}","[660, 648]",22,2,5,False,2
+181,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",181,2,5,False,2
+124,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",124,2,5,False,2
+46,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",46,2,5,False,2
+133,entity creation,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",133,2,5,False,2
+247,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",247,2,5,False,2
+79,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",79,2,5,False,2
+259,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",259,2,5,False,2
+164,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",164,2,5,False,2
+43,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",43,2,5,False,2
+163,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",163,2,5,False,2
+253,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",253,2,5,False,2
+113,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",113,2,5,False,2
+44,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",44,2,5,False,2
+26,entity creation,numeric temperature,47,False,False,True,"{5: 1, 35: 1}","[660, 648]",26,2,5,False,2
+20,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",20,2,5,False,2
+231,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",231,2,5,False,2
+333,location other,numeric distance,40,False,False,True,"{5: 1, 35: 1}","[660, 648]",333,2,5,False,2
+270,entity creation,abbreviation expansion,1,False,False,True,"{5: 1, 35: 1}","[660, 648]",270,2,5,False,2
+301,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",301,2,5,False,2
+150,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",150,2,5,False,2
+160,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",160,2,5,False,2
+297,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",297,2,5,False,2
+33,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",33,2,5,False,2
+116,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",116,2,5,False,2
+96,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",96,2,5,False,2
+190,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",190,2,5,False,2
+156,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",156,2,5,False,2
+50,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",50,2,5,False,2
+182,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",182,2,5,False,2
+81,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",81,2,5,False,2
+328,entity creation,entity subst,18,False,False,True,"{5: 1, 35: 1}","[660, 648]",328,2,5,False,2
+222,entity creation,numeric other,43,False,False,True,"{5: 1, 35: 1}","[660, 648]",222,2,5,False,2
+340,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",340,2,5,False,2
+42,location other,location city,32,False,False,True,"{5: 1, 35: 1}","[660, 648]",42,2,5,False,2
+198,entity creation,numeric other,43,False,False,True,"{5: 1, 35: 1}","[660, 648]",198,2,5,False,2
+51,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",51,2,5,False,2
+24,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",24,2,5,False,2
+86,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",86,2,5,False,2
+154,entity creation,human individual,29,False,False,True,"{5: 1, 35: 1}","[660, 648]",154,2,5,False,2
+291,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",291,2,5,False,2
+336,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",336,2,5,False,2
+260,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",260,2,5,False,2
+199,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",199,2,5,False,2
+317,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",317,2,5,False,2
+275,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",275,2,5,False,2
+330,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",330,2,5,False,2
+203,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",203,2,5,False,2
+202,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",202,2,5,False,2
+227,entity creation,numeric weight,49,False,False,True,"{5: 1, 35: 1}","[660, 648]",227,2,5,False,2
+319,entity creation,description,24,False,False,True,"{5: 1, 35: 1}","[660, 648]",319,2,5,False,2
+125,location other,location other,35,True,True,True,"{5: 1, 35: 1}","[660, 648]",125,2,5,False,2

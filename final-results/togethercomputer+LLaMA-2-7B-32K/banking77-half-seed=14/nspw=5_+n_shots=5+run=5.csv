@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,transfer not received by recipient,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1104,5,5,False,5
+471,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",471,5,5,False,5
+1345,exchange rate,exchange charge,31,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1345,5,5,False,5
+835,lost or stolen phone,lost or stolen phone,42,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",835,5,5,False,5
+940,get physical card,transaction,63,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",940,5,5,False,5
+707,verify my identity,unable,68,True,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",707,5,5,False,5
+378,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",378,5,5,False,5
+1259,failed transfer,top up failed,59,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1259,5,5,False,5
+450,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",450,5,5,False,5
+1467,card not working,card about,9,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1467,5,5,False,5
+652,card not working,card payment not,16,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",652,5,5,False,5
+771,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",771,5,5,False,5
+1112,transfer not received by recipient,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1112,5,5,False,5
+659,failed transfer,card payment not,16,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",659,5,5,False,5
+67,exchange rate,exchange rate,32,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",67,5,5,False,5
+770,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",770,5,5,False,5
+679,transaction charged twice,card payment not,16,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",679,5,5,False,5
+955,failed transfer,transaction,63,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",955,5,5,False,5
+918,transfer not received by recipient,terminate,55,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",918,5,5,False,5
+1222,getting virtual card,get dispos,37,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1222,5,5,False,5
+604,card not working,card accept,10,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",604,5,5,False,5
+240,exchange rate,exchange via,33,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",240,5,5,False,5
+1069,card payment not recognised,revert,53,True,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1069,5,5,False,5
+1229,get disposable virtual card,get dispos,37,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1229,5,5,False,5
+1005,transfer not received by recipient,transfer timing,67,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1005,5,5,False,5
+1308,lost or stolen card,c,20,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1308,5,5,False,5
+106,exchange rate,card payment wrong,17,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",106,5,5,False,5
+1429,activate my card,activ,0,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1429,5,5,False,5
+454,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",454,5,5,False,5
+1380,top up by card charge,top up by,57,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1380,5,5,False,5
+325,unable to verify identity,pin,49,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",325,5,5,False,5
+742,pin blocked,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",742,5,5,False,5
+1439,activate my card,activ,0,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1439,5,5,False,5
+939,card payment not recognised,transaction,63,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",939,5,5,False,5
+401,failed transfer,pending,47,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",401,5,5,False,5
+1191,failed transfer,failed,35,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1191,5,5,False,5
+756,pin blocked,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",756,5,5,False,5
+1180,card payment not recognised,failed,35,True,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1180,5,5,False,5
+122,transaction charged twice,extra,34,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",122,5,5,False,5
+1517,verify my identity,verify my,69,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1517,5,5,False,5
+227,card not working,card not,14,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",227,5,5,False,5
+1321,exchange rate,exchange charge,31,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1321,5,5,False,5
+393,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",393,5,5,False,5
+998,transfer not received by recipient,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",998,5,5,False,5
+925,failed transfer,transaction,63,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",925,5,5,False,5
+244,exchange rate,exchange via,33,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",244,5,5,False,5
+181,top up by card charge,automatic,4,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",181,5,5,False,5
+1170,failed transfer,failed,35,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1170,5,5,False,5
+666,card payment not recognised,card payment not,16,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",666,5,5,False,5
+1027,transfer not received by recipient,transfer timing,67,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1027,5,5,False,5
+769,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",769,5,5,False,5
+1224,get disposable virtual card,get dispos,37,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1224,5,5,False,5
+420,failed transfer,pending,47,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",420,5,5,False,5
+131,transaction charged twice,extra,34,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",131,5,5,False,5
+155,extra charge on statement,extra,34,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",155,5,5,False,5
+458,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",458,5,5,False,5
+371,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",371,5,5,False,5
+15,activate my card,card linking,13,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",15,5,5,False,5
+1254,failed transfer,top up failed,59,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1254,5,5,False,5
+197,top up limits,automatic,4,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",197,5,5,False,5
+523,transaction charged twice,transfer not,66,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",523,5,5,False,5
+527,failed transfer,transfer not,66,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",527,5,5,False,5
+382,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",382,5,5,False,5
+619,card not working,card accept,10,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",619,5,5,False,5
+869,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",869,5,5,False,5
+1095,transfer not received by recipient,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1095,5,5,False,5
+1501,verify my identity,verify my,69,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1501,5,5,False,5
+1368,top up by card charge,top up by,57,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1368,5,5,False,5
+344,pin blocked,pin,49,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",344,5,5,False,5
+428,top up failed,pending,47,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",428,5,5,False,5
+291,card not working,lost or stolen card,41,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",291,5,5,False,5
+473,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",473,5,5,False,5
+136,extra charge on statement,extra,34,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",136,5,5,False,5
+781,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",781,5,5,False,5
+1020,transfer not received by recipient,transfer timing,67,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1020,5,5,False,5
+1414,activate my card,activ,0,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1414,5,5,False,5
+738,pin blocked,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",738,5,5,False,5
+904,terminate account,terminate,55,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",904,5,5,False,5
+723,pin blocked,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",723,5,5,False,5
+87,exchange rate,card payment wrong,17,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",87,5,5,False,5
+1457,card payment not recognised,card about,9,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1457,5,5,False,5
+744,pin blocked,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",744,5,5,False,5
+727,card not working,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",727,5,5,False,5
+858,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",858,5,5,False,5
+355,card not working,pin,49,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",355,5,5,False,5
+1294,cash withdrawal not recognised,c,20,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1294,5,5,False,5
+517,card payment fee charged,card payment fee,15,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",517,5,5,False,5
+299,lost or stolen card,lost or stolen card,41,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",299,5,5,False,5
+804,lost or stolen card,lost or stolen phone,42,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",804,5,5,False,5
+1367,top up limits,top up by,57,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1367,5,5,False,5
+555,transfer not received by recipient,transfer not,66,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",555,5,5,False,5
+239,card not working,card not,14,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",239,5,5,False,5
+1418,activate my card,activ,0,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1418,5,5,False,5
+203,card not working,card not,14,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",203,5,5,False,5
+1266,failed transfer,top up failed,59,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1266,5,5,False,5
+1509,verify my identity,verify my,69,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1509,5,5,False,5
+284,lost or stolen card,lost or stolen card,41,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",284,5,5,False,5
+1335,exchange rate,exchange charge,31,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1335,5,5,False,5
+513,transfer not received by recipient,card payment fee,15,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",513,5,5,False,5
+457,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",457,5,5,False,5
+805,lost or stolen phone,lost or stolen phone,42,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",805,5,5,False,5
+290,lost or stolen card,lost or stolen card,41,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",290,5,5,False,5
+583,getting virtual card,getting,40,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",583,5,5,False,5
+128,extra charge on statement,extra,34,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",128,5,5,False,5
+306,card not working,lost or stolen card,41,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",306,5,5,False,5
+456,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",456,5,5,False,5
+179,transfer not received by recipient,automatic,4,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",179,5,5,False,5
+627,card payment not recognised,card accept,10,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",627,5,5,False,5
+26,card not working,card linking,13,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",26,5,5,False,5
+1276,failed transfer,top up failed,59,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1276,5,5,False,5
+836,lost or stolen phone,lost or stolen phone,42,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",836,5,5,False,5
+1174,failed transfer,failed,35,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1174,5,5,False,5
+556,transfer not received by recipient,transfer not,66,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",556,5,5,False,5
+445,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",445,5,5,False,5
+1117,cash withdrawal not recognised,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1117,5,5,False,5
+215,card not working,card not,14,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",215,5,5,False,5
+965,transfer not received by recipient,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",965,5,5,False,5
+419,pending top up,pending,47,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",419,5,5,False,5
+613,card acceptance,card accept,10,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",613,5,5,False,5
+192,top up limits,automatic,4,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",192,5,5,False,5
+667,transaction charged twice,card payment not,16,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",667,5,5,False,5
+850,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",850,5,5,False,5
+1083,failed transfer,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1083,5,5,False,5
+1106,failed transfer,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1106,5,5,False,5
+916,terminate account,terminate,55,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",916,5,5,False,5
+503,card payment fee charged,card payment fee,15,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",503,5,5,False,5
+145,extra charge on statement,extra,34,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",145,5,5,False,5
+1307,failed transfer,c,20,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1307,5,5,False,5
+334,pin blocked,pin,49,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",334,5,5,False,5
+961,transfer not received by recipient,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",961,5,5,False,5
+1014,transfer not received by recipient,transfer timing,67,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1014,5,5,False,5
+1486,verify my identity,verify my,69,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1486,5,5,False,5
+391,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",391,5,5,False,5
+1244,failed transfer,top up failed,59,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1244,5,5,False,5
+69,exchange rate,exchange rate,32,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",69,5,5,False,5
+392,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",392,5,5,False,5
+789,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",789,5,5,False,5
+1448,card not working,card about,9,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1448,5,5,False,5
+489,card payment fee charged,card payment fee,15,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",489,5,5,False,5
+676,transaction charged twice,card payment not,16,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",676,5,5,False,5
+647,card payment not recognised,card payment not,16,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",647,5,5,False,5
+815,lost or stolen phone,lost or stolen phone,42,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",815,5,5,False,5
+981,transfer not received by recipient,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",981,5,5,False,5
+972,transfer not received by recipient,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",972,5,5,False,5
+531,transfer not received by recipient,transfer not,66,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",531,5,5,False,5
+790,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",790,5,5,False,5
+259,exchange rate,exchange via,33,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",259,5,5,False,5
+429,pending top up,pending,47,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",429,5,5,False,5
+480,card payment fee charged,card payment fee,15,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",480,5,5,False,5
+566,get physical card,getting,40,True,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",566,5,5,False,5
+72,exchange rate,exchange rate,32,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",72,5,5,False,5
+112,exchange rate,card payment wrong,17,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",112,5,5,False,5
+384,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",384,5,5,False,5
+1053,reverted card payment?,revert,53,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1053,5,5,False,5
+1401,activate my card,activ,0,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1401,5,5,False,5
+968,verify source of funds,verify source,70,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",968,5,5,False,5
+312,card not working,lost or stolen card,41,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",312,5,5,False,5
+892,transfer not received by recipient,terminate,55,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",892,5,5,False,5
+453,card payment not recognised,top up limits,60,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",453,5,5,False,5
+478,top up limits,top up limits,60,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",478,5,5,False,5
+649,failed transfer,card payment not,16,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",649,5,5,False,5
+23,card linking,card linking,13,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",23,5,5,False,5
+1213,getting virtual card,get dispos,37,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1213,5,5,False,5
+1215,get disposable virtual card,get dispos,37,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1215,5,5,False,5
+1349,exchange rate,exchange charge,31,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1349,5,5,False,5
+262,exchange rate,exchange via,33,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",262,5,5,False,5
+48,exchange rate,exchange rate,32,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",48,5,5,False,5
+285,lost or stolen card,lost or stolen card,41,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",285,5,5,False,5
+849,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",849,5,5,False,5
+1352,exchange rate,exchange charge,31,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1352,5,5,False,5
+327,pin blocked,pin,49,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",327,5,5,False,5
+1438,activate my card,activ,0,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1438,5,5,False,5
+29,card linking,card linking,13,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",29,5,5,False,5
+234,card not working,card not,14,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",234,5,5,False,5
+524,failed transfer,transfer not,66,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",524,5,5,False,5
+369,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",369,5,5,False,5
+127,failed transfer,extra,34,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",127,5,5,False,5
+1151,transfer not received by recipient,receiving,50,True,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1151,5,5,False,5
+543,failed transfer,transfer not,66,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",543,5,5,False,5
+884,transfer not received by recipient,terminate,55,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",884,5,5,False,5
+592,get physical card,getting,40,True,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",592,5,5,False,5
+229,card not working,card not,14,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",229,5,5,False,5
+875,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",875,5,5,False,5
+628,card not working,card accept,10,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",628,5,5,False,5
+1419,activate my card,activ,0,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1419,5,5,False,5
+818,lost or stolen phone,lost or stolen phone,42,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",818,5,5,False,5
+1285,transfer not received by recipient,c,20,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1285,5,5,False,5
+678,transaction charged twice,card payment not,16,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",678,5,5,False,5
+204,card not working,card not,14,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",204,5,5,False,5
+870,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",870,5,5,False,5
+696,unable to verify identity,unable,68,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",696,5,5,False,5
+219,card not working,card not,14,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",219,5,5,False,5
+190,top up by card charge,automatic,4,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",190,5,5,False,5
+379,contactless not working,contact,23,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",379,5,5,False,5
+1340,exchange rate,exchange charge,31,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1340,5,5,False,5
+977,transfer not received by recipient,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",977,5,5,False,5
+644,failed transfer,card payment not,16,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",644,5,5,False,5
+733,pin blocked,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",733,5,5,False,5
+847,transfer not received by recipient,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",847,5,5,False,5
+1353,exchange rate,exchange charge,31,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1353,5,5,False,5
+797,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",797,5,5,False,5
+1329,exchange rate,exchange charge,31,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1329,5,5,False,5
+114,exchange rate,card payment wrong,17,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",114,5,5,False,5
+1396,transfer not received by recipient,top up by,57,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1396,5,5,False,5
+34,card payment not recognised,card linking,13,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",34,5,5,False,5
+966,verify source of funds,verify source,70,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",966,5,5,False,5
+1512,verify my identity,verify my,69,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1512,5,5,False,5
+438,top up failed,pending,47,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",438,5,5,False,5
+1411,card not working,activ,0,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1411,5,5,False,5
+1218,getting virtual card,get dispos,37,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1218,5,5,False,5
+865,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",865,5,5,False,5
+704,unable to verify identity,unable,68,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",704,5,5,False,5
+1212,get disposable virtual card,get dispos,37,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1212,5,5,False,5
+645,card payment not recognised,card payment not,16,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",645,5,5,False,5
+1165,failed transfer,failed,35,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1165,5,5,False,5
+796,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",796,5,5,False,5
+898,terminate account,terminate,55,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",898,5,5,False,5
+36,lost or stolen card,card linking,13,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",36,5,5,False,5
+1278,top up failed,top up failed,59,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1278,5,5,False,5
+324,pin blocked,pin,49,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",324,5,5,False,5
+689,verify my identity,unable,68,True,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",689,5,5,False,5
+1508,verify my identity,verify my,69,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1508,5,5,False,5
+991,transfer not received by recipient,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",991,5,5,False,5
+314,card not working,lost or stolen card,41,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",314,5,5,False,5
+1082,transfer not received by recipient,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1082,5,5,False,5
+1096,failed transfer,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1096,5,5,False,5
+784,card not working,comprom,22,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",784,5,5,False,5
+839,lost or stolen phone,lost or stolen phone,42,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",839,5,5,False,5
+191,top up limits,automatic,4,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",191,5,5,False,5
+842,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",842,5,5,False,5
+1026,transfer timing,transfer timing,67,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1026,5,5,False,5
+99,exchange rate,card payment wrong,17,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",99,5,5,False,5
+551,transfer not received by recipient,transfer not,66,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",551,5,5,False,5
+1023,transfer not received by recipient,transfer timing,67,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1023,5,5,False,5
+140,transfer not received by recipient,extra,34,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",140,5,5,False,5
+624,card not working,card accept,10,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",624,5,5,False,5
+920,failed transfer,transaction,63,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",920,5,5,False,5
+976,verify my identity,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",976,5,5,False,5
+134,extra charge on statement,extra,34,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",134,5,5,False,5
+1109,exchange rate,benef,7,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1109,5,5,False,5
+405,pending top up,pending,47,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",405,5,5,False,5
+757,card not working,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",757,5,5,False,5
+1034,transfer timing,transfer timing,67,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1034,5,5,False,5
+926,failed transfer,transaction,63,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",926,5,5,False,5
+975,verify source of funds,verify source,70,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",975,5,5,False,5
+962,transfer not received by recipient,verify source,70,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",962,5,5,False,5
+759,pin blocked,get physical,38,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",759,5,5,False,5
+510,card payment fee charged,card payment fee,15,False,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",510,5,5,False,5
+868,failed transfer,Ref,51,False,False,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",868,5,5,False,5
+1122,receiving money,receiving,50,True,True,False,"{40: 1, 53: 1, 50: 1, 68: 1, 35: 1}","[4448, 4268, 4313, 795, 856]",1122,5,5,False,5

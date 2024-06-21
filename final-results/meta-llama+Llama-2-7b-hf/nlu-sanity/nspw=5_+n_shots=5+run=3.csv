@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4572,news query,news,45,True,True,False,"{45: 1, 67: 1, 20: 1, 27: 1, 53: 1}","[4572, 1747, 1339, 13833, 17387]",4572,5,3,False,5
+1747,weather query,weather,67,True,True,False,"{45: 1, 67: 1, 20: 1, 27: 1, 53: 1}","[4572, 1747, 1339, 13833, 17387]",1747,5,3,False,5
+1339,general confirm,general confirm,20,True,True,True,"{45: 1, 67: 1, 20: 1, 27: 1, 53: 1}","[4572, 1747, 1339, 13833, 17387]",1339,5,3,False,5
+13833,general quirky,general qu,27,True,True,False,"{45: 1, 67: 1, 20: 1, 27: 1, 53: 1}","[4572, 1747, 1339, 13833, 17387]",13833,5,3,False,5
+17387,qa factoid,qa fact,53,True,True,False,"{45: 1, 67: 1, 20: 1, 27: 1, 53: 1}","[4572, 1747, 1339, 13833, 17387]",17387,5,3,False,5

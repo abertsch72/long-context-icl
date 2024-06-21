@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1104,2,4,False,2
+472,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",472,2,4,False,2
+1345,card delivery estimate,order,43,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1345,2,4,False,2
+838,pending top up,pending card,45,False,False,False,"{47: 1, 44: 1}","[868, 4174]",838,2,4,False,2
+942,card not working,decl,25,False,False,False,"{47: 1, 44: 1}","[868, 4174]",942,2,4,False,2
+707,atm support,at,3,False,True,False,"{47: 1, 44: 1}","[868, 4174]",707,2,4,False,2
+378,contactless not working,contact,23,False,True,False,"{47: 1, 44: 1}","[868, 4174]",378,2,4,False,2
+1258,transfer not received by recipient,failed,35,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1258,2,4,False,2
+451,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",451,2,4,False,2
+1467,top up by card charge,top up by card,57,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1467,2,4,False,2
+652,card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",652,2,4,False,2
+774,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",774,2,4,False,2
+1112,transfer not received by recipient,verify,70,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1112,2,4,False,2
+659,card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",659,2,4,False,2
+67,exchange rate,exchange,32,False,True,False,"{47: 1, 44: 1}","[868, 4174]",67,2,4,False,2
+773,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",773,2,4,False,2
+679,virtual card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",679,2,4,False,2
+956,card not working,decl,25,False,False,False,"{47: 1, 44: 1}","[868, 4174]",956,2,4,False,2
+919,order physical card,request,52,False,False,False,"{47: 1, 44: 1}","[868, 4174]",919,2,4,False,2
+1221,transfer not received by recipient,receiving,50,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1221,2,4,False,2
+605,top up by card charge,to,62,False,False,False,"{47: 1, 44: 1}","[868, 4174]",605,2,4,False,2
+240,card not working,card not,14,False,True,False,"{47: 1, 44: 1}","[868, 4174]",240,2,4,False,2
+1069,atm support,card sw,18,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1069,2,4,False,2
+1228,transfer not received by recipient,receiving,50,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1228,2,4,False,2
+1006,terminate account,terminate,55,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1006,2,4,False,2
+1308,top up by cash or cheque,top up by c,58,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1308,2,4,False,2
+106,extra charge on statement,extra,34,False,True,False,"{47: 1, 44: 1}","[868, 4174]",106,2,4,False,2
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1429,2,4,False,2
+455,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",455,2,4,False,2
+1380,virtual card not working,virtual,72,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1380,2,4,False,2
+325,passcode forgotten,pin,49,False,False,False,"{47: 1, 44: 1}","[868, 4174]",325,2,4,False,2
+745,direct debit payment not recognised,direct,28,False,True,False,"{47: 1, 44: 1}","[868, 4174]",745,2,4,False,2
+1439,balance not updated after bank transfer,balance,5,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1439,2,4,False,2
+941,card not working,decl,25,False,False,False,"{47: 1, 44: 1}","[868, 4174]",941,2,4,False,2
+401,top up by card charge,pending top,47,True,False,False,"{47: 1, 44: 1}","[868, 4174]",401,2,4,False,2
+1190,change pin,change,21,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1190,2,4,False,2
+759,passcode forgotten,direct,28,False,False,False,"{47: 1, 44: 1}","[868, 4174]",759,2,4,False,2
+1180,change pin,change,21,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1180,2,4,False,2
+123,exchange rate,fi,36,False,False,False,"{47: 1, 44: 1}","[868, 4174]",123,2,4,False,2
+1517,activate my card,activ,0,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1517,2,4,False,2
+227,top up by card charge,automatic,4,False,False,False,"{47: 1, 44: 1}","[868, 4174]",227,2,4,False,2
+1321,card not working,order,43,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1321,2,4,False,2
+393,contactless not working,contact,23,False,True,False,"{47: 1, 44: 1}","[868, 4174]",393,2,4,False,2
+999,transfer timing,pending transfer,48,False,False,False,"{47: 1, 44: 1}","[868, 4174]",999,2,4,False,2
+927,card not working,decl,25,False,False,False,"{47: 1, 44: 1}","[868, 4174]",927,2,4,False,2
+244,card not working,card not,14,False,True,False,"{47: 1, 44: 1}","[868, 4174]",244,2,4,False,2
+181,order physical card,card delivery,12,False,False,False,"{47: 1, 44: 1}","[868, 4174]",181,2,4,False,2
+1170,pin blocked,change,21,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1170,2,4,False,2
+666,virtual card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",666,2,4,False,2
+1028,terminate account,terminate,55,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1028,2,4,False,2
+772,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",772,2,4,False,2
+1223,change pin,receiving,50,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1223,2,4,False,2
+421,top up reverted,pending top,47,True,False,False,"{47: 1, 44: 1}","[868, 4174]",421,2,4,False,2
+132,exchange rate,fi,36,False,False,False,"{47: 1, 44: 1}","[868, 4174]",132,2,4,False,2
+155,exchange rate,fi,36,False,False,False,"{47: 1, 44: 1}","[868, 4174]",155,2,4,False,2
+459,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",459,2,4,False,2
+371,contactless not working,contact,23,False,True,False,"{47: 1, 44: 1}","[868, 4174]",371,2,4,False,2
+15,activate my card,card linking,13,False,False,False,"{47: 1, 44: 1}","[868, 4174]",15,2,4,False,2
+1253,transfer not received by recipient,failed,35,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1253,2,4,False,2
+197,order physical card,card delivery,12,False,False,False,"{47: 1, 44: 1}","[868, 4174]",197,2,4,False,2
+527,card not working,card accept,10,False,False,False,"{47: 1, 44: 1}","[868, 4174]",527,2,4,False,2
+531,card acceptance,card accept,10,False,True,False,"{47: 1, 44: 1}","[868, 4174]",531,2,4,False,2
+382,contactless not working,contact,23,False,True,False,"{47: 1, 44: 1}","[868, 4174]",382,2,4,False,2
+620,transfer not received by recipient,to,62,False,False,False,"{47: 1, 44: 1}","[868, 4174]",620,2,4,False,2
+871,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",871,2,4,False,2
+1095,verify source of funds,verify,70,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1095,2,4,False,2
+1501,card not working,activ,0,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1501,2,4,False,2
+1368,virtual card not working,virtual,72,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1368,2,4,False,2
+344,pin blocked,pin,49,False,True,False,"{47: 1, 44: 1}","[868, 4174]",344,2,4,False,2
+429,pending top up,pending top,47,True,True,False,"{47: 1, 44: 1}","[868, 4174]",429,2,4,False,2
+291,age limit,age,1,False,True,False,"{47: 1, 44: 1}","[868, 4174]",291,2,4,False,2
+474,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",474,2,4,False,2
+137,exchange rate,fi,36,False,False,False,"{47: 1, 44: 1}","[868, 4174]",137,2,4,False,2
+784,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",784,2,4,False,2
+1021,terminate account,terminate,55,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1021,2,4,False,2
+1414,transfer not received by recipient,balance,5,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1414,2,4,False,2
+741,verify source of funds,direct,28,False,False,False,"{47: 1, 44: 1}","[868, 4174]",741,2,4,False,2
+904,request refund,request,52,False,True,False,"{47: 1, 44: 1}","[868, 4174]",904,2,4,False,2
+723,topping up by card,direct,28,False,False,False,"{47: 1, 44: 1}","[868, 4174]",723,2,4,False,2
+87,passcode forgotten,extra,34,False,False,False,"{47: 1, 44: 1}","[868, 4174]",87,2,4,False,2
+1457,top up by card charge,top up by card,57,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1457,2,4,False,2
+747,direct debit payment not recognised,direct,28,False,True,False,"{47: 1, 44: 1}","[868, 4174]",747,2,4,False,2
+728,verify source of funds,direct,28,False,False,False,"{47: 1, 44: 1}","[868, 4174]",728,2,4,False,2
+860,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",860,2,4,False,2
+355,card not working,pin,49,False,False,False,"{47: 1, 44: 1}","[868, 4174]",355,2,4,False,2
+1294,top up by cash or cheque,top up by c,58,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1294,2,4,False,2
+521,card acceptance,card accept,10,False,True,False,"{47: 1, 44: 1}","[868, 4174]",521,2,4,False,2
+299,age limit,age,1,False,True,False,"{47: 1, 44: 1}","[868, 4174]",299,2,4,False,2
+807,pending top up,pending card,45,False,False,False,"{47: 1, 44: 1}","[868, 4174]",807,2,4,False,2
+1367,virtual card not working,virtual,72,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1367,2,4,False,2
+556,card not working,card accept,10,False,False,False,"{47: 1, 44: 1}","[868, 4174]",556,2,4,False,2
+239,top up by card charge,automatic,4,False,False,False,"{47: 1, 44: 1}","[868, 4174]",239,2,4,False,2
+1418,transfer not received by recipient,balance,5,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1418,2,4,False,2
+203,top up by card charge,automatic,4,False,False,False,"{47: 1, 44: 1}","[868, 4174]",203,2,4,False,2
+1265,transfer not received by recipient,failed,35,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1265,2,4,False,2
+1509,activate my card,activ,0,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1509,2,4,False,2
+284,age limit,age,1,False,True,False,"{47: 1, 44: 1}","[868, 4174]",284,2,4,False,2
+1335,card delivery estimate,order,43,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1335,2,4,False,2
+517,transfer not received by recipient,transfer not,66,False,True,False,"{47: 1, 44: 1}","[868, 4174]",517,2,4,False,2
+458,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",458,2,4,False,2
+808,pending top up,pending card,45,False,False,False,"{47: 1, 44: 1}","[868, 4174]",808,2,4,False,2
+290,age limit,age,1,False,True,False,"{47: 1, 44: 1}","[868, 4174]",290,2,4,False,2
+584,top up by card charge,top up revert,61,False,False,False,"{47: 1, 44: 1}","[868, 4174]",584,2,4,False,2
+129,fiat currency support,fi,36,False,True,False,"{47: 1, 44: 1}","[868, 4174]",129,2,4,False,2
+306,age limit,age,1,False,True,False,"{47: 1, 44: 1}","[868, 4174]",306,2,4,False,2
+457,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",457,2,4,False,2
+179,card delivery estimate,card delivery,12,False,True,False,"{47: 1, 44: 1}","[868, 4174]",179,2,4,False,2
+628,transfer not received by recipient,to,62,False,False,False,"{47: 1, 44: 1}","[868, 4174]",628,2,4,False,2
+26,card not working,card linking,13,False,False,False,"{47: 1, 44: 1}","[868, 4174]",26,2,4,False,2
+1276,transfer not received by recipient,failed,35,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1276,2,4,False,2
+839,pending top up,pending card,45,False,False,False,"{47: 1, 44: 1}","[868, 4174]",839,2,4,False,2
+1174,change pin,change,21,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1174,2,4,False,2
+557,card acceptance,card accept,10,False,True,False,"{47: 1, 44: 1}","[868, 4174]",557,2,4,False,2
+446,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",446,2,4,False,2
+1117,passcode forgotten,verify,70,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1117,2,4,False,2
+215,top up by card charge,automatic,4,False,False,False,"{47: 1, 44: 1}","[868, 4174]",215,2,4,False,2
+966,pending transfer,pending transfer,48,False,True,False,"{47: 1, 44: 1}","[868, 4174]",966,2,4,False,2
+420,top up by card charge,pending top,47,True,False,False,"{47: 1, 44: 1}","[868, 4174]",420,2,4,False,2
+614,top up by card charge,to,62,False,False,False,"{47: 1, 44: 1}","[868, 4174]",614,2,4,False,2
+192,card not working,card delivery,12,False,False,False,"{47: 1, 44: 1}","[868, 4174]",192,2,4,False,2
+667,virtual card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",667,2,4,False,2
+852,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",852,2,4,False,2
+1083,verify source of funds,verify,70,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1083,2,4,False,2
+1106,verify source of funds,verify,70,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1106,2,4,False,2
+917,request refund,request,52,False,True,False,"{47: 1, 44: 1}","[868, 4174]",917,2,4,False,2
+508,pending top up,transfer not,66,False,False,False,"{47: 1, 44: 1}","[868, 4174]",508,2,4,False,2
+146,exchange rate,fi,36,False,False,False,"{47: 1, 44: 1}","[868, 4174]",146,2,4,False,2
+1307,top up by cash or cheque,top up by c,58,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1307,2,4,False,2
+334,pin blocked,pin,49,False,True,False,"{47: 1, 44: 1}","[868, 4174]",334,2,4,False,2
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{47: 1, 44: 1}","[868, 4174]",962,2,4,False,2
+1015,terminate account,terminate,55,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1015,2,4,False,2
+1486,activate my card,activ,0,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1486,2,4,False,2
+391,contactless not working,contact,23,False,True,False,"{47: 1, 44: 1}","[868, 4174]",391,2,4,False,2
+1243,transfer not received by recipient,failed,35,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1243,2,4,False,2
+69,exchange rate,exchange,32,False,True,False,"{47: 1, 44: 1}","[868, 4174]",69,2,4,False,2
+392,contactless not working,contact,23,False,True,False,"{47: 1, 44: 1}","[868, 4174]",392,2,4,False,2
+792,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",792,2,4,False,2
+1448,topping up by card,top up by card,57,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1448,2,4,False,2
+490,transfer not received by recipient,transfer not,66,False,True,False,"{47: 1, 44: 1}","[868, 4174]",490,2,4,False,2
+676,virtual card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",676,2,4,False,2
+648,card delivery estimate,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",648,2,4,False,2
+818,pending top up,pending card,45,False,False,False,"{47: 1, 44: 1}","[868, 4174]",818,2,4,False,2
+982,transfer not received by recipient,pending transfer,48,False,False,False,"{47: 1, 44: 1}","[868, 4174]",982,2,4,False,2
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{47: 1, 44: 1}","[868, 4174]",973,2,4,False,2
+535,card acceptance,card accept,10,False,True,False,"{47: 1, 44: 1}","[868, 4174]",535,2,4,False,2
+793,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",793,2,4,False,2
+259,card not working,card not,14,False,True,False,"{47: 1, 44: 1}","[868, 4174]",259,2,4,False,2
+430,top up reverted,pending top,47,True,False,False,"{47: 1, 44: 1}","[868, 4174]",430,2,4,False,2
+481,transfer not received by recipient,transfer not,66,False,True,False,"{47: 1, 44: 1}","[868, 4174]",481,2,4,False,2
+567,top up by card charge,top up revert,61,False,False,False,"{47: 1, 44: 1}","[868, 4174]",567,2,4,False,2
+72,exchange rate,exchange,32,False,True,False,"{47: 1, 44: 1}","[868, 4174]",72,2,4,False,2
+113,extra charge on statement,extra,34,False,True,False,"{47: 1, 44: 1}","[868, 4174]",113,2,4,False,2
+384,card not working,contact,23,False,False,False,"{47: 1, 44: 1}","[868, 4174]",384,2,4,False,2
+1053,atm support,card sw,18,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1053,2,4,False,2
+1401,balance not updated after bank transfer,balance,5,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1401,2,4,False,2
+969,pending transfer,pending transfer,48,False,True,False,"{47: 1, 44: 1}","[868, 4174]",969,2,4,False,2
+312,age limit,age,1,False,True,False,"{47: 1, 44: 1}","[868, 4174]",312,2,4,False,2
+892,request refund,request,52,False,True,False,"{47: 1, 44: 1}","[868, 4174]",892,2,4,False,2
+454,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",454,2,4,False,2
+479,top up limits,top up limits,60,False,True,False,"{47: 1, 44: 1}","[868, 4174]",479,2,4,False,2
+650,card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",650,2,4,False,2
+23,card linking,card linking,13,False,True,False,"{47: 1, 44: 1}","[868, 4174]",23,2,4,False,2
+1212,exchange rate,receiving,50,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1212,2,4,False,2
+1214,passcode forgotten,receiving,50,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1214,2,4,False,2
+1349,card delivery estimate,order,43,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1349,2,4,False,2
+262,card not working,card not,14,False,True,False,"{47: 1, 44: 1}","[868, 4174]",262,2,4,False,2
+48,exchange rate,exchange,32,False,True,False,"{47: 1, 44: 1}","[868, 4174]",48,2,4,False,2
+285,topping up by card,age,1,False,False,False,"{47: 1, 44: 1}","[868, 4174]",285,2,4,False,2
+851,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",851,2,4,False,2
+1352,card delivery estimate,order,43,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1352,2,4,False,2
+327,pin blocked,pin,49,False,True,False,"{47: 1, 44: 1}","[868, 4174]",327,2,4,False,2
+1438,balance not updated after bank transfer,balance,5,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1438,2,4,False,2
+29,card linking,card linking,13,False,True,False,"{47: 1, 44: 1}","[868, 4174]",29,2,4,False,2
+234,top up by card charge,automatic,4,False,False,False,"{47: 1, 44: 1}","[868, 4174]",234,2,4,False,2
+528,card acceptance,card accept,10,False,True,False,"{47: 1, 44: 1}","[868, 4174]",528,2,4,False,2
+369,contactless not working,contact,23,False,True,False,"{47: 1, 44: 1}","[868, 4174]",369,2,4,False,2
+128,exchange rate,fi,36,False,False,False,"{47: 1, 44: 1}","[868, 4174]",128,2,4,False,2
+1151,transfer timing,transfer timing,67,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1151,2,4,False,2
+544,card acceptance,card accept,10,False,True,False,"{47: 1, 44: 1}","[868, 4174]",544,2,4,False,2
+884,passcode forgotten,request,52,False,False,False,"{47: 1, 44: 1}","[868, 4174]",884,2,4,False,2
+593,top up by card charge,top up revert,61,False,False,False,"{47: 1, 44: 1}","[868, 4174]",593,2,4,False,2
+229,passcode forgotten,automatic,4,False,False,False,"{47: 1, 44: 1}","[868, 4174]",229,2,4,False,2
+876,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",876,2,4,False,2
+629,transfer not received by recipient,to,62,False,False,False,"{47: 1, 44: 1}","[868, 4174]",629,2,4,False,2
+1419,transfer not received by recipient,balance,5,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1419,2,4,False,2
+821,pending top up,pending card,45,False,False,False,"{47: 1, 44: 1}","[868, 4174]",821,2,4,False,2
+1285,top up by cash or cheque,top up by c,58,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1285,2,4,False,2
+678,card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",678,2,4,False,2
+204,top up by card charge,automatic,4,False,False,False,"{47: 1, 44: 1}","[868, 4174]",204,2,4,False,2
+872,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",872,2,4,False,2
+696,topping up by card,at,3,False,False,False,"{47: 1, 44: 1}","[868, 4174]",696,2,4,False,2
+219,top up by card charge,automatic,4,False,False,False,"{47: 1, 44: 1}","[868, 4174]",219,2,4,False,2
+190,card delivery estimate,card delivery,12,False,True,False,"{47: 1, 44: 1}","[868, 4174]",190,2,4,False,2
+379,contactless not working,contact,23,False,True,False,"{47: 1, 44: 1}","[868, 4174]",379,2,4,False,2
+1340,card not working,order,43,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1340,2,4,False,2
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{47: 1, 44: 1}","[868, 4174]",978,2,4,False,2
+645,card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",645,2,4,False,2
+735,direct debit payment not recognised,direct,28,False,True,False,"{47: 1, 44: 1}","[868, 4174]",735,2,4,False,2
+850,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",850,2,4,False,2
+1353,card not working,order,43,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1353,2,4,False,2
+800,card not working,pending card,45,False,False,False,"{47: 1, 44: 1}","[868, 4174]",800,2,4,False,2
+1329,card delivery estimate,order,43,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1329,2,4,False,2
+115,extra charge on statement,extra,34,False,True,False,"{47: 1, 44: 1}","[868, 4174]",115,2,4,False,2
+1396,virtual card not working,virtual,72,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1396,2,4,False,2
+34,card not working,card linking,13,False,False,False,"{47: 1, 44: 1}","[868, 4174]",34,2,4,False,2
+967,pending top up,pending transfer,48,False,False,False,"{47: 1, 44: 1}","[868, 4174]",967,2,4,False,2
+1512,card not working,activ,0,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1512,2,4,False,2
+439,pending top up,pending top,47,True,True,False,"{47: 1, 44: 1}","[868, 4174]",439,2,4,False,2
+1411,transfer timing,balance,5,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1411,2,4,False,2
+1217,transfer not received by recipient,receiving,50,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1217,2,4,False,2
+867,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",867,2,4,False,2
+704,topping up by card,at,3,False,False,False,"{47: 1, 44: 1}","[868, 4174]",704,2,4,False,2
+1211,transfer not received by recipient,receiving,50,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1211,2,4,False,2
+646,card not working,dispos,29,False,False,False,"{47: 1, 44: 1}","[868, 4174]",646,2,4,False,2
+1165,change pin,change,21,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1165,2,4,False,2
+799,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",799,2,4,False,2
+898,order physical card,request,52,False,False,False,"{47: 1, 44: 1}","[868, 4174]",898,2,4,False,2
+36,card not working,card linking,13,False,False,False,"{47: 1, 44: 1}","[868, 4174]",36,2,4,False,2
+1278,transfer not received by recipient,failed,35,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1278,2,4,False,2
+324,pin blocked,pin,49,False,True,False,"{47: 1, 44: 1}","[868, 4174]",324,2,4,False,2
+689,atm support,at,3,False,True,False,"{47: 1, 44: 1}","[868, 4174]",689,2,4,False,2
+1508,activate my card,activ,0,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1508,2,4,False,2
+992,pending transfer,pending transfer,48,False,True,False,"{47: 1, 44: 1}","[868, 4174]",992,2,4,False,2
+314,age limit,age,1,False,True,False,"{47: 1, 44: 1}","[868, 4174]",314,2,4,False,2
+1082,transfer not received by recipient,verify,70,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1082,2,4,False,2
+1096,verify source of funds,verify,70,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1096,2,4,False,2
+787,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",787,2,4,False,2
+842,change pin,lost,42,False,False,False,"{47: 1, 44: 1}","[868, 4174]",842,2,4,False,2
+191,card delivery estimate,card delivery,12,False,True,False,"{47: 1, 44: 1}","[868, 4174]",191,2,4,False,2
+845,lost or stolen phone,lost,42,False,True,False,"{47: 1, 44: 1}","[868, 4174]",845,2,4,False,2
+1027,terminate account,terminate,55,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1027,2,4,False,2
+99,extra charge on statement,extra,34,False,True,False,"{47: 1, 44: 1}","[868, 4174]",99,2,4,False,2
+552,card acceptance,card accept,10,False,True,False,"{47: 1, 44: 1}","[868, 4174]",552,2,4,False,2
+1024,terminate account,terminate,55,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1024,2,4,False,2
+141,exchange rate,fi,36,False,False,False,"{47: 1, 44: 1}","[868, 4174]",141,2,4,False,2
+625,transfer not received by recipient,to,62,False,False,False,"{47: 1, 44: 1}","[868, 4174]",625,2,4,False,2
+922,card not working,decl,25,False,False,False,"{47: 1, 44: 1}","[868, 4174]",922,2,4,False,2
+977,transfer not received by recipient,pending transfer,48,False,False,False,"{47: 1, 44: 1}","[868, 4174]",977,2,4,False,2
+135,change pin,fi,36,False,False,False,"{47: 1, 44: 1}","[868, 4174]",135,2,4,False,2
+1109,passcode forgotten,verify,70,False,False,False,"{47: 1, 44: 1}","[868, 4174]",1109,2,4,False,2
+405,pending top up,pending top,47,True,True,False,"{47: 1, 44: 1}","[868, 4174]",405,2,4,False,2
+760,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",760,2,4,False,2
+1035,terminate account,terminate,55,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1035,2,4,False,2
+928,card not working,decl,25,False,False,False,"{47: 1, 44: 1}","[868, 4174]",928,2,4,False,2
+976,pending transfer,pending transfer,48,False,True,False,"{47: 1, 44: 1}","[868, 4174]",976,2,4,False,2
+963,pending transfer,pending transfer,48,False,True,False,"{47: 1, 44: 1}","[868, 4174]",963,2,4,False,2
+762,passcode forgotten,pass,44,True,True,False,"{47: 1, 44: 1}","[868, 4174]",762,2,4,False,2
+514,transfer not received by recipient,transfer not,66,False,True,False,"{47: 1, 44: 1}","[868, 4174]",514,2,4,False,2
+870,passcode forgotten,lost,42,False,False,False,"{47: 1, 44: 1}","[868, 4174]",870,2,4,False,2
+1122,transfer timing,transfer timing,67,False,True,False,"{47: 1, 44: 1}","[868, 4174]",1122,2,4,False,2

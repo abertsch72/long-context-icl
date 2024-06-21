@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+17264,general negate,general neg,25,True,True,False,"{25: 1, 15: 1}","[17264, 5698]",17264,2,2,False,2
+5698,email query,email query,15,True,True,True,"{25: 1, 15: 1}","[17264, 5698]",5698,2,2,False,2
+13931,general negate,iot hue light change,31,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",13931,2,2,False,2
+14218,email query,email query,15,True,True,True,"{25: 1, 15: 1}","[17264, 5698]",14218,2,2,False,2
+19007,email query,qa definition,52,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",19007,2,2,False,2
+17022,email query,qa stock,55,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17022,2,2,False,2
+10279,email query,cooking reci,11,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10279,2,2,False,2
+585,email query,play audio,46,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",585,2,2,False,2
+12242,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12242,2,2,False,2
+9344,email query,social post,59,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9344,2,2,False,2
+10523,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10523,2,2,False,2
+11153,email query,qa math,54,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11153,2,2,False,2
+2877,email query,email query,15,True,True,True,"{25: 1, 15: 1}","[17264, 5698]",2877,2,2,False,2
+3493,email query,social query,60,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",3493,2,2,False,2
+7481,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7481,2,2,False,2
+2419,email query,calendar remove,8,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2419,2,2,False,2
+9117,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9117,2,2,False,2
+8850,general negate,general neg,25,True,True,False,"{25: 1, 15: 1}","[17264, 5698]",8850,2,2,False,2
+13492,email query,lists query,39,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13492,2,2,False,2
+3567,email query,music query,43,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",3567,2,2,False,2
+11590,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11590,2,2,False,2
+7672,weather query,weather,67,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",7672,2,2,False,2
+5600,email query,transport query,63,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",5600,2,2,False,2
+14043,email query,general repeat,28,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14043,2,2,False,2
+11855,weather query,datetime query,13,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",11855,2,2,False,2
+2055,email query,general command,19,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2055,2,2,False,2
+983,email query,qa definition,52,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",983,2,2,False,2
+2833,email query,cooking reci,11,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2833,2,2,False,2
+18852,play music,play audio,46,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",18852,2,2,False,2
+13966,email query,play game,47,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13966,2,2,False,2
+10238,email query,general repeat,28,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10238,2,2,False,2
+10245,email query,news,45,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10245,2,2,False,2
+11992,alarm query,alarm set,2,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",11992,2,2,False,2
+14440,email query,qa fact,53,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14440,2,2,False,2
+9982,email query,email s,17,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9982,2,2,False,2
+17979,email query,iot hue light off,33,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17979,2,2,False,2
+9764,play music,play music,48,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",9764,2,2,False,2
+3358,email query,recommendation events,56,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",3358,2,2,False,2
+5839,weather query,transport traffic,66,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",5839,2,2,False,2
+7978,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7978,2,2,False,2
+8800,email query,qa math,54,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8800,2,2,False,2
+19162,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",19162,2,2,False,2
+8877,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8877,2,2,False,2
+6817,email query,transport query,63,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",6817,2,2,False,2
+11001,email query,music query,43,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11001,2,2,False,2
+3341,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",3341,2,2,False,2
+8396,weather query,datetime query,13,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",8396,2,2,False,2
+3207,email query,email query,15,True,True,True,"{25: 1, 15: 1}","[17264, 5698]",3207,2,2,False,2
+15450,weather query,calendar query,7,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",15450,2,2,False,2
+10918,email query,alarm query,0,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10918,2,2,False,2
+2529,email query,qa definition,52,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2529,2,2,False,2
+3081,general negate,iot wemo on,37,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",3081,2,2,False,2
+6032,email query,qa stock,55,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",6032,2,2,False,2
+10356,music query,play radio,50,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",10356,2,2,False,2
+15903,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",15903,2,2,False,2
+1705,weather query,news,45,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",1705,2,2,False,2
+2124,email query,cooking reci,11,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2124,2,2,False,2
+6050,music query,music settings,44,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",6050,2,2,False,2
+12683,music query,play audio,46,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",12683,2,2,False,2
+10584,email query,transport tax,64,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10584,2,2,False,2
+17178,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17178,2,2,False,2
+7389,email query,takeaway order,61,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7389,2,2,False,2
+16725,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",16725,2,2,False,2
+9307,email query,general repeat,28,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9307,2,2,False,2
+18570,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",18570,2,2,False,2
+19021,email query,cooking reci,11,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",19021,2,2,False,2
+19240,email query,recommendation events,56,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",19240,2,2,False,2
+2277,email query,general command,19,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2277,2,2,False,2
+18175,news query,news,45,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",18175,2,2,False,2
+11643,email query,play pod,49,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11643,2,2,False,2
+14578,email query,qa stock,55,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14578,2,2,False,2
+6701,email query,play audio,46,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",6701,2,2,False,2
+4848,general negate,iot hue light off,33,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",4848,2,2,False,2
+17883,email query,play music,48,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17883,2,2,False,2
+17846,email query,general aff,18,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17846,2,2,False,2
+6025,general negate,general neg,25,True,True,False,"{25: 1, 15: 1}","[17264, 5698]",6025,2,2,False,2
+6581,general negate,iot hue light off,33,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",6581,2,2,False,2
+19137,email query,general dont,21,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",19137,2,2,False,2
+18003,email query,general aff,18,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",18003,2,2,False,2
+18560,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",18560,2,2,False,2
+12581,weather query,email s,17,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",12581,2,2,False,2
+18737,email query,qa currency,51,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",18737,2,2,False,2
+9278,email query,iot clean,29,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9278,2,2,False,2
+13224,email query,takeaway query,62,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13224,2,2,False,2
+1508,email query,news,45,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",1508,2,2,False,2
+15352,email query,general aff,18,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",15352,2,2,False,2
+3176,music query,play radio,50,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",3176,2,2,False,2
+6387,email query,iot coffee,30,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",6387,2,2,False,2
+13865,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13865,2,2,False,2
+384,email query,general qu,27,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",384,2,2,False,2
+12823,email query,email s,17,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12823,2,2,False,2
+328,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",328,2,2,False,2
+8897,email query,play music,48,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8897,2,2,False,2
+11591,general negate,general neg,25,True,True,False,"{25: 1, 15: 1}","[17264, 5698]",11591,2,2,False,2
+128,email query,general jo,24,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",128,2,2,False,2
+10234,email query,calendar remove,8,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10234,2,2,False,2
+8523,email query,transport ticket,65,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8523,2,2,False,2
+7269,email query,email s,17,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7269,2,2,False,2
+9902,email query,takeaway order,61,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9902,2,2,False,2
+14172,email query,general explain,22,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14172,2,2,False,2
+9828,music query,audio volume up,6,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",9828,2,2,False,2
+8731,email query,play pod,49,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8731,2,2,False,2
+12220,email query,general qu,27,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12220,2,2,False,2
+10295,email query,play music,48,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10295,2,2,False,2
+17365,email query,general confirm,20,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17365,2,2,False,2
+8875,email query,social query,60,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8875,2,2,False,2
+15454,weather query,weather,67,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",15454,2,2,False,2
+8272,email query,iot hue light dim,32,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8272,2,2,False,2
+7374,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7374,2,2,False,2
+12921,email query,social query,60,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12921,2,2,False,2
+7479,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7479,2,2,False,2
+10253,general negate,general explain,22,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",10253,2,2,False,2
+10894,email query,email s,17,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10894,2,2,False,2
+15390,email query,news,45,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",15390,2,2,False,2
+5214,weather query,weather,67,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",5214,2,2,False,2
+3263,email query,cooking reci,11,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",3263,2,2,False,2
+3877,alarm query,alarm set,2,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",3877,2,2,False,2
+9027,email query,datetime query,13,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9027,2,2,False,2
+5838,weather query,datetime query,13,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",5838,2,2,False,2
+14589,email query,general aff,18,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14589,2,2,False,2
+11878,email query,music li,42,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11878,2,2,False,2
+2243,email query,lists query,39,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2243,2,2,False,2
+5097,email query,transport query,63,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",5097,2,2,False,2
+10165,email query,iot coffee,30,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10165,2,2,False,2
+13044,general negate,iot hue light dim,32,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",13044,2,2,False,2
+10978,weather query,iot wemo on,37,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",10978,2,2,False,2
+14297,email query,datetime query,13,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14297,2,2,False,2
+1181,email query,calendar remove,8,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",1181,2,2,False,2
+14740,email query,lists query,39,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14740,2,2,False,2
+3093,email query,recommendation locations,57,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",3093,2,2,False,2
+2494,email query,play music,48,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2494,2,2,False,2
+9553,email query,general qu,27,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9553,2,2,False,2
+11857,email query,cooking reci,11,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11857,2,2,False,2
+3394,weather query,qa fact,53,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",3394,2,2,False,2
+12966,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12966,2,2,False,2
+6678,general negate,general explain,22,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",6678,2,2,False,2
+13121,general negate,general neg,25,True,True,False,"{25: 1, 15: 1}","[17264, 5698]",13121,2,2,False,2
+8519,weather query,weather,67,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",8519,2,2,False,2
+4602,email query,lists remove,40,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",4602,2,2,False,2
+11272,alarm query,alarm set,2,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",11272,2,2,False,2
+12409,email query,qa currency,51,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12409,2,2,False,2
+4604,email query,play game,47,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",4604,2,2,False,2
+10104,email query,play radio,50,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10104,2,2,False,2
+14922,email query,general qu,27,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14922,2,2,False,2
+4969,weather query,qa fact,53,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",4969,2,2,False,2
+18055,general negate,general command,19,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",18055,2,2,False,2
+17880,email query,news,45,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17880,2,2,False,2
+5976,email query,general dont,21,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",5976,2,2,False,2
+15780,general negate,general neg,25,True,True,False,"{25: 1, 15: 1}","[17264, 5698]",15780,2,2,False,2
+6842,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",6842,2,2,False,2
+9349,email query,qa fact,53,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9349,2,2,False,2
+10209,email query,general repeat,28,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10209,2,2,False,2
+12148,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12148,2,2,False,2
+15381,email query,general command,19,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",15381,2,2,False,2
+987,email query,transport query,63,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",987,2,2,False,2
+108,email query,datetime query,13,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",108,2,2,False,2
+16246,email query,email query contact,16,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",16246,2,2,False,2
+7817,email query,transport query,63,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7817,2,2,False,2
+6123,general negate,general repeat,28,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",6123,2,2,False,2
+10372,email query,calendar remove,8,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10372,2,2,False,2
+1769,email query,general explain,22,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",1769,2,2,False,2
+13296,general negate,iot hue light change,31,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",13296,2,2,False,2
+12772,email query,datetime query,13,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12772,2,2,False,2
+99,email query,datetime query,13,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",99,2,2,False,2
+15184,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",15184,2,2,False,2
+15239,alarm query,alarm remove,1,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",15239,2,2,False,2
+5732,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",5732,2,2,False,2
+11300,email query,cooking reci,11,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11300,2,2,False,2
+15510,email query,general confirm,20,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",15510,2,2,False,2
+10064,email query,qa definition,52,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10064,2,2,False,2
+14854,email query,email query,15,True,True,True,"{25: 1, 15: 1}","[17264, 5698]",14854,2,2,False,2
+12101,email query,lists create,38,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12101,2,2,False,2
+11703,weather query,datetime query,13,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",11703,2,2,False,2
+13926,general negate,audio volume down,3,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",13926,2,2,False,2
+10640,weather query,transport traffic,66,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",10640,2,2,False,2
+2330,email query,general command,19,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2330,2,2,False,2
+18971,weather query,qa fact,53,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",18971,2,2,False,2
+5378,email query,email query,15,True,True,True,"{25: 1, 15: 1}","[17264, 5698]",5378,2,2,False,2
+2762,email query,takeaway query,62,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2762,2,2,False,2
+8483,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8483,2,2,False,2
+4755,calendar query,calendar set,9,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",4755,2,2,False,2
+17873,email query,general repeat,28,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17873,2,2,False,2
+13745,email query,qa currency,51,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13745,2,2,False,2
+17858,email query,iot clean,29,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17858,2,2,False,2
+45,general negate,general repeat,28,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",45,2,2,False,2
+8364,weather query,weather,67,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",8364,2,2,False,2
+17499,email query,qa fact,53,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17499,2,2,False,2
+10278,email query,transport query,63,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",10278,2,2,False,2
+10734,general negate,general dont,21,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",10734,2,2,False,2
+16999,email query,general neg,25,True,False,True,"{25: 1, 15: 1}","[17264, 5698]",16999,2,2,False,2
+2396,play music,play music,48,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",2396,2,2,False,2
+2591,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2591,2,2,False,2
+443,play music,play music,48,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",443,2,2,False,2
+12642,email query,lists query,39,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12642,2,2,False,2
+12512,weather query,calendar query,7,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",12512,2,2,False,2
+9007,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9007,2,2,False,2
+8359,weather query,qa fact,53,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",8359,2,2,False,2
+12352,email query,lists remove,40,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12352,2,2,False,2
+5095,email query,datetime query,13,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",5095,2,2,False,2
+12699,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",12699,2,2,False,2
+8767,email query,email s,17,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8767,2,2,False,2
+11968,email query,general qu,27,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11968,2,2,False,2
+2822,email query,calendar remove,8,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2822,2,2,False,2
+3525,weather query,news,45,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",3525,2,2,False,2
+13873,email query,qa stock,55,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13873,2,2,False,2
+13207,email query,general repeat,28,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13207,2,2,False,2
+12662,weather query,weather,67,False,True,False,"{25: 1, 15: 1}","[17264, 5698]",12662,2,2,False,2
+12448,weather query,datetime query,13,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",12448,2,2,False,2
+5176,email query,social post,59,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",5176,2,2,False,2
+17334,email query,general aff,18,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",17334,2,2,False,2
+13153,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13153,2,2,False,2
+7665,email query,lists remove,40,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7665,2,2,False,2
+18265,email query,general gre,23,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",18265,2,2,False,2
+13136,email query,email query,15,True,True,True,"{25: 1, 15: 1}","[17264, 5698]",13136,2,2,False,2
+647,email query,datetime query,13,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",647,2,2,False,2
+6229,email query,transport query,63,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",6229,2,2,False,2
+4393,email query,general aff,18,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",4393,2,2,False,2
+2440,email query,general qu,27,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",2440,2,2,False,2
+7124,weather query,recommendation locations,57,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",7124,2,2,False,2
+15869,email query,qa fact,53,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",15869,2,2,False,2
+7707,email query,general confirm,20,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7707,2,2,False,2
+16146,email query,news,45,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",16146,2,2,False,2
+15581,email query,general aff,18,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",15581,2,2,False,2
+14233,email query,qa currency,51,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",14233,2,2,False,2
+6703,email query,general aff,18,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",6703,2,2,False,2
+4030,weather query,recommendation events,56,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",4030,2,2,False,2
+8282,email query,news,45,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8282,2,2,False,2
+8503,email query,qa definition,52,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8503,2,2,False,2
+1567,email query,recommendation events,56,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",1567,2,2,False,2
+8417,email query,email query contact,16,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",8417,2,2,False,2
+13853,email query,general explain,22,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13853,2,2,False,2
+6653,email query,datetime query,13,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",6653,2,2,False,2
+16719,weather query,recommendation events,56,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",16719,2,2,False,2
+18204,email query,calendar remove,8,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",18204,2,2,False,2
+13486,email query,calendar query,7,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",13486,2,2,False,2
+9251,email query,audio volume m,4,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9251,2,2,False,2
+7204,email query,general pra,26,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7204,2,2,False,2
+5480,email query,recommendation events,56,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",5480,2,2,False,2
+9700,email query,general command,19,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9700,2,2,False,2
+60,email query,general jo,24,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",60,2,2,False,2
+9559,email query,transport ticket,65,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",9559,2,2,False,2
+18247,email query,alarm remove,1,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",18247,2,2,False,2
+17637,general negate,iot hue light up,35,False,False,False,"{25: 1, 15: 1}","[17264, 5698]",17637,2,2,False,2
+16213,general negate,general neg,25,True,True,False,"{25: 1, 15: 1}","[17264, 5698]",16213,2,2,False,2
+7601,email query,play music,48,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7601,2,2,False,2
+11784,email query,calendar remove,8,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11784,2,2,False,2
+7711,email query,qa fact,53,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",7711,2,2,False,2
+16987,email query,transport query,63,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",16987,2,2,False,2
+1687,email query,email add,14,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",1687,2,2,False,2
+11920,email query,calendar set,9,False,False,True,"{25: 1, 15: 1}","[17264, 5698]",11920,2,2,False,2

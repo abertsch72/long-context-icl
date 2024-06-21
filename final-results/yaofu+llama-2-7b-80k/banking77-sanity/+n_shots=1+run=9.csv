@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+6795,transfer timing,transfer timing,67,True,True,True,{67: 1},[6795],6795,1,9,False
+1406,transfer timing,Ref,51,False,False,True,{67: 1},[6795],1406,1,9,False
+6579,card payment not recognised,pending card,45,False,False,False,{67: 1},[6795],6579,1,9,False
+8461,transfer fee charged,verify source,70,False,False,False,{67: 1},[6795],8461,1,9,False
+2655,transfer timing,wrong amount,75,False,False,True,{67: 1},[6795],2655,1,9,False
+3681,transfer timing,age,1,False,False,True,{67: 1},[6795],3681,1,9,False
+6234,card payment fee charged,vis,73,False,False,False,{67: 1},[6795],6234,1,9,False
+2103,transfer timing,apple,2,False,False,True,{67: 1},[6795],2103,1,9,False
+9232,cancel transfer,cash withdrawal not,20,False,False,False,{67: 1},[6795],9232,1,9,False
+868,transfer timing,to,62,False,False,True,{67: 1},[6795],868,1,9,False
+5068,transfer timing,balance not updated after che,6,False,False,True,{67: 1},[6795],5068,1,9,False
+8785,transfer timing,card delivery,12,False,False,True,{67: 1},[6795],8785,1,9,False
+6201,verify my identity,verify my,69,False,True,False,{67: 1},[6795],6201,1,9,False
+6766,cancel transfer,card sw,18,False,False,False,{67: 1},[6795],6766,1,9,False
+9326,card not working,cash withdrawal not,20,False,False,False,{67: 1},[6795],9326,1,9,False
+7854,verify my identity,edit,30,False,False,False,{67: 1},[6795],7854,1,9,False
+516,top up by card charge,automatic,4,False,False,False,{67: 1},[6795],516,1,9,False
+2372,transfer timing,balance not updated after che,6,False,False,True,{67: 1},[6795],2372,1,9,False
+4309,transfer not received by recipient,pending top,47,False,False,False,{67: 1},[6795],4309,1,9,False
+1984,card delivery estimate,dispos,29,False,False,False,{67: 1},[6795],1984,1,9,False
+9847,transfer fee charged,order,43,False,False,False,{67: 1},[6795],9847,1,9,False
+1734,transfer timing,transfer not,66,False,False,True,{67: 1},[6795],1734,1,9,False
+9398,transfer timing,transfer not,66,False,False,True,{67: 1},[6795],9398,1,9,False
+9332,transfer timing,card delivery,12,False,False,True,{67: 1},[6795],9332,1,9,False
+2434,activate my card,activ,0,False,True,False,{67: 1},[6795],2434,1,9,False
+2895,transfer timing,transfer not,66,False,False,True,{67: 1},[6795],2895,1,9,False
+9521,verify my identity,why,74,False,False,False,{67: 1},[6795],9521,1,9,False
+4163,card payment not recognised,pending card,45,False,False,False,{67: 1},[6795],4163,1,9,False
+6933,transfer fee charged,top up by bank,56,False,False,False,{67: 1},[6795],6933,1,9,False
+3004,transfer timing,Ref,51,False,False,True,{67: 1},[6795],3004,1,9,False
+922,transfer timing,receiving,50,False,False,True,{67: 1},[6795],922,1,9,False
+3027,exchange rate,exchange rate,32,False,True,False,{67: 1},[6795],3027,1,9,False
+5698,transfer timing,card payment wrong,17,False,False,True,{67: 1},[6795],5698,1,9,False
+4198,transfer fee charged,cash withdrawal charge,19,False,False,False,{67: 1},[6795],4198,1,9,False
+3226,cancel transfer,revert,53,False,False,False,{67: 1},[6795],3226,1,9,False
+1097,card delivery estimate,card about,9,False,False,False,{67: 1},[6795],1097,1,9,False
+7879,transfer timing,cash withdrawal charge,19,False,False,True,{67: 1},[6795],7879,1,9,False
+7778,verify my identity,unable,68,False,False,False,{67: 1},[6795],7778,1,9,False
+6017,transfer timing,exchange via,33,False,False,True,{67: 1},[6795],6017,1,9,False
+2477,cancel transfer,terminate,55,False,False,False,{67: 1},[6795],2477,1,9,False
+9390,exchange rate,exchange rate,32,False,True,False,{67: 1},[6795],9390,1,9,False
+8038,transfer timing,lost or stolen phone,42,False,False,True,{67: 1},[6795],8038,1,9,False
+1789,transfer fee charged,top up by bank,56,False,False,False,{67: 1},[6795],1789,1,9,False
+5389,card payment fee charged,card payment fee,15,False,True,False,{67: 1},[6795],5389,1,9,False
+978,virtual card not working,getting virtual,40,False,False,False,{67: 1},[6795],978,1,9,False
+8508,exchange rate,exchange rate,32,False,True,False,{67: 1},[6795],8508,1,9,False
+5394,cancel transfer,request,52,False,False,False,{67: 1},[6795],5394,1,9,False
+4219,verify my identity,why,74,False,False,False,{67: 1},[6795],4219,1,9,False
+5366,transfer timing,exchange via,33,False,False,True,{67: 1},[6795],5366,1,9,False
+7711,transfer timing,pending c,46,False,False,True,{67: 1},[6795],7711,1,9,False
+4038,card delivery estimate,card arrival,11,False,False,False,{67: 1},[6795],4038,1,9,False
+3191,exchange rate,card payment wrong,17,False,False,False,{67: 1},[6795],3191,1,9,False
+9906,transfer timing,wrong amount,75,False,False,True,{67: 1},[6795],9906,1,9,False
+3732,declined card payment,declined card,25,False,True,False,{67: 1},[6795],3732,1,9,False
+7618,get physical card,pass,44,False,False,False,{67: 1},[6795],7618,1,9,False
+250,transfer timing,direct,28,False,False,True,{67: 1},[6795],250,1,9,False
+9150,verify my identity,card payment not,16,False,False,False,{67: 1},[6795],9150,1,9,False
+5755,verify my identity,why,74,False,False,False,{67: 1},[6795],5755,1,9,False
+1456,transfer timing,supported,54,False,False,True,{67: 1},[6795],1456,1,9,False
+9078,cancel transfer,cancel,8,False,True,False,{67: 1},[6795],9078,1,9,False
+6780,transfer timing,card payment not,16,False,False,True,{67: 1},[6795],6780,1,9,False
+9712,transfer timing,top up limits,60,False,False,True,{67: 1},[6795],9712,1,9,False
+4699,change pin,exchange via,33,False,False,False,{67: 1},[6795],4699,1,9,False
+9274,atm support,cash withdrawal charge,19,False,False,False,{67: 1},[6795],9274,1,9,False
+2736,verify top up,verify top,71,False,True,False,{67: 1},[6795],2736,1,9,False
+3044,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{67: 1},[6795],3044,1,9,False
+7149,card not working,comprom,22,False,False,False,{67: 1},[6795],7149,1,9,False
+985,transfer timing,pending transfer,48,False,False,True,{67: 1},[6795],985,1,9,False
+3567,transfer timing,pending card,45,False,False,True,{67: 1},[6795],3567,1,9,False
+5449,activate my card,activ,0,False,True,False,{67: 1},[6795],5449,1,9,False
+4988,card delivery estimate,card arrival,11,False,False,False,{67: 1},[6795],4988,1,9,False
+7801,exchange rate,wrong exchange,76,False,False,False,{67: 1},[6795],7801,1,9,False
+4583,transfer timing,apple,2,False,False,True,{67: 1},[6795],4583,1,9,False
+7891,verify my identity,verify my,69,False,True,False,{67: 1},[6795],7891,1,9,False
+4778,transfer fee charged,extra,34,False,False,False,{67: 1},[6795],4778,1,9,False
+6870,transfer timing,declined transfer,27,False,False,True,{67: 1},[6795],6870,1,9,False
+1109,transfer not received by recipient,benef,7,False,False,False,{67: 1},[6795],1109,1,9,False
+3122,transfer fee charged,cash withdrawal charge,19,False,False,False,{67: 1},[6795],3122,1,9,False
+8962,atm support,wrong exchange,76,False,False,False,{67: 1},[6795],8962,1,9,False
+5059,transfer timing,balance not updated after che,6,False,False,True,{67: 1},[6795],5059,1,9,False
+636,transfer timing,extra,34,False,False,True,{67: 1},[6795],636,1,9,False
+8965,transfer timing,pending transfer,48,False,False,True,{67: 1},[6795],8965,1,9,False
+8142,transfer timing,balance not updated after bank,5,False,False,True,{67: 1},[6795],8142,1,9,False
+9004,card payment fee charged,top up by card,57,False,False,False,{67: 1},[6795],9004,1,9,False
+8667,exchange rate,exchange rate,32,False,True,False,{67: 1},[6795],8667,1,9,False
+3798,transfer timing,pending c,46,False,False,True,{67: 1},[6795],3798,1,9,False
+4106,top up failed,top up revert,61,False,False,False,{67: 1},[6795],4106,1,9,False
+345,transfer timing,transfer into,65,False,False,True,{67: 1},[6795],345,1,9,False
+3165,card acceptance,card accept,10,False,True,False,{67: 1},[6795],3165,1,9,False
+157,card not working,card payment not,16,False,False,False,{67: 1},[6795],157,1,9,False
+2884,card payment not recognised,card payment not,16,False,True,False,{67: 1},[6795],2884,1,9,False
+2802,pin blocked,get physical,38,False,False,False,{67: 1},[6795],2802,1,9,False
+4916,card acceptance,supported,54,False,False,False,{67: 1},[6795],4916,1,9,False
+728,cancel transfer,terminate,55,False,False,False,{67: 1},[6795],728,1,9,False
+1981,card not working,declined card,25,False,False,False,{67: 1},[6795],1981,1,9,False
+1026,transfer timing,fi,36,False,False,True,{67: 1},[6795],1026,1,9,False
+5354,transfer fee charged,getting spare,39,False,False,False,{67: 1},[6795],5354,1,9,False
+6490,card delivery estimate,card arrival,11,False,False,False,{67: 1},[6795],6490,1,9,False
+3988,transfer timing,country,24,False,False,True,{67: 1},[6795],3988,1,9,False
+6610,card acceptance,card accept,10,False,True,False,{67: 1},[6795],6610,1,9,False
+9042,change pin,edit,30,False,False,False,{67: 1},[6795],9042,1,9,False
+683,verify top up,verify top,71,False,True,False,{67: 1},[6795],683,1,9,False
+6910,transfer timing,transaction,63,False,False,True,{67: 1},[6795],6910,1,9,False
+4684,transfer timing,transaction,63,False,False,True,{67: 1},[6795],4684,1,9,False
+4104,transfer timing,top up by c,58,False,False,True,{67: 1},[6795],4104,1,9,False
+7212,transfer timing,automatic,4,False,False,True,{67: 1},[6795],7212,1,9,False
+5305,transfer timing,transaction,63,False,False,True,{67: 1},[6795],5305,1,9,False
+2560,transfer timing,at,3,False,False,True,{67: 1},[6795],2560,1,9,False
+2343,pin blocked,pin,49,False,True,False,{67: 1},[6795],2343,1,9,False
+5315,transfer not received by recipient,benef,7,False,False,False,{67: 1},[6795],5315,1,9,False
+2468,transfer timing,cash withdrawal not,20,False,False,True,{67: 1},[6795],2468,1,9,False
+9214,transfer timing,failed,35,False,False,True,{67: 1},[6795],9214,1,9,False
+1841,verify my identity,verify my,69,False,True,False,{67: 1},[6795],1841,1,9,False
+5785,card not working,activ,0,False,False,False,{67: 1},[6795],5785,1,9,False
+241,change pin,edit,30,False,False,False,{67: 1},[6795],241,1,9,False
+7479,card payment fee charged,vis,73,False,False,False,{67: 1},[6795],7479,1,9,False
+3662,transfer timing,top up revert,61,False,False,True,{67: 1},[6795],3662,1,9,False
+60,transfer fee charged,top up by bank,56,False,False,False,{67: 1},[6795],60,1,9,False
+270,transfer timing,cash withdrawal not,20,False,False,True,{67: 1},[6795],270,1,9,False
+8116,transfer timing,why,74,False,False,True,{67: 1},[6795],8116,1,9,False
+5813,transfer timing,age,1,False,False,True,{67: 1},[6795],5813,1,9,False
+1930,exchange rate,card payment wrong,17,False,False,False,{67: 1},[6795],1930,1,9,False
+6659,transfer timing,Ref,51,False,False,True,{67: 1},[6795],6659,1,9,False
+8891,card acceptance,country,24,False,False,False,{67: 1},[6795],8891,1,9,False
+3561,transfer fee charged,cash withdrawal charge,19,False,False,False,{67: 1},[6795],3561,1,9,False
+3647,exchange rate,card payment wrong,17,False,False,False,{67: 1},[6795],3647,1,9,False
+5263,verify my identity,verify my,69,False,True,False,{67: 1},[6795],5263,1,9,False
+6177,cancel transfer,cancel,8,False,True,False,{67: 1},[6795],6177,1,9,False
+3559,transfer timing,Ref,51,False,False,True,{67: 1},[6795],3559,1,9,False
+2018,exchange rate,exchange via,33,False,False,False,{67: 1},[6795],2018,1,9,False
+1906,cancel transfer,top up revert,61,False,False,False,{67: 1},[6795],1906,1,9,False
+2527,transfer timing,top up failed,59,False,False,True,{67: 1},[6795],2527,1,9,False
+7806,activate my card,activ,0,False,True,False,{67: 1},[6795],7806,1,9,False
+6388,change pin,change,21,False,True,False,{67: 1},[6795],6388,1,9,False
+9685,transfer fee charged,extra,34,False,False,False,{67: 1},[6795],9685,1,9,False
+4156,transfer not received by recipient,declined transfer,27,False,False,False,{67: 1},[6795],4156,1,9,False
+8198,transfer timing,top up limits,60,False,False,True,{67: 1},[6795],8198,1,9,False
+2049,transfer timing,wrong amount,75,False,False,True,{67: 1},[6795],2049,1,9,False
+4563,transfer timing,balance not updated after bank,5,False,False,True,{67: 1},[6795],4563,1,9,False
+4406,transfer fee charged,top up by bank,56,False,False,False,{67: 1},[6795],4406,1,9,False
+7082,transfer fee charged,top up revert,61,False,False,False,{67: 1},[6795],7082,1,9,False
+216,verify my identity,unable,68,False,False,False,{67: 1},[6795],216,1,9,False
+6711,exchange rate,exchange charge,31,False,False,False,{67: 1},[6795],6711,1,9,False
+3758,transfer timing,wrong amount,75,False,False,True,{67: 1},[6795],3758,1,9,False
+4538,top up limits,top up limits,60,False,True,False,{67: 1},[6795],4538,1,9,False
+6125,cancel transfer,terminate,55,False,False,False,{67: 1},[6795],6125,1,9,False
+346,transfer timing,edit,30,False,False,True,{67: 1},[6795],346,1,9,False
+4500,cancel transfer,terminate,55,False,False,False,{67: 1},[6795],4500,1,9,False
+3967,transfer timing,pending transfer,48,False,False,True,{67: 1},[6795],3967,1,9,False
+8612,transfer timing,Ref,51,False,False,True,{67: 1},[6795],8612,1,9,False
+8139,card payment fee charged,verify top,71,False,False,False,{67: 1},[6795],8139,1,9,False
+4184,transfer fee charged,card payment fee,15,False,False,False,{67: 1},[6795],4184,1,9,False
+4208,transfer timing,top up revert,61,False,False,True,{67: 1},[6795],4208,1,9,False
+6612,transfer timing,pending transfer,48,False,False,True,{67: 1},[6795],6612,1,9,False
+7555,transfer timing,transfer timing,67,True,True,True,{67: 1},[6795],7555,1,9,False
+8829,verify my identity,unable,68,False,False,False,{67: 1},[6795],8829,1,9,False
+6593,card linking,activ,0,False,False,False,{67: 1},[6795],6593,1,9,False
+7987,transfer timing,transfer timing,67,True,True,True,{67: 1},[6795],7987,1,9,False
+4613,apple pay or google pay,apple,2,False,True,False,{67: 1},[6795],4613,1,9,False
+9942,transfer timing,transfer into,65,False,False,True,{67: 1},[6795],9942,1,9,False
+2014,cancel transfer,cash withdrawal not,20,False,False,False,{67: 1},[6795],2014,1,9,False
+7024,transfer timing,balance not updated after bank,5,False,False,True,{67: 1},[6795],7024,1,9,False
+3164,atm support,cash withdrawal charge,19,False,False,False,{67: 1},[6795],3164,1,9,False
+3540,pin blocked,get physical,38,False,False,False,{67: 1},[6795],3540,1,9,False
+3498,transfer timing,pending transfer,48,False,False,True,{67: 1},[6795],3498,1,9,False
+7414,transfer timing,Ref,51,False,False,True,{67: 1},[6795],7414,1,9,False
+3444,transfer fee charged,extra,34,False,False,False,{67: 1},[6795],3444,1,9,False
+4105,exchange rate,wrong exchange,76,False,False,False,{67: 1},[6795],4105,1,9,False
+5978,transaction charged twice,transaction,63,False,True,False,{67: 1},[6795],5978,1,9,False
+3705,card delivery estimate,card arrival,11,False,False,False,{67: 1},[6795],3705,1,9,False
+4250,change pin,edit,30,False,False,False,{67: 1},[6795],4250,1,9,False
+3541,card linking,card linking,13,False,True,False,{67: 1},[6795],3541,1,9,False
+5836,passcode forgotten,pass,44,False,True,False,{67: 1},[6795],5836,1,9,False
+8273,transfer timing,verify source,70,False,False,True,{67: 1},[6795],8273,1,9,False
+1115,transfer timing,Ref,51,False,False,True,{67: 1},[6795],1115,1,9,False
+979,transfer not received by recipient,failed,35,False,False,False,{67: 1},[6795],979,1,9,False
+6284,declined card payment,declined card,25,False,True,False,{67: 1},[6795],6284,1,9,False
+3435,transfer fee charged,top up by bank,56,False,False,False,{67: 1},[6795],3435,1,9,False
+1384,cancel transfer,request,52,False,False,False,{67: 1},[6795],1384,1,9,False
+528,pin blocked,get physical,38,False,False,False,{67: 1},[6795],528,1,9,False
+291,transfer timing,verify source,70,False,False,True,{67: 1},[6795],291,1,9,False
+3992,transfer fee charged,extra,34,False,False,False,{67: 1},[6795],3992,1,9,False
+4718,cancel transfer,request,52,False,False,False,{67: 1},[6795],4718,1,9,False
+5509,card not working,card not,14,False,True,False,{67: 1},[6795],5509,1,9,False
+3702,card delivery estimate,country,24,False,False,False,{67: 1},[6795],3702,1,9,False
+9795,transfer timing,benef,7,False,False,True,{67: 1},[6795],9795,1,9,False
+6901,card delivery estimate,order,43,False,False,False,{67: 1},[6795],6901,1,9,False
+9885,card delivery estimate,dispos,29,False,False,False,{67: 1},[6795],9885,1,9,False
+7442,cancel transfer,cancel,8,False,True,False,{67: 1},[6795],7442,1,9,False
+2488,card not working,lost or stolen card,41,False,False,False,{67: 1},[6795],2488,1,9,False
+935,transfer timing,verify source,70,False,False,True,{67: 1},[6795],935,1,9,False
+9462,cancel transfer,revert,53,False,False,False,{67: 1},[6795],9462,1,9,False
+1432,transfer timing,benef,7,False,False,True,{67: 1},[6795],1432,1,9,False
+9812,cancel transfer,request,52,False,False,False,{67: 1},[6795],9812,1,9,False
+8129,transfer timing,balance not updated after bank,5,False,False,True,{67: 1},[6795],8129,1,9,False
+7177,transfer timing,receiving,50,False,False,True,{67: 1},[6795],7177,1,9,False
+467,card not working,activ,0,False,False,False,{67: 1},[6795],467,1,9,False
+9182,card delivery estimate,card delivery,12,False,True,False,{67: 1},[6795],9182,1,9,False
+3933,transfer timing,pending card,45,False,False,True,{67: 1},[6795],3933,1,9,False
+1120,exchange rate,exchange rate,32,False,True,False,{67: 1},[6795],1120,1,9,False
+5996,transfer timing,transaction,63,False,False,True,{67: 1},[6795],5996,1,9,False
+1091,transfer timing,pending c,46,False,False,True,{67: 1},[6795],1091,1,9,False
+6241,transfer timing,card arrival,11,False,False,True,{67: 1},[6795],6241,1,9,False
+9379,transfer timing,extra,34,False,False,True,{67: 1},[6795],9379,1,9,False
+5780,transfer timing,pending card,45,False,False,True,{67: 1},[6795],5780,1,9,False
+7341,card acceptance,vis,73,False,False,False,{67: 1},[6795],7341,1,9,False
+6420,transfer fee charged,card payment wrong,17,False,False,False,{67: 1},[6795],6420,1,9,False
+3478,transfer timing,revert,53,False,False,True,{67: 1},[6795],3478,1,9,False
+7782,transfer timing,transfer timing,67,True,True,True,{67: 1},[6795],7782,1,9,False
+3292,card linking,getting spare,39,False,False,False,{67: 1},[6795],3292,1,9,False
+5852,cancel transfer,card payment not,16,False,False,False,{67: 1},[6795],5852,1,9,False
+6935,virtual card not working,getting virtual,40,False,False,False,{67: 1},[6795],6935,1,9,False
+7354,transfer timing,transaction,63,False,False,True,{67: 1},[6795],7354,1,9,False
+9631,lost or stolen card,lost or stolen card,41,False,True,False,{67: 1},[6795],9631,1,9,False
+739,pin blocked,pin,49,False,True,False,{67: 1},[6795],739,1,9,False
+2972,transfer fee charged,top up by card,57,False,False,False,{67: 1},[6795],2972,1,9,False
+6880,transfer timing,pending c,46,False,False,True,{67: 1},[6795],6880,1,9,False
+2549,transfer timing,transfer not,66,False,False,True,{67: 1},[6795],2549,1,9,False
+1893,atm support,cash withdrawal charge,19,False,False,False,{67: 1},[6795],1893,1,9,False
+2352,transfer timing,balance not updated after che,6,False,False,True,{67: 1},[6795],2352,1,9,False
+8660,transfer timing,virtual,72,False,False,True,{67: 1},[6795],8660,1,9,False
+6417,transfer timing,apple,2,False,False,True,{67: 1},[6795],6417,1,9,False
+2258,atm support,at,3,False,True,False,{67: 1},[6795],2258,1,9,False
+7644,cancel transfer,direct,28,False,False,False,{67: 1},[6795],7644,1,9,False
+7662,cancel transfer,terminate,55,False,False,False,{67: 1},[6795],7662,1,9,False
+1025,transfer timing,balance not updated after bank,5,False,False,True,{67: 1},[6795],1025,1,9,False
+8753,atm support,wrong amount,75,False,False,False,{67: 1},[6795],8753,1,9,False
+1398,card delivery estimate,card delivery,12,False,True,False,{67: 1},[6795],1398,1,9,False
+2807,transfer timing,transfer not,66,False,False,True,{67: 1},[6795],2807,1,9,False
+4564,card not working,card not,14,False,True,False,{67: 1},[6795],4564,1,9,False
+2013,card delivery estimate,get dispos,37,False,False,False,{67: 1},[6795],2013,1,9,False
+4415,card payment not recognised,to,62,False,False,False,{67: 1},[6795],4415,1,9,False
+9439,card linking,getting spare,39,False,False,False,{67: 1},[6795],9439,1,9,False
+3367,card payment not recognised,card about,9,False,False,False,{67: 1},[6795],3367,1,9,False
+995,transfer timing,cash withdrawal charge,19,False,False,True,{67: 1},[6795],995,1,9,False
+1056,card not working,card payment not,16,False,False,False,{67: 1},[6795],1056,1,9,False
+1242,cancel transfer,transaction,63,False,False,False,{67: 1},[6795],1242,1,9,False
+113,cash withdrawal not recognised,pending c,46,False,False,False,{67: 1},[6795],113,1,9,False
+412,card not working,card not,14,False,True,False,{67: 1},[6795],412,1,9,False
+4933,exchange rate,exchange rate,32,False,True,False,{67: 1},[6795],4933,1,9,False
+3985,exchange rate,card payment wrong,17,False,False,False,{67: 1},[6795],3985,1,9,False
+5775,card payment fee charged,dispos,29,False,False,False,{67: 1},[6795],5775,1,9,False
+4303,pin blocked,pin,49,False,True,False,{67: 1},[6795],4303,1,9,False
+7131,verify my identity,verify my,69,False,True,False,{67: 1},[6795],7131,1,9,False
+5831,transfer timing,benef,7,False,False,True,{67: 1},[6795],5831,1,9,False
+6927,card payment fee charged,card payment fee,15,False,True,False,{67: 1},[6795],6927,1,9,False
+2120,get physical card,card sw,18,False,False,False,{67: 1},[6795],2120,1,9,False
+863,top up by card charge,apple,2,False,False,False,{67: 1},[6795],863,1,9,False
+2846,card not working,comprom,22,False,False,False,{67: 1},[6795],2846,1,9,False
+2536,age limit,age,1,False,True,False,{67: 1},[6795],2536,1,9,False

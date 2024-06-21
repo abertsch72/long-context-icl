@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4281,human group,human group,28,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",4281,10,6,False,10
+5151,human individual,human individual,29,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",5151,10,6,False,10
+547,entity other,entity other,13,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",547,10,6,False,10
+835,numeric count,numeric count,38,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",835,10,6,False,10
+1236,entity creation,entity creation,5,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",1236,10,6,False,10
+2661,numeric count,numeric count,38,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",2661,10,6,False,10
+2695,description definition,description definition,24,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",2695,10,6,False,10
+3028,human group,human group,28,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",3028,10,6,False,10
+365,description reason,description reason,27,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",365,10,6,False,10
+5339,human group,human group,28,True,True,True,"{28: 3, 29: 1, 13: 1, 38: 2, 5: 1, 24: 1, 27: 1}","[4281, 5151, 547, 835, 1236, 2661, 2695, 3028, 365, 5339]",5339,10,6,False,10

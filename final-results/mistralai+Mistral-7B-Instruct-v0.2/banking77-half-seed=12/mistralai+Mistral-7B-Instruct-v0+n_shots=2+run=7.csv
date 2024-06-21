@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1104,2,7,False
+472,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",472,2,7,False
+1345,card delivery estimate,order,43,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1345,2,7,False
+838,pending transfer,pending card,45,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",838,2,7,False
+942,card not working,declined,25,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",942,2,7,False
+707,atm support,atm,3,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",707,2,7,False
+378,contactless not working,contact,23,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",378,2,7,False
+1258,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1258,2,7,False
+451,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",451,2,7,False
+1467,card not working,top up by card,57,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1467,2,7,False
+652,disposable card limits,dispos,29,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",652,2,7,False
+774,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",774,2,7,False
+1112,transfer not received by recipient,verify,70,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1112,2,7,False
+659,disposable card limits,dispos,29,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",659,2,7,False
+67,exchange rate,exchange,32,True,True,False,"{32: 1, 67: 1}","[2752, 1603]",67,2,7,False
+773,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",773,2,7,False
+679,virtual card not working,dispos,29,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",679,2,7,False
+956,card not working,declined,25,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",956,2,7,False
+919,order physical card,request,52,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",919,2,7,False
+1221,receiving money,receiving,50,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1221,2,7,False
+605,transfer not received by recipient,to,62,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",605,2,7,False
+240,card not working,card not,14,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",240,2,7,False
+1069,atm support,card swallowed,18,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1069,2,7,False
+1228,transfer not received by recipient,receiving,50,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1228,2,7,False
+1006,request refund,term,55,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1006,2,7,False
+1308,atm support,top up by cash,58,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1308,2,7,False
+106,extra charge on statement,extra,34,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",106,2,7,False
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1429,2,7,False
+455,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",455,2,7,False
+1380,virtual card not working,virtual,72,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1380,2,7,False
+325,failed transfer,pin,49,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",325,2,7,False
+745,direct debit payment not recognised,direct,28,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",745,2,7,False
+1439,transfer timing,balance,5,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",1439,2,7,False
+941,card not working,declined,25,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",941,2,7,False
+401,card not working,pending top,47,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",401,2,7,False
+1190,pin blocked,change,21,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1190,2,7,False
+759,declined card payment,direct,28,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",759,2,7,False
+1180,pin blocked,change,21,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1180,2,7,False
+123,exchange rate,fi,36,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",123,2,7,False
+1517,card not working,activate,0,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1517,2,7,False
+227,automatic top up,automatic,4,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",227,2,7,False
+1321,card delivery estimate,order,43,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1321,2,7,False
+393,contactless not working,contact,23,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",393,2,7,False
+999,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",999,2,7,False
+927,card not working,declined,25,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",927,2,7,False
+244,card not working,card not,14,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",244,2,7,False
+181,transfer timing,card delivery,12,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",181,2,7,False
+1170,pin blocked,change,21,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1170,2,7,False
+666,virtual card not working,dispos,29,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",666,2,7,False
+1028,terminate account,term,55,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1028,2,7,False
+772,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",772,2,7,False
+1223,exchange rate,receiving,50,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1223,2,7,False
+421,transfer not received by recipient,pending top,47,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",421,2,7,False
+132,exchange rate,fi,36,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",132,2,7,False
+155,exchange rate,fi,36,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",155,2,7,False
+459,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",459,2,7,False
+371,contactless not working,contact,23,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",371,2,7,False
+15,card not working,card link,13,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",15,2,7,False
+1253,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1253,2,7,False
+197,transfer timing,card delivery,12,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",197,2,7,False
+527,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",527,2,7,False
+531,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",531,2,7,False
+382,contactless not working,contact,23,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",382,2,7,False
+620,card linking,to,62,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",620,2,7,False
+871,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",871,2,7,False
+1095,verify source of funds,verify,70,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1095,2,7,False
+1501,card not working,activate,0,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1501,2,7,False
+1368,virtual card not working,virtual,72,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1368,2,7,False
+344,pin blocked,pin,49,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",344,2,7,False
+429,top up reverted,pending top,47,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",429,2,7,False
+291,age limit,age,1,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",291,2,7,False
+474,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",474,2,7,False
+137,fiat currency support,fi,36,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",137,2,7,False
+784,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",784,2,7,False
+1021,request refund,term,55,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1021,2,7,False
+1414,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1414,2,7,False
+741,request refund,direct,28,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",741,2,7,False
+904,request refund,request,52,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",904,2,7,False
+723,request refund,direct,28,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",723,2,7,False
+87,card not working,extra,34,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",87,2,7,False
+1457,card acceptance,top up by card,57,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1457,2,7,False
+747,direct debit payment not recognised,direct,28,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",747,2,7,False
+728,card not working,direct,28,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",728,2,7,False
+860,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",860,2,7,False
+355,card not working,pin,49,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",355,2,7,False
+1294,top up by cash or cheque,top up by cash,58,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1294,2,7,False
+521,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",521,2,7,False
+299,age limit,age,1,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",299,2,7,False
+807,pending transfer,pending card,45,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",807,2,7,False
+1367,virtual card not working,virtual,72,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1367,2,7,False
+556,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",556,2,7,False
+239,top up by card charge,automatic,4,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",239,2,7,False
+1418,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1418,2,7,False
+203,automatic top up,automatic,4,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",203,2,7,False
+1265,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1265,2,7,False
+1509,card delivery estimate,activate,0,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1509,2,7,False
+284,age limit,age,1,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",284,2,7,False
+1335,card delivery estimate,order,43,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1335,2,7,False
+517,transfer not received by recipient,transfer not,66,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",517,2,7,False
+458,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",458,2,7,False
+808,pending transfer,pending card,45,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",808,2,7,False
+290,age limit,age,1,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",290,2,7,False
+584,top up reverted,top up re,61,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",584,2,7,False
+129,fiat currency support,fi,36,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",129,2,7,False
+306,age limit,age,1,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",306,2,7,False
+457,card linking,top up limits,60,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",457,2,7,False
+179,card delivery estimate,card delivery,12,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",179,2,7,False
+628,transfer not received by recipient,to,62,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",628,2,7,False
+26,card not working,card link,13,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",26,2,7,False
+1276,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1276,2,7,False
+839,pending transfer,pending card,45,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",839,2,7,False
+1174,pin blocked,change,21,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1174,2,7,False
+557,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",557,2,7,False
+446,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",446,2,7,False
+1117,transfer not received by recipient,verify,70,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1117,2,7,False
+215,top up by cash or cheque,automatic,4,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",215,2,7,False
+966,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",966,2,7,False
+420,top up reverted,pending top,47,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",420,2,7,False
+614,top up by card charge,to,62,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",614,2,7,False
+192,card delivery estimate,card delivery,12,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",192,2,7,False
+667,virtual card not working,dispos,29,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",667,2,7,False
+852,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",852,2,7,False
+1083,verify source of funds,verify,70,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1083,2,7,False
+1106,verify source of funds,verify,70,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1106,2,7,False
+917,request refund,request,52,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",917,2,7,False
+508,transfer timing,transfer not,66,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",508,2,7,False
+146,fiat currency support,fi,36,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",146,2,7,False
+1307,top up by cash or cheque,top up by cash,58,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1307,2,7,False
+334,pin blocked,pin,49,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",334,2,7,False
+962,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",962,2,7,False
+1015,request refund,term,55,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1015,2,7,False
+1486,card not working,activate,0,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1486,2,7,False
+391,contactless not working,contact,23,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",391,2,7,False
+1243,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1243,2,7,False
+69,exchange rate,exchange,32,True,True,False,"{32: 1, 67: 1}","[2752, 1603]",69,2,7,False
+392,contactless not working,contact,23,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",392,2,7,False
+792,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",792,2,7,False
+1448,card acceptance,top up by card,57,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1448,2,7,False
+490,transfer not received by recipient,transfer not,66,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",490,2,7,False
+676,virtual card not working,dispos,29,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",676,2,7,False
+648,disposable card limits,dispos,29,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",648,2,7,False
+818,pending card payment,pending card,45,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",818,2,7,False
+982,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",982,2,7,False
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",973,2,7,False
+535,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",535,2,7,False
+793,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",793,2,7,False
+259,card not working,card not,14,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",259,2,7,False
+430,top up reverted,pending top,47,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",430,2,7,False
+481,transfer not received by recipient,transfer not,66,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",481,2,7,False
+567,top up reverted,top up re,61,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",567,2,7,False
+72,exchange rate,exchange,32,True,True,False,"{32: 1, 67: 1}","[2752, 1603]",72,2,7,False
+113,extra charge on statement,extra,34,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",113,2,7,False
+384,contactless not working,contact,23,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",384,2,7,False
+1053,atm support,card swallowed,18,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1053,2,7,False
+1401,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1401,2,7,False
+969,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",969,2,7,False
+312,age limit,age,1,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",312,2,7,False
+892,request refund,request,52,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",892,2,7,False
+454,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",454,2,7,False
+479,top up limits,top up limits,60,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",479,2,7,False
+650,disposable card limits,dispos,29,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",650,2,7,False
+23,card linking,card link,13,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",23,2,7,False
+1212,exchange rate,receiving,50,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1212,2,7,False
+1214,receiving money,receiving,50,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1214,2,7,False
+1349,card delivery estimate,order,43,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1349,2,7,False
+262,card not working,card not,14,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",262,2,7,False
+48,exchange rate,exchange,32,True,True,False,"{32: 1, 67: 1}","[2752, 1603]",48,2,7,False
+285,activate my card,age,1,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",285,2,7,False
+851,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",851,2,7,False
+1352,card delivery estimate,order,43,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1352,2,7,False
+327,card not working,pin,49,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",327,2,7,False
+1438,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1438,2,7,False
+29,card linking,card link,13,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",29,2,7,False
+234,top up by cash or cheque,automatic,4,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",234,2,7,False
+528,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",528,2,7,False
+369,card not working,contact,23,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",369,2,7,False
+128,fiat currency support,fi,36,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",128,2,7,False
+1151,transfer timing,transfer timing,67,True,True,True,"{32: 1, 67: 1}","[2752, 1603]",1151,2,7,False
+544,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",544,2,7,False
+884,request refund,request,52,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",884,2,7,False
+593,top up reverted,top up re,61,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",593,2,7,False
+229,top up by card charge,automatic,4,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",229,2,7,False
+876,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",876,2,7,False
+629,transfer not received by recipient,to,62,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",629,2,7,False
+1419,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1419,2,7,False
+821,pending transfer,pending card,45,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",821,2,7,False
+1285,top up by cash or cheque,top up by cash,58,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1285,2,7,False
+678,disposable card limits,dispos,29,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",678,2,7,False
+204,top up by card charge,automatic,4,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",204,2,7,False
+872,card not working,lost,42,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",872,2,7,False
+696,atm support,atm,3,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",696,2,7,False
+219,card not working,automatic,4,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",219,2,7,False
+190,card delivery estimate,card delivery,12,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",190,2,7,False
+379,contactless not working,contact,23,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",379,2,7,False
+1340,card acceptance,order,43,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1340,2,7,False
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",978,2,7,False
+645,card acceptance,dispos,29,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",645,2,7,False
+735,direct debit payment not recognised,direct,28,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",735,2,7,False
+850,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",850,2,7,False
+1353,card delivery estimate,order,43,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1353,2,7,False
+800,card not working,pending card,45,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",800,2,7,False
+1329,card delivery estimate,order,43,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1329,2,7,False
+115,extra charge on statement,extra,34,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",115,2,7,False
+1396,virtual card not working,virtual,72,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1396,2,7,False
+34,card linking,card link,13,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",34,2,7,False
+967,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",967,2,7,False
+1512,card acceptance,activate,0,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1512,2,7,False
+439,pending transfer,pending top,47,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",439,2,7,False
+1411,transfer timing,balance,5,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",1411,2,7,False
+1217,receiving money,receiving,50,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1217,2,7,False
+867,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",867,2,7,False
+704,atm support,atm,3,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",704,2,7,False
+1211,receiving money,receiving,50,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1211,2,7,False
+646,disposable card limits,dispos,29,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",646,2,7,False
+1165,pin blocked,change,21,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1165,2,7,False
+799,verify source of funds,pass,44,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",799,2,7,False
+898,order physical card,request,52,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",898,2,7,False
+36,card not working,card link,13,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",36,2,7,False
+1278,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1278,2,7,False
+324,pin blocked,pin,49,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",324,2,7,False
+689,atm support,atm,3,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",689,2,7,False
+1508,card delivery estimate,activate,0,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1508,2,7,False
+992,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",992,2,7,False
+314,age limit,age,1,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",314,2,7,False
+1082,transfer timing,verify,70,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",1082,2,7,False
+1096,verify source of funds,verify,70,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1096,2,7,False
+787,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",787,2,7,False
+842,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",842,2,7,False
+191,card delivery estimate,card delivery,12,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",191,2,7,False
+845,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",845,2,7,False
+1027,request refund,term,55,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",1027,2,7,False
+99,extra charge on statement,extra,34,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",99,2,7,False
+552,card acceptance,card acceptance,10,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",552,2,7,False
+1024,terminate account,term,55,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1024,2,7,False
+141,exchange rate,fi,36,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",141,2,7,False
+625,transfer not received by recipient,to,62,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",625,2,7,False
+922,card not working,declined,25,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",922,2,7,False
+977,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",977,2,7,False
+135,exchange rate,fi,36,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",135,2,7,False
+1109,transfer timing,verify,70,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",1109,2,7,False
+405,top up reverted,pending top,47,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",405,2,7,False
+760,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",760,2,7,False
+1035,terminate account,term,55,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",1035,2,7,False
+928,card not working,declined,25,False,False,False,"{32: 1, 67: 1}","[2752, 1603]",928,2,7,False
+976,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",976,2,7,False
+963,transfer timing,pending transfer,48,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",963,2,7,False
+762,passcode forgotten,pass,44,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",762,2,7,False
+514,transfer timing,transfer not,66,False,False,True,"{32: 1, 67: 1}","[2752, 1603]",514,2,7,False
+870,lost or stolen phone,lost,42,False,True,False,"{32: 1, 67: 1}","[2752, 1603]",870,2,7,False
+1122,transfer timing,transfer timing,67,True,True,True,"{32: 1, 67: 1}","[2752, 1603]",1122,2,7,False

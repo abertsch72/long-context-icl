@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+905,supported cards and currencies,supported,54,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",905,2,2,False
+1982,wrong amount of cash received,transaction,63,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1982,2,2,False
+2766,exchange rate,exchange charge,31,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2766,2,2,False
+2416,request refund,getting spare,39,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2416,2,2,False
+2895,atm support,cash withdrawal charge,19,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2895,2,2,False
+2137,change pin,change,21,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2137,2,2,False
+732,top up limits,top up limits,60,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",732,2,2,False
+1927,atm support,card swallowed,18,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1927,2,2,False
+945,request refund,getting virtual,40,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",945,2,2,False
+1942,card not working,card swallowed,18,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1942,2,2,False
+112,exchange rate,exchange rate,32,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",112,2,2,False
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2909,2,2,False
+965,card acceptance,card acceptance,10,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",965,2,2,False
+1465,card acceptance,atm,3,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1465,2,2,False
+1396,virtual card not working,dispos,29,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1396,2,2,False
+2152,change pin,change,21,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2152,2,2,False
+1159,change pin,edit,30,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1159,2,2,False
+976,card acceptance,card acceptance,10,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",976,2,2,False
+1518,request refund,direct,28,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1518,2,2,False
+1773,Refund not showing up,Ref,51,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1773,2,2,False
+1476,atm support,atm,3,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1476,2,2,False
+1477,card payment not recognised,atm,3,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1477,2,2,False
+237,atm support,pending cash,46,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",237,2,2,False
+2097,transaction charged twice,re,53,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2097,2,2,False
+2434,receiving money,getting spare,39,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2434,2,2,False
+1349,transfer not received by recipient,to,62,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1349,2,2,False
+1625,transaction charged twice,pending card,45,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1625,2,2,False
+2675,card not working,top up failed,59,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2675,2,2,False
+274,supported cards and currencies,fi,36,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",274,2,2,False
+564,contactless not working,contact,23,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",564,2,2,False
+2482,card delivery estimate,order,43,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2482,2,2,False
+1685,request refund,request,52,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1685,2,2,False
+804,why verify identity,card payment fee,15,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",804,2,2,False
+2142,change pin,change,21,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2142,2,2,False
+2965,apple pay or google pay,apple,2,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2965,2,2,False
+2985,top up by card charge,apple,2,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2985,2,2,False
+1394,virtual card not working,dispos,29,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1394,2,2,False
+1103,card payment not recognised,card payment not,16,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1103,2,2,False
+2420,card delivery estimate,getting spare,39,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2420,2,2,False
+1875,pending transfer,pending transfer,48,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1875,2,2,False
+1146,change pin,edit,30,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1146,2,2,False
+1516,transaction charged twice,direct,28,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1516,2,2,False
+2805,top up by card charge,top up by card,57,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2805,2,2,False
+2702,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2702,2,2,False
+2882,atm support,cash withdrawal charge,19,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2882,2,2,False
+2793,exchange rate,exchange charge,31,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2793,2,2,False
+241,supported cards and currencies,fi,36,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",241,2,2,False
+1068,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1068,2,2,False
+494,age limit,age,1,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",494,2,2,False
+327,unable to verify identity,automatic,4,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",327,2,2,False
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",458,2,2,False
+428,exchange rate,exchange via,33,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",428,2,2,False
+1681,request refund,request,52,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1681,2,2,False
+2040,transfer timing,transfer timing,67,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2040,2,2,False
+2271,receiving money,receiving,50,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2271,2,2,False
+2309,unable to verify identity,failed,35,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2309,2,2,False
+1819,declined transfer,declined card,25,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1819,2,2,False
+1538,passcode forgotten,pass,44,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1538,2,2,False
+1405,request refund,comprom,22,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1405,2,2,False
+522,pin blocked,pin,49,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",522,2,2,False
+2230,transfer fee charged,transfer fee,64,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2230,2,2,False
+1626,pending transfer,pending card,45,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1626,2,2,False
+972,card acceptance,card acceptance,10,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",972,2,2,False
+2201,transfer fee charged,transfer fee,64,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2201,2,2,False
+1523,passcode forgotten,pass,44,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1523,2,2,False
+2629,request refund,get dispos,37,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2629,2,2,False
+1760,Refund not showing up,Ref,51,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1760,2,2,False
+1176,why verify identity,why,74,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1176,2,2,False
+68,card linking,card link,13,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",68,2,2,False
+1901,request refund,term,55,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1901,2,2,False
+2274,transfer not received by recipient,receiving,50,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2274,2,2,False
+2249,receiving money,receiving,50,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2249,2,2,False
+519,age limit,age,1,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",519,2,2,False
+2019,transaction charged twice,verify source,70,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2019,2,2,False
+2997,top up failed,apple,2,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2997,2,2,False
+744,top up limits,top up limits,60,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",744,2,2,False
+1377,disposable card limits,dispos,29,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1377,2,2,False
+893,request refund,supported,54,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",893,2,2,False
+1833,card not working,declined card,25,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1833,2,2,False
+1114,card payment not recognised,card payment not,16,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1114,2,2,False
+1899,request refund,term,55,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1899,2,2,False
+1059,pending transfer,balance not updated after che,6,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1059,2,2,False
+1428,card payment not recognised,comprom,22,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1428,2,2,False
+1915,request refund,term,55,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1915,2,2,False
+826,card payment fee charged,card payment fee,15,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",826,2,2,False
+2580,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2580,2,2,False
+2132,change pin,change,21,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2132,2,2,False
+418,change pin,exchange via,33,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",418,2,2,False
+1601,pending transfer,pending card,45,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1601,2,2,False
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1645,2,2,False
+1610,transaction charged twice,pending card,45,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1610,2,2,False
+598,contactless not working,contact,23,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",598,2,2,False
+2992,top up by bank transfer charge,apple,2,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2992,2,2,False
+3017,verify my identity,verify my,69,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",3017,2,2,False
+2134,change pin,change,21,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2134,2,2,False
+2540,virtual card not working,virtual,72,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2540,2,2,False
+1505,wrong amount of cash received,direct,28,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1505,2,2,False
+1093,transaction charged twice,card payment not,16,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1093,2,2,False
+863,transfer not received by recipient,transfer not,66,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",863,2,2,False
+1021,top up reverted,top up re,61,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1021,2,2,False
+754,top up limits,top up limits,60,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",754,2,2,False
+1364,request refund,dispos,29,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1364,2,2,False
+2301,transfer not received by recipient,failed,35,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2301,2,2,False
+1134,change pin,edit,30,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1134,2,2,False
+1186,verify my identity,why,74,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1186,2,2,False
+1774,Refund not showing up,Ref,51,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1774,2,2,False
+131,wrong exchange rate for cash withdrawal,card payment wrong,17,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",131,2,2,False
+902,card acceptance,supported,54,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",902,2,2,False
+2243,get physical card,receiving,50,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2243,2,2,False
+2494,card delivery estimate,order,43,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2494,2,2,False
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2705,2,2,False
+592,contactless not working,contact,23,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",592,2,2,False
+2386,top up by card charge,verify top,71,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2386,2,2,False
+2800,card payment fee charged,top up by card,57,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2800,2,2,False
+949,virtual card not working,getting virtual,40,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",949,2,2,False
+448,card payment not recognised,lost or stolen card,41,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",448,2,2,False
+18,card not working,card arrival,11,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",18,2,2,False
+1348,top up by bank transfer charge,to,62,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1348,2,2,False
+825,card payment fee charged,card payment fee,15,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",825,2,2,False
+362,card not working,card not,14,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",362,2,2,False
+1828,card payment not recognised,declined card,25,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1828,2,2,False
+1554,passcode forgotten,pass,44,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1554,2,2,False
+2568,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2568,2,2,False
+385,card not working,card not,14,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",385,2,2,False
+2911,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2911,2,2,False
+2305,transfer not received by recipient,failed,35,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2305,2,2,False
+2467,top up by cash or cheque,top up by cash,58,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2467,2,2,False
+1252,pin blocked,get physical,38,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1252,2,2,False
+2104,card payment not recognised,re,53,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2104,2,2,False
+2316,transfer not received by recipient,failed,35,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2316,2,2,False
+1595,unable to verify identity,declined cash,26,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1595,2,2,False
+1673,lost or stolen phone,lost or stolen phone,42,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1673,2,2,False
+1856,transfer not received by recipient,pending transfer,48,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1856,2,2,False
+2106,transaction charged twice,re,53,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2106,2,2,False
+2527,virtual card not working,virtual,72,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2527,2,2,False
+2602,virtual card not working,get dispos,37,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2602,2,2,False
+1522,passcode forgotten,pass,44,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1522,2,2,False
+2713,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2713,2,2,False
+2519,request refund,order,43,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2519,2,2,False
+2504,request refund,order,43,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2504,2,2,False
+538,card not working,pin,49,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",538,2,2,False
+1635,transaction charged twice,pending card,45,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1635,2,2,False
+2383,top up failed,verify top,71,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2383,2,2,False
+1544,get physical card,pass,44,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1544,2,2,False
+1883,request refund,term,55,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1883,2,2,False
+2493,get physical card,order,43,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2493,2,2,False
+1877,transfer not received by recipient,pending transfer,48,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1877,2,2,False
+2998,top up by bank transfer charge,apple,2,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2998,2,2,False
+1717,request refund,request,52,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1717,2,2,False
+1372,request refund,dispos,29,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1372,2,2,False
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1671,2,2,False
+1793,Refund not showing up,Ref,51,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1793,2,2,False
+469,card not working,lost or stolen card,41,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",469,2,2,False
+2324,request refund,transfer into,65,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2324,2,2,False
+2202,transfer fee charged,transfer fee,64,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2202,2,2,False
+1383,disposable card limits,dispos,29,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1383,2,2,False
+2333,transfer into account,transfer into,65,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2333,2,2,False
+2642,top up failed,top up failed,59,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2642,2,2,False
+2726,transaction charged twice,cash withdrawal not,20,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2726,2,2,False
+227,card not working,pending cash,46,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",227,2,2,False
+749,top up by card charge,top up limits,60,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",749,2,2,False
+400,exchange rate,exchange via,33,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",400,2,2,False
+2711,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2711,2,2,False
+59,card not working,card link,13,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",59,2,2,False
+1304,card payment fee charged,visa,73,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1304,2,2,False
+1474,atm support,atm,3,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1474,2,2,False
+2570,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2570,2,2,False
+1539,passcode forgotten,pass,44,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1539,2,2,False
+2302,transfer not received by recipient,failed,35,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2302,2,2,False
+305,request refund,card delivery,12,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",305,2,2,False
+713,wrong amount of cash received,cancel,8,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",713,2,2,False
+1398,disposable card limits,dispos,29,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1398,2,2,False
+1241,pin blocked,get physical,38,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1241,2,2,False
+271,exchange rate,fi,36,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",271,2,2,False
+1025,failed transfer,top up re,61,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1025,2,2,False
+470,card not working,lost or stolen card,41,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",470,2,2,False
+2779,extra charge on statement,exchange charge,31,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2779,2,2,False
+2417,request refund,getting spare,39,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2417,2,2,False
+1887,request refund,term,55,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1887,2,2,False
+1976,transaction charged twice,transaction,63,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1976,2,2,False
+917,supported cards and currencies,supported,54,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",917,2,2,False
+2649,failed transfer,top up failed,59,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2649,2,2,False
+735,top up limits,top up limits,60,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",735,2,2,False
+2927,request refund,card about,9,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2927,2,2,False
+1689,wrong amount of cash received,request,52,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1689,2,2,False
+64,reverted card payment?,card link,13,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",64,2,2,False
+1568,unable to verify identity,declined cash,26,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1568,2,2,False
+1391,virtual card not working,dispos,29,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1391,2,2,False
+1744,transfer not received by recipient,declined transfer,27,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1744,2,2,False
+2821,card payment fee charged,top up by card,57,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2821,2,2,False
+1714,cancel transfer,request,52,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1714,2,2,False
+2350,transfer into account,transfer into,65,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2350,2,2,False
+1136,change pin,edit,30,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1136,2,2,False
+2704,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2704,2,2,False
+1298,request refund,visa,73,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1298,2,2,False
+1586,unable to verify identity,declined cash,26,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1586,2,2,False
+1435,card payment not recognised,comprom,22,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1435,2,2,False
+1361,disposable card limits,dispos,29,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1361,2,2,False
+1002,top up reverted,top up re,61,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1002,2,2,False
+1360,request refund,dispos,29,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1360,2,2,False
+2356,transfer fee charged,transfer into,65,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2356,2,2,False
+2289,transfer not received by recipient,failed,35,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2289,2,2,False
+1384,disposable card limits,dispos,29,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1384,2,2,False
+1210,failed transfer,unable,68,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1210,2,2,False
+2240,receiving money,receiving,50,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2240,2,2,False
+1266,pin blocked,get physical,38,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1266,2,2,False
+2060,transfer timing,transfer timing,67,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2060,2,2,False
+769,wrong amount of cash received,wrong amount,75,True,True,False,"{56: 1, 75: 1}","[4472, 8739]",769,2,2,False
+979,card acceptance,card acceptance,10,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",979,2,2,False
+1237,unable to verify identity,unable,68,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1237,2,2,False
+1456,cash withdrawal not recognised,atm,3,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1456,2,2,False
+948,order physical card,getting virtual,40,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",948,2,2,False
+1261,card payment not recognised,get physical,38,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1261,2,2,False
+1752,unable to verify identity,declined transfer,27,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1752,2,2,False
+1862,transfer timing,pending transfer,48,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1862,2,2,False
+709,cancel transfer,cancel,8,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",709,2,2,False
+1981,wrong amount of cash received,transaction,63,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1981,2,2,False
+2746,card payment not recognised,cash withdrawal not,20,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2746,2,2,False
+3036,verify my identity,verify my,69,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",3036,2,2,False
+1501,transaction charged twice,direct,28,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1501,2,2,False
+2819,card payment fee charged,top up by card,57,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2819,2,2,False
+2826,top up by card charge,top up by card,57,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2826,2,2,False
+2723,transaction charged twice,cash withdrawal not,20,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2723,2,2,False
+1325,top up by bank transfer charge,to,62,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1325,2,2,False
+2124,change pin,change,21,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2124,2,2,False
+1417,card payment not recognised,comprom,22,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1417,2,2,False
+791,wrong amount of cash received,wrong amount,75,True,True,False,"{56: 1, 75: 1}","[4472, 8739]",791,2,2,False
+2136,change pin,change,21,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2136,2,2,False
+1352,transfer fee charged,to,62,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1352,2,2,False
+2905,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2905,2,2,False
+2360,verify top up,verify top,71,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2360,2,2,False
+1319,visa or mastercard,visa,73,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",1319,2,2,False
+1772,request refund,Ref,51,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1772,2,2,False
+217,pending cash withdrawal,pending cash,46,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",217,2,2,False
+1936,atm support,card swallowed,18,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1936,2,2,False
+2880,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2880,2,2,False
+402,exchange rate,exchange via,33,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",402,2,2,False
+1350,top up by bank transfer charge,to,62,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1350,2,2,False
+80,exchange rate,exchange rate,32,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",80,2,2,False
+1356,transaction charged twice,to,62,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1356,2,2,False
+2385,verify top up,verify top,71,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2385,2,2,False
+2341,top up by bank transfer charge,transfer into,65,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2341,2,2,False
+1869,transfer not received by recipient,pending transfer,48,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1869,2,2,False
+2881,extra charge on statement,cash withdrawal charge,19,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2881,2,2,False
+1151,change pin,edit,30,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1151,2,2,False
+73,card linking,card link,13,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",73,2,2,False
+2264,transfer fee charged,receiving,50,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",2264,2,2,False
+1779,wrong amount of cash received,Ref,51,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",1779,2,2,False
+46,reverted card payment?,card link,13,False,False,False,"{56: 1, 75: 1}","[4472, 8739]",46,2,2,False
+2898,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{56: 1, 75: 1}","[4472, 8739]",2898,2,2,False

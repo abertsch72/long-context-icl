@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+152,entity currency,numeric other,43,False,False,False,"{24: 1, 17: 1}","[76, 1390]",152,2,2,False,2
+94,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",94,2,2,False,2
+337,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",337,2,2,False,2
+78,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",78,2,2,False,2
+323,entity currency,entity currency,6,False,True,False,"{24: 1, 17: 1}","[76, 1390]",323,2,2,False,2
+143,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",143,2,2,False,2
+59,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",59,2,2,False,2
+17,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",17,2,2,False,2
+161,entity currency,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",161,2,2,False,2
+220,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",220,2,2,False,2
+290,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",290,2,2,False,2
+224,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",224,2,2,False,2
+15,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",15,2,2,False,2
+162,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",162,2,2,False,2
+272,entity sport,location city,32,False,False,True,"{24: 1, 17: 1}","[76, 1390]",272,2,2,False,2
+193,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",193,2,2,False,2
+325,entity sport,location city,32,False,False,True,"{24: 1, 17: 1}","[76, 1390]",325,2,2,False,2
+30,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",30,2,2,False,2
+331,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",331,2,2,False,2
+219,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",219,2,2,False,2
+286,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",286,2,2,False,2
+246,entity plant,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",246,2,2,False,2
+68,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",68,2,2,False,2
+205,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",205,2,2,False,2
+232,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",232,2,2,False,2
+64,entity sport,location country,33,False,False,True,"{24: 1, 17: 1}","[76, 1390]",64,2,2,False,2
+121,location city,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",121,2,2,False,2
+201,entity sport,abbreviation expansion,1,False,False,True,"{24: 1, 17: 1}","[76, 1390]",201,2,2,False,2
+315,entity sport,description,24,True,False,True,"{24: 1, 17: 1}","[76, 1390]",315,2,2,False,2
+145,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",145,2,2,False,2
+72,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",72,2,2,False,2
+184,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",184,2,2,False,2
+141,entity food,numeric other,43,False,False,False,"{24: 1, 17: 1}","[76, 1390]",141,2,2,False,2
+95,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",95,2,2,False,2
+213,location city,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",213,2,2,False,2
+38,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",38,2,2,False,2
+256,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",256,2,2,False,2
+29,entity plant,entity plant,14,False,True,False,"{24: 1, 17: 1}","[76, 1390]",29,2,2,False,2
+45,entity food,entity food,9,False,True,False,"{24: 1, 17: 1}","[76, 1390]",45,2,2,False,2
+151,entity substance,entity subst,18,False,True,False,"{24: 1, 17: 1}","[76, 1390]",151,2,2,False,2
+262,entity food,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",262,2,2,False,2
+115,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",115,2,2,False,2
+269,entity sport,entity subst,18,False,False,True,"{24: 1, 17: 1}","[76, 1390]",269,2,2,False,2
+69,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",69,2,2,False,2
+106,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",106,2,2,False,2
+123,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",123,2,2,False,2
+233,entity plant,entity plant,14,False,True,False,"{24: 1, 17: 1}","[76, 1390]",233,2,2,False,2
+41,location city,location city,32,False,True,False,"{24: 1, 17: 1}","[76, 1390]",41,2,2,False,2
+236,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",236,2,2,False,2
+55,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",55,2,2,False,2
+289,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",289,2,2,False,2
+149,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",149,2,2,False,2
+239,entity sport,numeric other,43,False,False,True,"{24: 1, 17: 1}","[76, 1390]",239,2,2,False,2
+103,entity sport,entity vehicle,22,False,False,True,"{24: 1, 17: 1}","[76, 1390]",103,2,2,False,2
+35,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",35,2,2,False,2
+132,entity sport,entity subst,18,False,False,True,"{24: 1, 17: 1}","[76, 1390]",132,2,2,False,2
+172,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",172,2,2,False,2
+74,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",74,2,2,False,2
+180,entity currency,location city,32,False,False,False,"{24: 1, 17: 1}","[76, 1390]",180,2,2,False,2
+241,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",241,2,2,False,2
+140,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",140,2,2,False,2
+245,entity currency,entity currency,6,False,True,False,"{24: 1, 17: 1}","[76, 1390]",245,2,2,False,2
+320,entity sport,description,24,True,False,True,"{24: 1, 17: 1}","[76, 1390]",320,2,2,False,2
+1,location country,location city,32,False,False,False,"{24: 1, 17: 1}","[76, 1390]",1,2,2,False,2
+67,entity sport,human group,28,False,False,True,"{24: 1, 17: 1}","[76, 1390]",67,2,2,False,2
+138,entity food,entity subst,18,False,False,False,"{24: 1, 17: 1}","[76, 1390]",138,2,2,False,2
+298,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",298,2,2,False,2
+271,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",271,2,2,False,2
+13,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",13,2,2,False,2
+235,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",235,2,2,False,2
+3,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",3,2,2,False,2
+56,entity food,numeric weight,49,False,False,False,"{24: 1, 17: 1}","[76, 1390]",56,2,2,False,2
+258,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",258,2,2,False,2
+223,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",223,2,2,False,2
+65,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",65,2,2,False,2
+104,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",104,2,2,False,2
+308,entity food,entity food,9,False,True,False,"{24: 1, 17: 1}","[76, 1390]",308,2,2,False,2
+82,entity food,entity subst,18,False,False,False,"{24: 1, 17: 1}","[76, 1390]",82,2,2,False,2
+11,entity sport,numeric other,43,False,False,True,"{24: 1, 17: 1}","[76, 1390]",11,2,2,False,2
+324,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",324,2,2,False,2
+36,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",36,2,2,False,2
+318,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",318,2,2,False,2
+192,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",192,2,2,False,2
+130,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",130,2,2,False,2
+128,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",128,2,2,False,2
+197,entity sport,location city,32,False,False,True,"{24: 1, 17: 1}","[76, 1390]",197,2,2,False,2
+27,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",27,2,2,False,2
+295,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",295,2,2,False,2
+47,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",47,2,2,False,2
+10,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",10,2,2,False,2
+268,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",268,2,2,False,2
+316,entity sport,human group,28,False,False,True,"{24: 1, 17: 1}","[76, 1390]",316,2,2,False,2
+243,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",243,2,2,False,2
+299,entity instrument,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",299,2,2,False,2
+127,entity food,entity subst,18,False,False,False,"{24: 1, 17: 1}","[76, 1390]",127,2,2,False,2
+75,entity sport,numeric temperature,47,False,False,True,"{24: 1, 17: 1}","[76, 1390]",75,2,2,False,2
+76,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",76,2,2,False,2
+251,description definition,abbreviation expansion,1,False,False,False,"{24: 1, 17: 1}","[76, 1390]",251,2,2,False,2
+263,entity currency,numeric other,43,False,False,False,"{24: 1, 17: 1}","[76, 1390]",263,2,2,False,2
+142,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",142,2,2,False,2
+37,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",37,2,2,False,2
+292,entity sport,description,24,True,False,True,"{24: 1, 17: 1}","[76, 1390]",292,2,2,False,2
+329,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",329,2,2,False,2
+48,entity sport,numeric other,43,False,False,True,"{24: 1, 17: 1}","[76, 1390]",48,2,2,False,2
+2,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",2,2,2,False,2
+237,entity plant,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",237,2,2,False,2
+102,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",102,2,2,False,2
+273,entity plant,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",273,2,2,False,2
+117,entity food,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",117,2,2,False,2
+62,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",62,2,2,False,2
+195,entity food,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",195,2,2,False,2
+57,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",57,2,2,False,2
+327,entity plant,entity subst,18,False,False,False,"{24: 1, 17: 1}","[76, 1390]",327,2,2,False,2
+135,location city,location city,32,False,True,False,"{24: 1, 17: 1}","[76, 1390]",135,2,2,False,2
+255,entity plant,entity subst,18,False,False,False,"{24: 1, 17: 1}","[76, 1390]",255,2,2,False,2
+53,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",53,2,2,False,2
+98,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",98,2,2,False,2
+310,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",310,2,2,False,2
+111,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",111,2,2,False,2
+217,description definition,abbreviation expansion,1,False,False,False,"{24: 1, 17: 1}","[76, 1390]",217,2,2,False,2
+238,entity word,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",238,2,2,False,2
+278,entity currency,location city,32,False,False,False,"{24: 1, 17: 1}","[76, 1390]",278,2,2,False,2
+280,entity plant,entity plant,14,False,True,False,"{24: 1, 17: 1}","[76, 1390]",280,2,2,False,2
+230,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",230,2,2,False,2
+88,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",88,2,2,False,2
+90,entity sport,description,24,True,False,True,"{24: 1, 17: 1}","[76, 1390]",90,2,2,False,2
+8,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",8,2,2,False,2
+0,location country,numeric distance,40,False,False,False,"{24: 1, 17: 1}","[76, 1390]",0,2,2,False,2
+284,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",284,2,2,False,2
+144,entity sport,numeric temperature,47,False,False,True,"{24: 1, 17: 1}","[76, 1390]",144,2,2,False,2
+191,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",191,2,2,False,2
+244,entity sport,numeric weight,49,False,False,True,"{24: 1, 17: 1}","[76, 1390]",244,2,2,False,2
+93,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",93,2,2,False,2
+212,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",212,2,2,False,2
+54,entity currency,entity currency,6,False,True,False,"{24: 1, 17: 1}","[76, 1390]",54,2,2,False,2
+66,entity sport,numeric temperature,47,False,False,True,"{24: 1, 17: 1}","[76, 1390]",66,2,2,False,2
+126,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",126,2,2,False,2
+335,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",335,2,2,False,2
+185,entity currency,abbreviation abbre,0,False,False,False,"{24: 1, 17: 1}","[76, 1390]",185,2,2,False,2
+178,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",178,2,2,False,2
+250,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",250,2,2,False,2
+101,entity sport,description,24,True,False,True,"{24: 1, 17: 1}","[76, 1390]",101,2,2,False,2
+283,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",283,2,2,False,2
+165,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",165,2,2,False,2
+169,entity sport,entity subst,18,False,False,True,"{24: 1, 17: 1}","[76, 1390]",169,2,2,False,2
+277,entity food,entity subst,18,False,False,False,"{24: 1, 17: 1}","[76, 1390]",277,2,2,False,2
+167,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",167,2,2,False,2
+332,entity sport,location city,32,False,False,True,"{24: 1, 17: 1}","[76, 1390]",332,2,2,False,2
+97,entity sport,human title,30,False,False,True,"{24: 1, 17: 1}","[76, 1390]",97,2,2,False,2
+168,entity sport,location city,32,False,False,True,"{24: 1, 17: 1}","[76, 1390]",168,2,2,False,2
+287,entity sport,entity vehicle,22,False,False,True,"{24: 1, 17: 1}","[76, 1390]",287,2,2,False,2
+9,entity food,numeric weight,49,False,False,False,"{24: 1, 17: 1}","[76, 1390]",9,2,2,False,2
+39,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",39,2,2,False,2
+136,entity currency,entity currency,6,False,True,False,"{24: 1, 17: 1}","[76, 1390]",136,2,2,False,2
+159,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",159,2,2,False,2
+60,entity currency,numeric other,43,False,False,False,"{24: 1, 17: 1}","[76, 1390]",60,2,2,False,2
+276,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",276,2,2,False,2
+228,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",228,2,2,False,2
+157,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",157,2,2,False,2
+31,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",31,2,2,False,2
+99,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",99,2,2,False,2
+312,entity sport,description,24,True,False,True,"{24: 1, 17: 1}","[76, 1390]",312,2,2,False,2
+179,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",179,2,2,False,2
+296,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",296,2,2,False,2
+210,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",210,2,2,False,2
+108,entity sport,human group,28,False,False,True,"{24: 1, 17: 1}","[76, 1390]",108,2,2,False,2
+80,entity plant,entity plant,14,False,True,False,"{24: 1, 17: 1}","[76, 1390]",80,2,2,False,2
+19,entity food,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",19,2,2,False,2
+265,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",265,2,2,False,2
+129,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",129,2,2,False,2
+187,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",187,2,2,False,2
+304,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",304,2,2,False,2
+118,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",118,2,2,False,2
+155,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",155,2,2,False,2
+209,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",209,2,2,False,2
+139,entity sport,location city,32,False,False,True,"{24: 1, 17: 1}","[76, 1390]",139,2,2,False,2
+131,location city,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",131,2,2,False,2
+207,entity currency,location city,32,False,False,False,"{24: 1, 17: 1}","[76, 1390]",207,2,2,False,2
+249,entity food,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",249,2,2,False,2
+110,entity currency,location city,32,False,False,False,"{24: 1, 17: 1}","[76, 1390]",110,2,2,False,2
+122,entity plant,numeric distance,40,False,False,False,"{24: 1, 17: 1}","[76, 1390]",122,2,2,False,2
+71,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",71,2,2,False,2
+221,entity sport,entity vehicle,22,False,False,True,"{24: 1, 17: 1}","[76, 1390]",221,2,2,False,2
+225,entity food,entity food,9,False,True,False,"{24: 1, 17: 1}","[76, 1390]",225,2,2,False,2
+6,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",6,2,2,False,2
+186,entity sport,entity subst,18,False,False,True,"{24: 1, 17: 1}","[76, 1390]",186,2,2,False,2
+175,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",175,2,2,False,2
+288,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",288,2,2,False,2
+321,entity currency,entity currency,6,False,True,False,"{24: 1, 17: 1}","[76, 1390]",321,2,2,False,2
+114,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",114,2,2,False,2
+248,entity food,entity food,9,False,True,False,"{24: 1, 17: 1}","[76, 1390]",248,2,2,False,2
+226,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",226,2,2,False,2
+302,entity sport,entity subst,18,False,False,True,"{24: 1, 17: 1}","[76, 1390]",302,2,2,False,2
+77,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",77,2,2,False,2
+12,entity sport,entity subst,18,False,False,True,"{24: 1, 17: 1}","[76, 1390]",12,2,2,False,2
+267,entity currency,numeric other,43,False,False,False,"{24: 1, 17: 1}","[76, 1390]",267,2,2,False,2
+240,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",240,2,2,False,2
+119,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",119,2,2,False,2
+22,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",22,2,2,False,2
+181,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",181,2,2,False,2
+124,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",124,2,2,False,2
+46,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",46,2,2,False,2
+133,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",133,2,2,False,2
+247,entity food,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",247,2,2,False,2
+79,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",79,2,2,False,2
+259,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",259,2,2,False,2
+164,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",164,2,2,False,2
+43,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",43,2,2,False,2
+163,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",163,2,2,False,2
+253,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",253,2,2,False,2
+113,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",113,2,2,False,2
+44,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",44,2,2,False,2
+26,entity sport,numeric temperature,47,False,False,True,"{24: 1, 17: 1}","[76, 1390]",26,2,2,False,2
+20,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",20,2,2,False,2
+231,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",231,2,2,False,2
+333,entity sport,numeric distance,40,False,False,True,"{24: 1, 17: 1}","[76, 1390]",333,2,2,False,2
+270,entity sport,abbreviation expansion,1,False,False,True,"{24: 1, 17: 1}","[76, 1390]",270,2,2,False,2
+301,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",301,2,2,False,2
+150,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",150,2,2,False,2
+160,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",160,2,2,False,2
+297,entity food,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",297,2,2,False,2
+33,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",33,2,2,False,2
+116,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",116,2,2,False,2
+96,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",96,2,2,False,2
+190,entity sport,description,24,True,False,True,"{24: 1, 17: 1}","[76, 1390]",190,2,2,False,2
+156,entity food,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",156,2,2,False,2
+50,entity sport,location city,32,False,False,True,"{24: 1, 17: 1}","[76, 1390]",50,2,2,False,2
+182,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",182,2,2,False,2
+81,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",81,2,2,False,2
+328,entity sport,entity subst,18,False,False,True,"{24: 1, 17: 1}","[76, 1390]",328,2,2,False,2
+222,entity food,numeric other,43,False,False,False,"{24: 1, 17: 1}","[76, 1390]",222,2,2,False,2
+340,entity food,description,24,True,False,False,"{24: 1, 17: 1}","[76, 1390]",340,2,2,False,2
+42,entity sport,location city,32,False,False,True,"{24: 1, 17: 1}","[76, 1390]",42,2,2,False,2
+198,entity currency,numeric other,43,False,False,False,"{24: 1, 17: 1}","[76, 1390]",198,2,2,False,2
+51,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",51,2,2,False,2
+24,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",24,2,2,False,2
+86,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",86,2,2,False,2
+154,entity sport,human individual,29,False,False,True,"{24: 1, 17: 1}","[76, 1390]",154,2,2,False,2
+291,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",291,2,2,False,2
+336,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",336,2,2,False,2
+260,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",260,2,2,False,2
+199,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",199,2,2,False,2
+317,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",317,2,2,False,2
+275,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",275,2,2,False,2
+330,entity sport,location other,35,False,False,True,"{24: 1, 17: 1}","[76, 1390]",330,2,2,False,2
+203,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",203,2,2,False,2
+202,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",202,2,2,False,2
+227,entity sport,numeric weight,49,False,False,True,"{24: 1, 17: 1}","[76, 1390]",227,2,2,False,2
+319,description definition,description,24,True,True,False,"{24: 1, 17: 1}","[76, 1390]",319,2,2,False,2
+125,location country,location other,35,False,False,False,"{24: 1, 17: 1}","[76, 1390]",125,2,2,False,2

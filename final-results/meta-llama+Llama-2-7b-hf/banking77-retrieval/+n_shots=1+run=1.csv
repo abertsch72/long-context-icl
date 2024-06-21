@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+903,supported cards and currencies,supported,54,False,True,False,{45: 1},[2407],903,1,1,False
+1003,top up failed,top up revert,61,False,False,False,{45: 1},[2407],1003,1,1,False
+2953,card about to expire,card about,9,False,True,False,{45: 1},[2407],2953,1,1,False
+2979,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2979,1,1,False
+1926,card swallowed,card sw,18,False,True,False,{45: 1},[2407],1926,1,1,False
+2137,change pin,change,21,False,True,False,{45: 1},[2407],2137,1,1,False
+2980,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2980,1,1,False
+702,cancel transfer,cancel,8,False,True,False,{45: 1},[2407],702,1,1,False
+2493,order physical card,order,43,False,True,False,{45: 1},[2407],2493,1,1,False
+2210,transfer fee charged,transfer fee,64,False,True,False,{45: 1},[2407],2210,1,1,False
+112,exchange rate,exchange rate,32,False,True,False,{45: 1},[2407],112,1,1,False
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{45: 1},[2407],2909,1,1,False
+1987,transaction charged twice,transaction,63,False,True,False,{45: 1},[2407],1987,1,1,False
+1283,visa or mastercard,vis,73,False,True,False,{45: 1},[2407],1283,1,1,False
+1539,passcode forgotten,pass,44,False,True,False,{45: 1},[2407],1539,1,1,False
+2879,activate my card,activ,0,False,True,False,{45: 1},[2407],2879,1,1,False
+1158,edit personal details,edit,30,False,True,False,{45: 1},[2407],1158,1,1,False
+1376,disposable card limits,dispos,29,False,True,False,{45: 1},[2407],1376,1,1,False
+1517,transaction charged twice,direct,28,False,False,False,{45: 1},[2407],1517,1,1,False
+1171,why verify identity,why,74,False,True,False,{45: 1},[2407],1171,1,1,False
+2242,receiving money,receiving,50,False,True,False,{45: 1},[2407],2242,1,1,False
+1476,atm support,at,3,False,True,False,{45: 1},[2407],1476,1,1,False
+237,balance not updated after bank transfer,pending c,46,False,False,False,{45: 1},[2407],237,1,1,False
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,{45: 1},[2407],1650,1,1,False
+2484,order physical card,order,43,False,True,False,{45: 1},[2407],2484,1,1,False
+2105,verify my identity,revert,53,False,False,False,{45: 1},[2407],2105,1,1,False
+2121,change pin,change,21,False,True,False,{45: 1},[2407],2121,1,1,False
+1452,atm support,at,3,False,True,False,{45: 1},[2407],1452,1,1,False
+274,fiat currency support,fi,36,False,True,False,{45: 1},[2407],274,1,1,False
+564,contactless not working,contact,23,False,True,False,{45: 1},[2407],564,1,1,False
+905,supported cards and currencies,supported,54,False,True,False,{45: 1},[2407],905,1,1,False
+1535,passcode forgotten,pass,44,False,True,False,{45: 1},[2407],1535,1,1,False
+2113,reverted card payment?,revert,53,False,True,False,{45: 1},[2407],2113,1,1,False
+2142,change pin,change,21,False,True,False,{45: 1},[2407],2142,1,1,False
+2965,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2965,1,1,False
+1834,card payment not recognised,declined card,25,False,False,False,{45: 1},[2407],1834,1,1,False
+1549,passcode forgotten,pass,44,False,True,False,{45: 1},[2407],1549,1,1,False
+1320,top up by card charge,to,62,False,False,False,{45: 1},[2407],1320,1,1,False
+2421,order physical card,getting spare,39,False,False,False,{45: 1},[2407],2421,1,1,False
+2784,exchange charge,exchange charge,31,False,True,False,{45: 1},[2407],2784,1,1,False
+768,wrong amount of cash received,wrong amount,75,False,True,False,{45: 1},[2407],768,1,1,False
+2472,top up by cash or cheque,top up by c,58,False,True,False,{45: 1},[2407],2472,1,1,False
+2154,pin blocked,change,21,False,False,False,{45: 1},[2407],2154,1,1,False
+795,wrong amount of cash received,wrong amount,75,False,True,False,{45: 1},[2407],795,1,1,False
+1278,pin blocked,get physical,38,False,False,False,{45: 1},[2407],1278,1,1,False
+1494,direct debit payment not recognised,direct,28,False,True,False,{45: 1},[2407],1494,1,1,False
+241,fiat currency support,fi,36,False,True,False,{45: 1},[2407],241,1,1,False
+3060,get physical card,country,24,False,False,False,{45: 1},[2407],3060,1,1,False
+494,age limit,age,1,False,True,False,{45: 1},[2407],494,1,1,False
+327,automatic top up,automatic,4,False,True,False,{45: 1},[2407],327,1,1,False
+458,lost or stolen card,lost or stolen card,41,False,True,False,{45: 1},[2407],458,1,1,False
+428,fiat currency support,exchange via,33,False,False,False,{45: 1},[2407],428,1,1,False
+2862,activate my card,activ,0,False,True,False,{45: 1},[2407],2862,1,1,False
+2164,beneficiary not allowed,benef,7,False,True,False,{45: 1},[2407],2164,1,1,False
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{45: 1},[2407],2897,1,1,False
+2440,top up by cash or cheque,top up by c,58,False,True,False,{45: 1},[2407],2440,1,1,False
+1663,lost or stolen phone,lost or stolen phone,42,False,True,False,{45: 1},[2407],1663,1,1,False
+2700,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,{45: 1},[2407],2700,1,1,False
+2955,card about to expire,card about,9,False,True,False,{45: 1},[2407],2955,1,1,False
+522,pin blocked,pin,49,False,True,False,{45: 1},[2407],522,1,1,False
+1788,Refund not showing up,Ref,51,False,True,False,{45: 1},[2407],1788,1,1,False
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,{45: 1},[2407],1055,1,1,False
+2992,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2992,1,1,False
+1093,card payment not recognised,card payment not,16,False,True,False,{45: 1},[2407],1093,1,1,False
+791,wrong amount of cash received,wrong amount,75,False,True,False,{45: 1},[2407],791,1,1,False
+894,supported cards and currencies,supported,54,False,True,False,{45: 1},[2407],894,1,1,False
+897,supported cards and currencies,supported,54,False,True,False,{45: 1},[2407],897,1,1,False
+1175,why verify identity,why,74,False,True,False,{45: 1},[2407],1175,1,1,False
+68,card linking,card linking,13,False,True,False,{45: 1},[2407],68,1,1,False
+1551,passcode forgotten,pass,44,False,True,False,{45: 1},[2407],1551,1,1,False
+1508,direct debit payment not recognised,direct,28,False,True,False,{45: 1},[2407],1508,1,1,False
+2250,receiving money,receiving,50,False,True,False,{45: 1},[2407],2250,1,1,False
+519,age limit,age,1,False,True,False,{45: 1},[2407],519,1,1,False
+1731,declined transfer,declined transfer,27,False,True,False,{45: 1},[2407],1731,1,1,False
+1210,unable to verify identity,unable,68,False,True,False,{45: 1},[2407],1210,1,1,False
+1750,declined transfer,declined transfer,27,False,True,False,{45: 1},[2407],1750,1,1,False
+1687,request refund,request,52,False,True,False,{45: 1},[2407],1687,1,1,False
+891,supported cards and currencies,supported,54,False,True,False,{45: 1},[2407],891,1,1,False
+1061,cash withdrawal not recognised,balance not updated after che,6,False,False,False,{45: 1},[2407],1061,1,1,False
+2403,getting spare card,getting spare,39,False,True,False,{45: 1},[2407],2403,1,1,False
+1898,terminate account,terminate,55,False,True,False,{45: 1},[2407],1898,1,1,False
+2978,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2978,1,1,False
+1427,card not working,comprom,22,False,False,False,{45: 1},[2407],1427,1,1,False
+1526,passcode forgotten,pass,44,False,True,False,{45: 1},[2407],1526,1,1,False
+824,extra charge on statement,card payment fee,15,False,False,False,{45: 1},[2407],824,1,1,False
+1983,transaction charged twice,transaction,63,False,True,False,{45: 1},[2407],1983,1,1,False
+2132,change pin,change,21,False,True,False,{45: 1},[2407],2132,1,1,False
+418,exchange via app,exchange via,33,False,True,False,{45: 1},[2407],418,1,1,False
+1345,transfer fee charged,to,62,False,False,False,{45: 1},[2407],1345,1,1,False
+2829,top up by card charge,top up by card,57,False,True,False,{45: 1},[2407],2829,1,1,False
+2489,get physical card,order,43,False,False,False,{45: 1},[2407],2489,1,1,False
+598,contactless not working,contact,23,False,True,False,{45: 1},[2407],598,1,1,False
+804,card payment fee charged,card payment fee,15,False,True,False,{45: 1},[2407],804,1,1,False
+3017,verify my identity,verify my,69,False,True,False,{45: 1},[2407],3017,1,1,False
+2589,exchange rate,wrong exchange,76,False,False,False,{45: 1},[2407],2589,1,1,False
+2540,virtual card not working,virtual,72,False,True,False,{45: 1},[2407],2540,1,1,False
+2908,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{45: 1},[2407],2908,1,1,False
+2968,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2968,1,1,False
+2747,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,{45: 1},[2407],2747,1,1,False
+1340,transfer fee charged,to,62,False,False,False,{45: 1},[2407],1340,1,1,False
+1348,topping up by card,to,62,False,True,False,{45: 1},[2407],1348,1,1,False
+1451,atm support,at,3,False,True,False,{45: 1},[2407],1451,1,1,False
+2903,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{45: 1},[2407],2903,1,1,False
+1237,unable to verify identity,unable,68,False,True,False,{45: 1},[2407],1237,1,1,False
+2119,card payment not recognised,revert,53,False,False,False,{45: 1},[2407],2119,1,1,False
+652,top up failed,pending top,47,False,False,False,{45: 1},[2407],652,1,1,False
+131,card payment wrong exchange rate,card payment wrong,17,False,True,False,{45: 1},[2407],131,1,1,False
+949,getting virtual card,getting virtual,40,False,True,False,{45: 1},[2407],949,1,1,False
+2528,card arrival,virtual,72,False,False,False,{45: 1},[2407],2528,1,1,False
+2158,change pin,change,21,False,True,False,{45: 1},[2407],2158,1,1,False
+2705,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,{45: 1},[2407],2705,1,1,False
+592,contactless not working,contact,23,False,True,False,{45: 1},[2407],592,1,1,False
+2511,order physical card,order,43,False,True,False,{45: 1},[2407],2511,1,1,False
+1080,card payment not recognised,card payment not,16,False,True,False,{45: 1},[2407],1080,1,1,False
+1361,card delivery estimate,dispos,29,False,False,False,{45: 1},[2407],1361,1,1,False
+448,lost or stolen card,lost or stolen card,41,False,True,False,{45: 1},[2407],448,1,1,False
+18,card arrival,card arrival,11,False,True,False,{45: 1},[2407],18,1,1,False
+1168,why verify identity,why,74,False,True,False,{45: 1},[2407],1168,1,1,False
+2396,verify top up,verify top,71,False,True,False,{45: 1},[2407],2396,1,1,False
+362,card not working,card not,14,False,True,False,{45: 1},[2407],362,1,1,False
+1456,transaction charged twice,at,3,False,False,False,{45: 1},[2407],1456,1,1,False
+1735,declined transfer,declined transfer,27,False,True,False,{45: 1},[2407],1735,1,1,False
+2579,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,{45: 1},[2407],2579,1,1,False
+385,top up failed,card not,14,False,False,False,{45: 1},[2407],385,1,1,False
+2555,get disposable virtual card,virtual,72,False,False,False,{45: 1},[2407],2555,1,1,False
+2307,failed transfer,failed,35,False,True,False,{45: 1},[2407],2307,1,1,False
+1779,Refund not showing up,Ref,51,False,True,False,{45: 1},[2407],1779,1,1,False
+1119,card payment not recognised,card payment not,16,False,True,False,{45: 1},[2407],1119,1,1,False
+2104,card payment not recognised,revert,53,False,False,False,{45: 1},[2407],2104,1,1,False
+713,cancel transfer,cancel,8,False,True,False,{45: 1},[2407],713,1,1,False
+2077,transfer timing,transfer timing,67,False,True,False,{45: 1},[2407],2077,1,1,False
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,{45: 1},[2407],1671,1,1,False
+1150,edit personal details,edit,30,False,True,False,{45: 1},[2407],1150,1,1,False
+1491,direct debit payment not recognised,direct,28,False,True,False,{45: 1},[2407],1491,1,1,False
+2610,get disposable virtual card,get dispos,37,False,True,False,{45: 1},[2407],2610,1,1,False
+1729,declined transfer,declined transfer,27,False,True,False,{45: 1},[2407],1729,1,1,False
+1360,get disposable virtual card,dispos,29,False,False,False,{45: 1},[2407],1360,1,1,False
+1397,virtual card not working,dispos,29,False,False,False,{45: 1},[2407],1397,1,1,False
+842,transfer not received by recipient,transfer not,66,False,True,False,{45: 1},[2407],842,1,1,False
+2504,get physical card,order,43,False,False,False,{45: 1},[2407],2504,1,1,False
+538,pin blocked,pin,49,False,True,False,{45: 1},[2407],538,1,1,False
+2020,verify source of funds,verify source,70,False,True,False,{45: 1},[2407],2020,1,1,False
+769,get physical card,wrong amount,75,False,False,False,{45: 1},[2407],769,1,1,False
+945,get physical card,getting virtual,40,False,False,False,{45: 1},[2407],945,1,1,False
+1591,declined cash withdrawal,declined c,26,False,True,False,{45: 1},[2407],1591,1,1,False
+1818,declined transfer,declined card,25,False,False,False,{45: 1},[2407],1818,1,1,False
+1876,pending transfer,pending transfer,48,False,True,False,{45: 1},[2407],1876,1,1,False
+3031,verify my identity,verify my,69,False,True,False,{45: 1},[2407],3031,1,1,False
+1992,transaction charged twice,transaction,63,False,True,False,{45: 1},[2407],1992,1,1,False
+2997,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2997,1,1,False
+1228,unable to verify identity,unable,68,False,True,False,{45: 1},[2407],1228,1,1,False
+1682,get physical card,request,52,False,False,False,{45: 1},[2407],1682,1,1,False
+469,lost or stolen card,lost or stolen card,41,False,True,False,{45: 1},[2407],469,1,1,False
+2325,transfer into account,transfer into,65,False,True,False,{45: 1},[2407],2325,1,1,False
+732,top up limits,top up limits,60,False,True,False,{45: 1},[2407],732,1,1,False
+820,card payment fee charged,card payment fee,15,False,True,False,{45: 1},[2407],820,1,1,False
+2990,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2990,1,1,False
+1732,declined transfer,declined transfer,27,False,True,False,{45: 1},[2407],1732,1,1,False
+1252,get physical card,get physical,38,False,True,False,{45: 1},[2407],1252,1,1,False
+227,pending cash withdrawal,pending c,46,False,True,False,{45: 1},[2407],227,1,1,False
+1962,transaction charged twice,transaction,63,False,True,False,{45: 1},[2407],1962,1,1,False
+400,exchange rate,exchange via,33,False,False,False,{45: 1},[2407],400,1,1,False
+1134,edit personal details,edit,30,False,True,False,{45: 1},[2407],1134,1,1,False
+59,card linking,card linking,13,False,True,False,{45: 1},[2407],59,1,1,False
+2256,transfer into account,receiving,50,False,False,False,{45: 1},[2407],2256,1,1,False
+853,transfer not received by recipient,transfer not,66,False,True,False,{45: 1},[2407],853,1,1,False
+2777,exchange charge,exchange charge,31,False,True,False,{45: 1},[2407],2777,1,1,False
+1538,passcode forgotten,pass,44,False,True,False,{45: 1},[2407],1538,1,1,False
+2109,cancel transfer,revert,53,False,False,False,{45: 1},[2407],2109,1,1,False
+305,card about to expire,card delivery,12,False,False,False,{45: 1},[2407],305,1,1,False
+711,cancel transfer,cancel,8,False,True,False,{45: 1},[2407],711,1,1,False
+2927,card about to expire,card about,9,False,True,False,{45: 1},[2407],2927,1,1,False
+2623,get disposable virtual card,get dispos,37,False,True,False,{45: 1},[2407],2623,1,1,False
+271,exchange rate,fi,36,False,False,False,{45: 1},[2407],271,1,1,False
+1023,top up reverted,top up revert,61,False,True,False,{45: 1},[2407],1023,1,1,False
+470,lost or stolen card,lost or stolen card,41,False,True,False,{45: 1},[2407],470,1,1,False
+2779,exchange charge,exchange charge,31,False,True,False,{45: 1},[2407],2779,1,1,False
+1170,verify my identity,why,74,False,False,False,{45: 1},[2407],1170,1,1,False
+1886,terminate account,terminate,55,False,True,False,{45: 1},[2407],1886,1,1,False
+2723,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,{45: 1},[2407],2723,1,1,False
+915,top up by card charge,supported,54,False,False,False,{45: 1},[2407],915,1,1,False
+2626,get disposable virtual card,get dispos,37,False,True,False,{45: 1},[2407],2626,1,1,False
+2604,virtual card not working,get dispos,37,False,False,False,{45: 1},[2407],2604,1,1,False
+1510,direct debit payment not recognised,direct,28,False,True,False,{45: 1},[2407],1510,1,1,False
+2303,failed transfer,failed,35,False,True,False,{45: 1},[2407],2303,1,1,False
+64,card linking,card linking,13,False,True,False,{45: 1},[2407],64,1,1,False
+2041,transfer timing,transfer timing,67,False,True,False,{45: 1},[2407],2041,1,1,False
+1995,transaction charged twice,transaction,63,False,True,False,{45: 1},[2407],1995,1,1,False
+1266,pin blocked,get physical,38,False,False,False,{45: 1},[2407],1266,1,1,False
+2821,topping up by card,top up by card,57,False,False,False,{45: 1},[2407],2821,1,1,False
+1945,card not working,card sw,18,False,False,False,{45: 1},[2407],1945,1,1,False
+835,transfer fee charged,card payment fee,15,False,False,False,{45: 1},[2407],835,1,1,False
+2312,failed transfer,failed,35,False,True,False,{45: 1},[2407],2312,1,1,False
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,{45: 1},[2407],1053,1,1,False
+2800,top up by card charge,top up by card,57,False,True,False,{45: 1},[2407],2800,1,1,False
+1835,declined card payment,declined card,25,False,True,False,{45: 1},[2407],1835,1,1,False
+1434,card not working,comprom,22,False,False,False,{45: 1},[2407],1434,1,1,False
+979,card not working,card accept,10,False,False,False,{45: 1},[2407],979,1,1,False
+2942,card about to expire,card about,9,False,True,False,{45: 1},[2407],2942,1,1,False
+1900,terminate account,terminate,55,False,True,False,{45: 1},[2407],1900,1,1,False
+2973,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2973,1,1,False
+2989,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2989,1,1,False
+2241,receiving money,receiving,50,False,True,False,{45: 1},[2407],2241,1,1,False
+984,card acceptance,card accept,10,False,True,False,{45: 1},[2407],984,1,1,False
+2933,card about to expire,card about,9,False,True,False,{45: 1},[2407],2933,1,1,False
+1265,get physical card,get physical,38,False,True,False,{45: 1},[2407],1265,1,1,False
+1811,declined card payment,declined card,25,False,True,False,{45: 1},[2407],1811,1,1,False
+1428,compromised card,comprom,22,False,True,False,{45: 1},[2407],1428,1,1,False
+1568,verify source of funds,declined c,26,False,False,False,{45: 1},[2407],1568,1,1,False
+2675,top up failed,top up failed,59,False,True,False,{45: 1},[2407],2675,1,1,False
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,{45: 1},[2407],1645,1,1,False
+2289,transfer not received by recipient,failed,35,False,False,False,{45: 1},[2407],2289,1,1,False
+2854,activate my card,activ,0,False,True,False,{45: 1},[2407],2854,1,1,False
+1356,top up reverted,to,62,False,False,False,{45: 1},[2407],1356,1,1,False
+982,get physical card,card accept,10,False,False,False,{45: 1},[2407],982,1,1,False
+1518,direct debit payment not recognised,direct,28,False,True,False,{45: 1},[2407],1518,1,1,False
+722,top up limits,top up limits,60,False,True,False,{45: 1},[2407],722,1,1,False
+2372,verify top up,verify top,71,False,True,False,{45: 1},[2407],2372,1,1,False
+1917,terminate account,terminate,55,False,True,False,{45: 1},[2407],1917,1,1,False
+1500,direct debit payment not recognised,direct,28,False,True,False,{45: 1},[2407],1500,1,1,False
+1933,get physical card,card sw,18,False,False,False,{45: 1},[2407],1933,1,1,False
+2833,top up by card charge,top up by card,57,False,True,False,{45: 1},[2407],2833,1,1,False
+1639,pending card payment,pending card,45,True,True,False,{45: 1},[2407],1639,1,1,False
+1136,edit personal details,edit,30,False,True,False,{45: 1},[2407],1136,1,1,False
+2124,change pin,change,21,False,True,False,{45: 1},[2407],2124,1,1,False
+3008,verify my identity,verify my,69,False,True,False,{45: 1},[2407],3008,1,1,False
+1704,Refund not showing up,request,52,False,False,False,{45: 1},[2407],1704,1,1,False
+2243,receiving money,receiving,50,False,True,False,{45: 1},[2407],2243,1,1,False
+748,top up limits,top up limits,60,False,True,False,{45: 1},[2407],748,1,1,False
+2649,top up failed,top up failed,59,False,True,False,{45: 1},[2407],2649,1,1,False
+1258,get physical card,get physical,38,False,True,False,{45: 1},[2407],1258,1,1,False
+1318,card payment not recognised,vis,73,False,False,False,{45: 1},[2407],1318,1,1,False
+1770,Refund not showing up,Ref,51,False,True,False,{45: 1},[2407],1770,1,1,False
+217,pending cash withdrawal,pending c,46,False,True,False,{45: 1},[2407],217,1,1,False
+1141,edit personal details,edit,30,False,True,False,{45: 1},[2407],1141,1,1,False
+2078,transfer timing,transfer timing,67,False,True,False,{45: 1},[2407],2078,1,1,False
+402,exchange via app,exchange via,33,False,True,False,{45: 1},[2407],402,1,1,False
+1349,transfer into account,to,62,False,False,False,{45: 1},[2407],1349,1,1,False
+80,exchange rate,exchange rate,32,False,True,False,{45: 1},[2407],80,1,1,False
+1355,top up by card charge,to,62,False,False,False,{45: 1},[2407],1355,1,1,False
+2386,verify top up,verify top,71,False,True,False,{45: 1},[2407],2386,1,1,False
+838,card payment fee charged,card payment fee,15,False,True,False,{45: 1},[2407],838,1,1,False
+2267,receiving money,receiving,50,False,True,False,{45: 1},[2407],2267,1,1,False
+2881,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{45: 1},[2407],2881,1,1,False
+801,card payment fee charged,card payment fee,15,False,True,False,{45: 1},[2407],801,1,1,False
+73,card linking,card linking,13,False,True,False,{45: 1},[2407],73,1,1,False
+1967,transaction charged twice,transaction,63,False,True,False,{45: 1},[2407],1967,1,1,False
+2982,apple pay or google pay,apple,2,False,True,False,{45: 1},[2407],2982,1,1,False
+46,card linking,card linking,13,False,True,False,{45: 1},[2407],46,1,1,False
+2916,wrong amount of cash received,cash withdrawal charge,19,False,False,False,{45: 1},[2407],2916,1,1,False

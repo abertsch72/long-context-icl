@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,transfer timing,receiving,50,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1104,5,1,False
+472,card payment wrong exchange rate,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",472,5,1,False
+1453,card about to expire,card about,9,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1453,5,1,False
+836,pending transfer,pending transfer,48,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",836,5,1,False
+939,card payment wrong exchange rate,transaction,63,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",939,5,1,False
+706,cancel transfer,request,52,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",706,5,1,False
+381,verify my identity,why,74,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",381,5,1,False
+1078,card payment not recognised,re,53,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1078,5,1,False
+451,card payment not recognised,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",451,5,1,False
+1467,order physical card,card about,9,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1467,5,1,False
+649,card payment not recognised,direct,28,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",649,5,1,False
+771,Refund not showing up,Ref,51,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",771,5,1,False
+1279,disposable card limits,get dispos,37,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1279,5,1,False
+657,direct debit payment not recognised,direct,28,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",657,5,1,False
+67,exchange charge,fi,36,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",67,5,1,False
+770,request refund,Ref,51,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",770,5,1,False
+678,card payment not recognised,direct,28,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",678,5,1,False
+954,transaction charged twice,transaction,63,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",954,5,1,False
+916,card not working,card swallowed,18,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",916,5,1,False
+1222,card payment not recognised,order,43,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1222,5,1,False
+601,card payment not recognised,atm,3,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",601,5,1,False
+241,cancel transfer,cancel,8,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",241,5,1,False
+1316,transfer timing,balance,5,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1316,5,1,False
+1229,card payment not recognised,order,43,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1229,5,1,False
+1004,transfer timing,transfer,67,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1004,5,1,False
+1130,transfer timing,failed,35,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1130,5,1,False
+106,card not working,card not,14,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",106,5,1,False
+1041,card payment not recognised,re,53,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1041,5,1,False
+455,card payment wrong exchange rate,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",455,5,1,False
+1380,top up by card charge,top,57,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1380,5,1,False
+327,card payment not recognised,card payment not,16,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",327,5,1,False
+742,transfer timing,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",742,5,1,False
+1439,card not working,activate,0,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1439,5,1,False
+938,card payment wrong exchange rate,transaction,63,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",938,5,1,False
+404,failed transfer,unable,68,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",404,5,1,False
+1212,card payment not recognised,order,43,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1212,5,1,False
+756,card payment not recognised,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",756,5,1,False
+1181,verify top up,verify top,71,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1181,5,1,False
+122,exchange charge,exchange via,33,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",122,5,1,False
+1517,verify my identity,verify my,69,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1517,5,1,False
+227,top up by card charge,pending top,47,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",227,5,1,False
+1321,exchange charge,exchange charge,31,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1321,5,1,False
+396,verify my identity,why,74,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",396,5,1,False
+997,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",997,5,1,False
+924,card payment not recognised,transaction,63,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",924,5,1,False
+245,cancel transfer,cancel,8,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",245,5,1,False
+180,contactless not working,contact,23,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",180,5,1,False
+1170,verify top up,verify top,71,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1170,5,1,False
+665,direct debit payment not recognised,direct,28,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",665,5,1,False
+1026,transfer timing,transfer,67,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1026,5,1,False
+769,card payment not recognised,Ref,51,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",769,5,1,False
+1063,card payment not recognised,re,53,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1063,5,1,False
+422,verify my identity,unable,68,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",422,5,1,False
+131,exchange via app,exchange via,33,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",131,5,1,False
+154,exchange charge,exchange via,33,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",154,5,1,False
+459,card payment not recognised,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",459,5,1,False
+374,why verify identity,why,74,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",374,5,1,False
+15,card payment wrong exchange rate,card payment wrong,17,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",15,5,1,False
+1254,disposable card limits,get dispos,37,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1254,5,1,False
+196,contactless not working,contact,23,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",196,5,1,False
+523,disposable card limits,dispos,29,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",523,5,1,False
+527,card payment not recognised,dispos,29,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",527,5,1,False
+385,why verify identity,why,74,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",385,5,1,False
+616,atm support,atm,3,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",616,5,1,False
+869,request refund,term,55,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",869,5,1,False
+1095,get disposable virtual card,receiving,50,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1095,5,1,False
+1406,card not working,activate,0,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1406,5,1,False
+1368,top up by card charge,top,57,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1368,5,1,False
+347,card payment not recognised,card payment not,16,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",347,5,1,False
+430,verify my identity,unable,68,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",430,5,1,False
+293,transaction charged twice,wrong,75,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",293,5,1,False
+474,card not working,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",474,5,1,False
+136,exchange via app,exchange via,33,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",136,5,1,False
+781,Refund not showing up,Ref,51,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",781,5,1,False
+1019,transfer timing,transfer,67,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1019,5,1,False
+1485,verify my identity,verify my,69,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1485,5,1,False
+738,transfer timing,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",738,5,1,False
+902,card not working,card swallowed,18,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",902,5,1,False
+723,transfer timing,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",723,5,1,False
+87,card payment not recognised,card not,14,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",87,5,1,False
+1185,verify top up,verify top,71,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1185,5,1,False
+744,transfer timing,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",744,5,1,False
+727,transfer timing,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",727,5,1,False
+858,terminate account,term,55,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",858,5,1,False
+358,transaction charged twice,card payment not,16,True,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",358,5,1,False
+1294,transfer timing,balance,5,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1294,5,1,False
+517,top up by card charge,to,62,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",517,5,1,False
+301,wrong amount of cash received,wrong,75,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",301,5,1,False
+805,transfer timing,pending transfer,48,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",805,5,1,False
+1367,card payment not recognised,top,57,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1367,5,1,False
+552,disposable card limits,dispos,29,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",552,5,1,False
+240,cancel transfer,cancel,8,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",240,5,1,False
+1418,activate my card,activate,0,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1418,5,1,False
+202,top up by card charge,pending top,47,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",202,5,1,False
+1044,transaction charged twice,re,53,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1044,5,1,False
+1509,verify my identity,verify my,69,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1509,5,1,False
+286,atm support,wrong,75,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",286,5,1,False
+1335,exchange charge,exchange charge,31,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1335,5,1,False
+513,top up by card charge,to,62,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",513,5,1,False
+458,card payment wrong exchange rate,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",458,5,1,False
+806,transfer timing,pending transfer,48,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",806,5,1,False
+292,atm support,wrong,75,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",292,5,1,False
+580,card payment not recognised,comprom,22,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",580,5,1,False
+128,exchange via app,exchange via,33,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",128,5,1,False
+308,atm support,wrong,75,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",308,5,1,False
+457,card not working,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",457,5,1,False
+178,contactless not working,contact,23,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",178,5,1,False
+624,atm support,atm,3,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",624,5,1,False
+26,wrong amount of cash received,card payment wrong,17,True,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",26,5,1,False
+1276,disposable card limits,get dispos,37,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1276,5,1,False
+837,transfer timing,pending transfer,48,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",837,5,1,False
+1175,verify top up,verify top,71,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1175,5,1,False
+553,disposable card limits,dispos,29,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",553,5,1,False
+446,card payment wrong exchange rate,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",446,5,1,False
+1117,exchange charge,receiving,50,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1117,5,1,False
+214,top up by card charge,pending top,47,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",214,5,1,False
+964,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",964,5,1,False
+421,unable to verify identity,unable,68,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",421,5,1,False
+610,atm support,atm,3,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",610,5,1,False
+191,contactless not working,contact,23,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",191,5,1,False
+666,card payment not recognised,direct,28,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",666,5,1,False
+850,terminate account,term,55,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",850,5,1,False
+1083,get physical card,receiving,50,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1083,5,1,False
+1106,direct debit payment not recognised,receiving,50,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1106,5,1,False
+914,atm support,card swallowed,18,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",914,5,1,False
+504,card payment not recognised,to,62,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",504,5,1,False
+145,exchange charge,exchange via,33,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",145,5,1,False
+1307,transfer timing,balance,5,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1307,5,1,False
+337,card payment not recognised,card payment not,16,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",337,5,1,False
+960,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",960,5,1,False
+1013,transfer timing,transfer,67,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1013,5,1,False
+1486,verify my identity,verify my,69,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1486,5,1,False
+394,verify my identity,why,74,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",394,5,1,False
+1244,card payment not recognised,get dispos,37,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1244,5,1,False
+69,fiat currency support,fi,36,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",69,5,1,False
+395,verify my identity,why,74,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",395,5,1,False
+789,transaction charged twice,Ref,51,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",789,5,1,False
+1331,exchange charge,exchange charge,31,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1331,5,1,False
+490,card payment not recognised,to,62,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",490,5,1,False
+675,direct debit payment not recognised,direct,28,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",675,5,1,False
+644,transaction charged twice,direct,28,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",644,5,1,False
+816,transfer timing,pending transfer,48,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",816,5,1,False
+980,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",980,5,1,False
+971,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",971,5,1,False
+531,card payment not recognised,dispos,29,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",531,5,1,False
+790,failed transfer,Ref,51,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",790,5,1,False
+260,cancel transfer,cancel,8,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",260,5,1,False
+431,verify my identity,unable,68,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",431,5,1,False
+481,card payment not recognised,to,62,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",481,5,1,False
+563,card payment not recognised,comprom,22,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",563,5,1,False
+72,fiat currency support,fi,36,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",72,5,1,False
+112,card not working,card not,14,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",112,5,1,False
+387,verify my identity,why,74,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",387,5,1,False
+1039,transaction charged twice,transfer,67,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1039,5,1,False
+1401,card not working,activate,0,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1401,5,1,False
+967,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",967,5,1,False
+314,wrong amount of cash received,wrong,75,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",314,5,1,False
+890,atm support,card swallowed,18,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",890,5,1,False
+454,card payment wrong exchange rate,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",454,5,1,False
+479,card payment wrong exchange rate,get physical,38,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",479,5,1,False
+647,direct debit payment not recognised,direct,28,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",647,5,1,False
+23,card payment wrong exchange rate,card payment wrong,17,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",23,5,1,False
+1213,get physical card,order,43,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1213,5,1,False
+1215,card payment not recognised,order,43,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1215,5,1,False
+1349,exchange charge,exchange charge,31,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1349,5,1,False
+263,cancel transfer,cancel,8,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",263,5,1,False
+48,fiat currency support,fi,36,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",48,5,1,False
+287,atm support,wrong,75,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",287,5,1,False
+849,request refund,term,55,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",849,5,1,False
+1352,exchange charge,exchange charge,31,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1352,5,1,False
+329,card payment not recognised,card payment not,16,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",329,5,1,False
+1438,activate my card,activate,0,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1438,5,1,False
+29,wrong amount of cash received,card payment wrong,17,True,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",29,5,1,False
+235,pending top up,pending top,47,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",235,5,1,False
+524,disposable card limits,dispos,29,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",524,5,1,False
+372,why verify identity,why,74,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",372,5,1,False
+127,exchange via app,exchange via,33,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",127,5,1,False
+1277,disposable card limits,get dispos,37,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1277,5,1,False
+540,disposable card limits,dispos,29,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",540,5,1,False
+882,card not working,card swallowed,18,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",882,5,1,False
+589,card payment not recognised,comprom,22,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",589,5,1,False
+229,top up by card charge,pending top,47,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",229,5,1,False
+874,request refund,term,55,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",874,5,1,False
+625,atm support,atm,3,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",625,5,1,False
+1195,verify top up,verify top,71,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1195,5,1,False
+819,transfer timing,pending transfer,48,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",819,5,1,False
+1285,transfer timing,balance,5,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1285,5,1,False
+677,card payment not recognised,direct,28,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",677,5,1,False
+203,top up by card charge,pending top,47,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",203,5,1,False
+870,terminate account,term,55,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",870,5,1,False
+695,request refund,request,52,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",695,5,1,False
+219,card payment not recognised,pending top,47,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",219,5,1,False
+189,contactless not working,contact,23,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",189,5,1,False
+382,transaction charged twice,why,74,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",382,5,1,False
+1139,transfer timing,failed,35,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1139,5,1,False
+976,verify my identity,verify source,70,True,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",976,5,1,False
+641,direct debit payment not recognised,direct,28,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",641,5,1,False
+733,transfer timing,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",733,5,1,False
+848,terminate account,term,55,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",848,5,1,False
+1353,exchange charge,exchange charge,31,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1353,5,1,False
+798,request refund,Ref,51,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",798,5,1,False
+1329,exchange charge,exchange charge,31,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1329,5,1,False
+114,card not working,card not,14,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",114,5,1,False
+1396,card payment not recognised,top,57,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1396,5,1,False
+34,wrong amount of cash received,card payment wrong,17,True,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",34,5,1,False
+965,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",965,5,1,False
+1226,card payment not recognised,order,43,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1226,5,1,False
+439,verify my identity,unable,68,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",439,5,1,False
+1411,card payment not recognised,activate,0,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1411,5,1,False
+1218,card payment not recognised,order,43,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1218,5,1,False
+865,terminate account,term,55,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",865,5,1,False
+703,request refund,request,52,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",703,5,1,False
+1362,card payment not recognised,top,57,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1362,5,1,False
+642,direct debit payment not recognised,direct,28,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",642,5,1,False
+1166,top up by card charge,verify top,71,True,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1166,5,1,False
+796,request refund,Ref,51,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",796,5,1,False
+896,atm support,card swallowed,18,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",896,5,1,False
+36,exchange charge,card payment wrong,17,True,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",36,5,1,False
+1278,disposable card limits,get dispos,37,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1278,5,1,False
+326,card payment not recognised,card payment not,16,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",326,5,1,False
+688,request refund,request,52,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",688,5,1,False
+1508,verify my identity,verify my,69,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1508,5,1,False
+990,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",990,5,1,False
+316,transaction charged twice,wrong,75,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",316,5,1,False
+1082,receiving money,receiving,50,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1082,5,1,False
+1096,receiving money,receiving,50,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1096,5,1,False
+784,Refund not showing up,Ref,51,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",784,5,1,False
+840,request refund,term,55,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",840,5,1,False
+190,contactless not working,contact,23,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",190,5,1,False
+843,request refund,term,55,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",843,5,1,False
+1025,transfer timing,transfer,67,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1025,5,1,False
+99,card payment not recognised,card not,14,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",99,5,1,False
+548,disposable card limits,dispos,29,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",548,5,1,False
+1022,transfer timing,transfer,67,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1022,5,1,False
+140,exchange via app,exchange via,33,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",140,5,1,False
+621,card payment not recognised,atm,3,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",621,5,1,False
+919,card not working,card swallowed,18,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",919,5,1,False
+975,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",975,5,1,False
+134,exchange charge,exchange via,33,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",134,5,1,False
+1142,transfer timing,failed,35,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1142,5,1,False
+408,unable to verify identity,unable,68,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",408,5,1,False
+757,transfer timing,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",757,5,1,False
+1034,transfer timing,transfer,67,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1034,5,1,False
+925,transaction charged twice,transaction,63,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",925,5,1,False
+974,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",974,5,1,False
+961,verify source of funds,verify source,70,True,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",961,5,1,False
+759,transfer timing,declined,27,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",759,5,1,False
+510,top up by card charge,to,62,False,False,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",510,5,1,False
+868,terminate account,term,55,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",868,5,1,False
+1444,card about to expire,card about,9,False,True,False,"{17: 1, 71: 1, 16: 1, 70: 1, 8: 1}","[3420, 1221, 4556, 3696, 3873]",1444,5,1,False

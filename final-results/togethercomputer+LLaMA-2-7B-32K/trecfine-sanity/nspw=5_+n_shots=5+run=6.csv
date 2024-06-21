@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4281,human group,human group,28,True,True,True,"{28: 1, 29: 1, 13: 1, 38: 1, 5: 1}","[4281, 5151, 547, 835, 1236]",4281,5,6,False,5
+5151,human individual,human individual,29,True,True,True,"{28: 1, 29: 1, 13: 1, 38: 1, 5: 1}","[4281, 5151, 547, 835, 1236]",5151,5,6,False,5
+547,entity other,entity other,13,True,True,True,"{28: 1, 29: 1, 13: 1, 38: 1, 5: 1}","[4281, 5151, 547, 835, 1236]",547,5,6,False,5
+835,numeric count,numeric count,38,True,True,True,"{28: 1, 29: 1, 13: 1, 38: 1, 5: 1}","[4281, 5151, 547, 835, 1236]",835,5,6,False,5
+1236,entity creation,entity creation,5,True,True,True,"{28: 1, 29: 1, 13: 1, 38: 1, 5: 1}","[4281, 5151, 547, 835, 1236]",1236,5,6,False,5

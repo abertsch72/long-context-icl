@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,transfer timing,receiving,50,True,False,False,"{8: 1, 50: 1}","[4141, 3468]",1104,2,4,False,2
+472,card payment not recognised,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",472,2,4,False,2
+1345,exchange charge,exchange charge,31,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1345,2,4,False,2
+837,transfer timing,pending transfer,48,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",837,2,4,False,2
+940,cancel transfer,transaction,63,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",940,2,4,False,2
+706,cancel transfer,request,52,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",706,2,4,False,2
+381,receiving money,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",381,2,4,False,2
+1259,card payment not recognised,get dispos,37,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1259,2,4,False,2
+451,card payment not recognised,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",451,2,4,False,2
+1467,card payment not recognised,card about,9,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1467,2,4,False,2
+649,topping up by card,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",649,2,4,False,2
+771,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",771,2,4,False,2
+1112,receiving money,receiving,50,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",1112,2,4,False,2
+657,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",657,2,4,False,2
+67,receiving money,fi,36,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",67,2,4,False,2
+770,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",770,2,4,False,2
+678,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",678,2,4,False,2
+955,cancel transfer,transaction,63,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",955,2,4,False,2
+917,atm support,card sw,18,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",917,2,4,False,2
+1222,transfer timing,order,43,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1222,2,4,False,2
+601,atm support,at,3,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",601,2,4,False,2
+241,cancel transfer,cancel,8,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",241,2,4,False,2
+1069,cancel transfer,revert,53,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1069,2,4,False,2
+1229,card payment not recognised,order,43,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1229,2,4,False,2
+1005,transfer timing,transfer,67,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1005,2,4,False,2
+1308,transfer timing,balance,5,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1308,2,4,False,2
+106,card not working,card not,14,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",106,2,4,False,2
+1429,activate my card,activ,0,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1429,2,4,False,2
+455,card payment not recognised,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",455,2,4,False,2
+1380,top up by card charge,top,57,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1380,2,4,False,2
+327,cancel transfer,card payment not,16,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",327,2,4,False,2
+742,transfer timing,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",742,2,4,False,2
+1439,activate my card,activ,0,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1439,2,4,False,2
+939,cancel transfer,transaction,63,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",939,2,4,False,2
+404,verify my identity,unable,68,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",404,2,4,False,2
+1191,receiving money,verify top,71,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1191,2,4,False,2
+756,card payment not recognised,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",756,2,4,False,2
+1181,receiving money,verify top,71,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1181,2,4,False,2
+122,transfer timing,exchange via,33,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",122,2,4,False,2
+1517,receiving money,verify my,69,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1517,2,4,False,2
+227,transfer timing,pending top,47,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",227,2,4,False,2
+1321,exchange charge,exchange charge,31,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1321,2,4,False,2
+396,receiving money,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",396,2,4,False,2
+998,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",998,2,4,False,2
+925,cancel transfer,transaction,63,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",925,2,4,False,2
+245,cancel transfer,cancel,8,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",245,2,4,False,2
+180,contactless not working,contact,23,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",180,2,4,False,2
+1171,receiving money,verify top,71,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1171,2,4,False,2
+665,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",665,2,4,False,2
+1027,transfer timing,transfer,67,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1027,2,4,False,2
+769,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",769,2,4,False,2
+1224,card payment not recognised,order,43,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1224,2,4,False,2
+422,verify my identity,unable,68,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",422,2,4,False,2
+131,exchange via app,exchange via,33,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",131,2,4,False,2
+154,transfer timing,exchange via,33,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",154,2,4,False,2
+459,transfer timing,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",459,2,4,False,2
+374,topping up by card,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",374,2,4,False,2
+15,exchange charge,card payment wrong,17,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",15,2,4,False,2
+1254,card payment not recognised,get dispos,37,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1254,2,4,False,2
+196,contactless not working,contact,23,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",196,2,4,False,2
+523,card payment not recognised,dispos,29,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",523,2,4,False,2
+527,transfer timing,dispos,29,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",527,2,4,False,2
+385,receiving money,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",385,2,4,False,2
+616,transfer timing,at,3,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",616,2,4,False,2
+870,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",870,2,4,False,2
+1095,receiving money,receiving,50,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",1095,2,4,False,2
+1501,verify my identity,verify my,69,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1501,2,4,False,2
+1368,topping up by card,top,57,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1368,2,4,False,2
+347,cancel transfer,card payment not,16,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",347,2,4,False,2
+430,receiving money,unable,68,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",430,2,4,False,2
+293,receiving money,wrong,75,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",293,2,4,False,2
+474,card payment not recognised,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",474,2,4,False,2
+136,transfer timing,exchange via,33,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",136,2,4,False,2
+781,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",781,2,4,False,2
+1020,transfer timing,transfer,67,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1020,2,4,False,2
+1414,activate my card,activ,0,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1414,2,4,False,2
+738,transfer timing,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",738,2,4,False,2
+903,card not working,card sw,18,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",903,2,4,False,2
+723,transfer timing,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",723,2,4,False,2
+87,card payment not recognised,card not,14,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",87,2,4,False,2
+1457,card payment not recognised,card about,9,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1457,2,4,False,2
+744,transfer timing,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",744,2,4,False,2
+727,transfer timing,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",727,2,4,False,2
+859,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",859,2,4,False,2
+358,receiving money,card payment not,16,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",358,2,4,False,2
+1294,transfer timing,balance,5,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1294,2,4,False,2
+517,receiving money,to,62,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",517,2,4,False,2
+301,receiving money,wrong,75,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",301,2,4,False,2
+806,transfer timing,pending transfer,48,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",806,2,4,False,2
+1367,top up by card charge,top,57,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1367,2,4,False,2
+552,card payment not recognised,dispos,29,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",552,2,4,False,2
+240,cancel transfer,cancel,8,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",240,2,4,False,2
+1418,topping up by card,activ,0,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1418,2,4,False,2
+202,transfer timing,pending top,47,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",202,2,4,False,2
+1266,receiving money,get dispos,37,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1266,2,4,False,2
+1509,verify my identity,verify my,69,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1509,2,4,False,2
+286,receiving money,wrong,75,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",286,2,4,False,2
+1335,exchange charge,exchange charge,31,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1335,2,4,False,2
+513,transfer timing,to,62,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",513,2,4,False,2
+458,receiving money,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",458,2,4,False,2
+807,receiving money,pending transfer,48,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",807,2,4,False,2
+292,receiving money,wrong,75,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",292,2,4,False,2
+580,cancel transfer,comprom,22,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",580,2,4,False,2
+128,exchange via app,exchange via,33,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",128,2,4,False,2
+308,receiving money,wrong,75,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",308,2,4,False,2
+457,receiving money,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",457,2,4,False,2
+178,contactless not working,contact,23,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",178,2,4,False,2
+624,topping up by card,at,3,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",624,2,4,False,2
+26,exchange charge,card payment wrong,17,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",26,2,4,False,2
+1276,card payment not recognised,get dispos,37,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1276,2,4,False,2
+838,transfer timing,pending transfer,48,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",838,2,4,False,2
+1175,top up by card charge,verify top,71,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1175,2,4,False,2
+553,card payment not recognised,dispos,29,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",553,2,4,False,2
+446,card payment not recognised,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",446,2,4,False,2
+1117,receiving money,receiving,50,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",1117,2,4,False,2
+214,receiving money,pending top,47,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",214,2,4,False,2
+965,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",965,2,4,False,2
+421,receiving money,unable,68,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",421,2,4,False,2
+610,atm support,at,3,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",610,2,4,False,2
+191,contactless not working,contact,23,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",191,2,4,False,2
+666,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",666,2,4,False,2
+851,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",851,2,4,False,2
+1083,receiving money,receiving,50,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",1083,2,4,False,2
+1106,receiving money,receiving,50,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",1106,2,4,False,2
+915,atm support,card sw,18,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",915,2,4,False,2
+504,topping up by card,to,62,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",504,2,4,False,2
+145,exchange via app,exchange via,33,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",145,2,4,False,2
+1307,transfer timing,balance,5,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1307,2,4,False,2
+337,cancel transfer,card payment not,16,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",337,2,4,False,2
+961,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",961,2,4,False,2
+1014,transfer timing,transfer,67,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1014,2,4,False,2
+1486,verify my identity,verify my,69,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1486,2,4,False,2
+394,receiving money,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",394,2,4,False,2
+1244,card payment not recognised,get dispos,37,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1244,2,4,False,2
+69,exchange via app,fi,36,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",69,2,4,False,2
+395,receiving money,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",395,2,4,False,2
+789,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",789,2,4,False,2
+1448,card payment not recognised,card about,9,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1448,2,4,False,2
+490,transfer timing,to,62,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",490,2,4,False,2
+675,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",675,2,4,False,2
+644,transfer timing,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",644,2,4,False,2
+817,transfer timing,pending transfer,48,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",817,2,4,False,2
+981,transfer timing,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",981,2,4,False,2
+972,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",972,2,4,False,2
+531,card payment not recognised,dispos,29,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",531,2,4,False,2
+790,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",790,2,4,False,2
+260,cancel transfer,cancel,8,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",260,2,4,False,2
+431,verify my identity,unable,68,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",431,2,4,False,2
+481,receiving money,to,62,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",481,2,4,False,2
+563,card not working,comprom,22,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",563,2,4,False,2
+72,receiving money,fi,36,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",72,2,4,False,2
+112,card not working,card not,14,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",112,2,4,False,2
+387,verify my identity,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",387,2,4,False,2
+1053,receiving money,revert,53,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1053,2,4,False,2
+1401,activate my card,activ,0,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1401,2,4,False,2
+968,transfer timing,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",968,2,4,False,2
+314,receiving money,wrong,75,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",314,2,4,False,2
+891,card not working,card sw,18,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",891,2,4,False,2
+454,card payment not recognised,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",454,2,4,False,2
+479,transfer timing,get physical,38,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",479,2,4,False,2
+647,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",647,2,4,False,2
+23,exchange charge,card payment wrong,17,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",23,2,4,False,2
+1213,card payment not recognised,order,43,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1213,2,4,False,2
+1215,card payment not recognised,order,43,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1215,2,4,False,2
+1349,exchange charge,exchange charge,31,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1349,2,4,False,2
+263,cancel transfer,cancel,8,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",263,2,4,False,2
+48,exchange via app,fi,36,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",48,2,4,False,2
+287,receiving money,wrong,75,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",287,2,4,False,2
+850,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",850,2,4,False,2
+1352,exchange charge,exchange charge,31,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1352,2,4,False,2
+329,cancel transfer,card payment not,16,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",329,2,4,False,2
+1438,activate my card,activ,0,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1438,2,4,False,2
+29,exchange charge,card payment wrong,17,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",29,2,4,False,2
+235,receiving money,pending top,47,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",235,2,4,False,2
+524,receiving money,dispos,29,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",524,2,4,False,2
+372,receiving money,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",372,2,4,False,2
+127,exchange via app,exchange via,33,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",127,2,4,False,2
+1152,transfer timing,failed,35,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1152,2,4,False,2
+540,topping up by card,dispos,29,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",540,2,4,False,2
+883,topping up by card,card sw,18,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",883,2,4,False,2
+589,card not working,comprom,22,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",589,2,4,False,2
+229,receiving money,pending top,47,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",229,2,4,False,2
+875,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",875,2,4,False,2
+625,atm support,at,3,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",625,2,4,False,2
+1419,activate my card,activ,0,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1419,2,4,False,2
+820,transfer timing,pending transfer,48,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",820,2,4,False,2
+1285,transfer timing,balance,5,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1285,2,4,False,2
+677,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",677,2,4,False,2
+203,receiving money,pending top,47,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",203,2,4,False,2
+871,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",871,2,4,False,2
+695,cancel transfer,request,52,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",695,2,4,False,2
+219,transfer timing,pending top,47,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",219,2,4,False,2
+189,contactless not working,contact,23,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",189,2,4,False,2
+382,transfer timing,why,74,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",382,2,4,False,2
+1340,exchange charge,exchange charge,31,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1340,2,4,False,2
+977,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",977,2,4,False,2
+641,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",641,2,4,False,2
+733,transfer timing,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",733,2,4,False,2
+849,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",849,2,4,False,2
+1353,exchange charge,exchange charge,31,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1353,2,4,False,2
+799,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",799,2,4,False,2
+1329,exchange charge,exchange charge,31,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1329,2,4,False,2
+114,card payment not recognised,card not,14,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",114,2,4,False,2
+1396,receiving money,top,57,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1396,2,4,False,2
+34,exchange charge,card payment wrong,17,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",34,2,4,False,2
+966,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",966,2,4,False,2
+1512,receiving money,verify my,69,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1512,2,4,False,2
+439,verify my identity,unable,68,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",439,2,4,False,2
+1411,card payment not recognised,activ,0,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1411,2,4,False,2
+1218,card payment not recognised,order,43,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1218,2,4,False,2
+866,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",866,2,4,False,2
+703,receiving money,request,52,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",703,2,4,False,2
+1212,card payment not recognised,order,43,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1212,2,4,False,2
+642,cancel transfer,direct,28,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",642,2,4,False,2
+1166,receiving money,verify top,71,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1166,2,4,False,2
+798,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",798,2,4,False,2
+897,card not working,card sw,18,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",897,2,4,False,2
+36,exchange charge,card payment wrong,17,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",36,2,4,False,2
+1278,card payment not recognised,get dispos,37,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1278,2,4,False,2
+326,receiving money,card payment not,16,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",326,2,4,False,2
+688,cancel transfer,request,52,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",688,2,4,False,2
+1508,receiving money,verify my,69,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1508,2,4,False,2
+991,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",991,2,4,False,2
+316,receiving money,wrong,75,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",316,2,4,False,2
+1082,receiving money,receiving,50,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",1082,2,4,False,2
+1096,receiving money,receiving,50,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",1096,2,4,False,2
+784,receiving money,Ref,51,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",784,2,4,False,2
+841,transfer timing,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",841,2,4,False,2
+190,contactless not working,contact,23,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",190,2,4,False,2
+844,transfer timing,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",844,2,4,False,2
+1026,transfer timing,transfer,67,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1026,2,4,False,2
+99,card not working,card not,14,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",99,2,4,False,2
+548,topping up by card,dispos,29,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",548,2,4,False,2
+1023,transfer timing,transfer,67,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1023,2,4,False,2
+140,exchange charge,exchange via,33,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",140,2,4,False,2
+621,atm support,at,3,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",621,2,4,False,2
+920,cancel transfer,transaction,63,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",920,2,4,False,2
+976,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",976,2,4,False,2
+134,transfer timing,exchange via,33,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",134,2,4,False,2
+1109,receiving money,receiving,50,True,True,False,"{8: 1, 50: 1}","[4141, 3468]",1109,2,4,False,2
+408,topping up by card,unable,68,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",408,2,4,False,2
+757,transfer timing,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",757,2,4,False,2
+1034,transfer timing,transfer,67,False,True,False,"{8: 1, 50: 1}","[4141, 3468]",1034,2,4,False,2
+926,cancel transfer,transaction,63,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",926,2,4,False,2
+975,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",975,2,4,False,2
+962,receiving money,verify source,70,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",962,2,4,False,2
+759,transfer timing,decl,27,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",759,2,4,False,2
+510,transfer timing,to,62,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",510,2,4,False,2
+869,cancel transfer,terminate,55,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",869,2,4,False,2
+1122,transfer timing,failed,35,False,False,False,"{8: 1, 50: 1}","[4141, 3468]",1122,2,4,False,2

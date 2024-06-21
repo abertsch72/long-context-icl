@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4527,cash withdrawal not recognised,cash withdrawal not,20,True,True,False,"{20: 1, 70: 1}","[4527, 8353]",4527,2,4,False,2
+8353,verify source of funds,verify source,70,True,True,False,"{20: 1, 70: 1}","[4527, 8353]",8353,2,4,False,2
+330,cash withdrawal not recognised,pending c,46,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",330,2,4,False,2
+3105,card acceptance,card accept,10,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",3105,2,4,False,2
+2732,virtual card not working,dispos,29,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2732,2,4,False,2
+250,verify source of funds,direct,28,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",250,2,4,False,2
+7043,cancel transfer,cancel,8,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",7043,2,4,False,2
+1239,top up failed,pending top,47,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1239,2,4,False,2
+8330,verify source of funds,age,1,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8330,2,4,False,2
+4585,verify top up,apple,2,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4585,2,4,False,2
+8006,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8006,2,4,False,2
+8396,lost or stolen phone,lost or stolen phone,42,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",8396,2,4,False,2
+7590,top up limits,top up by card,57,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7590,2,4,False,2
+8944,pin blocked,pin,49,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",8944,2,4,False,2
+2046,verify source of funds,direct,28,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2046,2,4,False,2
+7701,atm support,cash withdrawal charge,19,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7701,2,4,False,2
+4434,verify my identity,virtual,72,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4434,2,4,False,2
+2555,verify source of funds,why,74,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2555,2,4,False,2
+4821,top up failed,pending top,47,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4821,2,4,False,2
+5385,verify source of funds,top up by bank,56,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5385,2,4,False,2
+4603,top up failed,top up revert,61,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4603,2,4,False,2
+3317,verify source of funds,verify source,70,True,True,False,"{20: 1, 70: 1}","[4527, 8353]",3317,2,4,False,2
+5044,virtual card not working,getting virtual,40,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5044,2,4,False,2
+2878,verify source of funds,age,1,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2878,2,4,False,2
+3944,card delivery estimate,card arrival,11,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3944,2,4,False,2
+6507,verify source of funds,failed,35,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6507,2,4,False,2
+9296,age limit,age,1,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",9296,2,4,False,2
+2164,card about to expire,card about,9,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",2164,2,4,False,2
+5771,verify source of funds,verify my,69,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5771,2,4,False,2
+3965,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3965,2,4,False,2
+4517,transfer fee charged,top up by bank,56,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4517,2,4,False,2
+4474,top up by card charge,top up by card,57,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",4474,2,4,False,2
+3345,verify top up,top up by card,57,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3345,2,4,False,2
+8389,transfer not received by recipient,benef,7,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8389,2,4,False,2
+9280,verify source of funds,card payment fee,15,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9280,2,4,False,2
+1886,wrong amount of cash received,cancel,8,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1886,2,4,False,2
+3401,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3401,2,4,False,2
+5734,verify my identity,pending c,46,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5734,2,4,False,2
+1748,card not working,card arrival,11,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1748,2,4,False,2
+3224,get physical card,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3224,2,4,False,2
+499,verify my identity,Ref,51,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",499,2,4,False,2
+8500,verify my identity,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8500,2,4,False,2
+9095,cancel transfer,cancel,8,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",9095,2,4,False,2
+8587,verify source of funds,pending c,46,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8587,2,4,False,2
+3800,top up by card charge,pending top,47,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3800,2,4,False,2
+2814,transfer not received by recipient,failed,35,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2814,2,4,False,2
+954,verify source of funds,transaction,63,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",954,2,4,False,2
+2743,top up limits,top up limits,60,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",2743,2,4,False,2
+479,card payment not recognised,declined card,25,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",479,2,4,False,2
+7548,card not working,card not,14,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",7548,2,4,False,2
+409,verify my identity,card payment fee,15,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",409,2,4,False,2
+955,cash withdrawal not recognised,wrong amount,75,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",955,2,4,False,2
+3653,fiat currency support,fi,36,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",3653,2,4,False,2
+2660,card not working,card arrival,11,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2660,2,4,False,2
+6368,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6368,2,4,False,2
+7463,cancel transfer,cancel,8,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",7463,2,4,False,2
+1100,verify source of funds,dispos,29,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1100,2,4,False,2
+2380,change pin,exchange via,33,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2380,2,4,False,2
+5152,top up failed,top up revert,61,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5152,2,4,False,2
+211,transfer not received by recipient,transfer not,66,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",211,2,4,False,2
+1567,card delivery estimate,card arrival,11,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1567,2,4,False,2
+4635,request refund,get dispos,37,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4635,2,4,False,2
+9356,activate my card,activ,0,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",9356,2,4,False,2
+6302,verify my identity,transfer fee,64,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6302,2,4,False,2
+2875,verify source of funds,why,74,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2875,2,4,False,2
+9034,transaction charged twice,benef,7,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9034,2,4,False,2
+1043,exchange rate,wrong exchange,76,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1043,2,4,False,2
+6615,exchange rate,wrong exchange,76,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6615,2,4,False,2
+5502,verify top up,apple,2,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5502,2,4,False,2
+1584,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1584,2,4,False,2
+4836,exchange rate,exchange charge,31,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4836,2,4,False,2
+2841,card payment fee charged,order,43,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2841,2,4,False,2
+932,cash withdrawal not recognised,top up revert,61,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",932,2,4,False,2
+3502,verify source of funds,revert,53,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3502,2,4,False,2
+5713,verify source of funds,direct,28,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5713,2,4,False,2
+7177,verify source of funds,receiving,50,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7177,2,4,False,2
+9038,change pin,change,21,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",9038,2,4,False,2
+7777,transaction charged twice,top up revert,61,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7777,2,4,False,2
+8732,card not working,order,43,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8732,2,4,False,2
+4532,verify my identity,why,74,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4532,2,4,False,2
+9227,verify source of funds,cash withdrawal not,20,True,False,False,"{20: 1, 70: 1}","[4527, 8353]",9227,2,4,False,2
+5549,verify source of funds,fi,36,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5549,2,4,False,2
+3755,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3755,2,4,False,2
+6751,top up failed,to,62,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6751,2,4,False,2
+6142,verify top up,pending top,47,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6142,2,4,False,2
+2208,top up limits,top up by card,57,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2208,2,4,False,2
+3038,verify source of funds,benef,7,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3038,2,4,False,2
+1021,verify my identity,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1021,2,4,False,2
+8147,get physical card,pass,44,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8147,2,4,False,2
+9393,exchange rate,exchange via,33,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9393,2,4,False,2
+9066,verify source of funds,top up by bank,56,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9066,2,4,False,2
+9484,card not working,card not,14,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",9484,2,4,False,2
+7393,change pin,pass,44,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7393,2,4,False,2
+6679,verify source of funds,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6679,2,4,False,2
+5909,cash withdrawal not recognised,pending c,46,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5909,2,4,False,2
+2646,automatic top up,automatic,4,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",2646,2,4,False,2
+6071,verify my identity,Ref,51,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6071,2,4,False,2
+4302,pin blocked,pin,49,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",4302,2,4,False,2
+2277,transfer fee charged,transfer fee,64,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",2277,2,4,False,2
+8,cancel transfer,direct,28,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8,2,4,False,2
+6011,cash withdrawal not recognised,cash withdrawal charge,19,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6011,2,4,False,2
+3174,verify source of funds,dispos,29,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3174,2,4,False,2
+1050,verify my identity,Ref,51,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1050,2,4,False,2
+8013,card not working,card about,9,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8013,2,4,False,2
+3695,verify source of funds,extra,34,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3695,2,4,False,2
+1523,verify top up,verify top,71,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",1523,2,4,False,2
+4351,pending transfer,pending transfer,48,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",4351,2,4,False,2
+1656,verify my identity,comprom,22,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1656,2,4,False,2
+4507,verify source of funds,order,43,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4507,2,4,False,2
+8512,exchange rate,exchange rate,32,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",8512,2,4,False,2
+8143,verify my identity,receiving,50,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8143,2,4,False,2
+5896,verify my identity,unable,68,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5896,2,4,False,2
+9586,verify source of funds,revert,53,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9586,2,4,False,2
+7063,verify source of funds,verify my,69,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7063,2,4,False,2
+9650,verify source of funds,card arrival,11,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9650,2,4,False,2
+6897,get physical card,request,52,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6897,2,4,False,2
+685,card delivery estimate,card about,9,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",685,2,4,False,2
+114,card not working,lost or stolen card,41,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",114,2,4,False,2
+6032,verify source of funds,card payment not,16,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6032,2,4,False,2
+1829,verify source of funds,benef,7,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1829,2,4,False,2
+4447,top up by bank transfer charge,transfer into,65,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4447,2,4,False,2
+8441,card not working,country,24,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8441,2,4,False,2
+4684,verify source of funds,transaction,63,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4684,2,4,False,2
+3561,why verify identity,cash withdrawal charge,19,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3561,2,4,False,2
+4138,extra charge on statement,extra,34,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",4138,2,4,False,2
+7361,verify my identity,why,74,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7361,2,4,False,2
+9406,cash withdrawal not recognised,wrong amount,75,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9406,2,4,False,2
+4298,transfer fee charged,transfer fee,64,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",4298,2,4,False,2
+2386,top up by card charge,automatic,4,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2386,2,4,False,2
+7782,transfer timing,transfer timing,67,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",7782,2,4,False,2
+4288,change pin,change,21,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",4288,2,4,False,2
+4,verify source of funds,revert,53,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4,2,4,False,2
+5435,verify source of funds,cash withdrawal not,20,True,False,False,"{20: 1, 70: 1}","[4527, 8353]",5435,2,4,False,2
+5724,top up by card charge,supported,54,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5724,2,4,False,2
+276,exchange rate,exchange rate,32,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",276,2,4,False,2
+60,verify source of funds,top up by bank,56,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",60,2,4,False,2
+6045,verify top up,apple,2,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6045,2,4,False,2
+6033,verify source of funds,card payment not,16,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6033,2,4,False,2
+7786,pending transfer,pending card,45,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7786,2,4,False,2
+9767,verify my identity,card payment fee,15,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9767,2,4,False,2
+2921,get physical card,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2921,2,4,False,2
+4219,verify my identity,why,74,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4219,2,4,False,2
+1261,pin blocked,pin,49,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",1261,2,4,False,2
+7135,card payment not recognised,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7135,2,4,False,2
+8058,card not working,lost or stolen card,41,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8058,2,4,False,2
+6192,verify source of funds,country,24,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6192,2,4,False,2
+4910,verify my identity,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4910,2,4,False,2
+9306,verify source of funds,verify source,70,True,True,False,"{20: 1, 70: 1}","[4527, 8353]",9306,2,4,False,2
+2125,verify my identity,declined card,25,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2125,2,4,False,2
+6750,verify my identity,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6750,2,4,False,2
+8403,card not working,dispos,29,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8403,2,4,False,2
+948,exchange rate,wrong exchange,76,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",948,2,4,False,2
+2643,verify source of funds,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2643,2,4,False,2
+7341,verify source of funds,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7341,2,4,False,2
+901,order physical card,request,52,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",901,2,4,False,2
+9192,verify my identity,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9192,2,4,False,2
+8634,verify source of funds,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8634,2,4,False,2
+2859,top up failed,top up failed,59,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",2859,2,4,False,2
+1016,activate my card,activ,0,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",1016,2,4,False,2
+3485,verify source of funds,top up by bank,56,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3485,2,4,False,2
+1483,verify source of funds,verify source,70,True,True,False,"{20: 1, 70: 1}","[4527, 8353]",1483,2,4,False,2
+7752,verify top up,apple,2,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7752,2,4,False,2
+2009,verify my identity,transfer not,66,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2009,2,4,False,2
+6687,card not working,getting spare,39,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6687,2,4,False,2
+7383,activate my card,card linking,13,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7383,2,4,False,2
+574,get physical card,lost or stolen phone,42,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",574,2,4,False,2
+2811,declined transfer,declined transfer,27,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",2811,2,4,False,2
+7504,card not working,card payment fee,15,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7504,2,4,False,2
+1744,get physical card,card delivery,12,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1744,2,4,False,2
+4564,card not working,card not,14,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",4564,2,4,False,2
+4485,verify my identity,unable,68,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4485,2,4,False,2
+7267,verify my identity,card payment fee,15,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7267,2,4,False,2
+3307,verify my identity,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3307,2,4,False,2
+1933,transfer fee charged,top up by bank,56,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1933,2,4,False,2
+3645,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3645,2,4,False,2
+8457,verify my identity,declined transfer,27,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8457,2,4,False,2
+6496,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6496,2,4,False,2
+8994,exchange rate,wrong exchange,76,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8994,2,4,False,2
+2160,card not working,card about,9,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2160,2,4,False,2
+3950,cash withdrawal not recognised,cash withdrawal charge,19,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3950,2,4,False,2
+6257,verify source of funds,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6257,2,4,False,2
+9032,verify my identity,Ref,51,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9032,2,4,False,2
+745,card not working,card about,9,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",745,2,4,False,2
+6398,verify my identity,pending card,45,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6398,2,4,False,2
+7646,cancel transfer,terminate,55,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7646,2,4,False,2
+1343,reverted card payment?,revert,53,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",1343,2,4,False,2
+7589,exchange rate,exchange via,33,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7589,2,4,False,2
+9727,pending transfer,pending card,45,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9727,2,4,False,2
+267,verify source of funds,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",267,2,4,False,2
+560,exchange rate,exchange rate,32,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",560,2,4,False,2
+8737,verify source of funds,declined card,25,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8737,2,4,False,2
+3392,get physical card,get physical,38,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",3392,2,4,False,2
+5787,request refund,getting spare,39,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5787,2,4,False,2
+7875,card delivery estimate,card arrival,11,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7875,2,4,False,2
+7274,cancel transfer,request,52,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7274,2,4,False,2
+4556,verify source of funds,declined card,25,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4556,2,4,False,2
+6869,transfer into account,supported,54,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6869,2,4,False,2
+1398,card delivery estimate,card delivery,12,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",1398,2,4,False,2
+9030,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9030,2,4,False,2
+2883,transfer not received by recipient,failed,35,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2883,2,4,False,2
+3498,pending card payment,pending transfer,48,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3498,2,4,False,2
+4936,verify source of funds,extra,34,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4936,2,4,False,2
+6986,top up failed,verify top,71,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6986,2,4,False,2
+4855,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4855,2,4,False,2
+6077,atm support,wrong exchange,76,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6077,2,4,False,2
+6617,transfer fee charged,transfer into,65,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6617,2,4,False,2
+6564,verify source of funds,revert,53,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6564,2,4,False,2
+4008,get physical card,receiving,50,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4008,2,4,False,2
+1444,get physical card,vis,73,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1444,2,4,False,2
+4346,verify my identity,transfer not,66,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4346,2,4,False,2
+8505,verify my identity,pending transfer,48,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8505,2,4,False,2
+8225,verify my identity,declined card,25,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8225,2,4,False,2
+1931,verify source of funds,lost or stolen phone,42,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1931,2,4,False,2
+9448,verify source of funds,at,3,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9448,2,4,False,2
+3764,verify source of funds,verify my,69,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3764,2,4,False,2
+5251,verify source of funds,card payment not,16,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5251,2,4,False,2
+8773,verify my identity,pending card,45,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8773,2,4,False,2
+4104,verify source of funds,top up by c,58,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4104,2,4,False,2
+8430,verify my identity,unable,68,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8430,2,4,False,2
+8535,contactless not working,contact,23,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",8535,2,4,False,2
+3850,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3850,2,4,False,2
+1299,change pin,edit,30,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1299,2,4,False,2
+139,exchange rate,exchange charge,31,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",139,2,4,False,2
+3942,verify source of funds,Ref,51,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3942,2,4,False,2
+7700,lost or stolen card,card sw,18,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7700,2,4,False,2
+6967,transfer not received by recipient,failed,35,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6967,2,4,False,2
+465,order physical card,request,52,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",465,2,4,False,2
+5765,verify source of funds,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5765,2,4,False,2
+1342,terminate account,terminate,55,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",1342,2,4,False,2
+3021,verify source of funds,age,1,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3021,2,4,False,2
+6789,exchange rate,exchange charge,31,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",6789,2,4,False,2
+7853,verify source of funds,declined transfer,27,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7853,2,4,False,2
+2015,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",2015,2,4,False,2
+541,verify my identity,unable,68,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",541,2,4,False,2
+5230,top up failed,top up revert,61,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",5230,2,4,False,2
+1082,verify top up,verify top,71,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",1082,2,4,False,2
+571,transfer timing,transfer timing,67,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",571,2,4,False,2
+5675,lost or stolen card,cash withdrawal not,20,True,False,False,"{20: 1, 70: 1}","[4527, 8353]",5675,2,4,False,2
+9116,card not working,lost or stolen card,41,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",9116,2,4,False,2
+4305,verify source of funds,declined transfer,27,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4305,2,4,False,2
+3287,verify my identity,transaction,63,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",3287,2,4,False,2
+1232,exchange rate,exchange rate,32,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",1232,2,4,False,2
+8781,verify source of funds,verify source,70,True,True,False,"{20: 1, 70: 1}","[4527, 8353]",8781,2,4,False,2
+226,cash withdrawal not recognised,card sw,18,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",226,2,4,False,2
+4522,card not working,card linking,13,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4522,2,4,False,2
+1977,verify source of funds,wrong exchange,76,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",1977,2,4,False,2
+4317,exchange rate,card payment wrong,17,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",4317,2,4,False,2
+7593,verify source of funds,card payment fee,15,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",7593,2,4,False,2
+6458,age limit,age,1,False,True,False,"{20: 1, 70: 1}","[4527, 8353]",6458,2,4,False,2
+8027,exchange rate,exchange charge,31,False,False,False,"{20: 1, 70: 1}","[4527, 8353]",8027,2,4,False,2

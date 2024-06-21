@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+15,numeric date,numeric date,39,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1}","[15, 2726, 4613, 123, 2305]",15,5,9,False,5
+2726,description manner,description manner,26,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1}","[15, 2726, 4613, 123, 2305]",2726,5,9,False,5
+4613,human individual,human individual,29,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1}","[15, 2726, 4613, 123, 2305]",4613,5,9,False,5
+123,entity animal,entity animal,2,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1}","[15, 2726, 4613, 123, 2305]",123,5,9,False,5
+2305,entity sport,entity sport,17,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1}","[15, 2726, 4613, 123, 2305]",2305,5,9,False,5

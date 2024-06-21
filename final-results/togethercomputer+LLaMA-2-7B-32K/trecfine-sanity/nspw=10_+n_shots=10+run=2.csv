@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+443,entity event,entity event,8,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",443,10,2,False,10
+2795,location other,location other,35,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",2795,10,2,False,10
+3466,numeric date,numeric date,39,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",3466,10,2,False,10
+502,numeric date,numeric date,39,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",502,10,2,False,10
+4110,location other,location other,35,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",4110,10,2,False,10
+3670,numeric order,numeric order,42,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",3670,10,2,False,10
+4819,human individual,human individual,29,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",4819,10,2,False,10
+52,entity creation,entity creation,5,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",52,10,2,False,10
+2616,numeric money,numeric money,41,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",2616,10,2,False,10
+126,description manner,description manner,26,True,True,True,"{8: 1, 35: 2, 39: 2, 42: 1, 29: 1, 5: 1, 41: 1, 26: 1}","[443, 2795, 3466, 502, 4110, 3670, 4819, 52, 2616, 126]",126,10,2,False,10

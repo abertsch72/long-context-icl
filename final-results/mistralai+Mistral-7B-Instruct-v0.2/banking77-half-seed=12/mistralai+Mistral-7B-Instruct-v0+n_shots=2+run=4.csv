@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1104,2,4,False
+472,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",472,2,4,False
+1345,order physical card,order,43,True,True,False,"{32: 1, 43: 1}","[3063, 41]",1345,2,4,False
+838,pending transfer,pending card,45,False,False,False,"{32: 1, 43: 1}","[3063, 41]",838,2,4,False
+942,card not working,declined,25,False,False,False,"{32: 1, 43: 1}","[3063, 41]",942,2,4,False
+707,atm support,atm,3,False,True,False,"{32: 1, 43: 1}","[3063, 41]",707,2,4,False
+378,contactless not working,contact,23,False,True,False,"{32: 1, 43: 1}","[3063, 41]",378,2,4,False
+1258,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1258,2,4,False
+451,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",451,2,4,False
+1467,top up reverted,top up by card,57,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1467,2,4,False
+652,order physical card,dispos,29,False,False,False,"{32: 1, 43: 1}","[3063, 41]",652,2,4,False
+774,passcode forgotten,pass,44,False,True,False,"{32: 1, 43: 1}","[3063, 41]",774,2,4,False
+1112,balance not updated after bank transfer,verify,70,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1112,2,4,False
+659,order physical card,dispos,29,False,False,False,"{32: 1, 43: 1}","[3063, 41]",659,2,4,False
+67,exchange rate,exchange,32,True,True,False,"{32: 1, 43: 1}","[3063, 41]",67,2,4,False
+773,passcode forgotten,pass,44,False,True,False,"{32: 1, 43: 1}","[3063, 41]",773,2,4,False
+679,disposable card limits,dispos,29,False,True,False,"{32: 1, 43: 1}","[3063, 41]",679,2,4,False
+956,card not working,declined,25,False,False,False,"{32: 1, 43: 1}","[3063, 41]",956,2,4,False
+919,order physical card,request,52,False,False,False,"{32: 1, 43: 1}","[3063, 41]",919,2,4,False
+1221,direct debit payment not recognised,receiving,50,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1221,2,4,False
+605,transfer not received by recipient,to,62,False,False,False,"{32: 1, 43: 1}","[3063, 41]",605,2,4,False
+240,card not working,card not,14,False,True,False,"{32: 1, 43: 1}","[3063, 41]",240,2,4,False
+1069,card not working,card swallowed,18,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1069,2,4,False
+1228,transfer not received by recipient,receiving,50,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1228,2,4,False
+1006,request refund,term,55,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1006,2,4,False
+1308,top up by cash or cheque,top up by cash,58,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1308,2,4,False
+106,contactless not working,extra,34,False,False,False,"{32: 1, 43: 1}","[3063, 41]",106,2,4,False
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1429,2,4,False
+455,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",455,2,4,False
+1380,virtual card not working,virtual,72,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1380,2,4,False
+325,verify source of funds,pin,49,False,False,False,"{32: 1, 43: 1}","[3063, 41]",325,2,4,False
+745,direct debit payment not recognised,direct,28,False,True,False,"{32: 1, 43: 1}","[3063, 41]",745,2,4,False
+1439,transfer timing,balance,5,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1439,2,4,False
+941,card not working,declined,25,False,False,False,"{32: 1, 43: 1}","[3063, 41]",941,2,4,False
+401,card not working,pending top,47,False,False,False,"{32: 1, 43: 1}","[3063, 41]",401,2,4,False
+1190,change pin,change,21,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1190,2,4,False
+759,declined card payment,direct,28,False,False,False,"{32: 1, 43: 1}","[3063, 41]",759,2,4,False
+1180,change pin,change,21,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1180,2,4,False
+123,exchange rate,fi,36,False,False,False,"{32: 1, 43: 1}","[3063, 41]",123,2,4,False
+1517,activate my card,activate,0,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1517,2,4,False
+227,automatic top up,automatic,4,False,True,False,"{32: 1, 43: 1}","[3063, 41]",227,2,4,False
+1321,order physical card,order,43,True,True,False,"{32: 1, 43: 1}","[3063, 41]",1321,2,4,False
+393,contactless not working,contact,23,False,True,False,"{32: 1, 43: 1}","[3063, 41]",393,2,4,False
+999,transfer timing,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",999,2,4,False
+927,card not working,declined,25,False,False,False,"{32: 1, 43: 1}","[3063, 41]",927,2,4,False
+244,card not working,card not,14,False,True,False,"{32: 1, 43: 1}","[3063, 41]",244,2,4,False
+181,order physical card,card delivery,12,False,False,False,"{32: 1, 43: 1}","[3063, 41]",181,2,4,False
+1170,change pin,change,21,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1170,2,4,False
+666,virtual card not working,dispos,29,False,False,False,"{32: 1, 43: 1}","[3063, 41]",666,2,4,False
+1028,terminate account,term,55,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1028,2,4,False
+772,verify source of funds,pass,44,False,False,False,"{32: 1, 43: 1}","[3063, 41]",772,2,4,False
+1223,exchange rate,receiving,50,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1223,2,4,False
+421,top up reverted,pending top,47,False,False,False,"{32: 1, 43: 1}","[3063, 41]",421,2,4,False
+132,exchange rate,fi,36,False,False,False,"{32: 1, 43: 1}","[3063, 41]",132,2,4,False
+155,exchange rate,fi,36,False,False,False,"{32: 1, 43: 1}","[3063, 41]",155,2,4,False
+459,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",459,2,4,False
+371,contactless not working,contact,23,False,True,False,"{32: 1, 43: 1}","[3063, 41]",371,2,4,False
+15,activate my card,card link,13,False,False,False,"{32: 1, 43: 1}","[3063, 41]",15,2,4,False
+1253,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1253,2,4,False
+197,order physical card,card delivery,12,False,False,False,"{32: 1, 43: 1}","[3063, 41]",197,2,4,False
+527,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",527,2,4,False
+531,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",531,2,4,False
+382,contactless not working,contact,23,False,True,False,"{32: 1, 43: 1}","[3063, 41]",382,2,4,False
+620,transfer not received by recipient,to,62,False,False,False,"{32: 1, 43: 1}","[3063, 41]",620,2,4,False
+871,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",871,2,4,False
+1095,verify source of funds,verify,70,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1095,2,4,False
+1501,card not working,activate,0,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1501,2,4,False
+1368,virtual card not working,virtual,72,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1368,2,4,False
+344,pin blocked,pin,49,False,True,False,"{32: 1, 43: 1}","[3063, 41]",344,2,4,False
+429,top up reverted,pending top,47,False,False,False,"{32: 1, 43: 1}","[3063, 41]",429,2,4,False
+291,age limit,age,1,False,True,False,"{32: 1, 43: 1}","[3063, 41]",291,2,4,False
+474,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",474,2,4,False
+137,fiat currency support,fi,36,False,True,False,"{32: 1, 43: 1}","[3063, 41]",137,2,4,False
+784,passcode forgotten,pass,44,False,True,False,"{32: 1, 43: 1}","[3063, 41]",784,2,4,False
+1021,request refund,term,55,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1021,2,4,False
+1414,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1414,2,4,False
+741,request refund,direct,28,False,False,False,"{32: 1, 43: 1}","[3063, 41]",741,2,4,False
+904,request refund,request,52,False,True,False,"{32: 1, 43: 1}","[3063, 41]",904,2,4,False
+723,request refund,direct,28,False,False,False,"{32: 1, 43: 1}","[3063, 41]",723,2,4,False
+87,card not working,extra,34,False,False,False,"{32: 1, 43: 1}","[3063, 41]",87,2,4,False
+1457,card acceptance,top up by card,57,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1457,2,4,False
+747,direct debit payment not recognised,direct,28,False,True,False,"{32: 1, 43: 1}","[3063, 41]",747,2,4,False
+728,card not working,direct,28,False,False,False,"{32: 1, 43: 1}","[3063, 41]",728,2,4,False
+860,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",860,2,4,False
+355,card not working,pin,49,False,False,False,"{32: 1, 43: 1}","[3063, 41]",355,2,4,False
+1294,top up by cash or cheque,top up by cash,58,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1294,2,4,False
+521,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",521,2,4,False
+299,age limit,age,1,False,True,False,"{32: 1, 43: 1}","[3063, 41]",299,2,4,False
+807,pending transfer,pending card,45,False,False,False,"{32: 1, 43: 1}","[3063, 41]",807,2,4,False
+1367,virtual card not working,virtual,72,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1367,2,4,False
+556,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",556,2,4,False
+239,top up by card charge,automatic,4,False,False,False,"{32: 1, 43: 1}","[3063, 41]",239,2,4,False
+1418,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1418,2,4,False
+203,top up by card charge,automatic,4,False,False,False,"{32: 1, 43: 1}","[3063, 41]",203,2,4,False
+1265,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1265,2,4,False
+1509,card delivery estimate,activate,0,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1509,2,4,False
+284,age limit,age,1,False,True,False,"{32: 1, 43: 1}","[3063, 41]",284,2,4,False
+1335,order physical card,order,43,True,True,False,"{32: 1, 43: 1}","[3063, 41]",1335,2,4,False
+517,transfer not received by recipient,transfer not,66,False,True,False,"{32: 1, 43: 1}","[3063, 41]",517,2,4,False
+458,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",458,2,4,False
+808,pending transfer,pending card,45,False,False,False,"{32: 1, 43: 1}","[3063, 41]",808,2,4,False
+290,age limit,age,1,False,True,False,"{32: 1, 43: 1}","[3063, 41]",290,2,4,False
+584,top up reverted,top up re,61,False,True,False,"{32: 1, 43: 1}","[3063, 41]",584,2,4,False
+129,fiat currency support,fi,36,False,True,False,"{32: 1, 43: 1}","[3063, 41]",129,2,4,False
+306,age limit,age,1,False,True,False,"{32: 1, 43: 1}","[3063, 41]",306,2,4,False
+457,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",457,2,4,False
+179,order physical card,card delivery,12,False,False,False,"{32: 1, 43: 1}","[3063, 41]",179,2,4,False
+628,transfer not received by recipient,to,62,False,False,False,"{32: 1, 43: 1}","[3063, 41]",628,2,4,False
+26,card not working,card link,13,False,False,False,"{32: 1, 43: 1}","[3063, 41]",26,2,4,False
+1276,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1276,2,4,False
+839,pending transfer,pending card,45,False,False,False,"{32: 1, 43: 1}","[3063, 41]",839,2,4,False
+1174,change pin,change,21,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1174,2,4,False
+557,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",557,2,4,False
+446,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",446,2,4,False
+1117,verify source of funds,verify,70,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1117,2,4,False
+215,top up by card charge,automatic,4,False,False,False,"{32: 1, 43: 1}","[3063, 41]",215,2,4,False
+966,transfer timing,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",966,2,4,False
+420,top up reverted,pending top,47,False,False,False,"{32: 1, 43: 1}","[3063, 41]",420,2,4,False
+614,top up by card charge,to,62,False,False,False,"{32: 1, 43: 1}","[3063, 41]",614,2,4,False
+192,card delivery estimate,card delivery,12,False,True,False,"{32: 1, 43: 1}","[3063, 41]",192,2,4,False
+667,virtual card not working,dispos,29,False,False,False,"{32: 1, 43: 1}","[3063, 41]",667,2,4,False
+852,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",852,2,4,False
+1083,verify source of funds,verify,70,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1083,2,4,False
+1106,verify source of funds,verify,70,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1106,2,4,False
+917,request refund,request,52,False,True,False,"{32: 1, 43: 1}","[3063, 41]",917,2,4,False
+508,pending transfer,transfer not,66,False,False,False,"{32: 1, 43: 1}","[3063, 41]",508,2,4,False
+146,fiat currency support,fi,36,False,True,False,"{32: 1, 43: 1}","[3063, 41]",146,2,4,False
+1307,top up by cash or cheque,top up by cash,58,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1307,2,4,False
+334,pin blocked,pin,49,False,True,False,"{32: 1, 43: 1}","[3063, 41]",334,2,4,False
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",962,2,4,False
+1015,request refund,term,55,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1015,2,4,False
+1486,activate my card,activate,0,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1486,2,4,False
+391,contactless not working,contact,23,False,True,False,"{32: 1, 43: 1}","[3063, 41]",391,2,4,False
+1243,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1243,2,4,False
+69,exchange rate,exchange,32,True,True,False,"{32: 1, 43: 1}","[3063, 41]",69,2,4,False
+392,contactless not working,contact,23,False,True,False,"{32: 1, 43: 1}","[3063, 41]",392,2,4,False
+792,passcode forgotten,pass,44,False,True,False,"{32: 1, 43: 1}","[3063, 41]",792,2,4,False
+1448,top up by card charge,top up by card,57,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1448,2,4,False
+490,transfer not received by recipient,transfer not,66,False,True,False,"{32: 1, 43: 1}","[3063, 41]",490,2,4,False
+676,disposable card limits,dispos,29,False,True,False,"{32: 1, 43: 1}","[3063, 41]",676,2,4,False
+648,disposable card limits,dispos,29,False,True,False,"{32: 1, 43: 1}","[3063, 41]",648,2,4,False
+818,pending card payment,pending card,45,False,True,False,"{32: 1, 43: 1}","[3063, 41]",818,2,4,False
+982,transfer timing,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",982,2,4,False
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",973,2,4,False
+535,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",535,2,4,False
+793,passcode forgotten,pass,44,False,True,False,"{32: 1, 43: 1}","[3063, 41]",793,2,4,False
+259,card not working,card not,14,False,True,False,"{32: 1, 43: 1}","[3063, 41]",259,2,4,False
+430,top up reverted,pending top,47,False,False,False,"{32: 1, 43: 1}","[3063, 41]",430,2,4,False
+481,transfer not received by recipient,transfer not,66,False,True,False,"{32: 1, 43: 1}","[3063, 41]",481,2,4,False
+567,top up reverted,top up re,61,False,True,False,"{32: 1, 43: 1}","[3063, 41]",567,2,4,False
+72,exchange rate,exchange,32,True,True,False,"{32: 1, 43: 1}","[3063, 41]",72,2,4,False
+113,extra charge on statement,extra,34,False,True,False,"{32: 1, 43: 1}","[3063, 41]",113,2,4,False
+384,contactless not working,contact,23,False,True,False,"{32: 1, 43: 1}","[3063, 41]",384,2,4,False
+1053,card swallowed,card swallowed,18,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1053,2,4,False
+1401,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1401,2,4,False
+969,transfer not received by recipient,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",969,2,4,False
+312,age limit,age,1,False,True,False,"{32: 1, 43: 1}","[3063, 41]",312,2,4,False
+892,request refund,request,52,False,True,False,"{32: 1, 43: 1}","[3063, 41]",892,2,4,False
+454,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",454,2,4,False
+479,top up limits,top up limits,60,False,True,False,"{32: 1, 43: 1}","[3063, 41]",479,2,4,False
+650,disposable card limits,dispos,29,False,True,False,"{32: 1, 43: 1}","[3063, 41]",650,2,4,False
+23,card linking,card link,13,False,True,False,"{32: 1, 43: 1}","[3063, 41]",23,2,4,False
+1212,verify source of funds,receiving,50,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1212,2,4,False
+1214,transfer not received by recipient,receiving,50,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1214,2,4,False
+1349,card delivery estimate,order,43,True,False,False,"{32: 1, 43: 1}","[3063, 41]",1349,2,4,False
+262,card not working,card not,14,False,True,False,"{32: 1, 43: 1}","[3063, 41]",262,2,4,False
+48,exchange rate,exchange,32,True,True,False,"{32: 1, 43: 1}","[3063, 41]",48,2,4,False
+285,activate my card,age,1,False,False,False,"{32: 1, 43: 1}","[3063, 41]",285,2,4,False
+851,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",851,2,4,False
+1352,order physical card,order,43,True,True,False,"{32: 1, 43: 1}","[3063, 41]",1352,2,4,False
+327,pin blocked,pin,49,False,True,False,"{32: 1, 43: 1}","[3063, 41]",327,2,4,False
+1438,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1438,2,4,False
+29,card linking,card link,13,False,True,False,"{32: 1, 43: 1}","[3063, 41]",29,2,4,False
+234,top up by card charge,automatic,4,False,False,False,"{32: 1, 43: 1}","[3063, 41]",234,2,4,False
+528,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",528,2,4,False
+369,card not working,contact,23,False,False,False,"{32: 1, 43: 1}","[3063, 41]",369,2,4,False
+128,fiat currency support,fi,36,False,True,False,"{32: 1, 43: 1}","[3063, 41]",128,2,4,False
+1151,transfer timing,transfer timing,67,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1151,2,4,False
+544,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",544,2,4,False
+884,request refund,request,52,False,True,False,"{32: 1, 43: 1}","[3063, 41]",884,2,4,False
+593,top up reverted,top up re,61,False,True,False,"{32: 1, 43: 1}","[3063, 41]",593,2,4,False
+229,top up by card charge,automatic,4,False,False,False,"{32: 1, 43: 1}","[3063, 41]",229,2,4,False
+876,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",876,2,4,False
+629,transfer not received by recipient,to,62,False,False,False,"{32: 1, 43: 1}","[3063, 41]",629,2,4,False
+1419,transfer not received by recipient,balance,5,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1419,2,4,False
+821,pending transfer,pending card,45,False,False,False,"{32: 1, 43: 1}","[3063, 41]",821,2,4,False
+1285,top up by cash or cheque,top up by cash,58,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1285,2,4,False
+678,disposable card limits,dispos,29,False,True,False,"{32: 1, 43: 1}","[3063, 41]",678,2,4,False
+204,top up by card charge,automatic,4,False,False,False,"{32: 1, 43: 1}","[3063, 41]",204,2,4,False
+872,card not working,lost,42,False,False,False,"{32: 1, 43: 1}","[3063, 41]",872,2,4,False
+696,atm support,atm,3,False,True,False,"{32: 1, 43: 1}","[3063, 41]",696,2,4,False
+219,balance not updated after bank transfer,automatic,4,False,False,False,"{32: 1, 43: 1}","[3063, 41]",219,2,4,False
+190,order physical card,card delivery,12,False,False,False,"{32: 1, 43: 1}","[3063, 41]",190,2,4,False
+379,contactless not working,contact,23,False,True,False,"{32: 1, 43: 1}","[3063, 41]",379,2,4,False
+1340,card acceptance,order,43,True,False,False,"{32: 1, 43: 1}","[3063, 41]",1340,2,4,False
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",978,2,4,False
+645,disposable card limits,dispos,29,False,True,False,"{32: 1, 43: 1}","[3063, 41]",645,2,4,False
+735,direct debit payment not recognised,direct,28,False,True,False,"{32: 1, 43: 1}","[3063, 41]",735,2,4,False
+850,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",850,2,4,False
+1353,card delivery estimate,order,43,True,False,False,"{32: 1, 43: 1}","[3063, 41]",1353,2,4,False
+800,card not working,pending card,45,False,False,False,"{32: 1, 43: 1}","[3063, 41]",800,2,4,False
+1329,order physical card,order,43,True,True,False,"{32: 1, 43: 1}","[3063, 41]",1329,2,4,False
+115,extra charge on statement,extra,34,False,True,False,"{32: 1, 43: 1}","[3063, 41]",115,2,4,False
+1396,virtual card not working,virtual,72,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1396,2,4,False
+34,card linking,card link,13,False,True,False,"{32: 1, 43: 1}","[3063, 41]",34,2,4,False
+967,transfer not received by recipient,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",967,2,4,False
+1512,card delivery estimate,activate,0,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1512,2,4,False
+439,pending top up,pending top,47,False,True,False,"{32: 1, 43: 1}","[3063, 41]",439,2,4,False
+1411,transfer timing,balance,5,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1411,2,4,False
+1217,receiving money,receiving,50,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1217,2,4,False
+867,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",867,2,4,False
+704,atm support,atm,3,False,True,False,"{32: 1, 43: 1}","[3063, 41]",704,2,4,False
+1211,receiving money,receiving,50,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1211,2,4,False
+646,disposable card limits,dispos,29,False,True,False,"{32: 1, 43: 1}","[3063, 41]",646,2,4,False
+1165,change pin,change,21,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1165,2,4,False
+799,verify source of funds,pass,44,False,False,False,"{32: 1, 43: 1}","[3063, 41]",799,2,4,False
+898,order physical card,request,52,False,False,False,"{32: 1, 43: 1}","[3063, 41]",898,2,4,False
+36,card not working,card link,13,False,False,False,"{32: 1, 43: 1}","[3063, 41]",36,2,4,False
+1278,transfer not received by recipient,failed,35,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1278,2,4,False
+324,pin blocked,pin,49,False,True,False,"{32: 1, 43: 1}","[3063, 41]",324,2,4,False
+689,atm support,atm,3,False,True,False,"{32: 1, 43: 1}","[3063, 41]",689,2,4,False
+1508,activate my card,activate,0,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1508,2,4,False
+992,transfer timing,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",992,2,4,False
+314,age limit,age,1,False,True,False,"{32: 1, 43: 1}","[3063, 41]",314,2,4,False
+1082,balance not updated after bank transfer,verify,70,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1082,2,4,False
+1096,verify source of funds,verify,70,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1096,2,4,False
+787,change pin,pass,44,False,False,False,"{32: 1, 43: 1}","[3063, 41]",787,2,4,False
+842,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",842,2,4,False
+191,order physical card,card delivery,12,False,False,False,"{32: 1, 43: 1}","[3063, 41]",191,2,4,False
+845,lost or stolen phone,lost,42,False,True,False,"{32: 1, 43: 1}","[3063, 41]",845,2,4,False
+1027,request refund,term,55,False,False,False,"{32: 1, 43: 1}","[3063, 41]",1027,2,4,False
+99,extra charge on statement,extra,34,False,True,False,"{32: 1, 43: 1}","[3063, 41]",99,2,4,False
+552,card acceptance,card acceptance,10,False,True,False,"{32: 1, 43: 1}","[3063, 41]",552,2,4,False
+1024,terminate account,term,55,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1024,2,4,False
+141,exchange rate,fi,36,False,False,False,"{32: 1, 43: 1}","[3063, 41]",141,2,4,False
+625,transfer not received by recipient,to,62,False,False,False,"{32: 1, 43: 1}","[3063, 41]",625,2,4,False
+922,card not working,declined,25,False,False,False,"{32: 1, 43: 1}","[3063, 41]",922,2,4,False
+977,transfer timing,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",977,2,4,False
+135,change pin,fi,36,False,False,False,"{32: 1, 43: 1}","[3063, 41]",135,2,4,False
+1109,verify source of funds,verify,70,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1109,2,4,False
+405,top up reverted,pending top,47,False,False,False,"{32: 1, 43: 1}","[3063, 41]",405,2,4,False
+760,passcode forgotten,pass,44,False,True,False,"{32: 1, 43: 1}","[3063, 41]",760,2,4,False
+1035,terminate account,term,55,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1035,2,4,False
+928,card not working,declined,25,False,False,False,"{32: 1, 43: 1}","[3063, 41]",928,2,4,False
+976,transfer timing,pending transfer,48,False,False,False,"{32: 1, 43: 1}","[3063, 41]",976,2,4,False
+963,pending transfer,pending transfer,48,False,True,False,"{32: 1, 43: 1}","[3063, 41]",963,2,4,False
+762,passcode forgotten,pass,44,False,True,False,"{32: 1, 43: 1}","[3063, 41]",762,2,4,False
+514,transfer not received by recipient,transfer not,66,False,True,False,"{32: 1, 43: 1}","[3063, 41]",514,2,4,False
+870,contactless not working,lost,42,False,False,False,"{32: 1, 43: 1}","[3063, 41]",870,2,4,False
+1122,transfer timing,transfer timing,67,False,True,False,"{32: 1, 43: 1}","[3063, 41]",1122,2,4,False

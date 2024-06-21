@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,transfer timing,receiving,50,False,False,False,{9: 2},"[925, 4696]",1104,2,7,False
+472,card payment not recognised,get physical,38,False,False,False,{9: 2},"[925, 4696]",472,2,7,False
+1453,card about to expire,card about,9,True,True,False,{9: 2},"[925, 4696]",1453,2,7,False
+836,transfer timing,pending transfer,48,False,False,False,{9: 2},"[925, 4696]",836,2,7,False
+939,card payment not recognised,transaction,63,False,False,False,{9: 2},"[925, 4696]",939,2,7,False
+706,request refund,request,52,False,True,False,{9: 2},"[925, 4696]",706,2,7,False
+381,card about to expire,why,74,False,False,False,{9: 2},"[925, 4696]",381,2,7,False
+1078,card payment not recognised,re,53,False,False,False,{9: 2},"[925, 4696]",1078,2,7,False
+451,card not working,get physical,38,False,False,False,{9: 2},"[925, 4696]",451,2,7,False
+1467,card about to expire,card about,9,True,True,False,{9: 2},"[925, 4696]",1467,2,7,False
+649,card not working,direct,28,False,False,False,{9: 2},"[925, 4696]",649,2,7,False
+771,Refund not showing up,Ref,51,False,True,False,{9: 2},"[925, 4696]",771,2,7,False
+1279,disposable card limits,get dispos,37,False,False,False,{9: 2},"[925, 4696]",1279,2,7,False
+657,transaction charged twice,direct,28,False,False,False,{9: 2},"[925, 4696]",657,2,7,False
+67,get physical card,fi,36,False,False,False,{9: 2},"[925, 4696]",67,2,7,False
+770,Refund not showing up,Ref,51,False,True,False,{9: 2},"[925, 4696]",770,2,7,False
+678,card payment not recognised,direct,28,False,False,False,{9: 2},"[925, 4696]",678,2,7,False
+954,transaction charged twice,transaction,63,False,True,False,{9: 2},"[925, 4696]",954,2,7,False
+916,card not working,card swallowed,18,False,False,False,{9: 2},"[925, 4696]",916,2,7,False
+1222,request refund,order,43,False,False,False,{9: 2},"[925, 4696]",1222,2,7,False
+601,atm support,atm,3,False,True,False,{9: 2},"[925, 4696]",601,2,7,False
+241,cancel transfer,cancel,8,False,True,False,{9: 2},"[925, 4696]",241,2,7,False
+1316,transfer timing,balance,5,False,False,False,{9: 2},"[925, 4696]",1316,2,7,False
+1229,card payment not recognised,order,43,False,False,False,{9: 2},"[925, 4696]",1229,2,7,False
+1004,transfer timing,transfer,67,False,True,False,{9: 2},"[925, 4696]",1004,2,7,False
+1130,transfer timing,failed,35,False,False,False,{9: 2},"[925, 4696]",1130,2,7,False
+106,card not working,card not,14,False,True,False,{9: 2},"[925, 4696]",106,2,7,False
+1041,card payment not recognised,re,53,False,False,False,{9: 2},"[925, 4696]",1041,2,7,False
+455,card about to expire,get physical,38,False,False,False,{9: 2},"[925, 4696]",455,2,7,False
+1380,card payment not recognised,top,57,False,False,False,{9: 2},"[925, 4696]",1380,2,7,False
+327,card payment not recognised,card payment not,16,False,True,False,{9: 2},"[925, 4696]",327,2,7,False
+742,transfer timing,declined,27,False,False,False,{9: 2},"[925, 4696]",742,2,7,False
+1439,activate my card,activate,0,False,True,False,{9: 2},"[925, 4696]",1439,2,7,False
+938,transaction charged twice,transaction,63,False,True,False,{9: 2},"[925, 4696]",938,2,7,False
+404,failed transfer,unable,68,False,False,False,{9: 2},"[925, 4696]",404,2,7,False
+1212,card payment not recognised,order,43,False,False,False,{9: 2},"[925, 4696]",1212,2,7,False
+756,card not working,declined,27,False,False,False,{9: 2},"[925, 4696]",756,2,7,False
+1181,verify top up,verify top,71,False,True,False,{9: 2},"[925, 4696]",1181,2,7,False
+122,exchange charge,exchange via,33,False,False,False,{9: 2},"[925, 4696]",122,2,7,False
+1517,verify my identity,verify my,69,False,True,False,{9: 2},"[925, 4696]",1517,2,7,False
+227,transaction charged twice,pending top,47,False,False,False,{9: 2},"[925, 4696]",227,2,7,False
+1321,exchange charge,exchange charge,31,False,True,False,{9: 2},"[925, 4696]",1321,2,7,False
+396,card about to expire,why,74,False,False,False,{9: 2},"[925, 4696]",396,2,7,False
+997,transaction charged twice,verify source,70,False,False,False,{9: 2},"[925, 4696]",997,2,7,False
+924,wrong amount of cash received,transaction,63,False,False,False,{9: 2},"[925, 4696]",924,2,7,False
+245,cancel transfer,cancel,8,False,True,False,{9: 2},"[925, 4696]",245,2,7,False
+180,contactless not working,contact,23,False,True,False,{9: 2},"[925, 4696]",180,2,7,False
+1170,verify top up,verify top,71,False,True,False,{9: 2},"[925, 4696]",1170,2,7,False
+665,wrong amount of cash received,direct,28,False,False,False,{9: 2},"[925, 4696]",665,2,7,False
+1026,transfer timing,transfer,67,False,True,False,{9: 2},"[925, 4696]",1026,2,7,False
+769,Refund not showing up,Ref,51,False,True,False,{9: 2},"[925, 4696]",769,2,7,False
+1063,card payment not recognised,re,53,False,False,False,{9: 2},"[925, 4696]",1063,2,7,False
+422,verify my identity,unable,68,False,False,False,{9: 2},"[925, 4696]",422,2,7,False
+131,exchange via app,exchange via,33,False,True,False,{9: 2},"[925, 4696]",131,2,7,False
+154,exchange charge,exchange via,33,False,False,False,{9: 2},"[925, 4696]",154,2,7,False
+459,card not working,get physical,38,False,False,False,{9: 2},"[925, 4696]",459,2,7,False
+374,verify my identity,why,74,False,False,False,{9: 2},"[925, 4696]",374,2,7,False
+15,wrong amount of cash received,card payment wrong,17,False,False,False,{9: 2},"[925, 4696]",15,2,7,False
+1254,disposable card limits,get dispos,37,False,False,False,{9: 2},"[925, 4696]",1254,2,7,False
+196,contactless not working,contact,23,False,True,False,{9: 2},"[925, 4696]",196,2,7,False
+523,unable to verify identity,dispos,29,False,False,False,{9: 2},"[925, 4696]",523,2,7,False
+527,card payment not recognised,dispos,29,False,False,False,{9: 2},"[925, 4696]",527,2,7,False
+385,verify my identity,why,74,False,False,False,{9: 2},"[925, 4696]",385,2,7,False
+616,atm support,atm,3,False,True,False,{9: 2},"[925, 4696]",616,2,7,False
+869,request refund,term,55,False,False,False,{9: 2},"[925, 4696]",869,2,7,False
+1095,get physical card,receiving,50,False,False,False,{9: 2},"[925, 4696]",1095,2,7,False
+1406,activate my card,activate,0,False,True,False,{9: 2},"[925, 4696]",1406,2,7,False
+1368,card payment not recognised,top,57,False,False,False,{9: 2},"[925, 4696]",1368,2,7,False
+347,transaction charged twice,card payment not,16,False,False,False,{9: 2},"[925, 4696]",347,2,7,False
+430,verify my identity,unable,68,False,False,False,{9: 2},"[925, 4696]",430,2,7,False
+293,transaction charged twice,wrong,75,False,False,False,{9: 2},"[925, 4696]",293,2,7,False
+474,card not working,get physical,38,False,False,False,{9: 2},"[925, 4696]",474,2,7,False
+136,exchange charge,exchange via,33,False,False,False,{9: 2},"[925, 4696]",136,2,7,False
+781,Refund not showing up,Ref,51,False,True,False,{9: 2},"[925, 4696]",781,2,7,False
+1019,transfer timing,transfer,67,False,True,False,{9: 2},"[925, 4696]",1019,2,7,False
+1485,verify my identity,verify my,69,False,True,False,{9: 2},"[925, 4696]",1485,2,7,False
+738,transfer timing,declined,27,False,False,False,{9: 2},"[925, 4696]",738,2,7,False
+902,card not working,card swallowed,18,False,False,False,{9: 2},"[925, 4696]",902,2,7,False
+723,transfer timing,declined,27,False,False,False,{9: 2},"[925, 4696]",723,2,7,False
+87,card not working,card not,14,False,True,False,{9: 2},"[925, 4696]",87,2,7,False
+1185,top up by card charge,verify top,71,False,False,False,{9: 2},"[925, 4696]",1185,2,7,False
+744,transfer timing,declined,27,False,False,False,{9: 2},"[925, 4696]",744,2,7,False
+727,transfer timing,declined,27,False,False,False,{9: 2},"[925, 4696]",727,2,7,False
+858,cancel transfer,term,55,False,False,False,{9: 2},"[925, 4696]",858,2,7,False
+358,transaction charged twice,card payment not,16,False,False,False,{9: 2},"[925, 4696]",358,2,7,False
+1294,transfer timing,balance,5,False,False,False,{9: 2},"[925, 4696]",1294,2,7,False
+517,top up by card charge,to,62,False,False,False,{9: 2},"[925, 4696]",517,2,7,False
+301,wrong amount of cash received,wrong,75,False,True,False,{9: 2},"[925, 4696]",301,2,7,False
+805,transfer timing,pending transfer,48,False,False,False,{9: 2},"[925, 4696]",805,2,7,False
+1367,card payment not recognised,top,57,False,False,False,{9: 2},"[925, 4696]",1367,2,7,False
+552,disposable card limits,dispos,29,False,True,False,{9: 2},"[925, 4696]",552,2,7,False
+240,transaction charged twice,cancel,8,False,False,False,{9: 2},"[925, 4696]",240,2,7,False
+1418,unable to verify identity,activate,0,False,False,False,{9: 2},"[925, 4696]",1418,2,7,False
+202,top up by card charge,pending top,47,False,False,False,{9: 2},"[925, 4696]",202,2,7,False
+1044,card payment not recognised,re,53,False,False,False,{9: 2},"[925, 4696]",1044,2,7,False
+1509,verify my identity,verify my,69,False,True,False,{9: 2},"[925, 4696]",1509,2,7,False
+286,atm support,wrong,75,False,False,False,{9: 2},"[925, 4696]",286,2,7,False
+1335,exchange charge,exchange charge,31,False,True,False,{9: 2},"[925, 4696]",1335,2,7,False
+513,top up by card charge,to,62,False,False,False,{9: 2},"[925, 4696]",513,2,7,False
+458,card not working,get physical,38,False,False,False,{9: 2},"[925, 4696]",458,2,7,False
+806,transfer timing,pending transfer,48,False,False,False,{9: 2},"[925, 4696]",806,2,7,False
+292,wrong amount of cash received,wrong,75,False,True,False,{9: 2},"[925, 4696]",292,2,7,False
+580,card not working,comprom,22,False,False,False,{9: 2},"[925, 4696]",580,2,7,False
+128,exchange charge,exchange via,33,False,False,False,{9: 2},"[925, 4696]",128,2,7,False
+308,atm support,wrong,75,False,False,False,{9: 2},"[925, 4696]",308,2,7,False
+457,card not working,get physical,38,False,False,False,{9: 2},"[925, 4696]",457,2,7,False
+178,contactless not working,contact,23,False,True,False,{9: 2},"[925, 4696]",178,2,7,False
+624,atm support,atm,3,False,True,False,{9: 2},"[925, 4696]",624,2,7,False
+26,wrong amount of cash received,card payment wrong,17,False,False,False,{9: 2},"[925, 4696]",26,2,7,False
+1276,request refund,get dispos,37,False,False,False,{9: 2},"[925, 4696]",1276,2,7,False
+837,transfer timing,pending transfer,48,False,False,False,{9: 2},"[925, 4696]",837,2,7,False
+1175,top up by card charge,verify top,71,False,False,False,{9: 2},"[925, 4696]",1175,2,7,False
+553,disposable card limits,dispos,29,False,True,False,{9: 2},"[925, 4696]",553,2,7,False
+446,card payment not recognised,get physical,38,False,False,False,{9: 2},"[925, 4696]",446,2,7,False
+1117,request refund,receiving,50,False,False,False,{9: 2},"[925, 4696]",1117,2,7,False
+214,top up by card charge,pending top,47,False,False,False,{9: 2},"[925, 4696]",214,2,7,False
+964,transaction charged twice,verify source,70,False,False,False,{9: 2},"[925, 4696]",964,2,7,False
+421,unable to verify identity,unable,68,False,True,False,{9: 2},"[925, 4696]",421,2,7,False
+610,atm support,atm,3,False,True,False,{9: 2},"[925, 4696]",610,2,7,False
+191,contactless not working,contact,23,False,True,False,{9: 2},"[925, 4696]",191,2,7,False
+666,transaction charged twice,direct,28,False,False,False,{9: 2},"[925, 4696]",666,2,7,False
+850,cancel transfer,term,55,False,False,False,{9: 2},"[925, 4696]",850,2,7,False
+1083,card payment not recognised,receiving,50,False,False,False,{9: 2},"[925, 4696]",1083,2,7,False
+1106,transfer timing,receiving,50,False,False,False,{9: 2},"[925, 4696]",1106,2,7,False
+914,atm support,card swallowed,18,False,False,False,{9: 2},"[925, 4696]",914,2,7,False
+504,card not working,to,62,False,False,False,{9: 2},"[925, 4696]",504,2,7,False
+145,exchange charge,exchange via,33,False,False,False,{9: 2},"[925, 4696]",145,2,7,False
+1307,transfer timing,balance,5,False,False,False,{9: 2},"[925, 4696]",1307,2,7,False
+337,card payment not recognised,card payment not,16,False,True,False,{9: 2},"[925, 4696]",337,2,7,False
+960,verify source of funds,verify source,70,False,True,False,{9: 2},"[925, 4696]",960,2,7,False
+1013,transfer timing,transfer,67,False,True,False,{9: 2},"[925, 4696]",1013,2,7,False
+1486,verify my identity,verify my,69,False,True,False,{9: 2},"[925, 4696]",1486,2,7,False
+394,verify my identity,why,74,False,False,False,{9: 2},"[925, 4696]",394,2,7,False
+1244,card not working,get dispos,37,False,False,False,{9: 2},"[925, 4696]",1244,2,7,False
+69,fiat currency support,fi,36,False,True,False,{9: 2},"[925, 4696]",69,2,7,False
+395,verify my identity,why,74,False,False,False,{9: 2},"[925, 4696]",395,2,7,False
+789,Refund not showing up,Ref,51,False,True,False,{9: 2},"[925, 4696]",789,2,7,False
+1331,exchange charge,exchange charge,31,False,True,False,{9: 2},"[925, 4696]",1331,2,7,False
+490,card payment not recognised,to,62,False,False,False,{9: 2},"[925, 4696]",490,2,7,False
+675,direct debit payment not recognised,direct,28,False,True,False,{9: 2},"[925, 4696]",675,2,7,False
+644,transaction charged twice,direct,28,False,False,False,{9: 2},"[925, 4696]",644,2,7,False
+816,transfer timing,pending transfer,48,False,False,False,{9: 2},"[925, 4696]",816,2,7,False
+980,balance not updated after bank transfer,verify source,70,False,False,False,{9: 2},"[925, 4696]",980,2,7,False
+971,balance not updated after bank transfer,verify source,70,False,False,False,{9: 2},"[925, 4696]",971,2,7,False
+531,disposable card limits,dispos,29,False,True,False,{9: 2},"[925, 4696]",531,2,7,False
+790,Refund not showing up,Ref,51,False,True,False,{9: 2},"[925, 4696]",790,2,7,False
+260,cancel transfer,cancel,8,False,True,False,{9: 2},"[925, 4696]",260,2,7,False
+431,unable to verify identity,unable,68,False,True,False,{9: 2},"[925, 4696]",431,2,7,False
+481,card not working,to,62,False,False,False,{9: 2},"[925, 4696]",481,2,7,False
+563,card not working,comprom,22,False,False,False,{9: 2},"[925, 4696]",563,2,7,False
+72,fiat currency support,fi,36,False,True,False,{9: 2},"[925, 4696]",72,2,7,False
+112,card not working,card not,14,False,True,False,{9: 2},"[925, 4696]",112,2,7,False
+387,verify my identity,why,74,False,False,False,{9: 2},"[925, 4696]",387,2,7,False
+1039,balance not updated after bank transfer,transfer,67,False,False,False,{9: 2},"[925, 4696]",1039,2,7,False
+1401,card not working,activate,0,False,False,False,{9: 2},"[925, 4696]",1401,2,7,False
+967,transaction charged twice,verify source,70,False,False,False,{9: 2},"[925, 4696]",967,2,7,False
+314,wrong amount of cash received,wrong,75,False,True,False,{9: 2},"[925, 4696]",314,2,7,False
+890,card not working,card swallowed,18,False,False,False,{9: 2},"[925, 4696]",890,2,7,False
+454,card payment not recognised,get physical,38,False,False,False,{9: 2},"[925, 4696]",454,2,7,False
+479,get physical card,get physical,38,False,True,False,{9: 2},"[925, 4696]",479,2,7,False
+647,direct debit payment not recognised,direct,28,False,True,False,{9: 2},"[925, 4696]",647,2,7,False
+23,card payment wrong exchange rate,card payment wrong,17,False,True,False,{9: 2},"[925, 4696]",23,2,7,False
+1213,request refund,order,43,False,False,False,{9: 2},"[925, 4696]",1213,2,7,False
+1215,card payment not recognised,order,43,False,False,False,{9: 2},"[925, 4696]",1215,2,7,False
+1349,exchange charge,exchange charge,31,False,True,False,{9: 2},"[925, 4696]",1349,2,7,False
+263,cancel transfer,cancel,8,False,True,False,{9: 2},"[925, 4696]",263,2,7,False
+48,fiat currency support,fi,36,False,True,False,{9: 2},"[925, 4696]",48,2,7,False
+287,atm support,wrong,75,False,False,False,{9: 2},"[925, 4696]",287,2,7,False
+849,request refund,term,55,False,False,False,{9: 2},"[925, 4696]",849,2,7,False
+1352,exchange charge,exchange charge,31,False,True,False,{9: 2},"[925, 4696]",1352,2,7,False
+329,transaction charged twice,card payment not,16,False,False,False,{9: 2},"[925, 4696]",329,2,7,False
+1438,activate my card,activate,0,False,True,False,{9: 2},"[925, 4696]",1438,2,7,False
+29,wrong amount of cash received,card payment wrong,17,False,False,False,{9: 2},"[925, 4696]",29,2,7,False
+235,top up by card charge,pending top,47,False,False,False,{9: 2},"[925, 4696]",235,2,7,False
+524,disposable card limits,dispos,29,False,True,False,{9: 2},"[925, 4696]",524,2,7,False
+372,verify my identity,why,74,False,False,False,{9: 2},"[925, 4696]",372,2,7,False
+127,exchange via app,exchange via,33,False,True,False,{9: 2},"[925, 4696]",127,2,7,False
+1277,disposable card limits,get dispos,37,False,False,False,{9: 2},"[925, 4696]",1277,2,7,False
+540,disposable card limits,dispos,29,False,True,False,{9: 2},"[925, 4696]",540,2,7,False
+882,card not working,card swallowed,18,False,False,False,{9: 2},"[925, 4696]",882,2,7,False
+589,card not working,comprom,22,False,False,False,{9: 2},"[925, 4696]",589,2,7,False
+229,top up by card charge,pending top,47,False,False,False,{9: 2},"[925, 4696]",229,2,7,False
+874,cancel transfer,term,55,False,False,False,{9: 2},"[925, 4696]",874,2,7,False
+625,atm support,atm,3,False,True,False,{9: 2},"[925, 4696]",625,2,7,False
+1195,verify top up,verify top,71,False,True,False,{9: 2},"[925, 4696]",1195,2,7,False
+819,transfer timing,pending transfer,48,False,False,False,{9: 2},"[925, 4696]",819,2,7,False
+1285,transfer timing,balance,5,False,False,False,{9: 2},"[925, 4696]",1285,2,7,False
+677,transaction charged twice,direct,28,False,False,False,{9: 2},"[925, 4696]",677,2,7,False
+203,top up by card charge,pending top,47,False,False,False,{9: 2},"[925, 4696]",203,2,7,False
+870,cancel transfer,term,55,False,False,False,{9: 2},"[925, 4696]",870,2,7,False
+695,order physical card,request,52,False,False,False,{9: 2},"[925, 4696]",695,2,7,False
+219,card payment not recognised,pending top,47,False,False,False,{9: 2},"[925, 4696]",219,2,7,False
+189,card not working,contact,23,False,False,False,{9: 2},"[925, 4696]",189,2,7,False
+382,transaction charged twice,why,74,False,False,False,{9: 2},"[925, 4696]",382,2,7,False
+1139,transfer timing,failed,35,False,False,False,{9: 2},"[925, 4696]",1139,2,7,False
+976,verify my identity,verify source,70,False,False,False,{9: 2},"[925, 4696]",976,2,7,False
+641,direct debit payment not recognised,direct,28,False,True,False,{9: 2},"[925, 4696]",641,2,7,False
+733,transfer timing,declined,27,False,False,False,{9: 2},"[925, 4696]",733,2,7,False
+848,request refund,term,55,False,False,False,{9: 2},"[925, 4696]",848,2,7,False
+1353,exchange charge,exchange charge,31,False,True,False,{9: 2},"[925, 4696]",1353,2,7,False
+798,Refund not showing up,Ref,51,False,True,False,{9: 2},"[925, 4696]",798,2,7,False
+1329,exchange charge,exchange charge,31,False,True,False,{9: 2},"[925, 4696]",1329,2,7,False
+114,card not working,card not,14,False,True,False,{9: 2},"[925, 4696]",114,2,7,False
+1396,card payment not recognised,top,57,False,False,False,{9: 2},"[925, 4696]",1396,2,7,False
+34,exchange charge,card payment wrong,17,False,False,False,{9: 2},"[925, 4696]",34,2,7,False
+965,transaction charged twice,verify source,70,False,False,False,{9: 2},"[925, 4696]",965,2,7,False
+1226,card payment not recognised,order,43,False,False,False,{9: 2},"[925, 4696]",1226,2,7,False
+439,verify my identity,unable,68,False,False,False,{9: 2},"[925, 4696]",439,2,7,False
+1411,card payment not recognised,activate,0,False,False,False,{9: 2},"[925, 4696]",1411,2,7,False
+1218,card payment not recognised,order,43,False,False,False,{9: 2},"[925, 4696]",1218,2,7,False
+865,cancel transfer,term,55,False,False,False,{9: 2},"[925, 4696]",865,2,7,False
+703,request refund,request,52,False,True,False,{9: 2},"[925, 4696]",703,2,7,False
+1362,card payment not recognised,top,57,False,False,False,{9: 2},"[925, 4696]",1362,2,7,False
+642,direct debit payment not recognised,direct,28,False,True,False,{9: 2},"[925, 4696]",642,2,7,False
+1166,card not working,verify top,71,False,False,False,{9: 2},"[925, 4696]",1166,2,7,False
+796,request refund,Ref,51,False,False,False,{9: 2},"[925, 4696]",796,2,7,False
+896,card not working,card swallowed,18,False,False,False,{9: 2},"[925, 4696]",896,2,7,False
+36,exchange charge,card payment wrong,17,False,False,False,{9: 2},"[925, 4696]",36,2,7,False
+1278,disposable card limits,get dispos,37,False,False,False,{9: 2},"[925, 4696]",1278,2,7,False
+326,transaction charged twice,card payment not,16,False,False,False,{9: 2},"[925, 4696]",326,2,7,False
+688,Refund not showing up,request,52,False,False,False,{9: 2},"[925, 4696]",688,2,7,False
+1508,verify my identity,verify my,69,False,True,False,{9: 2},"[925, 4696]",1508,2,7,False
+990,transaction charged twice,verify source,70,False,False,False,{9: 2},"[925, 4696]",990,2,7,False
+316,transaction charged twice,wrong,75,False,False,False,{9: 2},"[925, 4696]",316,2,7,False
+1082,request refund,receiving,50,False,False,False,{9: 2},"[925, 4696]",1082,2,7,False
+1096,transfer timing,receiving,50,False,False,False,{9: 2},"[925, 4696]",1096,2,7,False
+784,Refund not showing up,Ref,51,False,True,False,{9: 2},"[925, 4696]",784,2,7,False
+840,request refund,term,55,False,False,False,{9: 2},"[925, 4696]",840,2,7,False
+190,contactless not working,contact,23,False,True,False,{9: 2},"[925, 4696]",190,2,7,False
+843,request refund,term,55,False,False,False,{9: 2},"[925, 4696]",843,2,7,False
+1025,transfer timing,transfer,67,False,True,False,{9: 2},"[925, 4696]",1025,2,7,False
+99,card not working,card not,14,False,True,False,{9: 2},"[925, 4696]",99,2,7,False
+548,disposable card limits,dispos,29,False,True,False,{9: 2},"[925, 4696]",548,2,7,False
+1022,balance not updated after bank transfer,transfer,67,False,False,False,{9: 2},"[925, 4696]",1022,2,7,False
+140,exchange via app,exchange via,33,False,True,False,{9: 2},"[925, 4696]",140,2,7,False
+621,atm support,atm,3,False,True,False,{9: 2},"[925, 4696]",621,2,7,False
+919,card not working,card swallowed,18,False,False,False,{9: 2},"[925, 4696]",919,2,7,False
+975,verify source of funds,verify source,70,False,True,False,{9: 2},"[925, 4696]",975,2,7,False
+134,request refund,exchange via,33,False,False,False,{9: 2},"[925, 4696]",134,2,7,False
+1142,transfer timing,failed,35,False,False,False,{9: 2},"[925, 4696]",1142,2,7,False
+408,card not working,unable,68,False,False,False,{9: 2},"[925, 4696]",408,2,7,False
+757,transfer timing,declined,27,False,False,False,{9: 2},"[925, 4696]",757,2,7,False
+1034,transfer timing,transfer,67,False,True,False,{9: 2},"[925, 4696]",1034,2,7,False
+925,transaction charged twice,transaction,63,False,True,False,{9: 2},"[925, 4696]",925,2,7,False
+974,verify source of funds,verify source,70,False,True,False,{9: 2},"[925, 4696]",974,2,7,False
+961,transaction charged twice,verify source,70,False,False,False,{9: 2},"[925, 4696]",961,2,7,False
+759,transaction charged twice,declined,27,False,False,False,{9: 2},"[925, 4696]",759,2,7,False
+510,top up by card charge,to,62,False,False,False,{9: 2},"[925, 4696]",510,2,7,False
+868,cancel transfer,term,55,False,False,False,{9: 2},"[925, 4696]",868,2,7,False
+1444,card about to expire,card about,9,True,True,False,{9: 2},"[925, 4696]",1444,2,7,False

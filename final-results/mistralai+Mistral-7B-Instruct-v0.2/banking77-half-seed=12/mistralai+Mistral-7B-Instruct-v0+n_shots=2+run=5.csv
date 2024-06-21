@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1104,2,5,False
+472,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",472,2,5,False
+1345,card delivery estimate,order,43,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1345,2,5,False
+838,pending transfer,pending card,45,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",838,2,5,False
+942,card not working,declined,25,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",942,2,5,False
+707,atm support,atm,3,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",707,2,5,False
+378,contactless not working,contact,23,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",378,2,5,False
+1258,failed transfer,failed,35,True,True,False,"{36: 1, 35: 1}","[1068, 1214]",1258,2,5,False
+451,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",451,2,5,False
+1467,card not working,top up by card,57,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1467,2,5,False
+652,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",652,2,5,False
+774,passcode forgotten,pass,44,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",774,2,5,False
+1112,verify source of funds,verify,70,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1112,2,5,False
+659,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",659,2,5,False
+67,exchange rate,exchange,32,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",67,2,5,False
+773,lost or stolen phone,pass,44,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",773,2,5,False
+679,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",679,2,5,False
+956,card not working,declined,25,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",956,2,5,False
+919,request refund,request,52,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",919,2,5,False
+1221,receiving money,receiving,50,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1221,2,5,False
+605,top up by cash or cheque,to,62,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",605,2,5,False
+240,failed transfer,card not,14,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",240,2,5,False
+1069,card not working,card swallowed,18,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1069,2,5,False
+1228,transfer not received by recipient,receiving,50,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1228,2,5,False
+1006,request refund,term,55,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1006,2,5,False
+1308,transfer not received by recipient,top up by cash,58,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1308,2,5,False
+106,extra charge on statement,extra,34,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",106,2,5,False
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1429,2,5,False
+455,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",455,2,5,False
+1380,virtual card not working,virtual,72,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1380,2,5,False
+325,failed transfer,pin,49,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",325,2,5,False
+745,direct debit payment not recognised,direct,28,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",745,2,5,False
+1439,balance not updated after bank transfer,balance,5,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1439,2,5,False
+941,card not working,declined,25,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",941,2,5,False
+401,card not working,pending top,47,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",401,2,5,False
+1190,pin blocked,change,21,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1190,2,5,False
+759,declined card payment,direct,28,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",759,2,5,False
+1180,change pin,change,21,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1180,2,5,False
+123,fiat currency support,fi,36,True,True,False,"{36: 1, 35: 1}","[1068, 1214]",123,2,5,False
+1517,card not working,activate,0,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1517,2,5,False
+227,automatic top up,automatic,4,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",227,2,5,False
+1321,card delivery estimate,order,43,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1321,2,5,False
+393,contactless not working,contact,23,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",393,2,5,False
+999,transfer timing,pending transfer,48,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",999,2,5,False
+927,card not working,declined,25,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",927,2,5,False
+244,card not working,card not,14,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",244,2,5,False
+181,order physical card,card delivery,12,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",181,2,5,False
+1170,pin blocked,change,21,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1170,2,5,False
+666,virtual card not working,dispos,29,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",666,2,5,False
+1028,request refund,term,55,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1028,2,5,False
+772,lost or stolen phone,pass,44,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",772,2,5,False
+1223,change pin,receiving,50,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1223,2,5,False
+421,failed transfer,pending top,47,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",421,2,5,False
+132,exchange rate,fi,36,True,False,False,"{36: 1, 35: 1}","[1068, 1214]",132,2,5,False
+155,fiat currency support,fi,36,True,True,False,"{36: 1, 35: 1}","[1068, 1214]",155,2,5,False
+459,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",459,2,5,False
+371,contactless not working,contact,23,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",371,2,5,False
+15,card not working,card link,13,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",15,2,5,False
+1253,transfer not received by recipient,failed,35,True,False,False,"{36: 1, 35: 1}","[1068, 1214]",1253,2,5,False
+197,request refund,card delivery,12,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",197,2,5,False
+527,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",527,2,5,False
+531,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",531,2,5,False
+382,contactless not working,contact,23,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",382,2,5,False
+620,card linking,to,62,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",620,2,5,False
+871,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",871,2,5,False
+1095,verify source of funds,verify,70,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1095,2,5,False
+1501,card not working,activate,0,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1501,2,5,False
+1368,virtual card not working,virtual,72,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1368,2,5,False
+344,pin blocked,pin,49,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",344,2,5,False
+429,pending top up,pending top,47,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",429,2,5,False
+291,age limit,age,1,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",291,2,5,False
+474,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",474,2,5,False
+137,fiat currency support,fi,36,True,True,False,"{36: 1, 35: 1}","[1068, 1214]",137,2,5,False
+784,passcode forgotten,pass,44,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",784,2,5,False
+1021,request refund,term,55,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1021,2,5,False
+1414,transfer not received by recipient,balance,5,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1414,2,5,False
+741,pending transfer,direct,28,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",741,2,5,False
+904,request refund,request,52,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",904,2,5,False
+723,request refund,direct,28,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",723,2,5,False
+87,pending transfer,extra,34,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",87,2,5,False
+1457,card acceptance,top up by card,57,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1457,2,5,False
+747,direct debit payment not recognised,direct,28,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",747,2,5,False
+728,pending transfer,direct,28,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",728,2,5,False
+860,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",860,2,5,False
+355,card not working,pin,49,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",355,2,5,False
+1294,top up by cash or cheque,top up by cash,58,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1294,2,5,False
+521,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",521,2,5,False
+299,age limit,age,1,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",299,2,5,False
+807,pending transfer,pending card,45,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",807,2,5,False
+1367,virtual card not working,virtual,72,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1367,2,5,False
+556,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",556,2,5,False
+239,top up by card charge,automatic,4,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",239,2,5,False
+1418,lost or stolen phone,balance,5,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1418,2,5,False
+203,top up by cash or cheque,automatic,4,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",203,2,5,False
+1265,transfer not received by recipient,failed,35,True,False,False,"{36: 1, 35: 1}","[1068, 1214]",1265,2,5,False
+1509,card delivery estimate,activate,0,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1509,2,5,False
+284,age limit,age,1,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",284,2,5,False
+1335,card delivery estimate,order,43,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1335,2,5,False
+517,transfer not received by recipient,transfer not,66,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",517,2,5,False
+458,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",458,2,5,False
+808,pending transfer,pending card,45,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",808,2,5,False
+290,age limit,age,1,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",290,2,5,False
+584,top up reverted,top up re,61,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",584,2,5,False
+129,fiat currency support,fi,36,True,True,False,"{36: 1, 35: 1}","[1068, 1214]",129,2,5,False
+306,age limit,age,1,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",306,2,5,False
+457,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",457,2,5,False
+179,card delivery estimate,card delivery,12,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",179,2,5,False
+628,top up by card charge,to,62,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",628,2,5,False
+26,card not working,card link,13,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",26,2,5,False
+1276,transfer not received by recipient,failed,35,True,False,False,"{36: 1, 35: 1}","[1068, 1214]",1276,2,5,False
+839,pending transfer,pending card,45,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",839,2,5,False
+1174,pin blocked,change,21,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1174,2,5,False
+557,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",557,2,5,False
+446,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",446,2,5,False
+1117,verify source of funds,verify,70,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1117,2,5,False
+215,top up by card charge,automatic,4,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",215,2,5,False
+966,pending transfer,pending transfer,48,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",966,2,5,False
+420,top up reverted,pending top,47,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",420,2,5,False
+614,top up by card charge,to,62,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",614,2,5,False
+192,card delivery estimate,card delivery,12,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",192,2,5,False
+667,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",667,2,5,False
+852,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",852,2,5,False
+1083,verify source of funds,verify,70,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1083,2,5,False
+1106,verify source of funds,verify,70,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1106,2,5,False
+917,request refund,request,52,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",917,2,5,False
+508,transfer timing,transfer not,66,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",508,2,5,False
+146,fiat currency support,fi,36,True,True,False,"{36: 1, 35: 1}","[1068, 1214]",146,2,5,False
+1307,top up by cash or cheque,top up by cash,58,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1307,2,5,False
+334,pin blocked,pin,49,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",334,2,5,False
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",962,2,5,False
+1015,request refund,term,55,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1015,2,5,False
+1486,card not working,activate,0,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1486,2,5,False
+391,contactless not working,contact,23,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",391,2,5,False
+1243,failed transfer,failed,35,True,True,False,"{36: 1, 35: 1}","[1068, 1214]",1243,2,5,False
+69,exchange rate,exchange,32,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",69,2,5,False
+392,contactless not working,contact,23,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",392,2,5,False
+792,passcode forgotten,pass,44,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",792,2,5,False
+1448,card acceptance,top up by card,57,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1448,2,5,False
+490,failed transfer,transfer not,66,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",490,2,5,False
+676,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",676,2,5,False
+648,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",648,2,5,False
+818,pending card payment,pending card,45,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",818,2,5,False
+982,transfer timing,pending transfer,48,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",982,2,5,False
+973,pending transfer,pending transfer,48,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",973,2,5,False
+535,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",535,2,5,False
+793,passcode forgotten,pass,44,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",793,2,5,False
+259,card not working,card not,14,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",259,2,5,False
+430,top up reverted,pending top,47,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",430,2,5,False
+481,transfer not received by recipient,transfer not,66,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",481,2,5,False
+567,top up reverted,top up re,61,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",567,2,5,False
+72,exchange rate,exchange,32,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",72,2,5,False
+113,extra charge on statement,extra,34,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",113,2,5,False
+384,contactless not working,contact,23,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",384,2,5,False
+1053,lost or stolen phone,card swallowed,18,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1053,2,5,False
+1401,failed transfer,balance,5,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1401,2,5,False
+969,pending transfer,pending transfer,48,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",969,2,5,False
+312,age limit,age,1,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",312,2,5,False
+892,request refund,request,52,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",892,2,5,False
+454,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",454,2,5,False
+479,top up limits,top up limits,60,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",479,2,5,False
+650,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",650,2,5,False
+23,card linking,card link,13,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",23,2,5,False
+1212,fiat currency support,receiving,50,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1212,2,5,False
+1214,receiving money,receiving,50,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1214,2,5,False
+1349,card delivery estimate,order,43,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1349,2,5,False
+262,card not working,card not,14,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",262,2,5,False
+48,exchange rate,exchange,32,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",48,2,5,False
+285,request refund,age,1,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",285,2,5,False
+851,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",851,2,5,False
+1352,request refund,order,43,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1352,2,5,False
+327,pin blocked,pin,49,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",327,2,5,False
+1438,balance not updated after bank transfer,balance,5,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1438,2,5,False
+29,card linking,card link,13,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",29,2,5,False
+234,top up by card charge,automatic,4,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",234,2,5,False
+528,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",528,2,5,False
+369,card not working,contact,23,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",369,2,5,False
+128,fiat currency support,fi,36,True,True,False,"{36: 1, 35: 1}","[1068, 1214]",128,2,5,False
+1151,transfer timing,transfer timing,67,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1151,2,5,False
+544,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",544,2,5,False
+884,request refund,request,52,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",884,2,5,False
+593,top up reverted,top up re,61,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",593,2,5,False
+229,top up by card charge,automatic,4,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",229,2,5,False
+876,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",876,2,5,False
+629,transfer not received by recipient,to,62,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",629,2,5,False
+1419,failed transfer,balance,5,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1419,2,5,False
+821,pending transfer,pending card,45,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",821,2,5,False
+1285,top up by cash or cheque,top up by cash,58,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1285,2,5,False
+678,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",678,2,5,False
+204,top up by card charge,automatic,4,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",204,2,5,False
+872,card not working,lost,42,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",872,2,5,False
+696,request refund,atm,3,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",696,2,5,False
+219,card not working,automatic,4,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",219,2,5,False
+190,request refund,card delivery,12,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",190,2,5,False
+379,contactless not working,contact,23,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",379,2,5,False
+1340,card acceptance,order,43,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1340,2,5,False
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",978,2,5,False
+645,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",645,2,5,False
+735,direct debit payment not recognised,direct,28,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",735,2,5,False
+850,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",850,2,5,False
+1353,lost or stolen phone,order,43,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1353,2,5,False
+800,card not working,pending card,45,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",800,2,5,False
+1329,card delivery estimate,order,43,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1329,2,5,False
+115,extra charge on statement,extra,34,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",115,2,5,False
+1396,virtual card not working,virtual,72,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1396,2,5,False
+34,card linking,card link,13,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",34,2,5,False
+967,pending transfer,pending transfer,48,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",967,2,5,False
+1512,card not working,activate,0,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1512,2,5,False
+439,pending transfer,pending top,47,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",439,2,5,False
+1411,transfer timing,balance,5,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1411,2,5,False
+1217,receiving money,receiving,50,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1217,2,5,False
+867,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",867,2,5,False
+704,atm support,atm,3,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",704,2,5,False
+1211,receiving money,receiving,50,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1211,2,5,False
+646,disposable card limits,dispos,29,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",646,2,5,False
+1165,change pin,change,21,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1165,2,5,False
+799,verify source of funds,pass,44,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",799,2,5,False
+898,order physical card,request,52,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",898,2,5,False
+36,card not working,card link,13,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",36,2,5,False
+1278,transfer not received by recipient,failed,35,True,False,False,"{36: 1, 35: 1}","[1068, 1214]",1278,2,5,False
+324,pin blocked,pin,49,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",324,2,5,False
+689,atm support,atm,3,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",689,2,5,False
+1508,activate my card,activate,0,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1508,2,5,False
+992,transfer timing,pending transfer,48,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",992,2,5,False
+314,age limit,age,1,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",314,2,5,False
+1082,transfer not received by recipient,verify,70,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1082,2,5,False
+1096,verify source of funds,verify,70,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1096,2,5,False
+787,lost or stolen phone,pass,44,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",787,2,5,False
+842,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",842,2,5,False
+191,card delivery estimate,card delivery,12,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",191,2,5,False
+845,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",845,2,5,False
+1027,request refund,term,55,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1027,2,5,False
+99,extra charge on statement,extra,34,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",99,2,5,False
+552,card acceptance,card acceptance,10,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",552,2,5,False
+1024,terminate account,term,55,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1024,2,5,False
+141,exchange rate,fi,36,True,False,False,"{36: 1, 35: 1}","[1068, 1214]",141,2,5,False
+625,card not working,to,62,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",625,2,5,False
+922,card not working,declined,25,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",922,2,5,False
+977,transfer timing,pending transfer,48,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",977,2,5,False
+135,change pin,fi,36,True,False,False,"{36: 1, 35: 1}","[1068, 1214]",135,2,5,False
+1109,transfer not received by recipient,verify,70,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1109,2,5,False
+405,pending top up,pending top,47,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",405,2,5,False
+760,passcode forgotten,pass,44,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",760,2,5,False
+1035,request refund,term,55,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",1035,2,5,False
+928,card not working,declined,25,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",928,2,5,False
+976,transfer timing,pending transfer,48,False,False,False,"{36: 1, 35: 1}","[1068, 1214]",976,2,5,False
+963,pending transfer,pending transfer,48,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",963,2,5,False
+762,passcode forgotten,pass,44,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",762,2,5,False
+514,transfer not received by recipient,transfer not,66,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",514,2,5,False
+870,lost or stolen phone,lost,42,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",870,2,5,False
+1122,transfer timing,transfer timing,67,False,True,False,"{36: 1, 35: 1}","[1068, 1214]",1122,2,5,False

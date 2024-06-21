@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+790,visa or mastercard,vis,73,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",790,5,1,False,5
+1520,transfer not received by recipient,transfer not,66,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1520,5,1,False,5
+8106,pending cash withdrawal,pending c,46,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8106,5,1,False,5
+2120,card swallowed,card sw,18,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2120,5,1,False,5
+308,order physical card,order,43,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",308,5,1,False,5
+6155,top up failed,top up revert,61,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6155,5,1,False,5
+7249,age limit,age,1,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7249,5,1,False,5
+5423,transfer not received by recipient,failed,35,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5423,5,1,False,5
+4637,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4637,5,1,False,5
+4055,top up failed,pending top,47,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4055,5,1,False,5
+3032,card not working,card about,9,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3032,5,1,False,5
+8531,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8531,5,1,False,5
+838,transfer not received by recipient,pending transfer,48,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",838,5,1,False,5
+7660,exchange rate,exchange rate,32,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7660,5,1,False,5
+6834,cancel transfer,cancel,8,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6834,5,1,False,5
+773,exchange rate,exchange rate,32,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",773,5,1,False,5
+4426,verify top up,verify top,71,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4426,5,1,False,5
+8266,change pin,change,21,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8266,5,1,False,5
+674,card not working,comprom,22,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",674,5,1,False,5
+9257,card not working,declined c,26,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9257,5,1,False,5
+7483,change pin,vis,73,True,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7483,5,1,False,5
+9627,transfer into account,transfer into,65,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9627,5,1,False,5
+1956,exchange rate,exchange charge,31,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1956,5,1,False,5
+9888,verify source of funds,verify source,70,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9888,5,1,False,5
+5636,beneficiary not allowed,benef,7,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5636,5,1,False,5
+6473,beneficiary not allowed,benef,7,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6473,5,1,False,5
+7105,extra charge on statement,card payment fee,15,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7105,5,1,False,5
+216,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",216,5,1,False,5
+288,card payment not recognised,card payment not,16,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",288,5,1,False,5
+7959,card delivery estimate,getting spare,39,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7959,5,1,False,5
+5297,transaction charged twice,transfer not,66,True,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5297,5,1,False,5
+616,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",616,5,1,False,5
+6924,change pin,change,21,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6924,5,1,False,5
+9900,atm support,cash withdrawal charge,19,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9900,5,1,False,5
+9614,cancel transfer,cancel,8,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9614,5,1,False,5
+1610,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1610,5,1,False,5
+7167,wrong amount of cash received,unable,68,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7167,5,1,False,5
+3189,exchange rate,exchange via,33,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3189,5,1,False,5
+9817,card delivery estimate,card delivery,12,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9817,5,1,False,5
+8039,verify top up,verify top,71,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8039,5,1,False,5
+3198,exchange rate,wrong exchange,76,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3198,5,1,False,5
+4520,card not working,cash withdrawal not,20,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4520,5,1,False,5
+3324,transfer not received by recipient,top up revert,61,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3324,5,1,False,5
+2346,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2346,5,1,False,5
+4494,topping up by card,top up by card,57,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4494,5,1,False,5
+7065,card linking,card linking,13,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7065,5,1,False,5
+9369,failed transfer,top up failed,59,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9369,5,1,False,5
+9633,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9633,5,1,False,5
+474,pending cash withdrawal,pending c,46,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",474,5,1,False,5
+3433,cash withdrawal not recognised,at,3,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3433,5,1,False,5
+4221,fiat currency support,fi,36,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4221,5,1,False,5
+2406,transfer into account,supported,54,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2406,5,1,False,5
+1160,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1160,5,1,False,5
+5655,card not working,country,24,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5655,5,1,False,5
+9308,exchange rate,fi,36,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9308,5,1,False,5
+1181,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1181,5,1,False,5
+3126,card acceptance,card accept,10,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3126,5,1,False,5
+3679,top up failed,to,62,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3679,5,1,False,5
+139,exchange rate,exchange charge,31,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",139,5,1,False,5
+3421,order physical card,order,43,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3421,5,1,False,5
+8903,exchange rate,exchange charge,31,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8903,5,1,False,5
+3525,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3525,5,1,False,5
+9329,card payment not recognised,verify source,70,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9329,5,1,False,5
+7632,exchange rate,receiving,50,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7632,5,1,False,5
+9119,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9119,5,1,False,5
+9226,pending card payment,pending card,45,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9226,5,1,False,5
+8121,card swallowed,card sw,18,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8121,5,1,False,5
+4796,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4796,5,1,False,5
+280,transfer not received by recipient,pending transfer,48,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",280,5,1,False,5
+3733,atm support,cash withdrawal charge,19,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3733,5,1,False,5
+7351,pending cash withdrawal,balance not updated after che,6,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7351,5,1,False,5
+968,passcode forgotten,pass,44,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",968,5,1,False,5
+9926,transfer fee charged,top up by bank,56,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9926,5,1,False,5
+2514,virtual card not working,dispos,29,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2514,5,1,False,5
+6115,transfer not received by recipient,failed,35,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6115,5,1,False,5
+7520,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7520,5,1,False,5
+5142,atm support,at,3,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5142,5,1,False,5
+2795,top up by card charge,automatic,4,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2795,5,1,False,5
+6112,card not working,vis,73,True,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6112,5,1,False,5
+7025,transfer not received by recipient,to,62,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7025,5,1,False,5
+6724,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6724,5,1,False,5
+4074,failed transfer,unable,68,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4074,5,1,False,5
+1058,pending cash withdrawal,Ref,51,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1058,5,1,False,5
+2472,order physical card,getting virtual,40,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2472,5,1,False,5
+5646,topping up by card,top up failed,59,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5646,5,1,False,5
+2581,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2581,5,1,False,5
+2064,lost or stolen phone,lost or stolen phone,42,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2064,5,1,False,5
+7453,card not working,declined c,26,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7453,5,1,False,5
+8094,cancel transfer,terminate,55,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8094,5,1,False,5
+3658,verify source of funds,verify source,70,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3658,5,1,False,5
+4926,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4926,5,1,False,5
+8784,verify my identity,why,74,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8784,5,1,False,5
+9338,pin blocked,get physical,38,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9338,5,1,False,5
+5628,change pin,lost or stolen phone,42,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5628,5,1,False,5
+6174,transfer not received by recipient,transfer not,66,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6174,5,1,False,5
+5263,verify my identity,verify my,69,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5263,5,1,False,5
+6664,card not working,card not,14,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6664,5,1,False,5
+9711,top up by cash or cheque,top up by c,58,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9711,5,1,False,5
+8831,transfer fee charged,top up by bank,56,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8831,5,1,False,5
+1440,declined card payment,declined c,26,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1440,5,1,False,5
+1340,card not working,get physical,38,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1340,5,1,False,5
+6602,exchange rate,exchange via,33,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6602,5,1,False,5
+2015,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2015,5,1,False,5
+2727,exchange rate,exchange via,33,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2727,5,1,False,5
+1513,transfer not received by recipient,transfer not,66,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1513,5,1,False,5
+9501,extra charge on statement,extra,34,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9501,5,1,False,5
+8264,top up by card charge,top up by card,57,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8264,5,1,False,5
+2413,top up failed,to,62,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2413,5,1,False,5
+565,card delivery estimate,getting spare,39,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",565,5,1,False,5
+3380,card not working,card arrival,11,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3380,5,1,False,5
+5218,change pin,exchange via,33,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5218,5,1,False,5
+6889,exchange rate,receiving,50,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6889,5,1,False,5
+1128,top up by cash or cheque,top up by c,58,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1128,5,1,False,5
+8633,card not working,direct,28,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8633,5,1,False,5
+621,transfer timing,transfer timing,67,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",621,5,1,False,5
+5062,card not working,wrong amount,75,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5062,5,1,False,5
+4921,pending cash withdrawal,pending c,46,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4921,5,1,False,5
+4253,card not working,declined c,26,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4253,5,1,False,5
+8442,order physical card,vis,73,True,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8442,5,1,False,5
+6006,transfer not received by recipient,balance not updated after che,6,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6006,5,1,False,5
+59,direct debit payment not recognised,direct,28,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",59,5,1,False,5
+5541,pin blocked,pin,49,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5541,5,1,False,5
+9225,top up by card charge,verify top,71,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9225,5,1,False,5
+1589,card payment not recognised,revert,53,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1589,5,1,False,5
+2419,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2419,5,1,False,5
+6700,card delivery estimate,card arrival,11,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6700,5,1,False,5
+9323,cancel transfer,cancel,8,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9323,5,1,False,5
+9357,wrong amount of cash received,card payment not,16,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9357,5,1,False,5
+3101,exchange rate,exchange charge,31,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3101,5,1,False,5
+3839,cash withdrawal not recognised,at,3,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3839,5,1,False,5
+2536,age limit,age,1,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2536,5,1,False,5
+5507,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5507,5,1,False,5
+7152,pending cash withdrawal,pending card,45,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7152,5,1,False,5
+1858,exchange rate,fi,36,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1858,5,1,False,5
+2721,top up by card charge,to,62,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2721,5,1,False,5
+3518,card not working,verify source,70,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3518,5,1,False,5
+4613,top up by card charge,apple,2,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4613,5,1,False,5
+2772,card payment fee charged,extra,34,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2772,5,1,False,5
+5937,pending cash withdrawal,pending card,45,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5937,5,1,False,5
+6819,top up by cash or cheque,top up by c,58,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6819,5,1,False,5
+6923,transfer not received by recipient,pending transfer,48,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6923,5,1,False,5
+9848,card payment fee charged,top up by card,57,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9848,5,1,False,5
+4189,get physical card,apple,2,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4189,5,1,False,5
+608,order physical card,order,43,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",608,5,1,False,5
+7826,top up limits,top up by card,57,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7826,5,1,False,5
+6850,topping up by card,top up by c,58,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6850,5,1,False,5
+5807,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5807,5,1,False,5
+6139,exchange rate,fi,36,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6139,5,1,False,5
+3117,order physical card,card delivery,12,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3117,5,1,False,5
+9536,cancel transfer,transaction,63,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9536,5,1,False,5
+4623,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4623,5,1,False,5
+2490,change pin,change,21,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2490,5,1,False,5
+9704,transfer fee charged,transfer fee,64,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9704,5,1,False,5
+2060,extra charge on statement,extra,34,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2060,5,1,False,5
+1554,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1554,5,1,False,5
+4452,order physical card,vis,73,True,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4452,5,1,False,5
+1700,change pin,change,21,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1700,5,1,False,5
+9282,transfer fee charged,transfer fee,64,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9282,5,1,False,5
+6946,failed transfer,top up failed,59,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6946,5,1,False,5
+3294,top up by card charge,supported,54,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3294,5,1,False,5
+6970,change pin,change,21,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6970,5,1,False,5
+8836,declined cash withdrawal,declined c,26,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8836,5,1,False,5
+3542,direct debit payment not recognised,direct,28,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3542,5,1,False,5
+8401,change pin,edit,30,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8401,5,1,False,5
+7461,declined card payment,declined c,26,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7461,5,1,False,5
+5706,card not working,card payment not,16,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5706,5,1,False,5
+3405,top up by card charge,automatic,4,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3405,5,1,False,5
+8830,wrong amount of cash received,wrong amount,75,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8830,5,1,False,5
+2408,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2408,5,1,False,5
+568,failed transfer,top up failed,59,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",568,5,1,False,5
+782,cancel transfer,revert,53,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",782,5,1,False,5
+3338,card delivery estimate,card about,9,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3338,5,1,False,5
+673,change pin,change,21,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",673,5,1,False,5
+2992,pending cash withdrawal,extra,34,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2992,5,1,False,5
+3617,card payment not recognised,revert,53,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3617,5,1,False,5
+7854,verify my identity,edit,30,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7854,5,1,False,5
+9524,card delivery estimate,get dispos,37,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9524,5,1,False,5
+3558,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3558,5,1,False,5
+3512,get physical card,verify source,70,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3512,5,1,False,5
+965,card swallowed,card sw,18,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",965,5,1,False,5
+8484,top up by card charge,top up limits,60,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8484,5,1,False,5
+5175,cancel transfer,top up revert,61,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5175,5,1,False,5
+4584,country support,country,24,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4584,5,1,False,5
+8719,card delivery estimate,card delivery,12,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8719,5,1,False,5
+9531,card payment not recognised,card payment not,16,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9531,5,1,False,5
+1093,change pin,edit,30,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1093,5,1,False,5
+6399,verify my identity,why,74,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6399,5,1,False,5
+3780,card delivery estimate,card arrival,11,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3780,5,1,False,5
+6524,card delivery estimate,country,24,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6524,5,1,False,5
+5234,exchange rate,exchange rate,32,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5234,5,1,False,5
+5809,lost or stolen card,lost or stolen phone,42,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5809,5,1,False,5
+7540,cancel transfer,top up revert,61,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7540,5,1,False,5
+4060,card payment not recognised,declined card,25,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4060,5,1,False,5
+344,card not working,activ,0,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",344,5,1,False,5
+8309,exchange rate,fi,36,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8309,5,1,False,5
+7058,pin blocked,pin,49,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7058,5,1,False,5
+2743,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2743,5,1,False,5
+9906,card swallowed,wrong amount,75,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9906,5,1,False,5
+1345,cash withdrawal not recognised,wrong amount,75,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1345,5,1,False,5
+3419,card not working,card not,14,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3419,5,1,False,5
+4879,age limit,age,1,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4879,5,1,False,5
+4581,extra charge on statement,card payment fee,15,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4581,5,1,False,5
+1582,exchange rate,exchange via,33,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1582,5,1,False,5
+3654,change pin,edit,30,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3654,5,1,False,5
+8882,verify my identity,why,74,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8882,5,1,False,5
+5810,pending cash withdrawal,extra,34,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5810,5,1,False,5
+5144,card payment not recognised,direct,28,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5144,5,1,False,5
+8141,transfer fee charged,top up by bank,56,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8141,5,1,False,5
+2073,passcode forgotten,pass,44,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2073,5,1,False,5
+7837,extra charge on statement,extra,34,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7837,5,1,False,5
+8946,card not working,card linking,13,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8946,5,1,False,5
+9613,extra charge on statement,extra,34,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9613,5,1,False,5
+1068,pin blocked,get physical,38,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1068,5,1,False,5
+1412,pending cash withdrawal,balance not updated after che,6,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1412,5,1,False,5
+6381,transfer timing,transfer timing,67,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6381,5,1,False,5
+7054,card not working,card payment not,16,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7054,5,1,False,5
+9799,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9799,5,1,False,5
+9380,card not working,top up failed,59,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9380,5,1,False,5
+6617,transfer not received by recipient,transfer into,65,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6617,5,1,False,5
+1067,fiat currency support,fi,36,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1067,5,1,False,5
+7579,balance not updated after bank transfer,card payment fee,15,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7579,5,1,False,5
+724,top up limits,automatic,4,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",724,5,1,False,5
+4472,transfer fee charged,top up by bank,56,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4472,5,1,False,5
+6269,card not working,declined transfer,27,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",6269,5,1,False,5
+8105,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8105,5,1,False,5
+2587,top up failed,top up failed,59,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2587,5,1,False,5
+4927,card not working,at,3,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4927,5,1,False,5
+89,card not working,card arrival,11,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",89,5,1,False,5
+3014,fiat currency support,fi,36,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3014,5,1,False,5
+8770,transfer not received by recipient,verify source,70,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8770,5,1,False,5
+4390,card not working,declined c,26,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4390,5,1,False,5
+9409,top up failed,apple,2,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9409,5,1,False,5
+2244,transaction charged twice,verify source,70,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2244,5,1,False,5
+452,direct debit payment not recognised,direct,28,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",452,5,1,False,5
+5410,transfer not received by recipient,transfer not,66,True,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5410,5,1,False,5
+7799,direct debit payment not recognised,direct,28,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7799,5,1,False,5
+7087,transfer not received by recipient,top up by bank,56,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7087,5,1,False,5
+4043,transfer not received by recipient,failed,35,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4043,5,1,False,5
+5307,top up failed,pending top,47,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5307,5,1,False,5
+2779,card payment not recognised,vis,73,True,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2779,5,1,False,5
+5966,top up limits,automatic,4,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",5966,5,1,False,5
+8708,virtual card not working,get dispos,37,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",8708,5,1,False,5
+7406,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7406,5,1,False,5
+3981,balance not updated after cheque or cash deposit,balance not updated after che,6,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",3981,5,1,False,5
+9867,transfer fee charged,transfer fee,64,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",9867,5,1,False,5
+7822,lost or stolen phone,lost or stolen phone,42,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7822,5,1,False,5
+7797,card not working,card about,9,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",7797,5,1,False,5
+1860,card not working,declined c,26,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",1860,5,1,False,5
+4023,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",4023,5,1,False,5
+2887,pending cash withdrawal,balance not updated after che,6,False,False,False,"{73: 1, 66: 1, 46: 1, 18: 1, 43: 1}","[790, 1520, 8106, 2120, 308]",2887,5,1,False,5

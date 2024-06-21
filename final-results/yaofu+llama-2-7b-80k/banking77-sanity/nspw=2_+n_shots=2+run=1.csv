@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+790,visa or mastercard,vis,73,True,True,False,"{73: 1, 66: 1}","[790, 1520]",790,2,1,False,2
+1520,transfer not received by recipient,transfer not,66,True,True,False,"{73: 1, 66: 1}","[790, 1520]",1520,2,1,False,2
+8106,transfer not received by recipient,pending c,46,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8106,2,1,False,2
+2120,card not working,card sw,18,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2120,2,1,False,2
+308,card not working,order,43,False,False,False,"{73: 1, 66: 1}","[790, 1520]",308,2,1,False,2
+6155,top up failed,top up revert,61,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6155,2,1,False,2
+7249,age limit,age,1,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7249,2,1,False,2
+5423,transfer not received by recipient,failed,35,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5423,2,1,False,2
+4637,extra charge on statement,card payment fee,15,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4637,2,1,False,2
+4055,top up failed,pending top,47,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4055,2,1,False,2
+3032,card not working,card about,9,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3032,2,1,False,2
+8531,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1}","[790, 1520]",8531,2,1,False,2
+838,transfer not received by recipient,pending transfer,48,False,False,False,"{73: 1, 66: 1}","[790, 1520]",838,2,1,False,2
+7660,exchange rate,exchange rate,32,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7660,2,1,False,2
+6834,cancel transfer,cancel,8,False,True,False,"{73: 1, 66: 1}","[790, 1520]",6834,2,1,False,2
+773,exchange rate,exchange rate,32,False,True,False,"{73: 1, 66: 1}","[790, 1520]",773,2,1,False,2
+4426,verify top up,verify top,71,False,True,False,"{73: 1, 66: 1}","[790, 1520]",4426,2,1,False,2
+8266,change pin,change,21,False,True,False,"{73: 1, 66: 1}","[790, 1520]",8266,2,1,False,2
+674,card not working,comprom,22,False,False,False,"{73: 1, 66: 1}","[790, 1520]",674,2,1,False,2
+9257,atm support,declined c,26,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9257,2,1,False,2
+7483,change pin,vis,73,True,False,False,"{73: 1, 66: 1}","[790, 1520]",7483,2,1,False,2
+9627,transfer into account,transfer into,65,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9627,2,1,False,2
+1956,exchange rate,exchange charge,31,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1956,2,1,False,2
+9888,verify source of funds,verify source,70,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9888,2,1,False,2
+5636,transfer not received by recipient,benef,7,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5636,2,1,False,2
+6473,beneficiary not allowed,benef,7,False,True,False,"{73: 1, 66: 1}","[790, 1520]",6473,2,1,False,2
+7105,extra charge on statement,card payment fee,15,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7105,2,1,False,2
+216,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1}","[790, 1520]",216,2,1,False,2
+288,card payment not recognised,card payment not,16,False,True,False,"{73: 1, 66: 1}","[790, 1520]",288,2,1,False,2
+7959,get physical card,getting spare,39,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7959,2,1,False,2
+5297,transaction charged twice,transfer not,66,True,False,False,"{73: 1, 66: 1}","[790, 1520]",5297,2,1,False,2
+616,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1}","[790, 1520]",616,2,1,False,2
+6924,change pin,change,21,False,True,False,"{73: 1, 66: 1}","[790, 1520]",6924,2,1,False,2
+9900,atm support,cash withdrawal charge,19,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9900,2,1,False,2
+9614,cancel transfer,cancel,8,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9614,2,1,False,2
+1610,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1610,2,1,False,2
+7167,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7167,2,1,False,2
+3189,exchange rate,exchange via,33,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3189,2,1,False,2
+9817,card not working,card delivery,12,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9817,2,1,False,2
+8039,verify top up,verify top,71,False,True,False,"{73: 1, 66: 1}","[790, 1520]",8039,2,1,False,2
+3198,exchange rate,wrong exchange,76,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3198,2,1,False,2
+4520,card not working,cash withdrawal not,20,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4520,2,1,False,2
+3324,transfer not received by recipient,top up revert,61,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3324,2,1,False,2
+2346,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2346,2,1,False,2
+4494,topping up by card,top up by card,57,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4494,2,1,False,2
+7065,card linking,card linking,13,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7065,2,1,False,2
+9369,failed transfer,top up failed,59,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9369,2,1,False,2
+9633,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9633,2,1,False,2
+474,cash withdrawal not recognised,pending c,46,False,False,False,"{73: 1, 66: 1}","[790, 1520]",474,2,1,False,2
+3433,cash withdrawal not recognised,at,3,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3433,2,1,False,2
+4221,fiat currency support,fi,36,False,True,False,"{73: 1, 66: 1}","[790, 1520]",4221,2,1,False,2
+2406,transfer not received by recipient,supported,54,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2406,2,1,False,2
+1160,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1}","[790, 1520]",1160,2,1,False,2
+5655,card not working,country,24,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5655,2,1,False,2
+9308,supported cards and currencies,fi,36,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9308,2,1,False,2
+1181,top up by card charge,top up limits,60,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1181,2,1,False,2
+3126,card not working,card accept,10,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3126,2,1,False,2
+3679,top up failed,to,62,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3679,2,1,False,2
+139,exchange rate,exchange charge,31,False,False,False,"{73: 1, 66: 1}","[790, 1520]",139,2,1,False,2
+3421,card delivery estimate,order,43,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3421,2,1,False,2
+8903,exchange rate,exchange charge,31,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8903,2,1,False,2
+3525,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3525,2,1,False,2
+9329,transfer not received by recipient,verify source,70,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9329,2,1,False,2
+7632,transfer not received by recipient,receiving,50,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7632,2,1,False,2
+9119,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9119,2,1,False,2
+9226,card payment not recognised,pending card,45,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9226,2,1,False,2
+8121,atm support,card sw,18,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8121,2,1,False,2
+4796,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1}","[790, 1520]",4796,2,1,False,2
+280,transfer not received by recipient,pending transfer,48,False,False,False,"{73: 1, 66: 1}","[790, 1520]",280,2,1,False,2
+3733,atm support,cash withdrawal charge,19,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3733,2,1,False,2
+7351,transfer not received by recipient,balance not updated after che,6,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7351,2,1,False,2
+968,passcode forgotten,pass,44,False,True,False,"{73: 1, 66: 1}","[790, 1520]",968,2,1,False,2
+9926,transfer fee charged,top up by bank,56,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9926,2,1,False,2
+2514,virtual card not working,dispos,29,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2514,2,1,False,2
+6115,transfer not received by recipient,failed,35,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6115,2,1,False,2
+7520,why verify identity,card payment fee,15,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7520,2,1,False,2
+5142,atm support,at,3,False,True,False,"{73: 1, 66: 1}","[790, 1520]",5142,2,1,False,2
+2795,top up by card charge,automatic,4,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2795,2,1,False,2
+6112,get physical card,vis,73,True,False,False,"{73: 1, 66: 1}","[790, 1520]",6112,2,1,False,2
+7025,transfer not received by recipient,to,62,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7025,2,1,False,2
+6724,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6724,2,1,False,2
+4074,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4074,2,1,False,2
+1058,transfer not received by recipient,Ref,51,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1058,2,1,False,2
+2472,virtual card not working,getting virtual,40,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2472,2,1,False,2
+5646,topping up by card,top up failed,59,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5646,2,1,False,2
+2581,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2581,2,1,False,2
+2064,lost or stolen phone,lost or stolen phone,42,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2064,2,1,False,2
+7453,atm support,declined c,26,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7453,2,1,False,2
+8094,cancel transfer,terminate,55,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8094,2,1,False,2
+3658,verify source of funds,verify source,70,False,True,False,"{73: 1, 66: 1}","[790, 1520]",3658,2,1,False,2
+4926,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4926,2,1,False,2
+8784,verify my identity,why,74,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8784,2,1,False,2
+9338,pin blocked,get physical,38,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9338,2,1,False,2
+5628,change pin,lost or stolen phone,42,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5628,2,1,False,2
+6174,transfer not received by recipient,transfer not,66,True,True,False,"{73: 1, 66: 1}","[790, 1520]",6174,2,1,False,2
+5263,verify my identity,verify my,69,False,True,False,"{73: 1, 66: 1}","[790, 1520]",5263,2,1,False,2
+6664,card not working,card not,14,False,True,False,"{73: 1, 66: 1}","[790, 1520]",6664,2,1,False,2
+9711,top up by cash or cheque,top up by c,58,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9711,2,1,False,2
+8831,transfer fee charged,top up by bank,56,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8831,2,1,False,2
+1440,transfer not received by recipient,declined c,26,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1440,2,1,False,2
+1340,card not working,get physical,38,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1340,2,1,False,2
+6602,exchange rate,exchange via,33,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6602,2,1,False,2
+2015,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2015,2,1,False,2
+2727,exchange rate,exchange via,33,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2727,2,1,False,2
+1513,transfer timing,transfer not,66,True,False,False,"{73: 1, 66: 1}","[790, 1520]",1513,2,1,False,2
+9501,extra charge on statement,extra,34,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9501,2,1,False,2
+8264,top up by card charge,top up by card,57,False,True,False,"{73: 1, 66: 1}","[790, 1520]",8264,2,1,False,2
+2413,transfer not received by recipient,to,62,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2413,2,1,False,2
+565,card delivery estimate,getting spare,39,False,False,False,"{73: 1, 66: 1}","[790, 1520]",565,2,1,False,2
+3380,card not working,card arrival,11,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3380,2,1,False,2
+5218,change pin,exchange via,33,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5218,2,1,False,2
+6889,transfer not received by recipient,receiving,50,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6889,2,1,False,2
+1128,top up by cash or cheque,top up by c,58,False,True,False,"{73: 1, 66: 1}","[790, 1520]",1128,2,1,False,2
+8633,cancel transfer,direct,28,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8633,2,1,False,2
+621,transfer timing,transfer timing,67,False,True,False,"{73: 1, 66: 1}","[790, 1520]",621,2,1,False,2
+5062,transfer not received by recipient,wrong amount,75,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5062,2,1,False,2
+4921,atm support,pending c,46,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4921,2,1,False,2
+4253,atm support,declined c,26,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4253,2,1,False,2
+8442,visa or mastercard,vis,73,True,True,False,"{73: 1, 66: 1}","[790, 1520]",8442,2,1,False,2
+6006,transfer not received by recipient,balance not updated after che,6,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6006,2,1,False,2
+59,direct debit payment not recognised,direct,28,False,True,False,"{73: 1, 66: 1}","[790, 1520]",59,2,1,False,2
+5541,pin blocked,pin,49,False,True,False,"{73: 1, 66: 1}","[790, 1520]",5541,2,1,False,2
+9225,top up by card charge,verify top,71,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9225,2,1,False,2
+1589,card not working,revert,53,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1589,2,1,False,2
+2419,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2419,2,1,False,2
+6700,card delivery estimate,card arrival,11,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6700,2,1,False,2
+9323,cancel transfer,cancel,8,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9323,2,1,False,2
+9357,transfer not received by recipient,card payment not,16,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9357,2,1,False,2
+3101,exchange rate,exchange charge,31,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3101,2,1,False,2
+3839,transfer not received by recipient,at,3,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3839,2,1,False,2
+2536,age limit,age,1,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2536,2,1,False,2
+5507,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5507,2,1,False,2
+7152,transfer not received by recipient,pending card,45,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7152,2,1,False,2
+1858,exchange rate,fi,36,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1858,2,1,False,2
+2721,top up by card charge,to,62,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2721,2,1,False,2
+3518,transfer not received by recipient,verify source,70,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3518,2,1,False,2
+4613,apple pay or google pay,apple,2,False,True,False,"{73: 1, 66: 1}","[790, 1520]",4613,2,1,False,2
+2772,card not working,extra,34,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2772,2,1,False,2
+5937,pending transfer,pending card,45,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5937,2,1,False,2
+6819,top up by cash or cheque,top up by c,58,False,True,False,"{73: 1, 66: 1}","[790, 1520]",6819,2,1,False,2
+6923,transfer not received by recipient,pending transfer,48,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6923,2,1,False,2
+9848,topping up by card,top up by card,57,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9848,2,1,False,2
+4189,get physical card,apple,2,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4189,2,1,False,2
+608,card delivery estimate,order,43,False,False,False,"{73: 1, 66: 1}","[790, 1520]",608,2,1,False,2
+7826,top up by card charge,top up by card,57,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7826,2,1,False,2
+6850,topping up by card,top up by c,58,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6850,2,1,False,2
+5807,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5807,2,1,False,2
+6139,exchange rate,fi,36,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6139,2,1,False,2
+3117,order physical card,card delivery,12,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3117,2,1,False,2
+9536,cancel transfer,transaction,63,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9536,2,1,False,2
+4623,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4623,2,1,False,2
+2490,change pin,change,21,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2490,2,1,False,2
+9704,transfer fee charged,transfer fee,64,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9704,2,1,False,2
+2060,why verify identity,extra,34,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2060,2,1,False,2
+1554,card payment fee charged,card payment fee,15,False,True,False,"{73: 1, 66: 1}","[790, 1520]",1554,2,1,False,2
+4452,get physical card,vis,73,True,False,False,"{73: 1, 66: 1}","[790, 1520]",4452,2,1,False,2
+1700,pin blocked,change,21,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1700,2,1,False,2
+9282,transfer fee charged,transfer fee,64,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9282,2,1,False,2
+6946,transfer not received by recipient,top up failed,59,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6946,2,1,False,2
+3294,top up by card charge,supported,54,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3294,2,1,False,2
+6970,change pin,change,21,False,True,False,"{73: 1, 66: 1}","[790, 1520]",6970,2,1,False,2
+8836,cash withdrawal not recognised,declined c,26,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8836,2,1,False,2
+3542,direct debit payment not recognised,direct,28,False,True,False,"{73: 1, 66: 1}","[790, 1520]",3542,2,1,False,2
+8401,change pin,edit,30,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8401,2,1,False,2
+7461,declined card payment,declined c,26,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7461,2,1,False,2
+5706,card not working,card payment not,16,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5706,2,1,False,2
+3405,top up by card charge,automatic,4,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3405,2,1,False,2
+8830,atm support,wrong amount,75,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8830,2,1,False,2
+2408,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2408,2,1,False,2
+568,top up failed,top up failed,59,False,True,False,"{73: 1, 66: 1}","[790, 1520]",568,2,1,False,2
+782,cancel transfer,revert,53,False,False,False,"{73: 1, 66: 1}","[790, 1520]",782,2,1,False,2
+3338,card about to expire,card about,9,False,True,False,"{73: 1, 66: 1}","[790, 1520]",3338,2,1,False,2
+673,change pin,change,21,False,True,False,"{73: 1, 66: 1}","[790, 1520]",673,2,1,False,2
+2992,pending card payment,extra,34,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2992,2,1,False,2
+3617,why verify identity,revert,53,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3617,2,1,False,2
+7854,verify my identity,edit,30,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7854,2,1,False,2
+9524,card not working,get dispos,37,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9524,2,1,False,2
+3558,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3558,2,1,False,2
+3512,get physical card,verify source,70,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3512,2,1,False,2
+965,atm support,card sw,18,False,False,False,"{73: 1, 66: 1}","[790, 1520]",965,2,1,False,2
+8484,top up by card charge,top up limits,60,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8484,2,1,False,2
+5175,cancel transfer,top up revert,61,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5175,2,1,False,2
+4584,country support,country,24,False,True,False,"{73: 1, 66: 1}","[790, 1520]",4584,2,1,False,2
+8719,card not working,card delivery,12,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8719,2,1,False,2
+9531,card payment not recognised,card payment not,16,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9531,2,1,False,2
+1093,change pin,edit,30,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1093,2,1,False,2
+6399,verify my identity,why,74,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6399,2,1,False,2
+3780,card delivery estimate,card arrival,11,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3780,2,1,False,2
+6524,card not working,country,24,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6524,2,1,False,2
+5234,exchange rate,exchange rate,32,False,True,False,"{73: 1, 66: 1}","[790, 1520]",5234,2,1,False,2
+5809,lost or stolen phone,lost or stolen phone,42,False,True,False,"{73: 1, 66: 1}","[790, 1520]",5809,2,1,False,2
+7540,top up failed,top up revert,61,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7540,2,1,False,2
+4060,card payment not recognised,declined card,25,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4060,2,1,False,2
+344,card not working,activ,0,False,False,False,"{73: 1, 66: 1}","[790, 1520]",344,2,1,False,2
+8309,exchange rate,fi,36,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8309,2,1,False,2
+7058,pin blocked,pin,49,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7058,2,1,False,2
+2743,top up limits,top up limits,60,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2743,2,1,False,2
+9906,transfer not received by recipient,wrong amount,75,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9906,2,1,False,2
+1345,cash withdrawal not recognised,wrong amount,75,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1345,2,1,False,2
+3419,card not working,card not,14,False,True,False,"{73: 1, 66: 1}","[790, 1520]",3419,2,1,False,2
+4879,age limit,age,1,False,True,False,"{73: 1, 66: 1}","[790, 1520]",4879,2,1,False,2
+4581,extra charge on statement,card payment fee,15,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4581,2,1,False,2
+1582,exchange rate,exchange via,33,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1582,2,1,False,2
+3654,change pin,edit,30,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3654,2,1,False,2
+8882,verify my identity,why,74,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8882,2,1,False,2
+5810,transfer not received by recipient,extra,34,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5810,2,1,False,2
+5144,card not working,direct,28,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5144,2,1,False,2
+8141,transfer fee charged,top up by bank,56,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8141,2,1,False,2
+2073,passcode forgotten,pass,44,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2073,2,1,False,2
+7837,extra charge on statement,extra,34,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7837,2,1,False,2
+8946,card not working,card linking,13,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8946,2,1,False,2
+9613,extra charge on statement,extra,34,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9613,2,1,False,2
+1068,pin blocked,get physical,38,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1068,2,1,False,2
+1412,transfer not received by recipient,balance not updated after che,6,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1412,2,1,False,2
+6381,transfer timing,transfer timing,67,False,True,False,"{73: 1, 66: 1}","[790, 1520]",6381,2,1,False,2
+7054,card not working,card payment not,16,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7054,2,1,False,2
+9799,verify my identity,unable,68,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9799,2,1,False,2
+9380,top up failed,top up failed,59,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9380,2,1,False,2
+6617,transfer not received by recipient,transfer into,65,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6617,2,1,False,2
+1067,fiat currency support,fi,36,False,True,False,"{73: 1, 66: 1}","[790, 1520]",1067,2,1,False,2
+7579,balance not updated after bank transfer,card payment fee,15,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7579,2,1,False,2
+724,top up limits,automatic,4,False,False,False,"{73: 1, 66: 1}","[790, 1520]",724,2,1,False,2
+4472,transfer fee charged,top up by bank,56,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4472,2,1,False,2
+6269,transfer not received by recipient,declined transfer,27,False,False,False,"{73: 1, 66: 1}","[790, 1520]",6269,2,1,False,2
+8105,exchange rate,card payment wrong,17,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8105,2,1,False,2
+2587,top up failed,top up failed,59,False,True,False,"{73: 1, 66: 1}","[790, 1520]",2587,2,1,False,2
+4927,atm support,at,3,False,True,False,"{73: 1, 66: 1}","[790, 1520]",4927,2,1,False,2
+89,card not working,card arrival,11,False,False,False,"{73: 1, 66: 1}","[790, 1520]",89,2,1,False,2
+3014,exchange rate,fi,36,False,False,False,"{73: 1, 66: 1}","[790, 1520]",3014,2,1,False,2
+8770,transfer not received by recipient,verify source,70,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8770,2,1,False,2
+4390,cash withdrawal not recognised,declined c,26,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4390,2,1,False,2
+9409,top up failed,apple,2,False,False,False,"{73: 1, 66: 1}","[790, 1520]",9409,2,1,False,2
+2244,transfer not received by recipient,verify source,70,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2244,2,1,False,2
+452,direct debit payment not recognised,direct,28,False,True,False,"{73: 1, 66: 1}","[790, 1520]",452,2,1,False,2
+5410,transfer not received by recipient,transfer not,66,True,True,False,"{73: 1, 66: 1}","[790, 1520]",5410,2,1,False,2
+7799,direct debit payment not recognised,direct,28,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7799,2,1,False,2
+7087,transfer not received by recipient,top up by bank,56,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7087,2,1,False,2
+4043,transfer not received by recipient,failed,35,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4043,2,1,False,2
+5307,top up failed,pending top,47,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5307,2,1,False,2
+2779,card payment not recognised,vis,73,True,False,False,"{73: 1, 66: 1}","[790, 1520]",2779,2,1,False,2
+5966,top up limits,automatic,4,False,False,False,"{73: 1, 66: 1}","[790, 1520]",5966,2,1,False,2
+8708,virtual card not working,get dispos,37,False,False,False,"{73: 1, 66: 1}","[790, 1520]",8708,2,1,False,2
+7406,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7406,2,1,False,2
+3981,balance not updated after cheque or cash deposit,balance not updated after che,6,False,True,False,"{73: 1, 66: 1}","[790, 1520]",3981,2,1,False,2
+9867,transfer fee charged,transfer fee,64,False,True,False,"{73: 1, 66: 1}","[790, 1520]",9867,2,1,False,2
+7822,lost or stolen phone,lost or stolen phone,42,False,True,False,"{73: 1, 66: 1}","[790, 1520]",7822,2,1,False,2
+7797,card not working,card about,9,False,False,False,"{73: 1, 66: 1}","[790, 1520]",7797,2,1,False,2
+1860,card not working,declined c,26,False,False,False,"{73: 1, 66: 1}","[790, 1520]",1860,2,1,False,2
+4023,transfer fee charged,card payment fee,15,False,False,False,"{73: 1, 66: 1}","[790, 1520]",4023,2,1,False,2
+2887,transfer not received by recipient,balance not updated after che,6,False,False,False,"{73: 1, 66: 1}","[790, 1520]",2887,2,1,False,2

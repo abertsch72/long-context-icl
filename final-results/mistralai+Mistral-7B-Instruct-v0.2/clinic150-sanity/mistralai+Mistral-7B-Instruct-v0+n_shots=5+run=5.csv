@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+4018,redeem rewards,rede,6,True,True,False,"{6: 1, 4: 1, 92: 1, 43: 1, 119: 1}","[4018, 12744, 452, 11223, 6725]",4018,5,5,False
+12744,time,time,4,True,True,True,"{6: 1, 4: 1, 92: 1, 43: 1, 119: 1}","[4018, 12744, 452, 11223, 6725]",12744,5,5,False
+452,roll dice,roll dice,92,True,True,True,"{6: 1, 4: 1, 92: 1, 43: 1, 119: 1}","[4018, 12744, 452, 11223, 6725]",452,5,5,False
+11223,shopping list,shopping list,43,True,True,True,"{6: 1, 4: 1, 92: 1, 43: 1, 119: 1}","[4018, 12744, 452, 11223, 6725]",11223,5,5,False
+6725,change speed,change speed,119,True,True,True,"{6: 1, 4: 1, 92: 1, 43: 1, 119: 1}","[4018, 12744, 452, 11223, 6725]",6725,5,5,False

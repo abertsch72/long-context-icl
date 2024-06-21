@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4847,compromised card,comprom,22,True,True,False,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",4847,10,5,False,10
+2350,compromised card,comprom,22,True,True,False,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",2350,10,5,False,10
+1419,card about to expire,card about,9,True,True,False,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",1419,10,5,False,10
+9477,declined transfer,declined transfer,27,True,True,True,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",9477,10,5,False,10
+5489,cash withdrawal not recognised,cash withdrawal not,20,True,True,False,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",5489,10,5,False,10
+2179,declined cash withdrawal,declined c,26,True,True,False,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",2179,10,5,False,10
+5814,automatic top up,automatic,4,True,True,False,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",5814,10,5,False,10
+8355,Refund not showing up,Ref,51,True,True,False,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",8355,10,5,False,10
+472,getting spare card,getting spare,39,True,True,False,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",472,10,5,False,10
+4812,pending transfer,pending transfer,48,True,True,True,"{22: 2, 9: 1, 27: 1, 20: 1, 26: 1, 4: 1, 51: 1, 39: 1, 48: 1}","[4847, 2350, 1419, 9477, 5489, 2179, 5814, 8355, 472, 4812]",4812,10,5,False,10

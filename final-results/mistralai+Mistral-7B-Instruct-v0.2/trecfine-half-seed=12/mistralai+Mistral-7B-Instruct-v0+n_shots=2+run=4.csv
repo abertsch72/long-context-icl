@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+152,numeric size,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",152,2,4,False
+94,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",94,2,4,False
+337,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",337,2,4,False
+78,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",78,2,4,False
+323,entity currency,entity currency,6,False,True,False,"{29: 1, 40: 1}","[953, 794]",323,2,4,False
+143,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",143,2,4,False
+59,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",59,2,4,False
+17,entity word,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",17,2,4,False
+161,human individual,description,24,False,False,True,"{29: 1, 40: 1}","[953, 794]",161,2,4,False
+220,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",220,2,4,False
+290,entity instrument,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",290,2,4,False
+224,entity food,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",224,2,4,False
+15,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",15,2,4,False
+162,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",162,2,4,False
+272,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",272,2,4,False
+193,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",193,2,4,False
+325,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",325,2,4,False
+30,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",30,2,4,False
+331,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",331,2,4,False
+219,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",219,2,4,False
+286,human individual,location other,35,False,False,True,"{29: 1, 40: 1}","[953, 794]",286,2,4,False
+246,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",246,2,4,False
+68,location country,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",68,2,4,False
+205,human individual,location other,35,False,False,True,"{29: 1, 40: 1}","[953, 794]",205,2,4,False
+232,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",232,2,4,False
+64,human individual,location country,33,False,False,True,"{29: 1, 40: 1}","[953, 794]",64,2,4,False
+121,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",121,2,4,False
+201,abbreviation expansion,abbreviation expansion,1,False,True,False,"{29: 1, 40: 1}","[953, 794]",201,2,4,False
+315,human group,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",315,2,4,False
+145,human individual,location other,35,False,False,True,"{29: 1, 40: 1}","[953, 794]",145,2,4,False
+72,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",72,2,4,False
+184,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",184,2,4,False
+141,numeric temperature,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",141,2,4,False
+95,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",95,2,4,False
+213,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",213,2,4,False
+38,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",38,2,4,False
+256,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",256,2,4,False
+29,human individual,entity plant,14,False,False,True,"{29: 1, 40: 1}","[953, 794]",29,2,4,False
+45,human individual,entity food,9,False,False,True,"{29: 1, 40: 1}","[953, 794]",45,2,4,False
+151,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",151,2,4,False
+262,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",262,2,4,False
+115,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",115,2,4,False
+269,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",269,2,4,False
+69,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",69,2,4,False
+106,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",106,2,4,False
+123,location other,location other,35,False,True,False,"{29: 1, 40: 1}","[953, 794]",123,2,4,False
+233,human individual,entity plant,14,False,False,True,"{29: 1, 40: 1}","[953, 794]",233,2,4,False
+41,location city,location city,32,False,True,False,"{29: 1, 40: 1}","[953, 794]",41,2,4,False
+236,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",236,2,4,False
+55,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",55,2,4,False
+289,location country,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",289,2,4,False
+149,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",149,2,4,False
+239,numeric temperature,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",239,2,4,False
+103,human individual,entity vehicle,22,False,False,True,"{29: 1, 40: 1}","[953, 794]",103,2,4,False
+35,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",35,2,4,False
+132,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",132,2,4,False
+172,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",172,2,4,False
+74,numeric size,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",74,2,4,False
+180,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",180,2,4,False
+241,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",241,2,4,False
+140,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",140,2,4,False
+245,entity currency,entity currency,6,False,True,False,"{29: 1, 40: 1}","[953, 794]",245,2,4,False
+320,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",320,2,4,False
+1,location country,location city,32,False,False,False,"{29: 1, 40: 1}","[953, 794]",1,2,4,False
+67,human individual,human group,28,False,False,True,"{29: 1, 40: 1}","[953, 794]",67,2,4,False
+138,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",138,2,4,False
+298,abbreviation expansion,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",298,2,4,False
+271,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",271,2,4,False
+13,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",13,2,4,False
+235,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",235,2,4,False
+3,numeric size,numeric distance,40,True,False,False,"{29: 1, 40: 1}","[953, 794]",3,2,4,False
+56,numeric weight,numeric weight,49,False,True,False,"{29: 1, 40: 1}","[953, 794]",56,2,4,False
+258,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",258,2,4,False
+223,numeric order,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",223,2,4,False
+65,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",65,2,4,False
+104,abbreviation expansion,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",104,2,4,False
+308,human individual,entity food,9,False,False,True,"{29: 1, 40: 1}","[953, 794]",308,2,4,False
+82,entity substance,entity substance,18,False,True,False,"{29: 1, 40: 1}","[953, 794]",82,2,4,False
+11,numeric size,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",11,2,4,False
+324,entity instrument,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",324,2,4,False
+36,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",36,2,4,False
+318,numeric money,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",318,2,4,False
+192,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",192,2,4,False
+130,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",130,2,4,False
+128,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",128,2,4,False
+197,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",197,2,4,False
+27,location country,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",27,2,4,False
+295,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",295,2,4,False
+47,location other,location other,35,False,True,False,"{29: 1, 40: 1}","[953, 794]",47,2,4,False
+10,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",10,2,4,False
+268,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",268,2,4,False
+316,entity word,human group,28,False,False,False,"{29: 1, 40: 1}","[953, 794]",316,2,4,False
+243,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",243,2,4,False
+299,entity instrument,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",299,2,4,False
+127,description definition,entity substance,18,False,False,False,"{29: 1, 40: 1}","[953, 794]",127,2,4,False
+75,numeric temperature,numeric temperature,47,False,True,False,"{29: 1, 40: 1}","[953, 794]",75,2,4,False
+76,human individual,location other,35,False,False,True,"{29: 1, 40: 1}","[953, 794]",76,2,4,False
+251,abbreviation expansion,abbreviation expansion,1,False,True,False,"{29: 1, 40: 1}","[953, 794]",251,2,4,False
+263,numeric size,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",263,2,4,False
+142,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",142,2,4,False
+37,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",37,2,4,False
+292,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",292,2,4,False
+329,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",329,2,4,False
+48,numeric size,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",48,2,4,False
+2,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",2,2,4,False
+237,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",237,2,4,False
+102,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",102,2,4,False
+273,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",273,2,4,False
+117,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",117,2,4,False
+62,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",62,2,4,False
+195,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",195,2,4,False
+57,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",57,2,4,False
+327,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",327,2,4,False
+135,location city,location city,32,False,True,False,"{29: 1, 40: 1}","[953, 794]",135,2,4,False
+255,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",255,2,4,False
+53,numeric order,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",53,2,4,False
+98,human individual,description,24,False,False,True,"{29: 1, 40: 1}","[953, 794]",98,2,4,False
+310,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",310,2,4,False
+111,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",111,2,4,False
+217,abbreviation expansion,abbreviation expansion,1,False,True,False,"{29: 1, 40: 1}","[953, 794]",217,2,4,False
+238,human individual,description,24,False,False,True,"{29: 1, 40: 1}","[953, 794]",238,2,4,False
+278,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",278,2,4,False
+280,human individual,entity plant,14,False,False,True,"{29: 1, 40: 1}","[953, 794]",280,2,4,False
+230,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",230,2,4,False
+88,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",88,2,4,False
+90,entity instrument,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",90,2,4,False
+8,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",8,2,4,False
+0,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",0,2,4,False
+284,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",284,2,4,False
+144,numeric temperature,numeric temperature,47,False,True,False,"{29: 1, 40: 1}","[953, 794]",144,2,4,False
+191,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",191,2,4,False
+244,numeric weight,numeric weight,49,False,True,False,"{29: 1, 40: 1}","[953, 794]",244,2,4,False
+93,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",93,2,4,False
+212,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",212,2,4,False
+54,entity currency,entity currency,6,False,True,False,"{29: 1, 40: 1}","[953, 794]",54,2,4,False
+66,numeric temperature,numeric temperature,47,False,True,False,"{29: 1, 40: 1}","[953, 794]",66,2,4,False
+126,human individual,description,24,False,False,True,"{29: 1, 40: 1}","[953, 794]",126,2,4,False
+335,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",335,2,4,False
+185,abbreviation expansion,abbreviation ab,0,False,False,False,"{29: 1, 40: 1}","[953, 794]",185,2,4,False
+178,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",178,2,4,False
+250,abbreviation expansion,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",250,2,4,False
+101,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",101,2,4,False
+283,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",283,2,4,False
+165,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",165,2,4,False
+169,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",169,2,4,False
+277,human group,entity substance,18,False,False,False,"{29: 1, 40: 1}","[953, 794]",277,2,4,False
+167,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",167,2,4,False
+332,location city,location city,32,False,True,False,"{29: 1, 40: 1}","[953, 794]",332,2,4,False
+97,human individual,human title,30,False,False,True,"{29: 1, 40: 1}","[953, 794]",97,2,4,False
+168,location city,location city,32,False,True,False,"{29: 1, 40: 1}","[953, 794]",168,2,4,False
+287,entity vehicle,entity vehicle,22,False,True,False,"{29: 1, 40: 1}","[953, 794]",287,2,4,False
+9,numeric weight,numeric weight,49,False,True,False,"{29: 1, 40: 1}","[953, 794]",9,2,4,False
+39,abbreviation expansion,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",39,2,4,False
+136,entity currency,entity currency,6,False,True,False,"{29: 1, 40: 1}","[953, 794]",136,2,4,False
+159,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",159,2,4,False
+60,numeric size,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",60,2,4,False
+276,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",276,2,4,False
+228,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",228,2,4,False
+157,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",157,2,4,False
+31,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",31,2,4,False
+99,human individual,description,24,False,False,True,"{29: 1, 40: 1}","[953, 794]",99,2,4,False
+312,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",312,2,4,False
+179,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",179,2,4,False
+296,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",296,2,4,False
+210,numeric distance,location other,35,False,False,True,"{29: 1, 40: 1}","[953, 794]",210,2,4,False
+108,human group,human group,28,False,True,False,"{29: 1, 40: 1}","[953, 794]",108,2,4,False
+80,human individual,entity plant,14,False,False,True,"{29: 1, 40: 1}","[953, 794]",80,2,4,False
+19,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",19,2,4,False
+265,entity creation,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",265,2,4,False
+129,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",129,2,4,False
+187,location other,location other,35,False,True,False,"{29: 1, 40: 1}","[953, 794]",187,2,4,False
+304,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",304,2,4,False
+118,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",118,2,4,False
+155,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",155,2,4,False
+209,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",209,2,4,False
+139,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",139,2,4,False
+131,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",131,2,4,False
+207,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",207,2,4,False
+249,location other,location other,35,False,True,False,"{29: 1, 40: 1}","[953, 794]",249,2,4,False
+110,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",110,2,4,False
+122,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",122,2,4,False
+71,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",71,2,4,False
+221,human individual,entity vehicle,22,False,False,True,"{29: 1, 40: 1}","[953, 794]",221,2,4,False
+225,human individual,entity food,9,False,False,True,"{29: 1, 40: 1}","[953, 794]",225,2,4,False
+6,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",6,2,4,False
+186,entity substance,entity substance,18,False,True,False,"{29: 1, 40: 1}","[953, 794]",186,2,4,False
+175,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",175,2,4,False
+288,human group,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",288,2,4,False
+321,entity currency,entity currency,6,False,True,False,"{29: 1, 40: 1}","[953, 794]",321,2,4,False
+114,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",114,2,4,False
+248,human individual,entity food,9,False,False,True,"{29: 1, 40: 1}","[953, 794]",248,2,4,False
+226,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",226,2,4,False
+302,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",302,2,4,False
+77,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",77,2,4,False
+12,human individual,entity substance,18,False,False,True,"{29: 1, 40: 1}","[953, 794]",12,2,4,False
+267,numeric money,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",267,2,4,False
+240,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",240,2,4,False
+119,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",119,2,4,False
+22,location other,location other,35,False,True,False,"{29: 1, 40: 1}","[953, 794]",22,2,4,False
+181,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",181,2,4,False
+124,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",124,2,4,False
+46,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",46,2,4,False
+133,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",133,2,4,False
+247,entity creation,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",247,2,4,False
+79,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",79,2,4,False
+259,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",259,2,4,False
+164,human individual,location other,35,False,False,True,"{29: 1, 40: 1}","[953, 794]",164,2,4,False
+43,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",43,2,4,False
+163,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",163,2,4,False
+253,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",253,2,4,False
+113,numeric size,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",113,2,4,False
+44,entity vehicle,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",44,2,4,False
+26,numeric temperature,numeric temperature,47,False,True,False,"{29: 1, 40: 1}","[953, 794]",26,2,4,False
+20,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",20,2,4,False
+231,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",231,2,4,False
+333,numeric distance,numeric distance,40,True,True,True,"{29: 1, 40: 1}","[953, 794]",333,2,4,False
+270,abbreviation expansion,abbreviation expansion,1,False,True,False,"{29: 1, 40: 1}","[953, 794]",270,2,4,False
+301,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",301,2,4,False
+150,human individual,description,24,False,False,True,"{29: 1, 40: 1}","[953, 794]",150,2,4,False
+160,location other,location other,35,False,True,False,"{29: 1, 40: 1}","[953, 794]",160,2,4,False
+297,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",297,2,4,False
+33,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",33,2,4,False
+116,location other,location other,35,False,True,False,"{29: 1, 40: 1}","[953, 794]",116,2,4,False
+96,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",96,2,4,False
+190,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",190,2,4,False
+156,entity substance,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",156,2,4,False
+50,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",50,2,4,False
+182,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",182,2,4,False
+81,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",81,2,4,False
+328,entity substance,entity substance,18,False,True,False,"{29: 1, 40: 1}","[953, 794]",328,2,4,False
+222,numeric temperature,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",222,2,4,False
+340,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",340,2,4,False
+42,human individual,location city,32,False,False,True,"{29: 1, 40: 1}","[953, 794]",42,2,4,False
+198,numeric size,numeric other,43,False,False,False,"{29: 1, 40: 1}","[953, 794]",198,2,4,False
+51,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",51,2,4,False
+24,location country,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",24,2,4,False
+86,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",86,2,4,False
+154,human individual,human individual,29,True,True,True,"{29: 1, 40: 1}","[953, 794]",154,2,4,False
+291,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",291,2,4,False
+336,entity word,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",336,2,4,False
+260,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",260,2,4,False
+199,human group,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",199,2,4,False
+317,entity instrument,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",317,2,4,False
+275,entity creation,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",275,2,4,False
+330,location other,location other,35,False,True,False,"{29: 1, 40: 1}","[953, 794]",330,2,4,False
+203,location city,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",203,2,4,False
+202,description definition,description,24,False,True,False,"{29: 1, 40: 1}","[953, 794]",202,2,4,False
+227,numeric weight,numeric weight,49,False,True,False,"{29: 1, 40: 1}","[953, 794]",227,2,4,False
+319,entity food,description,24,False,False,False,"{29: 1, 40: 1}","[953, 794]",319,2,4,False
+125,location country,location other,35,False,False,False,"{29: 1, 40: 1}","[953, 794]",125,2,4,False

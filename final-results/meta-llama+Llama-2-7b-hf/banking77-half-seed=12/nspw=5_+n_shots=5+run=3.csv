@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1104,5,3,False,5
+472,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",472,5,3,False,5
+1345,card delivery estimate,order,43,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1345,5,3,False,5
+838,pending card payment,pending card,45,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",838,5,3,False,5
+942,declined card payment,decl,25,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",942,5,3,False,5
+707,atm support,at,3,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",707,5,3,False,5
+378,contactless not working,contact,23,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",378,5,3,False,5
+1258,failed transfer,failed,35,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1258,5,3,False,5
+451,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",451,5,3,False,5
+1467,top up by card charge,top up by card,57,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1467,5,3,False,5
+652,card linking,dispos,29,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",652,5,3,False,5
+774,passcode forgotten,pass,44,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",774,5,3,False,5
+1112,transfer not received by recipient,verify,70,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1112,5,3,False,5
+659,disposable card limits,dispos,29,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",659,5,3,False,5
+67,exchange rate,exchange,32,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",67,5,3,False,5
+773,lost or stolen phone,pass,44,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",773,5,3,False,5
+679,disposable card limits,dispos,29,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",679,5,3,False,5
+956,card not working,decl,25,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",956,5,3,False,5
+919,failed transfer,request,52,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",919,5,3,False,5
+1221,receiving money,receiving,50,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1221,5,3,False,5
+605,transfer not received by recipient,to,62,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",605,5,3,False,5
+240,card not working,card not,14,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",240,5,3,False,5
+1069,atm support,card sw,18,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1069,5,3,False,5
+1228,direct debit payment not recognised,receiving,50,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1228,5,3,False,5
+1006,terminate account,terminate,55,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1006,5,3,False,5
+1308,card not working,top up by c,58,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1308,5,3,False,5
+106,extra charge on statement,extra,34,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",106,5,3,False,5
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1429,5,3,False,5
+455,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",455,5,3,False,5
+1380,virtual card not working,virtual,72,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1380,5,3,False,5
+325,card not working,pin,49,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",325,5,3,False,5
+745,direct debit payment not recognised,direct,28,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",745,5,3,False,5
+1439,transfer timing,balance,5,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1439,5,3,False,5
+941,failed transfer,decl,25,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",941,5,3,False,5
+401,failed transfer,pending top,47,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",401,5,3,False,5
+1190,change pin,change,21,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1190,5,3,False,5
+759,failed transfer,direct,28,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",759,5,3,False,5
+1180,change pin,change,21,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1180,5,3,False,5
+123,exchange rate,fi,36,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",123,5,3,False,5
+1517,activate my card,activ,0,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1517,5,3,False,5
+227,automatic top up,automatic,4,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",227,5,3,False,5
+1321,card delivery estimate,order,43,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1321,5,3,False,5
+393,contactless not working,contact,23,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",393,5,3,False,5
+999,transfer timing,pending transfer,48,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",999,5,3,False,5
+927,card not working,decl,25,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",927,5,3,False,5
+244,card not working,card not,14,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",244,5,3,False,5
+181,order physical card,card delivery,12,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",181,5,3,False,5
+1170,pin blocked,change,21,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1170,5,3,False,5
+666,virtual card not working,dispos,29,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",666,5,3,False,5
+1028,terminate account,terminate,55,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1028,5,3,False,5
+772,lost or stolen phone,pass,44,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",772,5,3,False,5
+1223,change pin,receiving,50,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1223,5,3,False,5
+421,failed transfer,pending top,47,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",421,5,3,False,5
+132,exchange rate,fi,36,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",132,5,3,False,5
+155,exchange rate,fi,36,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",155,5,3,False,5
+459,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",459,5,3,False,5
+371,contactless not working,contact,23,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",371,5,3,False,5
+15,card not working,card linking,13,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",15,5,3,False,5
+1253,failed transfer,failed,35,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1253,5,3,False,5
+197,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",197,5,3,False,5
+527,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",527,5,3,False,5
+531,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",531,5,3,False,5
+382,contactless not working,contact,23,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",382,5,3,False,5
+620,transfer not received by recipient,to,62,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",620,5,3,False,5
+871,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",871,5,3,False,5
+1095,verify source of funds,verify,70,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1095,5,3,False,5
+1501,card not working,activ,0,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1501,5,3,False,5
+1368,virtual card not working,virtual,72,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1368,5,3,False,5
+344,pin blocked,pin,49,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",344,5,3,False,5
+429,pending top up,pending top,47,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",429,5,3,False,5
+291,age limit,age,1,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",291,5,3,False,5
+474,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",474,5,3,False,5
+137,fiat currency support,fi,36,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",137,5,3,False,5
+784,passcode forgotten,pass,44,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",784,5,3,False,5
+1021,terminate account,terminate,55,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1021,5,3,False,5
+1414,failed transfer,balance,5,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1414,5,3,False,5
+741,failed transfer,direct,28,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",741,5,3,False,5
+904,failed transfer,request,52,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",904,5,3,False,5
+723,card not working,direct,28,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",723,5,3,False,5
+87,card not working,extra,34,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",87,5,3,False,5
+1457,card not working,top up by card,57,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1457,5,3,False,5
+747,direct debit payment not recognised,direct,28,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",747,5,3,False,5
+728,card not working,direct,28,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",728,5,3,False,5
+860,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",860,5,3,False,5
+355,card not working,pin,49,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",355,5,3,False,5
+1294,top up by cash or cheque,top up by c,58,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1294,5,3,False,5
+521,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",521,5,3,False,5
+299,age limit,age,1,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",299,5,3,False,5
+807,pending card payment,pending card,45,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",807,5,3,False,5
+1367,virtual card not working,virtual,72,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1367,5,3,False,5
+556,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",556,5,3,False,5
+239,automatic top up,automatic,4,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",239,5,3,False,5
+1418,transfer not received by recipient,balance,5,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1418,5,3,False,5
+203,automatic top up,automatic,4,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",203,5,3,False,5
+1265,failed transfer,failed,35,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1265,5,3,False,5
+1509,card linking,activ,0,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1509,5,3,False,5
+284,age limit,age,1,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",284,5,3,False,5
+1335,card delivery estimate,order,43,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1335,5,3,False,5
+517,failed transfer,transfer not,66,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",517,5,3,False,5
+458,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",458,5,3,False,5
+808,pending card payment,pending card,45,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",808,5,3,False,5
+290,age limit,age,1,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",290,5,3,False,5
+584,top up reverted,top up revert,61,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",584,5,3,False,5
+129,fiat currency support,fi,36,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",129,5,3,False,5
+306,age limit,age,1,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",306,5,3,False,5
+457,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",457,5,3,False,5
+179,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",179,5,3,False,5
+628,transfer not received by recipient,to,62,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",628,5,3,False,5
+26,card not working,card linking,13,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",26,5,3,False,5
+1276,failed transfer,failed,35,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1276,5,3,False,5
+839,pending card payment,pending card,45,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",839,5,3,False,5
+1174,pin blocked,change,21,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1174,5,3,False,5
+557,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",557,5,3,False,5
+446,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",446,5,3,False,5
+1117,card linking,verify,70,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1117,5,3,False,5
+215,automatic top up,automatic,4,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",215,5,3,False,5
+966,pending transfer,pending transfer,48,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",966,5,3,False,5
+420,failed transfer,pending top,47,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",420,5,3,False,5
+614,transfer not received by recipient,to,62,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",614,5,3,False,5
+192,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",192,5,3,False,5
+667,virtual card not working,dispos,29,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",667,5,3,False,5
+852,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",852,5,3,False,5
+1083,verify source of funds,verify,70,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1083,5,3,False,5
+1106,verify source of funds,verify,70,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1106,5,3,False,5
+917,failed transfer,request,52,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",917,5,3,False,5
+508,pending transfer,transfer not,66,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",508,5,3,False,5
+146,fiat currency support,fi,36,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",146,5,3,False,5
+1307,top up by cash or cheque,top up by c,58,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1307,5,3,False,5
+334,pin blocked,pin,49,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",334,5,3,False,5
+962,pending transfer,pending transfer,48,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",962,5,3,False,5
+1015,terminate account,terminate,55,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1015,5,3,False,5
+1486,activate my card,activ,0,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1486,5,3,False,5
+391,contactless not working,contact,23,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",391,5,3,False,5
+1243,failed transfer,failed,35,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1243,5,3,False,5
+69,exchange rate,exchange,32,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",69,5,3,False,5
+392,contactless not working,contact,23,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",392,5,3,False,5
+792,passcode forgotten,pass,44,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",792,5,3,False,5
+1448,card linking,top up by card,57,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1448,5,3,False,5
+490,failed transfer,transfer not,66,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",490,5,3,False,5
+676,virtual card not working,dispos,29,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",676,5,3,False,5
+648,card linking,dispos,29,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",648,5,3,False,5
+818,pending card payment,pending card,45,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",818,5,3,False,5
+982,transfer timing,pending transfer,48,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",982,5,3,False,5
+973,failed transfer,pending transfer,48,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",973,5,3,False,5
+535,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",535,5,3,False,5
+793,passcode forgotten,pass,44,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",793,5,3,False,5
+259,card not working,card not,14,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",259,5,3,False,5
+430,failed transfer,pending top,47,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",430,5,3,False,5
+481,failed transfer,transfer not,66,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",481,5,3,False,5
+567,failed transfer,top up revert,61,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",567,5,3,False,5
+72,exchange rate,exchange,32,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",72,5,3,False,5
+113,extra charge on statement,extra,34,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",113,5,3,False,5
+384,contactless not working,contact,23,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",384,5,3,False,5
+1053,lost or stolen phone,card sw,18,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1053,5,3,False,5
+1401,failed transfer,balance,5,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1401,5,3,False,5
+969,pending transfer,pending transfer,48,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",969,5,3,False,5
+312,age limit,age,1,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",312,5,3,False,5
+892,failed transfer,request,52,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",892,5,3,False,5
+454,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",454,5,3,False,5
+479,top up limits,top up limits,60,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",479,5,3,False,5
+650,card delivery estimate,dispos,29,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",650,5,3,False,5
+23,card linking,card linking,13,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",23,5,3,False,5
+1212,exchange rate,receiving,50,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1212,5,3,False,5
+1214,transfer not received by recipient,receiving,50,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1214,5,3,False,5
+1349,card delivery estimate,order,43,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1349,5,3,False,5
+262,card not working,card not,14,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",262,5,3,False,5
+48,exchange rate,exchange,32,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",48,5,3,False,5
+285,card linking,age,1,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",285,5,3,False,5
+851,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",851,5,3,False,5
+1352,card delivery estimate,order,43,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1352,5,3,False,5
+327,pin blocked,pin,49,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",327,5,3,False,5
+1438,failed transfer,balance,5,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1438,5,3,False,5
+29,card linking,card linking,13,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",29,5,3,False,5
+234,automatic top up,automatic,4,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",234,5,3,False,5
+528,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",528,5,3,False,5
+369,card not working,contact,23,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",369,5,3,False,5
+128,exchange rate,fi,36,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",128,5,3,False,5
+1151,transfer timing,transfer timing,67,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1151,5,3,False,5
+544,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",544,5,3,False,5
+884,failed transfer,request,52,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",884,5,3,False,5
+593,top up by card charge,top up revert,61,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",593,5,3,False,5
+229,failed transfer,automatic,4,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",229,5,3,False,5
+876,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",876,5,3,False,5
+629,transfer not received by recipient,to,62,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",629,5,3,False,5
+1419,failed transfer,balance,5,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1419,5,3,False,5
+821,pending card payment,pending card,45,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",821,5,3,False,5
+1285,top up by cash or cheque,top up by c,58,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1285,5,3,False,5
+678,card not working,dispos,29,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",678,5,3,False,5
+204,automatic top up,automatic,4,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",204,5,3,False,5
+872,card not working,lost,42,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",872,5,3,False,5
+696,card not working,at,3,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",696,5,3,False,5
+219,balance not updated after bank transfer,automatic,4,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",219,5,3,False,5
+190,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",190,5,3,False,5
+379,contactless not working,contact,23,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",379,5,3,False,5
+1340,card swallowed,order,43,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1340,5,3,False,5
+978,failed transfer,pending transfer,48,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",978,5,3,False,5
+645,disposable card limits,dispos,29,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",645,5,3,False,5
+735,direct debit payment not recognised,direct,28,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",735,5,3,False,5
+850,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",850,5,3,False,5
+1353,card delivery estimate,order,43,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1353,5,3,False,5
+800,card not working,pending card,45,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",800,5,3,False,5
+1329,card delivery estimate,order,43,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1329,5,3,False,5
+115,extra charge on statement,extra,34,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",115,5,3,False,5
+1396,virtual card not working,virtual,72,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1396,5,3,False,5
+34,card linking,card linking,13,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",34,5,3,False,5
+967,pending transfer,pending transfer,48,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",967,5,3,False,5
+1512,card linking,activ,0,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1512,5,3,False,5
+439,pending top up,pending top,47,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",439,5,3,False,5
+1411,transfer timing,balance,5,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1411,5,3,False,5
+1217,transfer not received by recipient,receiving,50,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1217,5,3,False,5
+867,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",867,5,3,False,5
+704,atm support,at,3,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",704,5,3,False,5
+1211,transfer not received by recipient,receiving,50,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1211,5,3,False,5
+646,disposable card limits,dispos,29,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",646,5,3,False,5
+1165,change pin,change,21,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1165,5,3,False,5
+799,pin blocked,pass,44,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",799,5,3,False,5
+898,order physical card,request,52,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",898,5,3,False,5
+36,card not working,card linking,13,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",36,5,3,False,5
+1278,failed transfer,failed,35,True,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1278,5,3,False,5
+324,pin blocked,pin,49,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",324,5,3,False,5
+689,atm support,at,3,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",689,5,3,False,5
+1508,activate my card,activ,0,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1508,5,3,False,5
+992,pending transfer,pending transfer,48,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",992,5,3,False,5
+314,age limit,age,1,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",314,5,3,False,5
+1082,transfer not received by recipient,verify,70,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1082,5,3,False,5
+1096,verify source of funds,verify,70,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1096,5,3,False,5
+787,lost or stolen phone,pass,44,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",787,5,3,False,5
+842,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",842,5,3,False,5
+191,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",191,5,3,False,5
+845,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",845,5,3,False,5
+1027,terminate account,terminate,55,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1027,5,3,False,5
+99,extra charge on statement,extra,34,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",99,5,3,False,5
+552,card acceptance,card accept,10,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",552,5,3,False,5
+1024,terminate account,terminate,55,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1024,5,3,False,5
+141,exchange rate,fi,36,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",141,5,3,False,5
+625,transfer not received by recipient,to,62,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",625,5,3,False,5
+922,declined card payment,decl,25,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",922,5,3,False,5
+977,transfer timing,pending transfer,48,True,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",977,5,3,False,5
+135,change pin,fi,36,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",135,5,3,False,5
+1109,card linking,verify,70,False,False,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1109,5,3,False,5
+405,pending top up,pending top,47,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",405,5,3,False,5
+760,passcode forgotten,pass,44,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",760,5,3,False,5
+1035,terminate account,terminate,55,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1035,5,3,False,5
+928,card not working,decl,25,False,False,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",928,5,3,False,5
+976,pending transfer,pending transfer,48,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",976,5,3,False,5
+963,pending transfer,pending transfer,48,True,True,True,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",963,5,3,False,5
+762,passcode forgotten,pass,44,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",762,5,3,False,5
+514,transfer not received by recipient,transfer not,66,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",514,5,3,False,5
+870,lost or stolen phone,lost,42,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",870,5,3,False,5
+1122,transfer timing,transfer timing,67,False,True,False,"{13: 1, 45: 1, 48: 1, 4: 1, 35: 1}","[1957, 3280, 1469, 1225, 3875]",1122,5,3,False,5

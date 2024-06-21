@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,transfer timing,receiving,50,True,False,False,{50: 1},[2021],1104,1,9,False
+472,card payment not recognised,get physical,38,False,False,False,{50: 1},[2021],472,1,9,False
+1345,exchange charge,exchange charge,31,False,True,False,{50: 1},[2021],1345,1,9,False
+837,transfer timing,pending transfer,48,False,False,False,{50: 1},[2021],837,1,9,False
+940,get physical card,transaction,63,False,False,False,{50: 1},[2021],940,1,9,False
+706,cancel transfer,request,52,False,False,False,{50: 1},[2021],706,1,9,False
+381,receiving money,why,74,False,False,False,{50: 1},[2021],381,1,9,False
+1259,receiving money,get dispos,37,False,False,False,{50: 1},[2021],1259,1,9,False
+451,card payment not recognised,get physical,38,False,False,False,{50: 1},[2021],451,1,9,False
+1467,card payment not recognised,card about,9,False,False,False,{50: 1},[2021],1467,1,9,False
+649,card payment not recognised,direct,28,False,False,False,{50: 1},[2021],649,1,9,False
+771,receiving money,Ref,51,False,False,False,{50: 1},[2021],771,1,9,False
+1112,receiving money,receiving,50,True,True,False,{50: 1},[2021],1112,1,9,False
+657,cancel transfer,direct,28,False,False,False,{50: 1},[2021],657,1,9,False
+67,receiving money,fi,36,False,False,False,{50: 1},[2021],67,1,9,False
+770,cancel transfer,Ref,51,False,False,False,{50: 1},[2021],770,1,9,False
+678,cancel transfer,direct,28,False,False,False,{50: 1},[2021],678,1,9,False
+955,cancel transfer,transaction,63,False,False,False,{50: 1},[2021],955,1,9,False
+917,card swallowed,card sw,18,False,True,False,{50: 1},[2021],917,1,9,False
+1222,card payment not recognised,order,43,False,False,False,{50: 1},[2021],1222,1,9,False
+601,atm support,at,3,False,True,False,{50: 1},[2021],601,1,9,False
+241,cancel transfer,cancel,8,False,True,False,{50: 1},[2021],241,1,9,False
+1069,cancel transfer,revert,53,False,False,False,{50: 1},[2021],1069,1,9,False
+1229,receiving money,order,43,False,False,False,{50: 1},[2021],1229,1,9,False
+1005,transfer timing,transfer,67,False,True,False,{50: 1},[2021],1005,1,9,False
+1308,transfer timing,balance,5,False,False,False,{50: 1},[2021],1308,1,9,False
+106,card not working,card not,14,False,True,False,{50: 1},[2021],106,1,9,False
+1429,card payment not recognised,activ,0,False,False,False,{50: 1},[2021],1429,1,9,False
+455,card payment not recognised,get physical,38,False,False,False,{50: 1},[2021],455,1,9,False
+1380,top up by card charge,top,57,False,True,False,{50: 1},[2021],1380,1,9,False
+327,card payment not recognised,card payment not,16,False,True,False,{50: 1},[2021],327,1,9,False
+742,declined transfer,decl,27,False,True,False,{50: 1},[2021],742,1,9,False
+1439,card payment not recognised,activ,0,False,False,False,{50: 1},[2021],1439,1,9,False
+939,cancel transfer,transaction,63,False,False,False,{50: 1},[2021],939,1,9,False
+404,receiving money,unable,68,False,False,False,{50: 1},[2021],404,1,9,False
+1191,verify top up,verify top,71,False,True,False,{50: 1},[2021],1191,1,9,False
+756,card payment not recognised,decl,27,False,False,False,{50: 1},[2021],756,1,9,False
+1181,receiving money,verify top,71,False,False,False,{50: 1},[2021],1181,1,9,False
+122,exchange charge,exchange via,33,False,False,False,{50: 1},[2021],122,1,9,False
+1517,verify my identity,verify my,69,False,True,False,{50: 1},[2021],1517,1,9,False
+227,top up by card charge,pending top,47,False,False,False,{50: 1},[2021],227,1,9,False
+1321,exchange charge,exchange charge,31,False,True,False,{50: 1},[2021],1321,1,9,False
+396,verify my identity,why,74,False,False,False,{50: 1},[2021],396,1,9,False
+998,receiving money,verify source,70,False,False,False,{50: 1},[2021],998,1,9,False
+925,cancel transfer,transaction,63,False,False,False,{50: 1},[2021],925,1,9,False
+245,cancel transfer,cancel,8,False,True,False,{50: 1},[2021],245,1,9,False
+180,contactless not working,contact,23,False,True,False,{50: 1},[2021],180,1,9,False
+1171,receiving money,verify top,71,False,False,False,{50: 1},[2021],1171,1,9,False
+665,receiving money,direct,28,False,False,False,{50: 1},[2021],665,1,9,False
+1027,receiving money,transfer,67,False,False,False,{50: 1},[2021],1027,1,9,False
+769,receiving money,Ref,51,False,False,False,{50: 1},[2021],769,1,9,False
+1224,receiving money,order,43,False,False,False,{50: 1},[2021],1224,1,9,False
+422,verify my identity,unable,68,False,False,False,{50: 1},[2021],422,1,9,False
+131,exchange via app,exchange via,33,False,True,False,{50: 1},[2021],131,1,9,False
+154,exchange charge,exchange via,33,False,False,False,{50: 1},[2021],154,1,9,False
+459,receiving money,get physical,38,False,False,False,{50: 1},[2021],459,1,9,False
+374,verify my identity,why,74,False,False,False,{50: 1},[2021],374,1,9,False
+15,exchange charge,card payment wrong,17,False,False,False,{50: 1},[2021],15,1,9,False
+1254,card payment not recognised,get dispos,37,False,False,False,{50: 1},[2021],1254,1,9,False
+196,contactless not working,contact,23,False,True,False,{50: 1},[2021],196,1,9,False
+523,card payment not recognised,dispos,29,False,False,False,{50: 1},[2021],523,1,9,False
+527,card payment not recognised,dispos,29,False,False,False,{50: 1},[2021],527,1,9,False
+385,verify my identity,why,74,False,False,False,{50: 1},[2021],385,1,9,False
+616,receiving money,at,3,False,False,False,{50: 1},[2021],616,1,9,False
+870,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],870,1,9,False
+1095,receiving money,receiving,50,True,True,False,{50: 1},[2021],1095,1,9,False
+1501,verify my identity,verify my,69,False,True,False,{50: 1},[2021],1501,1,9,False
+1368,topping up by card,top,57,False,False,False,{50: 1},[2021],1368,1,9,False
+347,transaction charged twice,card payment not,16,False,False,False,{50: 1},[2021],347,1,9,False
+430,verify my identity,unable,68,False,False,False,{50: 1},[2021],430,1,9,False
+293,receiving money,wrong,75,False,False,False,{50: 1},[2021],293,1,9,False
+474,card not working,get physical,38,False,False,False,{50: 1},[2021],474,1,9,False
+136,receiving money,exchange via,33,False,False,False,{50: 1},[2021],136,1,9,False
+781,receiving money,Ref,51,False,False,False,{50: 1},[2021],781,1,9,False
+1020,transfer timing,transfer,67,False,True,False,{50: 1},[2021],1020,1,9,False
+1414,activate my card,activ,0,False,True,False,{50: 1},[2021],1414,1,9,False
+738,transfer timing,decl,27,False,False,False,{50: 1},[2021],738,1,9,False
+903,card not working,card sw,18,False,False,False,{50: 1},[2021],903,1,9,False
+723,receiving money,decl,27,False,False,False,{50: 1},[2021],723,1,9,False
+87,card payment not recognised,card not,14,False,False,False,{50: 1},[2021],87,1,9,False
+1457,card payment not recognised,card about,9,False,False,False,{50: 1},[2021],1457,1,9,False
+744,transfer timing,decl,27,False,False,False,{50: 1},[2021],744,1,9,False
+727,transfer timing,decl,27,False,False,False,{50: 1},[2021],727,1,9,False
+859,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],859,1,9,False
+358,receiving money,card payment not,16,False,False,False,{50: 1},[2021],358,1,9,False
+1294,transfer timing,balance,5,False,False,False,{50: 1},[2021],1294,1,9,False
+517,top up by card charge,to,62,False,False,False,{50: 1},[2021],517,1,9,False
+301,receiving money,wrong,75,False,False,False,{50: 1},[2021],301,1,9,False
+806,transfer timing,pending transfer,48,False,False,False,{50: 1},[2021],806,1,9,False
+1367,top up by card charge,top,57,False,True,False,{50: 1},[2021],1367,1,9,False
+552,card payment not recognised,dispos,29,False,False,False,{50: 1},[2021],552,1,9,False
+240,cancel transfer,cancel,8,False,True,False,{50: 1},[2021],240,1,9,False
+1418,receiving money,activ,0,False,False,False,{50: 1},[2021],1418,1,9,False
+202,top up by card charge,pending top,47,False,False,False,{50: 1},[2021],202,1,9,False
+1266,receiving money,get dispos,37,False,False,False,{50: 1},[2021],1266,1,9,False
+1509,verify my identity,verify my,69,False,True,False,{50: 1},[2021],1509,1,9,False
+286,atm support,wrong,75,False,False,False,{50: 1},[2021],286,1,9,False
+1335,exchange charge,exchange charge,31,False,True,False,{50: 1},[2021],1335,1,9,False
+513,receiving money,to,62,False,False,False,{50: 1},[2021],513,1,9,False
+458,card payment not recognised,get physical,38,False,False,False,{50: 1},[2021],458,1,9,False
+807,receiving money,pending transfer,48,False,False,False,{50: 1},[2021],807,1,9,False
+292,receiving money,wrong,75,False,False,False,{50: 1},[2021],292,1,9,False
+580,card not working,comprom,22,False,False,False,{50: 1},[2021],580,1,9,False
+128,exchange via app,exchange via,33,False,True,False,{50: 1},[2021],128,1,9,False
+308,receiving money,wrong,75,False,False,False,{50: 1},[2021],308,1,9,False
+457,receiving money,get physical,38,False,False,False,{50: 1},[2021],457,1,9,False
+178,card payment not recognised,contact,23,False,False,False,{50: 1},[2021],178,1,9,False
+624,get physical card,at,3,False,False,False,{50: 1},[2021],624,1,9,False
+26,receiving money,card payment wrong,17,False,False,False,{50: 1},[2021],26,1,9,False
+1276,get disposable virtual card,get dispos,37,False,True,False,{50: 1},[2021],1276,1,9,False
+838,transfer timing,pending transfer,48,False,False,False,{50: 1},[2021],838,1,9,False
+1175,top up by card charge,verify top,71,False,False,False,{50: 1},[2021],1175,1,9,False
+553,card payment not recognised,dispos,29,False,False,False,{50: 1},[2021],553,1,9,False
+446,card payment not recognised,get physical,38,False,False,False,{50: 1},[2021],446,1,9,False
+1117,receiving money,receiving,50,True,True,False,{50: 1},[2021],1117,1,9,False
+214,top up by card charge,pending top,47,False,False,False,{50: 1},[2021],214,1,9,False
+965,receiving money,verify source,70,False,False,False,{50: 1},[2021],965,1,9,False
+421,verify my identity,unable,68,False,False,False,{50: 1},[2021],421,1,9,False
+610,atm support,at,3,False,True,False,{50: 1},[2021],610,1,9,False
+191,contactless not working,contact,23,False,True,False,{50: 1},[2021],191,1,9,False
+666,cancel transfer,direct,28,False,False,False,{50: 1},[2021],666,1,9,False
+851,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],851,1,9,False
+1083,receiving money,receiving,50,True,True,False,{50: 1},[2021],1083,1,9,False
+1106,receiving money,receiving,50,True,True,False,{50: 1},[2021],1106,1,9,False
+915,receiving money,card sw,18,False,False,False,{50: 1},[2021],915,1,9,False
+504,card payment not recognised,to,62,False,False,False,{50: 1},[2021],504,1,9,False
+145,receiving money,exchange via,33,False,False,False,{50: 1},[2021],145,1,9,False
+1307,transfer timing,balance,5,False,False,False,{50: 1},[2021],1307,1,9,False
+337,card payment not recognised,card payment not,16,False,True,False,{50: 1},[2021],337,1,9,False
+961,receiving money,verify source,70,False,False,False,{50: 1},[2021],961,1,9,False
+1014,transfer timing,transfer,67,False,True,False,{50: 1},[2021],1014,1,9,False
+1486,verify my identity,verify my,69,False,True,False,{50: 1},[2021],1486,1,9,False
+394,verify my identity,why,74,False,False,False,{50: 1},[2021],394,1,9,False
+1244,receiving money,get dispos,37,False,False,False,{50: 1},[2021],1244,1,9,False
+69,exchange via app,fi,36,False,False,False,{50: 1},[2021],69,1,9,False
+395,verify my identity,why,74,False,False,False,{50: 1},[2021],395,1,9,False
+789,receiving money,Ref,51,False,False,False,{50: 1},[2021],789,1,9,False
+1448,card payment not recognised,card about,9,False,False,False,{50: 1},[2021],1448,1,9,False
+490,transfer timing,to,62,False,False,False,{50: 1},[2021],490,1,9,False
+675,direct debit payment not recognised,direct,28,False,True,False,{50: 1},[2021],675,1,9,False
+644,receiving money,direct,28,False,False,False,{50: 1},[2021],644,1,9,False
+817,transfer timing,pending transfer,48,False,False,False,{50: 1},[2021],817,1,9,False
+981,receiving money,verify source,70,False,False,False,{50: 1},[2021],981,1,9,False
+972,receiving money,verify source,70,False,False,False,{50: 1},[2021],972,1,9,False
+531,card payment not recognised,dispos,29,False,False,False,{50: 1},[2021],531,1,9,False
+790,receiving money,Ref,51,False,False,False,{50: 1},[2021],790,1,9,False
+260,cancel transfer,cancel,8,False,True,False,{50: 1},[2021],260,1,9,False
+431,verify my identity,unable,68,False,False,False,{50: 1},[2021],431,1,9,False
+481,receiving money,to,62,False,False,False,{50: 1},[2021],481,1,9,False
+563,card not working,comprom,22,False,False,False,{50: 1},[2021],563,1,9,False
+72,receiving money,fi,36,False,False,False,{50: 1},[2021],72,1,9,False
+112,card not working,card not,14,False,True,False,{50: 1},[2021],112,1,9,False
+387,receiving money,why,74,False,False,False,{50: 1},[2021],387,1,9,False
+1053,card payment not recognised,revert,53,False,False,False,{50: 1},[2021],1053,1,9,False
+1401,activate my card,activ,0,False,True,False,{50: 1},[2021],1401,1,9,False
+968,receiving money,verify source,70,False,False,False,{50: 1},[2021],968,1,9,False
+314,receiving money,wrong,75,False,False,False,{50: 1},[2021],314,1,9,False
+891,cancel transfer,card sw,18,False,False,False,{50: 1},[2021],891,1,9,False
+454,card payment not recognised,get physical,38,False,False,False,{50: 1},[2021],454,1,9,False
+479,receiving money,get physical,38,False,False,False,{50: 1},[2021],479,1,9,False
+647,receiving money,direct,28,False,False,False,{50: 1},[2021],647,1,9,False
+23,card payment wrong exchange rate,card payment wrong,17,False,True,False,{50: 1},[2021],23,1,9,False
+1213,card payment not recognised,order,43,False,False,False,{50: 1},[2021],1213,1,9,False
+1215,receiving money,order,43,False,False,False,{50: 1},[2021],1215,1,9,False
+1349,exchange charge,exchange charge,31,False,True,False,{50: 1},[2021],1349,1,9,False
+263,cancel transfer,cancel,8,False,True,False,{50: 1},[2021],263,1,9,False
+48,exchange via app,fi,36,False,False,False,{50: 1},[2021],48,1,9,False
+287,receiving money,wrong,75,False,False,False,{50: 1},[2021],287,1,9,False
+850,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],850,1,9,False
+1352,receiving money,exchange charge,31,False,False,False,{50: 1},[2021],1352,1,9,False
+329,cancel transfer,card payment not,16,False,False,False,{50: 1},[2021],329,1,9,False
+1438,activate my card,activ,0,False,True,False,{50: 1},[2021],1438,1,9,False
+29,receiving money,card payment wrong,17,False,False,False,{50: 1},[2021],29,1,9,False
+235,top up by card charge,pending top,47,False,False,False,{50: 1},[2021],235,1,9,False
+524,receiving money,dispos,29,False,False,False,{50: 1},[2021],524,1,9,False
+372,receiving money,why,74,False,False,False,{50: 1},[2021],372,1,9,False
+127,exchange via app,exchange via,33,False,True,False,{50: 1},[2021],127,1,9,False
+1152,receiving money,failed,35,False,False,False,{50: 1},[2021],1152,1,9,False
+540,card payment not recognised,dispos,29,False,False,False,{50: 1},[2021],540,1,9,False
+883,get physical card,card sw,18,False,False,False,{50: 1},[2021],883,1,9,False
+589,card not working,comprom,22,False,False,False,{50: 1},[2021],589,1,9,False
+229,receiving money,pending top,47,False,False,False,{50: 1},[2021],229,1,9,False
+875,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],875,1,9,False
+625,atm support,at,3,False,True,False,{50: 1},[2021],625,1,9,False
+1419,activate my card,activ,0,False,True,False,{50: 1},[2021],1419,1,9,False
+820,transfer timing,pending transfer,48,False,False,False,{50: 1},[2021],820,1,9,False
+1285,transfer timing,balance,5,False,False,False,{50: 1},[2021],1285,1,9,False
+677,cancel transfer,direct,28,False,False,False,{50: 1},[2021],677,1,9,False
+203,receiving money,pending top,47,False,False,False,{50: 1},[2021],203,1,9,False
+871,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],871,1,9,False
+695,cancel transfer,request,52,False,False,False,{50: 1},[2021],695,1,9,False
+219,receiving money,pending top,47,False,False,False,{50: 1},[2021],219,1,9,False
+189,contactless not working,contact,23,False,True,False,{50: 1},[2021],189,1,9,False
+382,receiving money,why,74,False,False,False,{50: 1},[2021],382,1,9,False
+1340,exchange charge,exchange charge,31,False,True,False,{50: 1},[2021],1340,1,9,False
+977,transaction charged twice,verify source,70,False,False,False,{50: 1},[2021],977,1,9,False
+641,cancel transfer,direct,28,False,False,False,{50: 1},[2021],641,1,9,False
+733,transfer timing,decl,27,False,False,False,{50: 1},[2021],733,1,9,False
+849,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],849,1,9,False
+1353,exchange charge,exchange charge,31,False,True,False,{50: 1},[2021],1353,1,9,False
+799,receiving money,Ref,51,False,False,False,{50: 1},[2021],799,1,9,False
+1329,exchange charge,exchange charge,31,False,True,False,{50: 1},[2021],1329,1,9,False
+114,card not working,card not,14,False,True,False,{50: 1},[2021],114,1,9,False
+1396,receiving money,top,57,False,False,False,{50: 1},[2021],1396,1,9,False
+34,exchange charge,card payment wrong,17,False,False,False,{50: 1},[2021],34,1,9,False
+966,verify source of funds,verify source,70,False,True,False,{50: 1},[2021],966,1,9,False
+1512,verify my identity,verify my,69,False,True,False,{50: 1},[2021],1512,1,9,False
+439,verify my identity,unable,68,False,False,False,{50: 1},[2021],439,1,9,False
+1411,card payment not recognised,activ,0,False,False,False,{50: 1},[2021],1411,1,9,False
+1218,card payment not recognised,order,43,False,False,False,{50: 1},[2021],1218,1,9,False
+866,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],866,1,9,False
+703,cancel transfer,request,52,False,False,False,{50: 1},[2021],703,1,9,False
+1212,card payment not recognised,order,43,False,False,False,{50: 1},[2021],1212,1,9,False
+642,receiving money,direct,28,False,False,False,{50: 1},[2021],642,1,9,False
+1166,receiving money,verify top,71,False,False,False,{50: 1},[2021],1166,1,9,False
+798,receiving money,Ref,51,False,False,False,{50: 1},[2021],798,1,9,False
+897,card not working,card sw,18,False,False,False,{50: 1},[2021],897,1,9,False
+36,exchange charge,card payment wrong,17,False,False,False,{50: 1},[2021],36,1,9,False
+1278,card payment not recognised,get dispos,37,False,False,False,{50: 1},[2021],1278,1,9,False
+326,receiving money,card payment not,16,False,False,False,{50: 1},[2021],326,1,9,False
+688,cancel transfer,request,52,False,False,False,{50: 1},[2021],688,1,9,False
+1508,receiving money,verify my,69,False,False,False,{50: 1},[2021],1508,1,9,False
+991,receiving money,verify source,70,False,False,False,{50: 1},[2021],991,1,9,False
+316,receiving money,wrong,75,False,False,False,{50: 1},[2021],316,1,9,False
+1082,receiving money,receiving,50,True,True,False,{50: 1},[2021],1082,1,9,False
+1096,receiving money,receiving,50,True,True,False,{50: 1},[2021],1096,1,9,False
+784,receiving money,Ref,51,False,False,False,{50: 1},[2021],784,1,9,False
+841,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],841,1,9,False
+190,contactless not working,contact,23,False,True,False,{50: 1},[2021],190,1,9,False
+844,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],844,1,9,False
+1026,transfer timing,transfer,67,False,True,False,{50: 1},[2021],1026,1,9,False
+99,card not working,card not,14,False,True,False,{50: 1},[2021],99,1,9,False
+548,card payment not recognised,dispos,29,False,False,False,{50: 1},[2021],548,1,9,False
+1023,transfer timing,transfer,67,False,True,False,{50: 1},[2021],1023,1,9,False
+140,exchange charge,exchange via,33,False,False,False,{50: 1},[2021],140,1,9,False
+621,atm support,at,3,False,True,False,{50: 1},[2021],621,1,9,False
+920,cancel transfer,transaction,63,False,False,False,{50: 1},[2021],920,1,9,False
+976,verify my identity,verify source,70,False,False,False,{50: 1},[2021],976,1,9,False
+134,exchange charge,exchange via,33,False,False,False,{50: 1},[2021],134,1,9,False
+1109,receiving money,receiving,50,True,True,False,{50: 1},[2021],1109,1,9,False
+408,cancel transfer,unable,68,False,False,False,{50: 1},[2021],408,1,9,False
+757,transfer timing,decl,27,False,False,False,{50: 1},[2021],757,1,9,False
+1034,transfer timing,transfer,67,False,True,False,{50: 1},[2021],1034,1,9,False
+926,receiving money,transaction,63,False,False,False,{50: 1},[2021],926,1,9,False
+975,verify source of funds,verify source,70,False,True,False,{50: 1},[2021],975,1,9,False
+962,receiving money,verify source,70,False,False,False,{50: 1},[2021],962,1,9,False
+759,transfer timing,decl,27,False,False,False,{50: 1},[2021],759,1,9,False
+510,receiving money,to,62,False,False,False,{50: 1},[2021],510,1,9,False
+869,cancel transfer,terminate,55,False,False,False,{50: 1},[2021],869,1,9,False
+1122,transfer timing,failed,35,False,False,False,{50: 1},[2021],1122,1,9,False

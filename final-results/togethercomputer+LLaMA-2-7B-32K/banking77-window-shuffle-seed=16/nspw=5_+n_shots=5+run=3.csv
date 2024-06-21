@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,supported cards and currencies,supported,54,True,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",903,5,3,False,5
+1003,top up failed,top up revert,61,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1003,5,3,False,5
+2953,card about to expire,card about,9,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2953,5,3,False,5
+2979,top up failed,apple,2,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2979,5,3,False,5
+1926,get physical card,card sw,18,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1926,5,3,False,5
+2137,change pin,change,21,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2137,5,3,False,5
+2980,apple pay or google pay,apple,2,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2980,5,3,False,5
+702,cancel transfer,cancel,8,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",702,5,3,False,5
+2493,get physical card,order,43,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2493,5,3,False,5
+2210,transfer fee charged,transfer fee,64,True,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2210,5,3,False,5
+112,exchange rate,exchange rate,32,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",112,5,3,False,5
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2909,5,3,False,5
+1987,card payment not recognised,transaction,63,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1987,5,3,False,5
+1283,visa or mastercard,vis,73,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1283,5,3,False,5
+1539,passcode forgotten,pass,44,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1539,5,3,False,5
+2879,activate my card,activ,0,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2879,5,3,False,5
+1158,change pin,edit,30,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1158,5,3,False,5
+1376,disposable card limits,dispos,29,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1376,5,3,False,5
+1517,wrong amount of cash received,direct,28,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1517,5,3,False,5
+1171,verify my identity,why,74,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1171,5,3,False,5
+2242,transfer into account,receiving,50,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2242,5,3,False,5
+1476,atm support,at,3,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1476,5,3,False,5
+237,atm support,pending c,46,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",237,5,3,False,5
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1650,5,3,False,5
+2484,card payment fee charged,order,43,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2484,5,3,False,5
+2105,card not working,revert,53,True,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2105,5,3,False,5
+2121,change pin,change,21,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2121,5,3,False,5
+1452,atm support,at,3,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1452,5,3,False,5
+274,supported cards and currencies,fi,36,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",274,5,3,False,5
+564,contactless not working,contact,23,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",564,5,3,False,5
+905,supported cards and currencies,supported,54,True,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",905,5,3,False,5
+1535,passcode forgotten,pass,44,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1535,5,3,False,5
+2113,reverted card payment?,revert,53,True,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2113,5,3,False,5
+2142,change pin,change,21,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2142,5,3,False,5
+2965,apple pay or google pay,apple,2,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2965,5,3,False,5
+1834,card payment not recognised,declined card,25,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1834,5,3,False,5
+1549,passcode forgotten,pass,44,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1549,5,3,False,5
+1320,top up by card charge,to,62,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1320,5,3,False,5
+2421,order physical card,getting spare,39,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2421,5,3,False,5
+2784,exchange rate,exchange charge,31,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2784,5,3,False,5
+768,cash withdrawal not recognised,wrong amount,75,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",768,5,3,False,5
+2472,top up by cash or cheque,top up by c,58,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2472,5,3,False,5
+2154,change pin,change,21,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2154,5,3,False,5
+795,atm support,wrong amount,75,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",795,5,3,False,5
+1278,card payment fee charged,get physical,38,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1278,5,3,False,5
+1494,direct debit payment not recognised,direct,28,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1494,5,3,False,5
+241,supported cards and currencies,fi,36,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",241,5,3,False,5
+3060,topping up by card,country,24,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",3060,5,3,False,5
+494,age limit,age,1,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",494,5,3,False,5
+327,top up by card charge,automatic,4,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",327,5,3,False,5
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",458,5,3,False,5
+428,exchange rate,exchange via,33,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",428,5,3,False,5
+2862,activate my card,activ,0,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2862,5,3,False,5
+2164,transfer not received by recipient,benef,7,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2164,5,3,False,5
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2897,5,3,False,5
+2440,top up by cash or cheque,top up by c,58,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2440,5,3,False,5
+1663,lost or stolen card,lost or stolen phone,42,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1663,5,3,False,5
+2700,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2700,5,3,False,5
+2955,card payment fee charged,card about,9,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2955,5,3,False,5
+522,pin blocked,pin,49,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",522,5,3,False,5
+1788,transaction charged twice,Ref,51,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1788,5,3,False,5
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1055,5,3,False,5
+2992,top up by card charge,apple,2,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2992,5,3,False,5
+1093,transaction charged twice,card payment not,16,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1093,5,3,False,5
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",791,5,3,False,5
+894,transfer into account,supported,54,True,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",894,5,3,False,5
+897,supported cards and currencies,supported,54,True,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",897,5,3,False,5
+1175,verify my identity,why,74,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1175,5,3,False,5
+68,card linking,card linking,13,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",68,5,3,False,5
+1551,change pin,pass,44,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1551,5,3,False,5
+1508,direct debit payment not recognised,direct,28,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1508,5,3,False,5
+2250,topping up by card,receiving,50,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2250,5,3,False,5
+519,age limit,age,1,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",519,5,3,False,5
+1731,transfer not received by recipient,declined transfer,27,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1731,5,3,False,5
+1210,verify my identity,unable,68,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1210,5,3,False,5
+1750,transfer not received by recipient,declined transfer,27,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1750,5,3,False,5
+1687,cancel transfer,request,52,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1687,5,3,False,5
+891,card not working,supported,54,True,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",891,5,3,False,5
+1061,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1061,5,3,False,5
+2403,get physical card,getting spare,39,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2403,5,3,False,5
+1898,cancel transfer,terminate,55,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1898,5,3,False,5
+2978,apple pay or google pay,apple,2,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2978,5,3,False,5
+1427,card not working,comprom,22,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1427,5,3,False,5
+1526,wrong amount of cash received,pass,44,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1526,5,3,False,5
+824,extra charge on statement,card payment fee,15,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",824,5,3,False,5
+1983,verify my identity,transaction,63,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1983,5,3,False,5
+2132,change pin,change,21,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2132,5,3,False,5
+418,change pin,exchange via,33,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",418,5,3,False,5
+1345,transfer fee charged,to,62,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1345,5,3,False,5
+2829,top up by bank transfer charge,top up by card,57,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2829,5,3,False,5
+2489,card delivery estimate,order,43,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2489,5,3,False,5
+598,contactless not working,contact,23,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",598,5,3,False,5
+804,extra charge on statement,card payment fee,15,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",804,5,3,False,5
+3017,verify my identity,verify my,69,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",3017,5,3,False,5
+2589,exchange rate,wrong exchange,76,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2589,5,3,False,5
+2540,virtual card not working,virtual,72,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2540,5,3,False,5
+2908,transfer fee charged,cash withdrawal charge,19,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2908,5,3,False,5
+2968,apple pay or google pay,apple,2,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2968,5,3,False,5
+2747,atm support,cash withdrawal not,20,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2747,5,3,False,5
+1340,transfer fee charged,to,62,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1340,5,3,False,5
+1348,transfer fee charged,to,62,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1348,5,3,False,5
+1451,atm support,at,3,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1451,5,3,False,5
+2903,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2903,5,3,False,5
+1237,verify my identity,unable,68,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1237,5,3,False,5
+2119,why verify identity,revert,53,True,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2119,5,3,False,5
+652,pending top up,pending top,47,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",652,5,3,False,5
+131,exchange rate,card payment wrong,17,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",131,5,3,False,5
+949,virtual card not working,getting virtual,40,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",949,5,3,False,5
+2528,virtual card not working,virtual,72,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2528,5,3,False,5
+2158,change pin,change,21,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2158,5,3,False,5
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2705,5,3,False,5
+592,contactless not working,contact,23,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",592,5,3,False,5
+2511,card delivery estimate,order,43,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2511,5,3,False,5
+1080,transaction charged twice,card payment not,16,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1080,5,3,False,5
+1361,card payment fee charged,dispos,29,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1361,5,3,False,5
+448,card not working,lost or stolen card,41,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",448,5,3,False,5
+18,card not working,card arrival,11,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",18,5,3,False,5
+1168,verify my identity,why,74,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1168,5,3,False,5
+2396,top up by card charge,verify top,71,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2396,5,3,False,5
+362,card not working,card not,14,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",362,5,3,False,5
+1456,topping up by card,at,3,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1456,5,3,False,5
+1735,declined card payment,declined transfer,27,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1735,5,3,False,5
+2579,atm support,wrong exchange,76,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2579,5,3,False,5
+385,card not working,card not,14,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",385,5,3,False,5
+2555,virtual card not working,virtual,72,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2555,5,3,False,5
+2307,failed transfer,failed,35,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2307,5,3,False,5
+1779,balance not updated after bank transfer,Ref,51,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1779,5,3,False,5
+1119,transaction charged twice,card payment not,16,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1119,5,3,False,5
+2104,card payment not recognised,revert,53,True,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2104,5,3,False,5
+713,cancel transfer,cancel,8,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",713,5,3,False,5
+2077,transfer fee charged,transfer timing,67,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2077,5,3,False,5
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1671,5,3,False,5
+1150,change pin,edit,30,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1150,5,3,False,5
+1491,wrong amount of cash received,direct,28,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1491,5,3,False,5
+2610,disposable card limits,get dispos,37,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2610,5,3,False,5
+1729,transfer not received by recipient,declined transfer,27,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1729,5,3,False,5
+1360,get disposable virtual card,dispos,29,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1360,5,3,False,5
+1397,virtual card not working,dispos,29,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1397,5,3,False,5
+842,transaction charged twice,transfer not,66,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",842,5,3,False,5
+2504,get physical card,order,43,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2504,5,3,False,5
+538,card not working,pin,49,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",538,5,3,False,5
+2020,verify source of funds,verify source,70,True,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2020,5,3,False,5
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",769,5,3,False,5
+945,card delivery estimate,getting virtual,40,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",945,5,3,False,5
+1591,atm support,declined c,26,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1591,5,3,False,5
+1818,declined card payment,declined card,25,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1818,5,3,False,5
+1876,transfer not received by recipient,pending transfer,48,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1876,5,3,False,5
+3031,verify my identity,verify my,69,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",3031,5,3,False,5
+1992,transaction charged twice,transaction,63,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1992,5,3,False,5
+2997,top up failed,apple,2,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2997,5,3,False,5
+1228,verify my identity,unable,68,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1228,5,3,False,5
+1682,get physical card,request,52,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1682,5,3,False,5
+469,card not working,lost or stolen card,41,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",469,5,3,False,5
+2325,transfer into account,transfer into,65,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2325,5,3,False,5
+732,top up limits,top up limits,60,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",732,5,3,False,5
+820,card payment fee charged,card payment fee,15,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",820,5,3,False,5
+2990,apple pay or google pay,apple,2,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2990,5,3,False,5
+1732,transfer not received by recipient,declined transfer,27,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1732,5,3,False,5
+1252,pin blocked,get physical,38,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1252,5,3,False,5
+227,pending card payment,pending c,46,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",227,5,3,False,5
+1962,why verify identity,transaction,63,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1962,5,3,False,5
+400,exchange rate,exchange via,33,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",400,5,3,False,5
+1134,change pin,edit,30,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1134,5,3,False,5
+59,card not working,card linking,13,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",59,5,3,False,5
+2256,transfer fee charged,receiving,50,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2256,5,3,False,5
+853,transfer not received by recipient,transfer not,66,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",853,5,3,False,5
+2777,exchange rate,exchange charge,31,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2777,5,3,False,5
+1538,change pin,pass,44,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1538,5,3,False,5
+2109,cancel transfer,revert,53,True,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2109,5,3,False,5
+305,card delivery estimate,card delivery,12,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",305,5,3,False,5
+711,cancel transfer,cancel,8,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",711,5,3,False,5
+2927,card delivery estimate,card about,9,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2927,5,3,False,5
+2623,virtual card not working,get dispos,37,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2623,5,3,False,5
+271,exchange rate,fi,36,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",271,5,3,False,5
+1023,reverted card payment?,top up revert,61,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1023,5,3,False,5
+470,lost or stolen card,lost or stolen card,41,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",470,5,3,False,5
+2779,exchange rate,exchange charge,31,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2779,5,3,False,5
+1170,verify my identity,why,74,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1170,5,3,False,5
+1886,cancel transfer,terminate,55,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1886,5,3,False,5
+2723,atm support,cash withdrawal not,20,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2723,5,3,False,5
+915,supported cards and currencies,supported,54,True,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",915,5,3,False,5
+2626,virtual card not working,get dispos,37,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2626,5,3,False,5
+2604,virtual card not working,get dispos,37,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2604,5,3,False,5
+1510,transaction charged twice,direct,28,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1510,5,3,False,5
+2303,transfer not received by recipient,failed,35,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2303,5,3,False,5
+64,lost or stolen card,card linking,13,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",64,5,3,False,5
+2041,transfer fee charged,transfer timing,67,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2041,5,3,False,5
+1995,cancel transfer,transaction,63,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1995,5,3,False,5
+1266,pin blocked,get physical,38,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1266,5,3,False,5
+2821,card payment fee charged,top up by card,57,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2821,5,3,False,5
+1945,card not working,card sw,18,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1945,5,3,False,5
+835,extra charge on statement,card payment fee,15,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",835,5,3,False,5
+2312,transfer not received by recipient,failed,35,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2312,5,3,False,5
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1053,5,3,False,5
+2800,top up by card charge,top up by card,57,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2800,5,3,False,5
+1835,card not working,declined card,25,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1835,5,3,False,5
+1434,card not working,comprom,22,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1434,5,3,False,5
+979,card acceptance,card accept,10,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",979,5,3,False,5
+2942,card not working,card about,9,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2942,5,3,False,5
+1900,cancel transfer,terminate,55,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1900,5,3,False,5
+2973,apple pay or google pay,apple,2,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2973,5,3,False,5
+2989,top up by card charge,apple,2,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2989,5,3,False,5
+2241,get physical card,receiving,50,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2241,5,3,False,5
+984,card acceptance,card accept,10,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",984,5,3,False,5
+2933,card about to expire,card about,9,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2933,5,3,False,5
+1265,pin blocked,get physical,38,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1265,5,3,False,5
+1811,card not working,declined card,25,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1811,5,3,False,5
+1428,card not working,comprom,22,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1428,5,3,False,5
+1568,unable to verify identity,declined c,26,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1568,5,3,False,5
+2675,card not working,top up failed,59,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2675,5,3,False,5
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1645,5,3,False,5
+2289,transfer not received by recipient,failed,35,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2289,5,3,False,5
+2854,activate my card,activ,0,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2854,5,3,False,5
+1356,top up failed,to,62,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1356,5,3,False,5
+982,card acceptance,card accept,10,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",982,5,3,False,5
+1518,direct debit payment not recognised,direct,28,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1518,5,3,False,5
+722,top up limits,top up limits,60,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",722,5,3,False,5
+2372,verify top up,verify top,71,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2372,5,3,False,5
+1917,cancel transfer,terminate,55,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1917,5,3,False,5
+1500,direct debit payment not recognised,direct,28,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1500,5,3,False,5
+1933,atm support,card sw,18,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1933,5,3,False,5
+2833,top up by bank transfer charge,top up by card,57,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2833,5,3,False,5
+1639,pending transfer,pending card,45,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1639,5,3,False,5
+1136,change pin,edit,30,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1136,5,3,False,5
+2124,change pin,change,21,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2124,5,3,False,5
+3008,verify my identity,verify my,69,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",3008,5,3,False,5
+1704,get physical card,request,52,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1704,5,3,False,5
+2243,get physical card,receiving,50,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2243,5,3,False,5
+748,top up limits,top up limits,60,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",748,5,3,False,5
+2649,top up failed,top up failed,59,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2649,5,3,False,5
+1258,pin blocked,get physical,38,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1258,5,3,False,5
+1318,card payment fee charged,vis,73,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1318,5,3,False,5
+1770,request refund,Ref,51,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1770,5,3,False,5
+217,pending cash withdrawal,pending c,46,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",217,5,3,False,5
+1141,change pin,edit,30,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1141,5,3,False,5
+2078,transfer fee charged,transfer timing,67,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2078,5,3,False,5
+402,change pin,exchange via,33,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",402,5,3,False,5
+1349,transfer fee charged,to,62,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1349,5,3,False,5
+80,exchange rate,exchange rate,32,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",80,5,3,False,5
+1355,top up by card charge,to,62,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1355,5,3,False,5
+2386,top up by card charge,verify top,71,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2386,5,3,False,5
+838,card payment fee charged,card payment fee,15,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",838,5,3,False,5
+2267,topping up by card,receiving,50,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2267,5,3,False,5
+2881,extra charge on statement,cash withdrawal charge,19,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2881,5,3,False,5
+801,card payment fee charged,card payment fee,15,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",801,5,3,False,5
+73,card linking,card linking,13,False,True,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",73,5,3,False,5
+1967,cancel transfer,transaction,63,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",1967,5,3,False,5
+2982,top up by card charge,apple,2,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2982,5,3,False,5
+46,card not working,card linking,13,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",46,5,3,False,5
+2916,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{53: 1, 70: 1, 34: 1, 54: 1, 64: 1}","[2754, 1423, 3444, 1353, 2265]",2916,5,3,False,5

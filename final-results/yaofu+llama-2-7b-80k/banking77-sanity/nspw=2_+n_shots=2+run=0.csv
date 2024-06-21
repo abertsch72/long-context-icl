@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+6099,top up by card charge,top up by card,57,True,True,False,"{57: 1, 11: 1}","[6099, 4877]",6099,2,0,False,2
+4877,card arrival,card arrival,11,True,True,True,"{57: 1, 11: 1}","[6099, 4877]",4877,2,0,False,2
+42,card delivery estimate,card delivery,12,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",42,2,0,False,2
+8423,exchange rate,wrong exchange,76,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8423,2,0,False,2
+1779,cancel transfer,cancel,8,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",1779,2,0,False,2
+502,transfer not received by recipient,failed,35,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",502,2,0,False,2
+9758,card arrival,at,3,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",9758,2,0,False,2
+6541,get physical card,wrong amount,75,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6541,2,0,False,2
+9639,card not working,supported,54,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9639,2,0,False,2
+3385,wrong amount of cash received,wrong amount,75,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",3385,2,0,False,2
+3124,card arrival,Ref,51,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",3124,2,0,False,2
+9620,card payment not recognised,revert,53,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9620,2,0,False,2
+8718,transfer fee charged,top up by bank,56,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8718,2,0,False,2
+1562,change pin,edit,30,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1562,2,0,False,2
+7021,exchange rate,exchange charge,31,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7021,2,0,False,2
+2255,atm support,wrong amount,75,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2255,2,0,False,2
+5218,change pin,exchange via,33,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5218,2,0,False,2
+6149,card payment not recognised,pending card,45,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6149,2,0,False,2
+107,pending top up,pending top,47,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",107,2,0,False,2
+3143,exchange rate,exchange via,33,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3143,2,0,False,2
+7326,card payment not recognised,revert,53,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7326,2,0,False,2
+5737,verify top up,verify top,71,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5737,2,0,False,2
+1760,card arrival,balance not updated after che,6,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",1760,2,0,False,2
+4147,card acceptance,card accept,10,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",4147,2,0,False,2
+4946,lost or stolen card,lost or stolen card,41,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",4946,2,0,False,2
+4915,cash withdrawal not recognised,wrong amount,75,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4915,2,0,False,2
+4341,card not working,direct,28,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4341,2,0,False,2
+2366,exchange rate,exchange rate,32,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2366,2,0,False,2
+1402,card not working,card not,14,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",1402,2,0,False,2
+5988,top up reverted,top up revert,61,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5988,2,0,False,2
+6065,verify my identity,why,74,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6065,2,0,False,2
+6011,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",6011,2,0,False,2
+9647,card payment not recognised,supported,54,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9647,2,0,False,2
+6192,card delivery estimate,country,24,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6192,2,0,False,2
+2271,beneficiary not allowed,benef,7,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2271,2,0,False,2
+1449,cancel transfer,top up revert,61,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1449,2,0,False,2
+5065,card arrival,verify source,70,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",5065,2,0,False,2
+2025,card arrival,age,1,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",2025,2,0,False,2
+627,card payment fee charged,card payment wrong,17,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",627,2,0,False,2
+1223,cancel transfer,revert,53,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1223,2,0,False,2
+7808,transfer not received by recipient,balance not updated after che,6,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7808,2,0,False,2
+1900,verify my identity,verify my,69,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",1900,2,0,False,2
+7657,card linking,card linking,13,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",7657,2,0,False,2
+2488,card not working,lost or stolen card,41,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2488,2,0,False,2
+2624,card delivery estimate,order,43,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2624,2,0,False,2
+1743,card not working,top up failed,59,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1743,2,0,False,2
+9658,card not working,cash withdrawal not,20,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9658,2,0,False,2
+5007,card payment fee charged,cash withdrawal charge,19,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5007,2,0,False,2
+2401,card delivery estimate,card about,9,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2401,2,0,False,2
+3941,exchange rate,exchange charge,31,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3941,2,0,False,2
+1193,pending card payment,pending c,46,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1193,2,0,False,2
+5927,virtual card not working,get dispos,37,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5927,2,0,False,2
+9728,cancel transfer,terminate,55,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9728,2,0,False,2
+2593,change pin,change,21,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2593,2,0,False,2
+3699,exchange rate,request,52,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3699,2,0,False,2
+6086,cancel transfer,cancel,8,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",6086,2,0,False,2
+5040,card not working,top up failed,59,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5040,2,0,False,2
+6258,cash withdrawal not recognised,declined c,26,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6258,2,0,False,2
+9910,card arrival,card about,9,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",9910,2,0,False,2
+437,virtual card not working,getting virtual,40,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",437,2,0,False,2
+1386,card payment not recognised,declined c,26,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1386,2,0,False,2
+841,card arrival,Ref,51,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",841,2,0,False,2
+5780,card payment not recognised,pending card,45,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5780,2,0,False,2
+6574,pending cash withdrawal,pending c,46,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",6574,2,0,False,2
+5857,transfer not received by recipient,transfer fee,64,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5857,2,0,False,2
+7473,extra charge on statement,extra,34,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",7473,2,0,False,2
+7153,card payment not recognised,transaction,63,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7153,2,0,False,2
+7334,card not working,cash withdrawal not,20,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7334,2,0,False,2
+427,cash withdrawal not recognised,pending c,46,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",427,2,0,False,2
+7218,activate my card,activ,0,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",7218,2,0,False,2
+8894,change pin,edit,30,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8894,2,0,False,2
+3415,transfer not received by recipient,failed,35,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3415,2,0,False,2
+8824,verify top up,verify top,71,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",8824,2,0,False,2
+4222,card payment fee charged,extra,34,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4222,2,0,False,2
+2954,country support,country,24,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2954,2,0,False,2
+9416,country support,country,24,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",9416,2,0,False,2
+5739,card acceptance,vis,73,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5739,2,0,False,2
+9724,top up limits,top up limits,60,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",9724,2,0,False,2
+9215,order physical card,request,52,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9215,2,0,False,2
+7063,card arrival,verify my,69,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",7063,2,0,False,2
+5109,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5109,2,0,False,2
+6669,extra charge on statement,card payment fee,15,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6669,2,0,False,2
+961,card delivery estimate,getting spare,39,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",961,2,0,False,2
+8612,card payment not recognised,Ref,51,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8612,2,0,False,2
+6470,card not working,card payment fee,15,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6470,2,0,False,2
+247,card payment fee charged,top up by card,57,True,False,False,"{57: 1, 11: 1}","[6099, 4877]",247,2,0,False,2
+4520,card not working,cash withdrawal not,20,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4520,2,0,False,2
+2892,card linking,card linking,13,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2892,2,0,False,2
+2383,card arrival,card about,9,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",2383,2,0,False,2
+9895,card arrival,card arrival,11,True,True,True,"{57: 1, 11: 1}","[6099, 4877]",9895,2,0,False,2
+6626,virtual card not working,dispos,29,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6626,2,0,False,2
+9953,card payment not recognised,pending card,45,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9953,2,0,False,2
+5764,top up by card charge,verify top,71,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5764,2,0,False,2
+3507,card payment fee charged,extra,34,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3507,2,0,False,2
+7900,transfer not received by recipient,failed,35,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7900,2,0,False,2
+8177,transfer timing,transfer not,66,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8177,2,0,False,2
+8037,card not working,declined card,25,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8037,2,0,False,2
+5796,top up by card charge,apple,2,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5796,2,0,False,2
+292,top up by card charge,automatic,4,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",292,2,0,False,2
+6957,atm support,cash withdrawal charge,19,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6957,2,0,False,2
+2638,lost or stolen card,lost or stolen phone,42,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2638,2,0,False,2
+5854,pin blocked,change,21,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5854,2,0,False,2
+19,transfer timing,transfer timing,67,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",19,2,0,False,2
+3823,top up by card charge,top up revert,61,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3823,2,0,False,2
+4393,exchange rate,card payment wrong,17,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4393,2,0,False,2
+7201,atm support,cash withdrawal charge,19,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7201,2,0,False,2
+8841,card payment fee charged,transfer fee,64,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8841,2,0,False,2
+2453,top up by card charge,automatic,4,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2453,2,0,False,2
+3644,card delivery estimate,country,24,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3644,2,0,False,2
+2034,card acceptance,card accept,10,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2034,2,0,False,2
+1850,transfer not received by recipient,failed,35,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1850,2,0,False,2
+2333,top up by card charge,top up revert,61,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2333,2,0,False,2
+7727,card payment not recognised,Ref,51,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7727,2,0,False,2
+6118,pin blocked,get physical,38,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6118,2,0,False,2
+1415,cancel transfer,request,52,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1415,2,0,False,2
+1368,top up failed,to,62,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1368,2,0,False,2
+9354,exchange rate,exchange rate,32,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",9354,2,0,False,2
+650,extra charge on statement,extra,34,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",650,2,0,False,2
+8051,transaction charged twice,card payment not,16,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8051,2,0,False,2
+1759,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",1759,2,0,False,2
+1460,card arrival,age,1,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",1460,2,0,False,2
+3766,card payment fee charged,vis,73,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3766,2,0,False,2
+6841,card not working,comprom,22,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6841,2,0,False,2
+611,card payment not recognised,Ref,51,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",611,2,0,False,2
+9347,top up by card charge,apple,2,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9347,2,0,False,2
+6449,card payment fee charged,vis,73,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6449,2,0,False,2
+6405,exchange rate,card payment wrong,17,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6405,2,0,False,2
+1484,card payment not recognised,pending card,45,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1484,2,0,False,2
+7420,top up limits,top up limits,60,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",7420,2,0,False,2
+1395,card delivery estimate,getting spare,39,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1395,2,0,False,2
+5118,pending cash withdrawal,pending c,46,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5118,2,0,False,2
+6836,exchange rate,wrong exchange,76,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6836,2,0,False,2
+9710,card payment not recognised,revert,53,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9710,2,0,False,2
+4905,direct debit payment not recognised,direct,28,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",4905,2,0,False,2
+9518,card arrival,activ,0,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",9518,2,0,False,2
+5298,top up by card charge,top up limits,60,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5298,2,0,False,2
+2716,change pin,change,21,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2716,2,0,False,2
+392,pin blocked,change,21,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",392,2,0,False,2
+3962,top up by card charge,pending top,47,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3962,2,0,False,2
+4626,top up by card charge,top up revert,61,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4626,2,0,False,2
+4751,card not working,comprom,22,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4751,2,0,False,2
+5858,verify my identity,why,74,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5858,2,0,False,2
+1113,transfer not received by recipient,benef,7,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1113,2,0,False,2
+2248,card not working,card payment not,16,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2248,2,0,False,2
+4451,transfer timing,balance not updated after bank,5,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4451,2,0,False,2
+1153,change pin,exchange via,33,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1153,2,0,False,2
+3022,virtual card not working,getting virtual,40,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3022,2,0,False,2
+5996,card payment not recognised,transaction,63,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5996,2,0,False,2
+4020,card delivery estimate,dispos,29,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4020,2,0,False,2
+8216,card arrival,age,1,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",8216,2,0,False,2
+6097,card payment not recognised,virtual,72,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6097,2,0,False,2
+2729,transfer timing,transfer not,66,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2729,2,0,False,2
+7696,card not working,to,62,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7696,2,0,False,2
+8609,transfer not received by recipient,declined transfer,27,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8609,2,0,False,2
+6591,pin blocked,pin,49,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",6591,2,0,False,2
+4079,transfer fee charged,to,62,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4079,2,0,False,2
+8815,exchange rate,fi,36,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8815,2,0,False,2
+1168,card not working,activ,0,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1168,2,0,False,2
+2787,exchange rate,exchange rate,32,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2787,2,0,False,2
+9801,virtual card not working,getting virtual,40,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9801,2,0,False,2
+4879,age limit,age,1,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",4879,2,0,False,2
+5448,exchange rate,exchange rate,32,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5448,2,0,False,2
+8232,card payment fee charged,card payment fee,15,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",8232,2,0,False,2
+8719,card arrival,card delivery,12,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",8719,2,0,False,2
+9586,card payment not recognised,revert,53,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9586,2,0,False,2
+6073,card payment fee charged,top up by card,57,True,False,False,"{57: 1, 11: 1}","[6099, 4877]",6073,2,0,False,2
+5305,card payment not recognised,transaction,63,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5305,2,0,False,2
+584,card payment not recognised,to,62,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",584,2,0,False,2
+9977,card acceptance,supported,54,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9977,2,0,False,2
+2532,card arrival,why,74,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",2532,2,0,False,2
+2802,pin blocked,get physical,38,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2802,2,0,False,2
+1712,top up limits,automatic,4,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1712,2,0,False,2
+6117,get physical card,request,52,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6117,2,0,False,2
+5363,virtual card not working,getting virtual,40,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5363,2,0,False,2
+9102,transfer timing,balance not updated after bank,5,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9102,2,0,False,2
+6418,lost or stolen phone,lost or stolen phone,42,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",6418,2,0,False,2
+9156,cancel transfer,cancel,8,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",9156,2,0,False,2
+1115,card payment fee charged,Ref,51,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1115,2,0,False,2
+6988,card delivery estimate,order,43,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6988,2,0,False,2
+5388,card not working,card not,14,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5388,2,0,False,2
+2960,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2960,2,0,False,2
+7614,card arrival,balance not updated after che,6,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",7614,2,0,False,2
+7917,change pin,change,21,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",7917,2,0,False,2
+1229,exchange rate,exchange charge,31,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1229,2,0,False,2
+5217,transfer not received by recipient,failed,35,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5217,2,0,False,2
+1513,transfer timing,transfer not,66,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1513,2,0,False,2
+6795,card arrival,transfer timing,67,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",6795,2,0,False,2
+3929,change pin,change,21,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",3929,2,0,False,2
+7608,get physical card,vis,73,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7608,2,0,False,2
+6358,card not working,wrong exchange,76,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6358,2,0,False,2
+9535,verify top up,verify top,71,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",9535,2,0,False,2
+2067,card delivery estimate,to,62,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2067,2,0,False,2
+317,transfer timing,balance not updated after bank,5,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",317,2,0,False,2
+8989,transaction charged twice,transaction,63,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",8989,2,0,False,2
+684,extra charge on statement,extra,34,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",684,2,0,False,2
+9299,exchange rate,wrong exchange,76,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9299,2,0,False,2
+6939,atm support,declined c,26,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6939,2,0,False,2
+2441,pin blocked,pin,49,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2441,2,0,False,2
+7864,card arrival,Ref,51,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",7864,2,0,False,2
+7737,card payment fee charged,vis,73,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7737,2,0,False,2
+3755,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3755,2,0,False,2
+1602,card not working,direct,28,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1602,2,0,False,2
+2928,cancel transfer,cancel,8,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2928,2,0,False,2
+5283,transfer timing,transfer timing,67,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5283,2,0,False,2
+1556,card not working,top up failed,59,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1556,2,0,False,2
+7693,cancel transfer,request,52,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7693,2,0,False,2
+590,transfer fee charged,transfer timing,67,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",590,2,0,False,2
+7623,card not working,cash withdrawal not,20,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7623,2,0,False,2
+5192,cancel transfer,cancel,8,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5192,2,0,False,2
+2769,extra charge on statement,extra,34,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2769,2,0,False,2
+4899,card arrival,card about,9,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",4899,2,0,False,2
+1859,card payment fee charged,top up by card,57,True,False,False,"{57: 1, 11: 1}","[6099, 4877]",1859,2,0,False,2
+315,card delivery estimate,order,43,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",315,2,0,False,2
+1276,top up failed,top up failed,59,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",1276,2,0,False,2
+2390,lost or stolen phone,lost or stolen phone,42,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2390,2,0,False,2
+5810,pending card payment,extra,34,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5810,2,0,False,2
+5535,card arrival,activ,0,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",5535,2,0,False,2
+4720,top up by card charge,top up by card,57,True,True,False,"{57: 1, 11: 1}","[6099, 4877]",4720,2,0,False,2
+538,card not working,lost or stolen card,41,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",538,2,0,False,2
+6966,top up by card charge,top up limits,60,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6966,2,0,False,2
+6891,card delivery estimate,order,43,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",6891,2,0,False,2
+5084,change pin,exchange via,33,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5084,2,0,False,2
+193,card not working,card sw,18,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",193,2,0,False,2
+1730,card arrival,top up by bank,56,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",1730,2,0,False,2
+1571,exchange rate,exchange charge,31,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",1571,2,0,False,2
+2510,card arrival,card arrival,11,True,True,True,"{57: 1, 11: 1}","[6099, 4877]",2510,2,0,False,2
+3155,transaction charged twice,card payment fee,15,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",3155,2,0,False,2
+9638,pin blocked,get physical,38,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9638,2,0,False,2
+2811,declined transfer,declined transfer,27,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",2811,2,0,False,2
+7901,lost or stolen card,lost or stolen card,41,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",7901,2,0,False,2
+7279,atm support,at,3,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",7279,2,0,False,2
+5372,country support,country,24,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5372,2,0,False,2
+8361,transaction charged twice,transaction,63,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",8361,2,0,False,2
+4624,exchange rate,wrong exchange,76,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4624,2,0,False,2
+720,card not working,card not,14,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",720,2,0,False,2
+7111,verify my identity,unable,68,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7111,2,0,False,2
+8776,card not working,comprom,22,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",8776,2,0,False,2
+924,change pin,edit,30,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",924,2,0,False,2
+5741,transfer not received by recipient,benef,7,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5741,2,0,False,2
+8167,card arrival,why,74,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",8167,2,0,False,2
+9648,cancel transfer,terminate,55,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",9648,2,0,False,2
+5271,card acceptance,card accept,10,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",5271,2,0,False,2
+4532,verify my identity,why,74,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4532,2,0,False,2
+8557,transfer fee charged,transfer fee,64,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",8557,2,0,False,2
+2980,card delivery estimate,country,24,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",2980,2,0,False,2
+7746,transfer not received by recipient,declined transfer,27,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",7746,2,0,False,2
+6182,pending card payment,pending card,45,False,True,False,"{57: 1, 11: 1}","[6099, 4877]",6182,2,0,False,2
+8257,card arrival,transfer timing,67,False,False,True,"{57: 1, 11: 1}","[6099, 4877]",8257,2,0,False,2
+5546,card delivery estimate,order,43,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",5546,2,0,False,2
+4188,get disposable virtual card,dispos,29,False,False,False,"{57: 1, 11: 1}","[6099, 4877]",4188,2,0,False,2

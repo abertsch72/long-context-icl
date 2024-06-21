@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,transfer timing,receiving,50,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1104,2,2,False
+472,card payment not recognised,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",472,2,2,False
+1453,card about to expire,card about,9,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1453,2,2,False
+836,transfer timing,pending transfer,48,False,False,False,"{28: 1, 8: 1}","[1490, 508]",836,2,2,False
+939,transaction charged twice,transaction,63,False,True,False,"{28: 1, 8: 1}","[1490, 508]",939,2,2,False
+706,request refund,request,52,False,True,False,"{28: 1, 8: 1}","[1490, 508]",706,2,2,False
+381,verify my identity,why,74,False,False,False,"{28: 1, 8: 1}","[1490, 508]",381,2,2,False
+1078,card payment not recognised,re,53,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1078,2,2,False
+451,card payment not recognised,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",451,2,2,False
+1467,order physical card,card about,9,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1467,2,2,False
+649,verify my identity,direct,28,True,False,False,"{28: 1, 8: 1}","[1490, 508]",649,2,2,False
+771,Refund not showing up,Ref,51,False,True,False,"{28: 1, 8: 1}","[1490, 508]",771,2,2,False
+1279,disposable card limits,get dispos,37,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1279,2,2,False
+657,direct debit payment not recognised,direct,28,True,True,False,"{28: 1, 8: 1}","[1490, 508]",657,2,2,False
+67,get physical card,fi,36,False,False,False,"{28: 1, 8: 1}","[1490, 508]",67,2,2,False
+770,request refund,Ref,51,False,False,False,"{28: 1, 8: 1}","[1490, 508]",770,2,2,False
+678,direct debit payment not recognised,direct,28,True,True,False,"{28: 1, 8: 1}","[1490, 508]",678,2,2,False
+954,transaction charged twice,transaction,63,False,True,False,"{28: 1, 8: 1}","[1490, 508]",954,2,2,False
+916,atm support,card swallowed,18,False,False,False,"{28: 1, 8: 1}","[1490, 508]",916,2,2,False
+1222,request refund,order,43,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1222,2,2,False
+601,atm support,atm,3,False,True,False,"{28: 1, 8: 1}","[1490, 508]",601,2,2,False
+241,cancel transfer,cancel,8,True,True,False,"{28: 1, 8: 1}","[1490, 508]",241,2,2,False
+1316,transfer timing,balance,5,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1316,2,2,False
+1229,card payment not recognised,order,43,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1229,2,2,False
+1004,transfer timing,transfer,67,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1004,2,2,False
+1130,transfer timing,failed,35,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1130,2,2,False
+106,card not working,card not,14,False,True,False,"{28: 1, 8: 1}","[1490, 508]",106,2,2,False
+1041,card payment not recognised,re,53,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1041,2,2,False
+455,card payment not recognised,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",455,2,2,False
+1380,top up by card charge,top,57,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1380,2,2,False
+327,card payment not recognised,card payment not,16,False,True,False,"{28: 1, 8: 1}","[1490, 508]",327,2,2,False
+742,transfer timing,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",742,2,2,False
+1439,activate my card,activate,0,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1439,2,2,False
+938,wrong amount of cash received,transaction,63,False,False,False,"{28: 1, 8: 1}","[1490, 508]",938,2,2,False
+404,verify my identity,unable,68,False,False,False,"{28: 1, 8: 1}","[1490, 508]",404,2,2,False
+1212,card payment not recognised,order,43,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1212,2,2,False
+756,card not working,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",756,2,2,False
+1181,verify top up,verify top,71,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1181,2,2,False
+122,exchange charge,exchange via,33,False,False,False,"{28: 1, 8: 1}","[1490, 508]",122,2,2,False
+1517,verify my identity,verify my,69,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1517,2,2,False
+227,pending transfer,pending top,47,False,False,False,"{28: 1, 8: 1}","[1490, 508]",227,2,2,False
+1321,exchange charge,exchange charge,31,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1321,2,2,False
+396,verify my identity,why,74,False,False,False,"{28: 1, 8: 1}","[1490, 508]",396,2,2,False
+997,transaction charged twice,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",997,2,2,False
+924,transaction charged twice,transaction,63,False,True,False,"{28: 1, 8: 1}","[1490, 508]",924,2,2,False
+245,cancel transfer,cancel,8,True,True,False,"{28: 1, 8: 1}","[1490, 508]",245,2,2,False
+180,contactless not working,contact,23,False,True,False,"{28: 1, 8: 1}","[1490, 508]",180,2,2,False
+1170,verify top up,verify top,71,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1170,2,2,False
+665,direct debit payment not recognised,direct,28,True,True,False,"{28: 1, 8: 1}","[1490, 508]",665,2,2,False
+1026,transfer timing,transfer,67,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1026,2,2,False
+769,why verify identity,Ref,51,False,False,False,"{28: 1, 8: 1}","[1490, 508]",769,2,2,False
+1063,card payment not recognised,re,53,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1063,2,2,False
+422,verify my identity,unable,68,False,False,False,"{28: 1, 8: 1}","[1490, 508]",422,2,2,False
+131,exchange via app,exchange via,33,False,True,False,"{28: 1, 8: 1}","[1490, 508]",131,2,2,False
+154,exchange charge,exchange via,33,False,False,False,"{28: 1, 8: 1}","[1490, 508]",154,2,2,False
+459,verify my identity,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",459,2,2,False
+374,verify my identity,why,74,False,False,False,"{28: 1, 8: 1}","[1490, 508]",374,2,2,False
+15,wrong amount of cash received,card payment wrong,17,False,False,False,"{28: 1, 8: 1}","[1490, 508]",15,2,2,False
+1254,disposable card limits,get dispos,37,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1254,2,2,False
+196,contactless not working,contact,23,False,True,False,"{28: 1, 8: 1}","[1490, 508]",196,2,2,False
+523,request refund,dispos,29,False,False,False,"{28: 1, 8: 1}","[1490, 508]",523,2,2,False
+527,card payment not recognised,dispos,29,False,False,False,"{28: 1, 8: 1}","[1490, 508]",527,2,2,False
+385,why verify identity,why,74,False,True,False,"{28: 1, 8: 1}","[1490, 508]",385,2,2,False
+616,atm support,atm,3,False,True,False,"{28: 1, 8: 1}","[1490, 508]",616,2,2,False
+869,request refund,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",869,2,2,False
+1095,transfer timing,receiving,50,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1095,2,2,False
+1406,activate my card,activate,0,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1406,2,2,False
+1368,top up by card charge,top,57,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1368,2,2,False
+347,transaction charged twice,card payment not,16,False,False,False,"{28: 1, 8: 1}","[1490, 508]",347,2,2,False
+430,verify my identity,unable,68,False,False,False,"{28: 1, 8: 1}","[1490, 508]",430,2,2,False
+293,transaction charged twice,wrong,75,False,False,False,"{28: 1, 8: 1}","[1490, 508]",293,2,2,False
+474,card not working,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",474,2,2,False
+136,exchange charge,exchange via,33,False,False,False,"{28: 1, 8: 1}","[1490, 508]",136,2,2,False
+781,Refund not showing up,Ref,51,False,True,False,"{28: 1, 8: 1}","[1490, 508]",781,2,2,False
+1019,transfer timing,transfer,67,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1019,2,2,False
+1485,verify my identity,verify my,69,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1485,2,2,False
+738,transfer timing,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",738,2,2,False
+902,card not working,card swallowed,18,False,False,False,"{28: 1, 8: 1}","[1490, 508]",902,2,2,False
+723,transfer timing,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",723,2,2,False
+87,card payment not recognised,card not,14,False,False,False,"{28: 1, 8: 1}","[1490, 508]",87,2,2,False
+1185,top up by card charge,verify top,71,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1185,2,2,False
+744,transfer timing,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",744,2,2,False
+727,transfer timing,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",727,2,2,False
+858,cancel transfer,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",858,2,2,False
+358,transaction charged twice,card payment not,16,False,False,False,"{28: 1, 8: 1}","[1490, 508]",358,2,2,False
+1294,transfer timing,balance,5,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1294,2,2,False
+517,top up by card charge,to,62,False,False,False,"{28: 1, 8: 1}","[1490, 508]",517,2,2,False
+301,wrong amount of cash received,wrong,75,False,True,False,"{28: 1, 8: 1}","[1490, 508]",301,2,2,False
+805,transfer timing,pending transfer,48,False,False,False,"{28: 1, 8: 1}","[1490, 508]",805,2,2,False
+1367,card payment not recognised,top,57,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1367,2,2,False
+552,disposable card limits,dispos,29,False,True,False,"{28: 1, 8: 1}","[1490, 508]",552,2,2,False
+240,reverted card payment?,cancel,8,True,False,False,"{28: 1, 8: 1}","[1490, 508]",240,2,2,False
+1418,activate my card,activate,0,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1418,2,2,False
+202,pending top up,pending top,47,False,True,False,"{28: 1, 8: 1}","[1490, 508]",202,2,2,False
+1044,cancel transfer,re,53,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1044,2,2,False
+1509,verify my identity,verify my,69,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1509,2,2,False
+286,atm support,wrong,75,False,False,False,"{28: 1, 8: 1}","[1490, 508]",286,2,2,False
+1335,exchange charge,exchange charge,31,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1335,2,2,False
+513,top up by card charge,to,62,False,False,False,"{28: 1, 8: 1}","[1490, 508]",513,2,2,False
+458,unable to verify identity,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",458,2,2,False
+806,transfer timing,pending transfer,48,False,False,False,"{28: 1, 8: 1}","[1490, 508]",806,2,2,False
+292,request refund,wrong,75,False,False,False,"{28: 1, 8: 1}","[1490, 508]",292,2,2,False
+580,card payment not recognised,comprom,22,False,False,False,"{28: 1, 8: 1}","[1490, 508]",580,2,2,False
+128,exchange charge,exchange via,33,False,False,False,"{28: 1, 8: 1}","[1490, 508]",128,2,2,False
+308,atm support,wrong,75,False,False,False,"{28: 1, 8: 1}","[1490, 508]",308,2,2,False
+457,card not working,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",457,2,2,False
+178,contactless not working,contact,23,False,True,False,"{28: 1, 8: 1}","[1490, 508]",178,2,2,False
+624,atm support,atm,3,False,True,False,"{28: 1, 8: 1}","[1490, 508]",624,2,2,False
+26,exchange charge,card payment wrong,17,False,False,False,"{28: 1, 8: 1}","[1490, 508]",26,2,2,False
+1276,request refund,get dispos,37,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1276,2,2,False
+837,pending transfer,pending transfer,48,False,True,False,"{28: 1, 8: 1}","[1490, 508]",837,2,2,False
+1175,verify top up,verify top,71,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1175,2,2,False
+553,disposable card limits,dispos,29,False,True,False,"{28: 1, 8: 1}","[1490, 508]",553,2,2,False
+446,card payment not recognised,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",446,2,2,False
+1117,exchange charge,receiving,50,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1117,2,2,False
+214,top up by card charge,pending top,47,False,False,False,"{28: 1, 8: 1}","[1490, 508]",214,2,2,False
+964,transaction charged twice,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",964,2,2,False
+421,verify my identity,unable,68,False,False,False,"{28: 1, 8: 1}","[1490, 508]",421,2,2,False
+610,atm support,atm,3,False,True,False,"{28: 1, 8: 1}","[1490, 508]",610,2,2,False
+191,contactless not working,contact,23,False,True,False,"{28: 1, 8: 1}","[1490, 508]",191,2,2,False
+666,verify my identity,direct,28,True,False,False,"{28: 1, 8: 1}","[1490, 508]",666,2,2,False
+850,cancel transfer,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",850,2,2,False
+1083,get physical card,receiving,50,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1083,2,2,False
+1106,transfer timing,receiving,50,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1106,2,2,False
+914,atm support,card swallowed,18,False,False,False,"{28: 1, 8: 1}","[1490, 508]",914,2,2,False
+504,card payment not recognised,to,62,False,False,False,"{28: 1, 8: 1}","[1490, 508]",504,2,2,False
+145,exchange charge,exchange via,33,False,False,False,"{28: 1, 8: 1}","[1490, 508]",145,2,2,False
+1307,transfer timing,balance,5,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1307,2,2,False
+337,card payment not recognised,card payment not,16,False,True,False,"{28: 1, 8: 1}","[1490, 508]",337,2,2,False
+960,verify source of funds,verify source,70,False,True,False,"{28: 1, 8: 1}","[1490, 508]",960,2,2,False
+1013,transfer timing,transfer,67,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1013,2,2,False
+1486,verify my identity,verify my,69,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1486,2,2,False
+394,verify my identity,why,74,False,False,False,"{28: 1, 8: 1}","[1490, 508]",394,2,2,False
+1244,card payment not recognised,get dispos,37,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1244,2,2,False
+69,fiat currency support,fi,36,False,True,False,"{28: 1, 8: 1}","[1490, 508]",69,2,2,False
+395,verify my identity,why,74,False,False,False,"{28: 1, 8: 1}","[1490, 508]",395,2,2,False
+789,why verify identity,Ref,51,False,False,False,"{28: 1, 8: 1}","[1490, 508]",789,2,2,False
+1331,exchange charge,exchange charge,31,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1331,2,2,False
+490,card payment not recognised,to,62,False,False,False,"{28: 1, 8: 1}","[1490, 508]",490,2,2,False
+675,request refund,direct,28,True,False,False,"{28: 1, 8: 1}","[1490, 508]",675,2,2,False
+644,transaction charged twice,direct,28,True,False,False,"{28: 1, 8: 1}","[1490, 508]",644,2,2,False
+816,transfer timing,pending transfer,48,False,False,False,"{28: 1, 8: 1}","[1490, 508]",816,2,2,False
+980,balance not updated after bank transfer,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",980,2,2,False
+971,balance not updated after bank transfer,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",971,2,2,False
+531,disposable card limits,dispos,29,False,True,False,"{28: 1, 8: 1}","[1490, 508]",531,2,2,False
+790,failed transfer,Ref,51,False,False,False,"{28: 1, 8: 1}","[1490, 508]",790,2,2,False
+260,cancel transfer,cancel,8,True,True,False,"{28: 1, 8: 1}","[1490, 508]",260,2,2,False
+431,verify my identity,unable,68,False,False,False,"{28: 1, 8: 1}","[1490, 508]",431,2,2,False
+481,card payment not recognised,to,62,False,False,False,"{28: 1, 8: 1}","[1490, 508]",481,2,2,False
+563,card payment not recognised,comprom,22,False,False,False,"{28: 1, 8: 1}","[1490, 508]",563,2,2,False
+72,fiat currency support,fi,36,False,True,False,"{28: 1, 8: 1}","[1490, 508]",72,2,2,False
+112,card not working,card not,14,False,True,False,"{28: 1, 8: 1}","[1490, 508]",112,2,2,False
+387,verify my identity,why,74,False,False,False,"{28: 1, 8: 1}","[1490, 508]",387,2,2,False
+1039,balance not updated after bank transfer,transfer,67,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1039,2,2,False
+1401,activate my card,activate,0,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1401,2,2,False
+967,transaction charged twice,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",967,2,2,False
+314,wrong amount of cash received,wrong,75,False,True,False,"{28: 1, 8: 1}","[1490, 508]",314,2,2,False
+890,atm support,card swallowed,18,False,False,False,"{28: 1, 8: 1}","[1490, 508]",890,2,2,False
+454,card payment not recognised,get physical,38,False,False,False,"{28: 1, 8: 1}","[1490, 508]",454,2,2,False
+479,get physical card,get physical,38,False,True,False,"{28: 1, 8: 1}","[1490, 508]",479,2,2,False
+647,direct debit payment not recognised,direct,28,True,True,False,"{28: 1, 8: 1}","[1490, 508]",647,2,2,False
+23,card payment wrong exchange rate,card payment wrong,17,False,True,False,"{28: 1, 8: 1}","[1490, 508]",23,2,2,False
+1213,request refund,order,43,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1213,2,2,False
+1215,card payment not recognised,order,43,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1215,2,2,False
+1349,exchange charge,exchange charge,31,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1349,2,2,False
+263,cancel transfer,cancel,8,True,True,False,"{28: 1, 8: 1}","[1490, 508]",263,2,2,False
+48,fiat currency support,fi,36,False,True,False,"{28: 1, 8: 1}","[1490, 508]",48,2,2,False
+287,atm support,wrong,75,False,False,False,"{28: 1, 8: 1}","[1490, 508]",287,2,2,False
+849,request refund,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",849,2,2,False
+1352,exchange charge,exchange charge,31,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1352,2,2,False
+329,verify my identity,card payment not,16,False,False,False,"{28: 1, 8: 1}","[1490, 508]",329,2,2,False
+1438,activate my card,activate,0,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1438,2,2,False
+29,exchange charge,card payment wrong,17,False,False,False,"{28: 1, 8: 1}","[1490, 508]",29,2,2,False
+235,pending top up,pending top,47,False,True,False,"{28: 1, 8: 1}","[1490, 508]",235,2,2,False
+524,disposable card limits,dispos,29,False,True,False,"{28: 1, 8: 1}","[1490, 508]",524,2,2,False
+372,why verify identity,why,74,False,True,False,"{28: 1, 8: 1}","[1490, 508]",372,2,2,False
+127,exchange via app,exchange via,33,False,True,False,"{28: 1, 8: 1}","[1490, 508]",127,2,2,False
+1277,disposable card limits,get dispos,37,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1277,2,2,False
+540,disposable card limits,dispos,29,False,True,False,"{28: 1, 8: 1}","[1490, 508]",540,2,2,False
+882,card not working,card swallowed,18,False,False,False,"{28: 1, 8: 1}","[1490, 508]",882,2,2,False
+589,card not working,comprom,22,False,False,False,"{28: 1, 8: 1}","[1490, 508]",589,2,2,False
+229,pending top up,pending top,47,False,True,False,"{28: 1, 8: 1}","[1490, 508]",229,2,2,False
+874,request refund,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",874,2,2,False
+625,atm support,atm,3,False,True,False,"{28: 1, 8: 1}","[1490, 508]",625,2,2,False
+1195,verify top up,verify top,71,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1195,2,2,False
+819,transfer timing,pending transfer,48,False,False,False,"{28: 1, 8: 1}","[1490, 508]",819,2,2,False
+1285,transfer timing,balance,5,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1285,2,2,False
+677,wrong amount of cash received,direct,28,True,False,False,"{28: 1, 8: 1}","[1490, 508]",677,2,2,False
+203,top up by card charge,pending top,47,False,False,False,"{28: 1, 8: 1}","[1490, 508]",203,2,2,False
+870,request refund,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",870,2,2,False
+695,request refund,request,52,False,True,False,"{28: 1, 8: 1}","[1490, 508]",695,2,2,False
+219,pending transfer,pending top,47,False,False,False,"{28: 1, 8: 1}","[1490, 508]",219,2,2,False
+189,contactless not working,contact,23,False,True,False,"{28: 1, 8: 1}","[1490, 508]",189,2,2,False
+382,transaction charged twice,why,74,False,False,False,"{28: 1, 8: 1}","[1490, 508]",382,2,2,False
+1139,transfer timing,failed,35,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1139,2,2,False
+976,verify my identity,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",976,2,2,False
+641,direct debit payment not recognised,direct,28,True,True,False,"{28: 1, 8: 1}","[1490, 508]",641,2,2,False
+733,transfer timing,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",733,2,2,False
+848,cancel transfer,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",848,2,2,False
+1353,exchange charge,exchange charge,31,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1353,2,2,False
+798,Refund not showing up,Ref,51,False,True,False,"{28: 1, 8: 1}","[1490, 508]",798,2,2,False
+1329,exchange charge,exchange charge,31,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1329,2,2,False
+114,card not working,card not,14,False,True,False,"{28: 1, 8: 1}","[1490, 508]",114,2,2,False
+1396,transfer timing,top,57,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1396,2,2,False
+34,exchange charge,card payment wrong,17,False,False,False,"{28: 1, 8: 1}","[1490, 508]",34,2,2,False
+965,balance not updated after bank transfer,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",965,2,2,False
+1226,card payment not recognised,order,43,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1226,2,2,False
+439,verify my identity,unable,68,False,False,False,"{28: 1, 8: 1}","[1490, 508]",439,2,2,False
+1411,card payment not recognised,activate,0,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1411,2,2,False
+1218,card payment not recognised,order,43,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1218,2,2,False
+865,cancel transfer,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",865,2,2,False
+703,request refund,request,52,False,True,False,"{28: 1, 8: 1}","[1490, 508]",703,2,2,False
+1362,card payment not recognised,top,57,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1362,2,2,False
+642,direct debit payment not recognised,direct,28,True,True,False,"{28: 1, 8: 1}","[1490, 508]",642,2,2,False
+1166,top up by card charge,verify top,71,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1166,2,2,False
+796,request refund,Ref,51,False,False,False,"{28: 1, 8: 1}","[1490, 508]",796,2,2,False
+896,atm support,card swallowed,18,False,False,False,"{28: 1, 8: 1}","[1490, 508]",896,2,2,False
+36,exchange charge,card payment wrong,17,False,False,False,"{28: 1, 8: 1}","[1490, 508]",36,2,2,False
+1278,disposable card limits,get dispos,37,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1278,2,2,False
+326,wrong amount of cash received,card payment not,16,False,False,False,"{28: 1, 8: 1}","[1490, 508]",326,2,2,False
+688,request refund,request,52,False,True,False,"{28: 1, 8: 1}","[1490, 508]",688,2,2,False
+1508,verify my identity,verify my,69,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1508,2,2,False
+990,transaction charged twice,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",990,2,2,False
+316,transfer timing,wrong,75,False,False,False,"{28: 1, 8: 1}","[1490, 508]",316,2,2,False
+1082,request refund,receiving,50,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1082,2,2,False
+1096,receiving money,receiving,50,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1096,2,2,False
+784,Refund not showing up,Ref,51,False,True,False,"{28: 1, 8: 1}","[1490, 508]",784,2,2,False
+840,request refund,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",840,2,2,False
+190,contactless not working,contact,23,False,True,False,"{28: 1, 8: 1}","[1490, 508]",190,2,2,False
+843,request refund,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",843,2,2,False
+1025,transfer timing,transfer,67,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1025,2,2,False
+99,card payment not recognised,card not,14,False,False,False,"{28: 1, 8: 1}","[1490, 508]",99,2,2,False
+548,disposable card limits,dispos,29,False,True,False,"{28: 1, 8: 1}","[1490, 508]",548,2,2,False
+1022,transfer timing,transfer,67,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1022,2,2,False
+140,exchange charge,exchange via,33,False,False,False,"{28: 1, 8: 1}","[1490, 508]",140,2,2,False
+621,atm support,atm,3,False,True,False,"{28: 1, 8: 1}","[1490, 508]",621,2,2,False
+919,card not working,card swallowed,18,False,False,False,"{28: 1, 8: 1}","[1490, 508]",919,2,2,False
+975,verify source of funds,verify source,70,False,True,False,"{28: 1, 8: 1}","[1490, 508]",975,2,2,False
+134,exchange charge,exchange via,33,False,False,False,"{28: 1, 8: 1}","[1490, 508]",134,2,2,False
+1142,transfer timing,failed,35,False,False,False,"{28: 1, 8: 1}","[1490, 508]",1142,2,2,False
+408,verify my identity,unable,68,False,False,False,"{28: 1, 8: 1}","[1490, 508]",408,2,2,False
+757,transfer timing,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",757,2,2,False
+1034,transfer timing,transfer,67,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1034,2,2,False
+925,transaction charged twice,transaction,63,False,True,False,"{28: 1, 8: 1}","[1490, 508]",925,2,2,False
+974,verify source of funds,verify source,70,False,True,False,"{28: 1, 8: 1}","[1490, 508]",974,2,2,False
+961,transaction charged twice,verify source,70,False,False,False,"{28: 1, 8: 1}","[1490, 508]",961,2,2,False
+759,transfer timing,declined,27,False,False,False,"{28: 1, 8: 1}","[1490, 508]",759,2,2,False
+510,top up by card charge,to,62,False,False,False,"{28: 1, 8: 1}","[1490, 508]",510,2,2,False
+868,cancel transfer,term,55,False,False,False,"{28: 1, 8: 1}","[1490, 508]",868,2,2,False
+1444,card about to expire,card about,9,False,True,False,"{28: 1, 8: 1}","[1490, 508]",1444,2,2,False

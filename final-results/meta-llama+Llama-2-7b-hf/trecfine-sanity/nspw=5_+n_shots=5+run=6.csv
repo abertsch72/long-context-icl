@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+2279,location country,location country,33,True,True,True,"{33: 2, 37: 1, 29: 1, 9: 1}","[2279, 5038, 3041, 289, 2091]",2279,5,6,False,5
+5038,numeric code,numeric code,37,True,True,True,"{33: 2, 37: 1, 29: 1, 9: 1}","[2279, 5038, 3041, 289, 2091]",5038,5,6,False,5
+3041,human individual,human individual,29,True,True,True,"{33: 2, 37: 1, 29: 1, 9: 1}","[2279, 5038, 3041, 289, 2091]",3041,5,6,False,5
+289,location country,location country,33,True,True,True,"{33: 2, 37: 1, 29: 1, 9: 1}","[2279, 5038, 3041, 289, 2091]",289,5,6,False,5
+2091,entity food,entity food,9,True,True,True,"{33: 2, 37: 1, 29: 1, 9: 1}","[2279, 5038, 3041, 289, 2091]",2091,5,6,False,5

@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+365,description reason,description reason,27,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",365,10,5,False,10
+353,entity other,entity other,13,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",353,10,5,False,10
+2801,numeric count,numeric count,38,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",2801,10,5,False,10
+2313,location other,location other,35,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",2313,10,5,False,10
+4363,entity disease,entity disease,7,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",4363,10,5,False,10
+3055,numeric percent,numeric percent,45,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",3055,10,5,False,10
+466,human individual,human individual,29,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",466,10,5,False,10
+5179,description manner,description manner,26,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",5179,10,5,False,10
+4620,human individual,human individual,29,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",4620,10,5,False,10
+922,human individual,human individual,29,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1, 45: 1, 29: 3, 26: 1}","[365, 353, 2801, 2313, 4363, 3055, 466, 5179, 4620, 922]",922,10,5,False,10

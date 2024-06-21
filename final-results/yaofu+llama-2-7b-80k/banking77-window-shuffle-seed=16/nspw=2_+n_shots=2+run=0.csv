@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,exchange rate,supported,54,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",903,2,0,False,2
+1003,top up failed,top up revert,61,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1003,2,0,False,2
+2953,card about to expire,card about,9,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2953,2,0,False,2
+2979,top up failed,apple,2,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2979,2,0,False,2
+1926,card not working,card sw,18,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1926,2,0,False,2
+2137,pin blocked,change,21,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2137,2,0,False,2
+2980,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2980,2,0,False,2
+702,cancel transfer,cancel,8,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",702,2,0,False,2
+2493,card not working,order,43,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2493,2,0,False,2
+2210,transfer fee charged,transfer fee,64,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2210,2,0,False,2
+112,exchange rate,exchange rate,32,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",112,2,0,False,2
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2909,2,0,False,2
+1987,card not working,transaction,63,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1987,2,0,False,2
+1283,card payment not recognised,vis,73,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1283,2,0,False,2
+1539,passcode forgotten,pass,44,True,True,False,"{44: 1, 51: 1}","[8990, 5890]",1539,2,0,False,2
+2879,card not working,activ,0,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2879,2,0,False,2
+1158,change pin,edit,30,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1158,2,0,False,2
+1376,card not working,dispos,29,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1376,2,0,False,2
+1517,wrong amount of cash received,direct,28,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1517,2,0,False,2
+1171,verify my identity,why,74,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1171,2,0,False,2
+2242,exchange rate,receiving,50,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2242,2,0,False,2
+1476,atm support,at,3,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1476,2,0,False,2
+237,atm support,pending c,46,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",237,2,0,False,2
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1650,2,0,False,2
+2484,card payment fee charged,order,43,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2484,2,0,False,2
+2105,card not working,revert,53,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2105,2,0,False,2
+2121,change pin,change,21,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2121,2,0,False,2
+1452,atm support,at,3,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1452,2,0,False,2
+274,supported cards and currencies,fi,36,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",274,2,0,False,2
+564,contactless not working,contact,23,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",564,2,0,False,2
+905,supported cards and currencies,supported,54,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",905,2,0,False,2
+1535,passcode forgotten,pass,44,True,True,False,"{44: 1, 51: 1}","[8990, 5890]",1535,2,0,False,2
+2113,Refund not showing up,revert,53,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2113,2,0,False,2
+2142,change pin,change,21,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2142,2,0,False,2
+2965,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2965,2,0,False,2
+1834,card payment not recognised,declined card,25,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1834,2,0,False,2
+1549,passcode forgotten,pass,44,True,True,False,"{44: 1, 51: 1}","[8990, 5890]",1549,2,0,False,2
+1320,top up by card charge,to,62,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1320,2,0,False,2
+2421,extra charge on statement,getting spare,39,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2421,2,0,False,2
+2784,exchange rate,exchange charge,31,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2784,2,0,False,2
+768,Refund not showing up,wrong amount,75,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",768,2,0,False,2
+2472,top up by cash or cheque,top up by c,58,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2472,2,0,False,2
+2154,pin blocked,change,21,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2154,2,0,False,2
+795,atm support,wrong amount,75,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",795,2,0,False,2
+1278,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1278,2,0,False,2
+1494,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1494,2,0,False,2
+241,exchange rate,fi,36,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",241,2,0,False,2
+3060,country support,country,24,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",3060,2,0,False,2
+494,age limit,age,1,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",494,2,0,False,2
+327,top up by card charge,automatic,4,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",327,2,0,False,2
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",458,2,0,False,2
+428,exchange rate,exchange via,33,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",428,2,0,False,2
+2862,card not working,activ,0,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2862,2,0,False,2
+2164,transfer not received by recipient,benef,7,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2164,2,0,False,2
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2897,2,0,False,2
+2440,top up by cash or cheque,top up by c,58,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2440,2,0,False,2
+1663,lost or stolen card,lost or stolen phone,42,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1663,2,0,False,2
+2700,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2700,2,0,False,2
+2955,card not working,card about,9,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2955,2,0,False,2
+522,pin blocked,pin,49,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",522,2,0,False,2
+1788,Refund not showing up,Ref,51,True,True,False,"{44: 1, 51: 1}","[8990, 5890]",1788,2,0,False,2
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1055,2,0,False,2
+2992,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2992,2,0,False,2
+1093,why verify identity,card payment not,16,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1093,2,0,False,2
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",791,2,0,False,2
+894,topping up by card,supported,54,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",894,2,0,False,2
+897,card payment not recognised,supported,54,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",897,2,0,False,2
+1175,topping up by card,why,74,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1175,2,0,False,2
+68,card linking,card linking,13,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",68,2,0,False,2
+1551,lost or stolen card,pass,44,True,False,False,"{44: 1, 51: 1}","[8990, 5890]",1551,2,0,False,2
+1508,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1508,2,0,False,2
+2250,topping up by card,receiving,50,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2250,2,0,False,2
+519,age limit,age,1,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",519,2,0,False,2
+1731,transfer not received by recipient,declined transfer,27,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1731,2,0,False,2
+1210,failed transfer,unable,68,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1210,2,0,False,2
+1750,transfer not received by recipient,declined transfer,27,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1750,2,0,False,2
+1687,Refund not showing up,request,52,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1687,2,0,False,2
+891,card not working,supported,54,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",891,2,0,False,2
+1061,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1061,2,0,False,2
+2403,get physical card,getting spare,39,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2403,2,0,False,2
+1898,cancel transfer,terminate,55,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1898,2,0,False,2
+2978,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2978,2,0,False,2
+1427,card not working,comprom,22,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1427,2,0,False,2
+1526,wrong amount of cash received,pass,44,True,False,False,"{44: 1, 51: 1}","[8990, 5890]",1526,2,0,False,2
+824,extra charge on statement,card payment fee,15,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",824,2,0,False,2
+1983,Refund not showing up,transaction,63,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1983,2,0,False,2
+2132,change pin,change,21,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2132,2,0,False,2
+418,change pin,exchange via,33,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",418,2,0,False,2
+1345,transfer not received by recipient,to,62,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1345,2,0,False,2
+2829,top up by card charge,top up by card,57,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2829,2,0,False,2
+2489,card not working,order,43,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2489,2,0,False,2
+598,contactless not working,contact,23,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",598,2,0,False,2
+804,why verify identity,card payment fee,15,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",804,2,0,False,2
+3017,verify my identity,verify my,69,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",3017,2,0,False,2
+2589,exchange rate,wrong exchange,76,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2589,2,0,False,2
+2540,virtual card not working,virtual,72,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2540,2,0,False,2
+2908,card not working,cash withdrawal charge,19,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2908,2,0,False,2
+2968,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2968,2,0,False,2
+2747,atm support,cash withdrawal not,20,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2747,2,0,False,2
+1340,transfer not received by recipient,to,62,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1340,2,0,False,2
+1348,topping up by card,to,62,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1348,2,0,False,2
+1451,card not working,at,3,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1451,2,0,False,2
+2903,cash withdrawal not recognised,cash withdrawal charge,19,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2903,2,0,False,2
+1237,verify my identity,unable,68,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1237,2,0,False,2
+2119,Refund not showing up,revert,53,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2119,2,0,False,2
+652,top up failed,pending top,47,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",652,2,0,False,2
+131,exchange rate,card payment wrong,17,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",131,2,0,False,2
+949,virtual card not working,getting virtual,40,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",949,2,0,False,2
+2528,virtual card not working,virtual,72,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2528,2,0,False,2
+2158,change pin,change,21,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2158,2,0,False,2
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2705,2,0,False,2
+592,contactless not working,contact,23,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",592,2,0,False,2
+2511,card delivery estimate,order,43,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2511,2,0,False,2
+1080,Refund not showing up,card payment not,16,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1080,2,0,False,2
+1361,card not working,dispos,29,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1361,2,0,False,2
+448,card not working,lost or stolen card,41,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",448,2,0,False,2
+18,card not working,card arrival,11,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",18,2,0,False,2
+1168,why verify identity,why,74,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1168,2,0,False,2
+2396,top up failed,verify top,71,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2396,2,0,False,2
+362,card not working,card not,14,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",362,2,0,False,2
+1456,Refund not showing up,at,3,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1456,2,0,False,2
+1735,card not working,declined transfer,27,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1735,2,0,False,2
+2579,atm support,wrong exchange,76,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2579,2,0,False,2
+385,card not working,card not,14,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",385,2,0,False,2
+2555,virtual card not working,virtual,72,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2555,2,0,False,2
+2307,failed transfer,failed,35,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2307,2,0,False,2
+1779,Refund not showing up,Ref,51,True,True,False,"{44: 1, 51: 1}","[8990, 5890]",1779,2,0,False,2
+1119,Refund not showing up,card payment not,16,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1119,2,0,False,2
+2104,card payment not recognised,revert,53,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2104,2,0,False,2
+713,Refund not showing up,cancel,8,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",713,2,0,False,2
+2077,transfer fee charged,transfer timing,67,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2077,2,0,False,2
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1671,2,0,False,2
+1150,change pin,edit,30,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1150,2,0,False,2
+1491,wrong amount of cash received,direct,28,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1491,2,0,False,2
+2610,card not working,get dispos,37,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2610,2,0,False,2
+1729,transfer not received by recipient,declined transfer,27,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1729,2,0,False,2
+1360,get disposable virtual card,dispos,29,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1360,2,0,False,2
+1397,virtual card not working,dispos,29,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1397,2,0,False,2
+842,transaction charged twice,transfer not,66,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",842,2,0,False,2
+2504,card not working,order,43,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2504,2,0,False,2
+538,card not working,pin,49,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",538,2,0,False,2
+2020,Refund not showing up,verify source,70,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2020,2,0,False,2
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",769,2,0,False,2
+945,card not working,getting virtual,40,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",945,2,0,False,2
+1591,atm support,declined c,26,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1591,2,0,False,2
+1818,declined card payment,declined card,25,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1818,2,0,False,2
+1876,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1876,2,0,False,2
+3031,verify my identity,verify my,69,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",3031,2,0,False,2
+1992,Refund not showing up,transaction,63,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1992,2,0,False,2
+2997,top up failed,apple,2,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2997,2,0,False,2
+1228,unable to verify identity,unable,68,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1228,2,0,False,2
+1682,Refund not showing up,request,52,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1682,2,0,False,2
+469,card not working,lost or stolen card,41,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",469,2,0,False,2
+2325,transfer into account,transfer into,65,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2325,2,0,False,2
+732,top up limits,top up limits,60,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",732,2,0,False,2
+820,card payment fee charged,card payment fee,15,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",820,2,0,False,2
+2990,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2990,2,0,False,2
+1732,transfer not received by recipient,declined transfer,27,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1732,2,0,False,2
+1252,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1252,2,0,False,2
+227,transaction charged twice,pending c,46,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",227,2,0,False,2
+1962,why verify identity,transaction,63,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1962,2,0,False,2
+400,exchange rate,exchange via,33,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",400,2,0,False,2
+1134,change pin,edit,30,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1134,2,0,False,2
+59,card not working,card linking,13,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",59,2,0,False,2
+2256,transfer fee charged,receiving,50,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2256,2,0,False,2
+853,transfer not received by recipient,transfer not,66,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",853,2,0,False,2
+2777,exchange rate,exchange charge,31,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2777,2,0,False,2
+1538,passcode forgotten,pass,44,True,True,False,"{44: 1, 51: 1}","[8990, 5890]",1538,2,0,False,2
+2109,card payment not recognised,revert,53,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2109,2,0,False,2
+305,card not working,card delivery,12,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",305,2,0,False,2
+711,cancel transfer,cancel,8,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",711,2,0,False,2
+2927,card payment fee charged,card about,9,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2927,2,0,False,2
+2623,virtual card not working,get dispos,37,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2623,2,0,False,2
+271,exchange rate,fi,36,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",271,2,0,False,2
+1023,Refund not showing up,top up revert,61,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1023,2,0,False,2
+470,lost or stolen card,lost or stolen card,41,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",470,2,0,False,2
+2779,exchange rate,exchange charge,31,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2779,2,0,False,2
+1170,passcode forgotten,why,74,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1170,2,0,False,2
+1886,cancel transfer,terminate,55,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1886,2,0,False,2
+2723,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2723,2,0,False,2
+915,card not working,supported,54,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",915,2,0,False,2
+2626,virtual card not working,get dispos,37,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2626,2,0,False,2
+2604,virtual card not working,get dispos,37,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2604,2,0,False,2
+1510,Refund not showing up,direct,28,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1510,2,0,False,2
+2303,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2303,2,0,False,2
+64,lost or stolen card,card linking,13,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",64,2,0,False,2
+2041,transfer timing,transfer timing,67,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2041,2,0,False,2
+1995,Refund not showing up,transaction,63,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1995,2,0,False,2
+1266,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1266,2,0,False,2
+2821,topping up by card,top up by card,57,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2821,2,0,False,2
+1945,card not working,card sw,18,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1945,2,0,False,2
+835,why verify identity,card payment fee,15,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",835,2,0,False,2
+2312,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2312,2,0,False,2
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1053,2,0,False,2
+2800,card payment fee charged,top up by card,57,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2800,2,0,False,2
+1835,card not working,declined card,25,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1835,2,0,False,2
+1434,card not working,comprom,22,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1434,2,0,False,2
+979,card not working,card accept,10,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",979,2,0,False,2
+2942,card not working,card about,9,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2942,2,0,False,2
+1900,cancel transfer,terminate,55,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1900,2,0,False,2
+2973,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2973,2,0,False,2
+2989,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2989,2,0,False,2
+2241,get physical card,receiving,50,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2241,2,0,False,2
+984,card acceptance,card accept,10,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",984,2,0,False,2
+2933,card about to expire,card about,9,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2933,2,0,False,2
+1265,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1265,2,0,False,2
+1811,card not working,declined card,25,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1811,2,0,False,2
+1428,card not working,comprom,22,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1428,2,0,False,2
+1568,unable to verify identity,declined c,26,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1568,2,0,False,2
+2675,card not working,top up failed,59,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2675,2,0,False,2
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1645,2,0,False,2
+2289,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2289,2,0,False,2
+2854,card not working,activ,0,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2854,2,0,False,2
+1356,card not working,to,62,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1356,2,0,False,2
+982,card not working,card accept,10,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",982,2,0,False,2
+1518,Refund not showing up,direct,28,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1518,2,0,False,2
+722,top up limits,top up limits,60,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",722,2,0,False,2
+2372,top up by card charge,verify top,71,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2372,2,0,False,2
+1917,cancel transfer,terminate,55,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1917,2,0,False,2
+1500,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1500,2,0,False,2
+1933,card swallowed,card sw,18,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1933,2,0,False,2
+2833,top up by bank transfer charge,top up by card,57,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2833,2,0,False,2
+1639,pending card payment,pending card,45,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",1639,2,0,False,2
+1136,change pin,edit,30,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1136,2,0,False,2
+2124,change pin,change,21,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2124,2,0,False,2
+3008,verify my identity,verify my,69,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",3008,2,0,False,2
+1704,Refund not showing up,request,52,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1704,2,0,False,2
+2243,get physical card,receiving,50,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2243,2,0,False,2
+748,top up limits,top up limits,60,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",748,2,0,False,2
+2649,top up failed,top up failed,59,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2649,2,0,False,2
+1258,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1258,2,0,False,2
+1318,card payment not recognised,vis,73,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1318,2,0,False,2
+1770,Refund not showing up,Ref,51,True,True,False,"{44: 1, 51: 1}","[8990, 5890]",1770,2,0,False,2
+217,pending cash withdrawal,pending c,46,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",217,2,0,False,2
+1141,change pin,edit,30,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1141,2,0,False,2
+2078,transfer timing,transfer timing,67,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",2078,2,0,False,2
+402,change pin,exchange via,33,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",402,2,0,False,2
+1349,transfer into account,to,62,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1349,2,0,False,2
+80,exchange rate,exchange rate,32,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",80,2,0,False,2
+1355,top up by card charge,to,62,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1355,2,0,False,2
+2386,top up by card charge,verify top,71,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2386,2,0,False,2
+838,card not working,card payment fee,15,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",838,2,0,False,2
+2267,topping up by card,receiving,50,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2267,2,0,False,2
+2881,extra charge on statement,cash withdrawal charge,19,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2881,2,0,False,2
+801,card not working,card payment fee,15,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",801,2,0,False,2
+73,card linking,card linking,13,False,True,False,"{44: 1, 51: 1}","[8990, 5890]",73,2,0,False,2
+1967,Refund not showing up,transaction,63,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",1967,2,0,False,2
+2982,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2982,2,0,False,2
+46,card not working,card linking,13,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",46,2,0,False,2
+2916,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{44: 1, 51: 1}","[8990, 5890]",2916,2,0,False,2

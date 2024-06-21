@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1693,numeric count,numeric count,38,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",1693,10,0,False,10
+435,human individual,human individual,29,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",435,10,0,False,10
+1211,description reason,description reason,27,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",1211,10,0,False,10
+719,numeric period,numeric period,44,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",719,10,0,False,10
+3770,entity technique,entity technique,20,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",3770,10,0,False,10
+3239,description definition,description definition,24,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",3239,10,0,False,10
+5447,description definition,description definition,24,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",5447,10,0,False,10
+3596,human individual,human individual,29,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",3596,10,0,False,10
+2529,human individual,human individual,29,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",2529,10,0,False,10
+1823,entity other,entity other,13,True,True,True,"{38: 1, 29: 3, 27: 1, 44: 1, 20: 1, 24: 2, 13: 1}","[1693, 435, 1211, 719, 3770, 3239, 5447, 3596, 2529, 1823]",1823,10,0,False,10

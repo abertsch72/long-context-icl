@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1472,iot hue light dim,general confirm,20,True,False,True,"{20: 1, 32: 1}","[1472, 18918]",1472,2,1,False,2
+18918,iot hue light dim,iot hue light dim,32,True,True,True,"{20: 1, 32: 1}","[1472, 18918]",18918,2,1,False,2
+18621,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18621,2,1,False,2
+5748,iot hue light dim,lists query,39,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5748,2,1,False,2
+8714,iot hue light dim,email query contact,16,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",8714,2,1,False,2
+11281,iot hue light dim,general neg,25,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11281,2,1,False,2
+7898,iot hue light dim,qa currency,51,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7898,2,1,False,2
+16184,iot hue light dim,takeaway order,61,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16184,2,1,False,2
+15194,iot hue light dim,general neg,25,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",15194,2,1,False,2
+13977,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13977,2,1,False,2
+18610,iot hue light dim,datetime query,13,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18610,2,1,False,2
+12159,iot hue light dim,general neg,25,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12159,2,1,False,2
+6336,music query,qa fact,53,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",6336,2,1,False,2
+4194,music query,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",4194,2,1,False,2
+8609,iot hue light dim,calendar query,7,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",8609,2,1,False,2
+14559,iot hue light dim,recommendation locations,57,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14559,2,1,False,2
+13661,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",13661,2,1,False,2
+1152,iot hue light dim,news,45,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1152,2,1,False,2
+18373,iot hue light off,iot wemo off,36,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",18373,2,1,False,2
+323,iot hue light dim,general confirm,20,True,False,True,"{20: 1, 32: 1}","[1472, 18918]",323,2,1,False,2
+16700,music query,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",16700,2,1,False,2
+3874,iot hue light dim,lists create,38,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",3874,2,1,False,2
+16988,iot hue light dim,iot wemo on,37,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16988,2,1,False,2
+10333,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10333,2,1,False,2
+3283,iot hue light off,iot hue light off,33,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",3283,2,1,False,2
+11843,iot hue light dim,email query,15,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11843,2,1,False,2
+10930,iot hue light dim,general neg,25,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10930,2,1,False,2
+17880,iot hue light dim,news,45,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",17880,2,1,False,2
+10379,music likeness,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",10379,2,1,False,2
+10361,iot hue light dim,iot coffee,30,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10361,2,1,False,2
+3318,iot hue light dim,social post,59,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",3318,2,1,False,2
+8081,iot hue light dim,social query,60,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",8081,2,1,False,2
+17999,iot hue light dim,play game,47,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",17999,2,1,False,2
+13905,iot hue light dim,general qu,27,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13905,2,1,False,2
+16381,iot hue light dim,transport query,63,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16381,2,1,False,2
+4750,iot hue light dim,general explain,22,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4750,2,1,False,2
+2558,email query,email query,15,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",2558,2,1,False,2
+17091,iot hue light dim,general confirm,20,True,False,True,"{20: 1, 32: 1}","[1472, 18918]",17091,2,1,False,2
+6324,iot hue light dim,calendar query,7,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6324,2,1,False,2
+9734,iot hue light dim,general dont,21,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",9734,2,1,False,2
+5566,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5566,2,1,False,2
+6279,iot hue light dim,iot hue light up,35,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6279,2,1,False,2
+2056,iot hue light dim,general jo,24,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2056,2,1,False,2
+5634,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5634,2,1,False,2
+11773,iot hue light dim,iot hue lighton,34,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11773,2,1,False,2
+9179,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",9179,2,1,False,2
+12644,iot hue light dim,qa definition,52,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12644,2,1,False,2
+173,iot hue light dim,email s,17,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",173,2,1,False,2
+8232,iot hue light dim,iot hue light dim,32,True,True,True,"{20: 1, 32: 1}","[1472, 18918]",8232,2,1,False,2
+2070,iot hue light dim,email query,15,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2070,2,1,False,2
+10316,iot hue light dim,iot hue light change,31,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10316,2,1,False,2
+9193,iot hue light dim,general repeat,28,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",9193,2,1,False,2
+201,iot hue light dim,lists query,39,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",201,2,1,False,2
+4910,iot hue light dim,news,45,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4910,2,1,False,2
+13729,music query,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",13729,2,1,False,2
+10906,iot hue light dim,news,45,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10906,2,1,False,2
+2734,iot hue light dim,qa stock,55,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2734,2,1,False,2
+18592,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",18592,2,1,False,2
+17247,calendar set,calendar set,9,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",17247,2,1,False,2
+4054,iot hue light dim,recommendation events,56,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4054,2,1,False,2
+12346,alarm set,alarm set,2,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",12346,2,1,False,2
+17471,iot hue light change,iot hue light change,31,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",17471,2,1,False,2
+1137,music query,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",1137,2,1,False,2
+5840,email sendemail,email s,17,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",5840,2,1,False,2
+2059,iot hue light dim,general aff,18,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2059,2,1,False,2
+7856,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",7856,2,1,False,2
+19237,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",19237,2,1,False,2
+6779,iot hue light dim,lists query,39,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6779,2,1,False,2
+14355,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14355,2,1,False,2
+15879,iot hue light dim,general qu,27,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",15879,2,1,False,2
+12245,iot hue light dim,email query contact,16,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12245,2,1,False,2
+4125,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4125,2,1,False,2
+4861,iot hue light dim,datetime query,13,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4861,2,1,False,2
+17646,music dislikeness,music li,42,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",17646,2,1,False,2
+17807,iot hue light dim,iot hue light change,31,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",17807,2,1,False,2
+6048,iot hue light dim,lists remove,40,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6048,2,1,False,2
+2196,iot hue light dim,general aff,18,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2196,2,1,False,2
+18982,iot hue light dim,calendar query,7,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18982,2,1,False,2
+17266,iot hue light dim,music li,42,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",17266,2,1,False,2
+13986,iot hue light dim,recommendation events,56,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13986,2,1,False,2
+15179,iot hue light dim,recommendation locations,57,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",15179,2,1,False,2
+858,iot hue light dim,recommendation events,56,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",858,2,1,False,2
+3730,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",3730,2,1,False,2
+11474,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11474,2,1,False,2
+9047,iot hue light dim,social query,60,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",9047,2,1,False,2
+4334,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4334,2,1,False,2
+10194,email sendemail,email query,15,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",10194,2,1,False,2
+11323,iot hue light dim,general qu,27,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11323,2,1,False,2
+4097,iot hue light dim,general qu,27,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4097,2,1,False,2
+16438,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16438,2,1,False,2
+8262,iot hue light dim,iot clean,29,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",8262,2,1,False,2
+1567,weather query,recommendation events,56,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",1567,2,1,False,2
+1894,iot hue light dim,email s,17,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1894,2,1,False,2
+17631,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",17631,2,1,False,2
+18974,iot hue light dim,general repeat,28,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18974,2,1,False,2
+14113,alarm set,alarm set,2,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",14113,2,1,False,2
+369,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",369,2,1,False,2
+14137,iot hue light dim,email query contact,16,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14137,2,1,False,2
+6657,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6657,2,1,False,2
+12469,iot hue light dim,play radio,50,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12469,2,1,False,2
+3211,music query,music query,43,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",3211,2,1,False,2
+1180,iot hue light dim,cooking reci,11,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1180,2,1,False,2
+11683,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",11683,2,1,False,2
+13642,iot hue light dim,play pod,49,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13642,2,1,False,2
+4977,iot hue light dim,datetime query,13,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4977,2,1,False,2
+403,music query,music li,42,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",403,2,1,False,2
+18461,iot hue light dim,qa currency,51,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18461,2,1,False,2
+7670,iot hue light dim,transport query,63,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7670,2,1,False,2
+8099,iot hue light dim,takeaway order,61,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",8099,2,1,False,2
+18488,iot hue light off,general dont,21,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",18488,2,1,False,2
+11118,iot hue light dim,general aff,18,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11118,2,1,False,2
+328,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",328,2,1,False,2
+9357,iot hue light dim,audio volume m,4,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",9357,2,1,False,2
+15484,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",15484,2,1,False,2
+2682,iot hue light dim,lists query,39,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2682,2,1,False,2
+7790,iot hue light dim,iot hue light change,31,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7790,2,1,False,2
+13373,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13373,2,1,False,2
+488,iot hue light dim,general explain,22,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",488,2,1,False,2
+6166,iot hue light dim,takeaway order,61,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6166,2,1,False,2
+5233,iot hue light dim,general explain,22,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5233,2,1,False,2
+7512,iot hue light dim,iot hue light up,35,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7512,2,1,False,2
+15888,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",15888,2,1,False,2
+10,iot hue light dim,cooking reci,11,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10,2,1,False,2
+8255,email sendemail,email s,17,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",8255,2,1,False,2
+16877,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16877,2,1,False,2
+3558,iot hue light dim,play music,48,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",3558,2,1,False,2
+18931,iot hue light dim,general qu,27,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18931,2,1,False,2
+1742,iot hue light dim,lists create,38,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1742,2,1,False,2
+14509,iot hue light dim,qa math,54,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14509,2,1,False,2
+3457,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",3457,2,1,False,2
+12430,iot hue light dim,qa definition,52,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12430,2,1,False,2
+11087,iot hue light dim,qa currency,51,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11087,2,1,False,2
+6360,iot hue light dim,cooking reci,11,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6360,2,1,False,2
+7732,iot hue light dim,general repeat,28,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7732,2,1,False,2
+17933,iot hue light dim,email query contact,16,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",17933,2,1,False,2
+16682,iot hue light dim,general aff,18,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16682,2,1,False,2
+305,music likeness,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",305,2,1,False,2
+18932,iot hue light dim,recommendation locations,57,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18932,2,1,False,2
+14197,iot hue light dim,cooking reci,11,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14197,2,1,False,2
+15014,iot hue light dim,datetime query,13,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",15014,2,1,False,2
+17095,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",17095,2,1,False,2
+6767,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6767,2,1,False,2
+7467,iot hue light dim,transport traffic,66,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7467,2,1,False,2
+9823,iot hue light dim,general dont,21,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",9823,2,1,False,2
+841,social post,social post,59,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",841,2,1,False,2
+7206,iot hue light dim,qa currency,51,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7206,2,1,False,2
+6470,weather query,news,45,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",6470,2,1,False,2
+2359,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2359,2,1,False,2
+17238,calendar set,calendar set,9,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",17238,2,1,False,2
+14330,iot hue light dim,play pod,49,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14330,2,1,False,2
+8742,music likeness,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",8742,2,1,False,2
+13639,iot hue light dim,lists query,39,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13639,2,1,False,2
+7711,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7711,2,1,False,2
+854,iot hue light dim,lists query,39,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",854,2,1,False,2
+10968,iot hue light dim,audio volume m,4,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10968,2,1,False,2
+18643,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18643,2,1,False,2
+4592,iot hue light dim,general dont,21,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4592,2,1,False,2
+14992,iot hue light dim,lists create,38,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14992,2,1,False,2
+9937,news query,social query,60,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",9937,2,1,False,2
+2515,iot hue light dim,alarm query,0,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2515,2,1,False,2
+12120,iot hue light dim,recommendation events,56,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12120,2,1,False,2
+5865,iot hue light dim,general gre,23,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5865,2,1,False,2
+13370,news query,news,45,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",13370,2,1,False,2
+17672,iot hue light dim,email query contact,16,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",17672,2,1,False,2
+13869,iot hue light dim,datetime query,13,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13869,2,1,False,2
+18401,iot hue light dim,recommendation locations,57,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18401,2,1,False,2
+7029,iot hue light dim,iot hue light dim,32,True,True,True,"{20: 1, 32: 1}","[1472, 18918]",7029,2,1,False,2
+18442,music query,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",18442,2,1,False,2
+581,weather query,transport traffic,66,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",581,2,1,False,2
+9020,iot hue light dim,general explain,22,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",9020,2,1,False,2
+2542,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2542,2,1,False,2
+12201,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12201,2,1,False,2
+5307,iot hue light dim,general confirm,20,True,False,True,"{20: 1, 32: 1}","[1472, 18918]",5307,2,1,False,2
+16527,iot hue light dim,play radio,50,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16527,2,1,False,2
+16706,iot hue light dim,datetime query,13,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16706,2,1,False,2
+10411,iot hue light dim,general command,19,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10411,2,1,False,2
+13159,iot hue light dim,general dont,21,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13159,2,1,False,2
+15852,iot hue light dim,datetime convert,12,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",15852,2,1,False,2
+11092,iot hue light dim,general confirm,20,True,False,True,"{20: 1, 32: 1}","[1472, 18918]",11092,2,1,False,2
+8025,calendar query,calendar query,7,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",8025,2,1,False,2
+6469,iot hue light dim,lists create,38,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6469,2,1,False,2
+5671,iot hue light dim,news,45,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5671,2,1,False,2
+13816,iot hue light dim,audio volume m,4,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13816,2,1,False,2
+16809,iot hue light dim,recommendation locations,57,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16809,2,1,False,2
+10589,iot hue light dim,transport query,63,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10589,2,1,False,2
+7119,iot hue light dim,lists query,39,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7119,2,1,False,2
+13351,iot hue light dim,general aff,18,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13351,2,1,False,2
+4387,iot hue light dim,datetime query,13,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4387,2,1,False,2
+497,iot hue light dim,news,45,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",497,2,1,False,2
+648,music query,calendar query,7,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",648,2,1,False,2
+18278,iot hue light dim,calendar query,7,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18278,2,1,False,2
+6739,iot hue light dim,datetime query,13,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6739,2,1,False,2
+4049,iot hue light dim,email query,15,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",4049,2,1,False,2
+355,iot hue light dim,general qu,27,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",355,2,1,False,2
+1559,iot hue light dim,play music,48,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1559,2,1,False,2
+448,news query,news,45,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",448,2,1,False,2
+18926,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18926,2,1,False,2
+13981,iot hue light dim,general aff,18,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13981,2,1,False,2
+1093,iot hue light dim,iot coffee,30,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1093,2,1,False,2
+14918,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",14918,2,1,False,2
+10682,iot hue light dim,general explain,22,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10682,2,1,False,2
+1334,iot hue light dim,social post,59,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1334,2,1,False,2
+14087,iot hue light off,iot hue light off,33,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",14087,2,1,False,2
+14139,iot hue light dim,email query contact,16,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14139,2,1,False,2
+2789,iot hue light dim,lists create,38,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2789,2,1,False,2
+3995,iot hue light dim,general aff,18,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",3995,2,1,False,2
+12396,iot hue light dim,social post,59,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12396,2,1,False,2
+15294,iot hue light dim,recommendation locations,57,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",15294,2,1,False,2
+767,iot hue light dim,play game,47,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",767,2,1,False,2
+5870,iot hue light dim,takeaway query,62,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5870,2,1,False,2
+8998,iot hue light dim,social post,59,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",8998,2,1,False,2
+2566,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2566,2,1,False,2
+1887,calendar remove,calendar remove,8,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",1887,2,1,False,2
+457,play audiobook,play audio,46,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",457,2,1,False,2
+17867,iot hue light dim,alarm remove,1,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",17867,2,1,False,2
+14967,iot hue light dim,play radio,50,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14967,2,1,False,2
+12196,iot hue light dim,qa definition,52,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12196,2,1,False,2
+14317,iot hue light dim,lists create,38,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14317,2,1,False,2
+10725,iot hue light dim,social query,60,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10725,2,1,False,2
+12012,alarm set,alarm set,2,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",12012,2,1,False,2
+16214,weather query,transport traffic,66,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",16214,2,1,False,2
+13067,iot hue light dim,email query,15,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13067,2,1,False,2
+10203,iot hue light dim,calendar query,7,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10203,2,1,False,2
+11420,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11420,2,1,False,2
+10603,iot hue light dim,general explain,22,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",10603,2,1,False,2
+17790,email sendemail,email s,17,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",17790,2,1,False,2
+13744,iot hue light dim,qa definition,52,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",13744,2,1,False,2
+3394,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",3394,2,1,False,2
+6919,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",6919,2,1,False,2
+150,iot hue light dim,general explain,22,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",150,2,1,False,2
+7161,email sendemail,email s,17,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",7161,2,1,False,2
+5459,iot hue light dim,play pod,49,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5459,2,1,False,2
+16894,iot hue light dim,qa definition,52,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",16894,2,1,False,2
+3692,iot hue light dim,qa definition,52,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",3692,2,1,False,2
+547,news query,news,45,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",547,2,1,False,2
+12479,music query,play music,48,False,False,False,"{20: 1, 32: 1}","[1472, 18918]",12479,2,1,False,2
+1485,iot hue light dim,general repeat,28,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1485,2,1,False,2
+7098,iot hue light dim,transport query,63,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",7098,2,1,False,2
+271,iot hue light dim,cooking reci,11,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",271,2,1,False,2
+12749,iot hue light dim,general pra,26,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",12749,2,1,False,2
+18853,iot hue light dim,lists query,39,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",18853,2,1,False,2
+2119,iot hue light dim,transport query,63,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",2119,2,1,False,2
+1463,iot hue light dim,calendar set,9,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1463,2,1,False,2
+4974,email add contact,email add,14,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",4974,2,1,False,2
+11492,iot hue light dim,general explain,22,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",11492,2,1,False,2
+1680,iot hue light dim,general repeat,28,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1680,2,1,False,2
+14446,iot hue light dim,qa fact,53,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",14446,2,1,False,2
+5828,iot hue light dim,calendar remove,8,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",5828,2,1,False,2
+1883,iot hue light dim,calendar query,7,False,False,True,"{20: 1, 32: 1}","[1472, 18918]",1883,2,1,False,2
+6106,weather query,weather,67,False,True,False,"{20: 1, 32: 1}","[1472, 18918]",6106,2,1,False,2

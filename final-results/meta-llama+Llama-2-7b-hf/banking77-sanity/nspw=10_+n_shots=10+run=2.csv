@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4983,pending cash withdrawal,pending c,46,True,True,False,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",4983,10,2,False,10
+8107,order physical card,order,43,True,True,False,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",8107,10,2,False,10
+8158,card linking,card linking,13,True,True,True,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",8158,10,2,False,10
+4591,verify top up,verify top,71,True,True,False,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",4591,10,2,False,10
+9197,declined card payment,declined card,25,True,True,False,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",9197,10,2,False,10
+1040,top up by cash or cheque,top up by c,58,True,True,False,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",1040,10,2,False,10
+9892,card linking,card linking,13,True,True,True,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",9892,10,2,False,10
+6114,cash withdrawal charge,cash withdrawal charge,19,True,True,True,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",6114,10,2,False,10
+1214,declined card payment,declined card,25,True,True,False,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",1214,10,2,False,10
+3513,passcode forgotten,pass,44,True,True,False,"{46: 1, 43: 1, 13: 2, 71: 1, 25: 2, 58: 1, 19: 1, 44: 1}","[4983, 8107, 8158, 4591, 9197, 1040, 9892, 6114, 1214, 3513]",3513,10,2,False,10

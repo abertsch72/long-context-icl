@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+152,location country,numeric other,43,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",152,10,8,False,10
+94,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",94,10,8,False,10
+337,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",337,10,8,False,10
+78,location other,numeric distance,40,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",78,10,8,False,10
+323,location country,entity currency,6,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",323,10,8,False,10
+143,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",143,10,8,False,10
+59,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",59,10,8,False,10
+17,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",17,10,8,False,10
+161,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",161,10,8,False,10
+220,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",220,10,8,False,10
+290,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",290,10,8,False,10
+224,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",224,10,8,False,10
+15,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",15,10,8,False,10
+162,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",162,10,8,False,10
+272,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",272,10,8,False,10
+193,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",193,10,8,False,10
+325,location country,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",325,10,8,False,10
+30,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",30,10,8,False,10
+331,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",331,10,8,False,10
+219,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",219,10,8,False,10
+286,location country,location other,35,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",286,10,8,False,10
+246,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",246,10,8,False,10
+68,location country,location other,35,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",68,10,8,False,10
+205,entity substance,location other,35,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",205,10,8,False,10
+232,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",232,10,8,False,10
+64,location country,location country,33,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",64,10,8,False,10
+121,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",121,10,8,False,10
+201,abbreviation abbreviation,abbreviation expansion,1,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",201,10,8,False,10
+315,human individual,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",315,10,8,False,10
+145,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",145,10,8,False,10
+72,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",72,10,8,False,10
+184,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",184,10,8,False,10
+141,entity substance,numeric other,43,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",141,10,8,False,10
+95,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",95,10,8,False,10
+213,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",213,10,8,False,10
+38,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",38,10,8,False,10
+256,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",256,10,8,False,10
+29,entity substance,entity plant,14,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",29,10,8,False,10
+45,entity food,entity food,9,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",45,10,8,False,10
+151,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",151,10,8,False,10
+262,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",262,10,8,False,10
+115,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",115,10,8,False,10
+269,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",269,10,8,False,10
+69,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",69,10,8,False,10
+106,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",106,10,8,False,10
+123,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",123,10,8,False,10
+233,entity plant,entity plant,14,False,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",233,10,8,False,10
+41,location country,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",41,10,8,False,10
+236,entity substance,numeric distance,40,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",236,10,8,False,10
+55,location other,numeric distance,40,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",55,10,8,False,10
+289,location country,location other,35,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",289,10,8,False,10
+149,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",149,10,8,False,10
+239,entity substance,numeric other,43,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",239,10,8,False,10
+103,entity food,entity vehicle,22,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",103,10,8,False,10
+35,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",35,10,8,False,10
+132,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",132,10,8,False,10
+172,location other,numeric distance,40,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",172,10,8,False,10
+74,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",74,10,8,False,10
+180,location country,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",180,10,8,False,10
+241,location other,numeric distance,40,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",241,10,8,False,10
+140,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",140,10,8,False,10
+245,location country,entity currency,6,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",245,10,8,False,10
+320,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",320,10,8,False,10
+1,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",1,10,8,False,10
+67,location other,human group,28,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",67,10,8,False,10
+138,entity food,entity subst,18,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",138,10,8,False,10
+298,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",298,10,8,False,10
+271,location other,numeric distance,40,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",271,10,8,False,10
+13,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",13,10,8,False,10
+235,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",235,10,8,False,10
+3,location other,numeric distance,40,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",3,10,8,False,10
+56,entity substance,numeric weight,49,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",56,10,8,False,10
+258,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",258,10,8,False,10
+223,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",223,10,8,False,10
+65,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",65,10,8,False,10
+104,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",104,10,8,False,10
+308,entity substance,entity food,9,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",308,10,8,False,10
+82,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",82,10,8,False,10
+11,entity food,numeric other,43,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",11,10,8,False,10
+324,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",324,10,8,False,10
+36,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",36,10,8,False,10
+318,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",318,10,8,False,10
+192,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",192,10,8,False,10
+130,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",130,10,8,False,10
+128,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",128,10,8,False,10
+197,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",197,10,8,False,10
+27,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",27,10,8,False,10
+295,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",295,10,8,False,10
+47,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",47,10,8,False,10
+10,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",10,10,8,False,10
+268,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",268,10,8,False,10
+316,entity food,human group,28,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",316,10,8,False,10
+243,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",243,10,8,False,10
+299,entity instrument,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",299,10,8,False,10
+127,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",127,10,8,False,10
+75,entity substance,numeric temperature,47,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",75,10,8,False,10
+76,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",76,10,8,False,10
+251,abbreviation abbreviation,abbreviation expansion,1,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",251,10,8,False,10
+263,entity substance,numeric other,43,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",263,10,8,False,10
+142,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",142,10,8,False,10
+37,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",37,10,8,False,10
+292,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",292,10,8,False,10
+329,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",329,10,8,False,10
+48,location other,numeric other,43,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",48,10,8,False,10
+2,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",2,10,8,False,10
+237,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",237,10,8,False,10
+102,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",102,10,8,False,10
+273,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",273,10,8,False,10
+117,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",117,10,8,False,10
+62,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",62,10,8,False,10
+195,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",195,10,8,False,10
+57,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",57,10,8,False,10
+327,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",327,10,8,False,10
+135,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",135,10,8,False,10
+255,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",255,10,8,False,10
+53,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",53,10,8,False,10
+98,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",98,10,8,False,10
+310,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",310,10,8,False,10
+111,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",111,10,8,False,10
+217,entity substance,abbreviation expansion,1,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",217,10,8,False,10
+238,entity word,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",238,10,8,False,10
+278,location country,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",278,10,8,False,10
+280,entity plant,entity plant,14,False,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",280,10,8,False,10
+230,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",230,10,8,False,10
+88,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",88,10,8,False,10
+90,location other,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",90,10,8,False,10
+8,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",8,10,8,False,10
+0,location other,numeric distance,40,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",0,10,8,False,10
+284,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",284,10,8,False,10
+144,entity substance,numeric temperature,47,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",144,10,8,False,10
+191,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",191,10,8,False,10
+244,entity substance,numeric weight,49,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",244,10,8,False,10
+93,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",93,10,8,False,10
+212,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",212,10,8,False,10
+54,entity currency,entity currency,6,False,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",54,10,8,False,10
+66,entity substance,numeric temperature,47,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",66,10,8,False,10
+126,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",126,10,8,False,10
+335,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",335,10,8,False,10
+185,entity food,abbreviation abbre,0,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",185,10,8,False,10
+178,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",178,10,8,False,10
+250,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",250,10,8,False,10
+101,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",101,10,8,False,10
+283,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",283,10,8,False,10
+165,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",165,10,8,False,10
+169,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",169,10,8,False,10
+277,entity food,entity subst,18,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",277,10,8,False,10
+167,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",167,10,8,False,10
+332,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",332,10,8,False,10
+97,entity sport,human title,30,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",97,10,8,False,10
+168,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",168,10,8,False,10
+287,entity vehicle,entity vehicle,22,False,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",287,10,8,False,10
+9,entity food,numeric weight,49,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",9,10,8,False,10
+39,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",39,10,8,False,10
+136,location country,entity currency,6,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",136,10,8,False,10
+159,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",159,10,8,False,10
+60,entity food,numeric other,43,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",60,10,8,False,10
+276,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",276,10,8,False,10
+228,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",228,10,8,False,10
+157,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",157,10,8,False,10
+31,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",31,10,8,False,10
+99,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",99,10,8,False,10
+312,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",312,10,8,False,10
+179,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",179,10,8,False,10
+296,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",296,10,8,False,10
+210,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",210,10,8,False,10
+108,entity sport,human group,28,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",108,10,8,False,10
+80,entity plant,entity plant,14,False,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",80,10,8,False,10
+19,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",19,10,8,False,10
+265,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",265,10,8,False,10
+129,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",129,10,8,False,10
+187,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",187,10,8,False,10
+304,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",304,10,8,False,10
+118,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",118,10,8,False,10
+155,entity food,human individual,29,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",155,10,8,False,10
+209,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",209,10,8,False,10
+139,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",139,10,8,False,10
+131,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",131,10,8,False,10
+207,location country,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",207,10,8,False,10
+249,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",249,10,8,False,10
+110,location country,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",110,10,8,False,10
+122,entity substance,numeric distance,40,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",122,10,8,False,10
+71,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",71,10,8,False,10
+221,entity vehicle,entity vehicle,22,False,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",221,10,8,False,10
+225,entity food,entity food,9,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",225,10,8,False,10
+6,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",6,10,8,False,10
+186,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",186,10,8,False,10
+175,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",175,10,8,False,10
+288,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",288,10,8,False,10
+321,location country,entity currency,6,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",321,10,8,False,10
+114,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",114,10,8,False,10
+248,entity food,entity food,9,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",248,10,8,False,10
+226,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",226,10,8,False,10
+302,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",302,10,8,False,10
+77,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",77,10,8,False,10
+12,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",12,10,8,False,10
+267,entity substance,numeric other,43,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",267,10,8,False,10
+240,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",240,10,8,False,10
+119,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",119,10,8,False,10
+22,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",22,10,8,False,10
+181,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",181,10,8,False,10
+124,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",124,10,8,False,10
+46,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",46,10,8,False,10
+133,entity substance,numeric distance,40,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",133,10,8,False,10
+247,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",247,10,8,False,10
+79,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",79,10,8,False,10
+259,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",259,10,8,False,10
+164,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",164,10,8,False,10
+43,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",43,10,8,False,10
+163,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",163,10,8,False,10
+253,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",253,10,8,False,10
+113,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",113,10,8,False,10
+44,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",44,10,8,False,10
+26,entity substance,numeric temperature,47,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",26,10,8,False,10
+20,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",20,10,8,False,10
+231,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",231,10,8,False,10
+333,entity substance,numeric distance,40,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",333,10,8,False,10
+270,entity food,abbreviation expansion,1,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",270,10,8,False,10
+301,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",301,10,8,False,10
+150,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",150,10,8,False,10
+160,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",160,10,8,False,10
+297,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",297,10,8,False,10
+33,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",33,10,8,False,10
+116,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",116,10,8,False,10
+96,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",96,10,8,False,10
+190,location other,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",190,10,8,False,10
+156,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",156,10,8,False,10
+50,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",50,10,8,False,10
+182,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",182,10,8,False,10
+81,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",81,10,8,False,10
+328,entity substance,entity subst,18,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",328,10,8,False,10
+222,entity substance,numeric other,43,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",222,10,8,False,10
+340,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",340,10,8,False,10
+42,location other,location city,32,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",42,10,8,False,10
+198,entity food,numeric other,43,False,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",198,10,8,False,10
+51,entity food,human individual,29,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",51,10,8,False,10
+24,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",24,10,8,False,10
+86,entity food,human individual,29,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",86,10,8,False,10
+154,human individual,human individual,29,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",154,10,8,False,10
+291,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",291,10,8,False,10
+336,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",336,10,8,False,10
+260,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",260,10,8,False,10
+199,human individual,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",199,10,8,False,10
+317,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",317,10,8,False,10
+275,entity substance,description,24,True,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",275,10,8,False,10
+330,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",330,10,8,False,10
+203,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",203,10,8,False,10
+202,description definition,description,24,True,True,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",202,10,8,False,10
+227,entity substance,numeric weight,49,False,False,False,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",227,10,8,False,10
+319,entity food,description,24,True,False,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",319,10,8,False,10
+125,location other,location other,35,True,True,True,"{29: 2, 35: 4, 24: 1, 9: 1, 33: 1, 18: 1}","[1464, 3111, 2772, 2343, 2955, 2744, 242, 2079, 454, 827]",125,10,8,False,10

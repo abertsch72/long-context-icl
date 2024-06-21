@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,fiat currency support,supported,54,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",903,5,8,False,5
+1003,top up by cash or cheque,top up revert,61,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1003,5,8,False,5
+2953,card about to expire,card about,9,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2953,5,8,False,5
+2979,top up by cash or cheque,apple,2,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2979,5,8,False,5
+1926,get physical card,card sw,18,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1926,5,8,False,5
+2137,pin blocked,change,21,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2137,5,8,False,5
+2980,top up by card charge,apple,2,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2980,5,8,False,5
+702,cancel transfer,cancel,8,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",702,5,8,False,5
+2493,get physical card,order,43,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2493,5,8,False,5
+2210,transfer fee charged,transfer fee,64,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2210,5,8,False,5
+112,exchange rate,exchange rate,32,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",112,5,8,False,5
+2909,card not working,cash withdrawal charge,19,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2909,5,8,False,5
+1987,card payment not recognised,transaction,63,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1987,5,8,False,5
+1283,card payment not recognised,vis,73,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1283,5,8,False,5
+1539,pin blocked,pass,44,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1539,5,8,False,5
+2879,activate my card,activ,0,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2879,5,8,False,5
+1158,change pin,edit,30,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1158,5,8,False,5
+1376,card payment fee charged,dispos,29,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1376,5,8,False,5
+1517,card payment not recognised,direct,28,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1517,5,8,False,5
+1171,verify my identity,why,74,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1171,5,8,False,5
+2242,fiat currency support,receiving,50,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2242,5,8,False,5
+1476,atm support,at,3,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1476,5,8,False,5
+237,atm support,pending c,46,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",237,5,8,False,5
+1650,lost or stolen card,lost or stolen phone,42,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1650,5,8,False,5
+2484,get physical card,order,43,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2484,5,8,False,5
+2105,card not working,revert,53,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2105,5,8,False,5
+2121,pin blocked,change,21,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2121,5,8,False,5
+1452,atm support,at,3,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1452,5,8,False,5
+274,fiat currency support,fi,36,True,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",274,5,8,False,5
+564,contactless not working,contact,23,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",564,5,8,False,5
+905,card acceptance,supported,54,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",905,5,8,False,5
+1535,pin blocked,pass,44,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1535,5,8,False,5
+2113,cancel transfer,revert,53,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2113,5,8,False,5
+2142,pin blocked,change,21,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2142,5,8,False,5
+2965,top up by cash or cheque,apple,2,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2965,5,8,False,5
+1834,card payment not recognised,declined card,25,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1834,5,8,False,5
+1549,pin blocked,pass,44,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1549,5,8,False,5
+1320,top up by card charge,to,62,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1320,5,8,False,5
+2421,get physical card,getting spare,39,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2421,5,8,False,5
+2784,exchange rate,exchange charge,31,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2784,5,8,False,5
+768,cash withdrawal not recognised,wrong amount,75,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",768,5,8,False,5
+2472,top up by cash or cheque,top up by c,58,True,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2472,5,8,False,5
+2154,pin blocked,change,21,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2154,5,8,False,5
+795,get physical card,wrong amount,75,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",795,5,8,False,5
+1278,pin blocked,get physical,38,True,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1278,5,8,False,5
+1494,direct debit payment not recognised,direct,28,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1494,5,8,False,5
+241,fiat currency support,fi,36,True,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",241,5,8,False,5
+3060,get physical card,country,24,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",3060,5,8,False,5
+494,age limit,age,1,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",494,5,8,False,5
+327,top up by cash or cheque,automatic,4,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",327,5,8,False,5
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",458,5,8,False,5
+428,fiat currency support,exchange via,33,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",428,5,8,False,5
+2862,activate my card,activ,0,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2862,5,8,False,5
+2164,transfer not received by recipient,benef,7,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2164,5,8,False,5
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2897,5,8,False,5
+2440,top up by cash or cheque,top up by c,58,True,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2440,5,8,False,5
+1663,lost or stolen card,lost or stolen phone,42,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1663,5,8,False,5
+2700,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2700,5,8,False,5
+2955,card not working,card about,9,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2955,5,8,False,5
+522,pin blocked,pin,49,True,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",522,5,8,False,5
+1788,get physical card,Ref,51,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1788,5,8,False,5
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1055,5,8,False,5
+2992,top up by cash or cheque,apple,2,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2992,5,8,False,5
+1093,card payment not recognised,card payment not,16,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1093,5,8,False,5
+791,card not working,wrong amount,75,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",791,5,8,False,5
+894,top up by cash or cheque,supported,54,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",894,5,8,False,5
+897,card acceptance,supported,54,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",897,5,8,False,5
+1175,card not working,why,74,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1175,5,8,False,5
+68,card linking,card linking,13,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",68,5,8,False,5
+1551,change pin,pass,44,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1551,5,8,False,5
+1508,direct debit payment not recognised,direct,28,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1508,5,8,False,5
+2250,fiat currency support,receiving,50,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2250,5,8,False,5
+519,age limit,age,1,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",519,5,8,False,5
+1731,transfer not received by recipient,declined transfer,27,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1731,5,8,False,5
+1210,verify my identity,unable,68,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1210,5,8,False,5
+1750,transfer not received by recipient,declined transfer,27,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1750,5,8,False,5
+1687,cancel transfer,request,52,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1687,5,8,False,5
+891,card acceptance,supported,54,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",891,5,8,False,5
+1061,get physical card,balance not updated after che,6,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1061,5,8,False,5
+2403,get physical card,getting spare,39,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2403,5,8,False,5
+1898,cancel transfer,terminate,55,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1898,5,8,False,5
+2978,apple pay or google pay,apple,2,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2978,5,8,False,5
+1427,card not working,comprom,22,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1427,5,8,False,5
+1526,pin blocked,pass,44,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1526,5,8,False,5
+824,card payment fee charged,card payment fee,15,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",824,5,8,False,5
+1983,card payment not recognised,transaction,63,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1983,5,8,False,5
+2132,pin blocked,change,21,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2132,5,8,False,5
+418,change pin,exchange via,33,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",418,5,8,False,5
+1345,transfer fee charged,to,62,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1345,5,8,False,5
+2829,top up by cash or cheque,top up by card,57,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2829,5,8,False,5
+2489,get physical card,order,43,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2489,5,8,False,5
+598,contactless not working,contact,23,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",598,5,8,False,5
+804,card payment fee charged,card payment fee,15,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",804,5,8,False,5
+3017,verify my identity,verify my,69,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",3017,5,8,False,5
+2589,exchange rate,wrong exchange,76,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2589,5,8,False,5
+2540,virtual card not working,virtual,72,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2540,5,8,False,5
+2908,card payment fee charged,cash withdrawal charge,19,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2908,5,8,False,5
+2968,apple pay or google pay,apple,2,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2968,5,8,False,5
+2747,atm support,cash withdrawal not,20,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2747,5,8,False,5
+1340,transfer fee charged,to,62,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1340,5,8,False,5
+1348,transfer into account,to,62,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1348,5,8,False,5
+1451,atm support,at,3,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1451,5,8,False,5
+2903,cash withdrawal not recognised,cash withdrawal charge,19,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2903,5,8,False,5
+1237,verify my identity,unable,68,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1237,5,8,False,5
+2119,card payment not recognised,revert,53,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2119,5,8,False,5
+652,top up by cash or cheque,pending top,47,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",652,5,8,False,5
+131,exchange rate,card payment wrong,17,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",131,5,8,False,5
+949,virtual card not working,getting virtual,40,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",949,5,8,False,5
+2528,virtual card not working,virtual,72,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2528,5,8,False,5
+2158,pin blocked,change,21,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2158,5,8,False,5
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2705,5,8,False,5
+592,contactless not working,contact,23,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",592,5,8,False,5
+2511,get physical card,order,43,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2511,5,8,False,5
+1080,get physical card,card payment not,16,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1080,5,8,False,5
+1361,card delivery estimate,dispos,29,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1361,5,8,False,5
+448,card not working,lost or stolen card,41,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",448,5,8,False,5
+18,card delivery estimate,card arrival,11,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",18,5,8,False,5
+1168,verify my identity,why,74,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1168,5,8,False,5
+2396,top up by cash or cheque,verify top,71,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2396,5,8,False,5
+362,card not working,card not,14,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",362,5,8,False,5
+1456,get physical card,at,3,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1456,5,8,False,5
+1735,card not working,declined transfer,27,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1735,5,8,False,5
+2579,get physical card,wrong exchange,76,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2579,5,8,False,5
+385,card not working,card not,14,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",385,5,8,False,5
+2555,virtual card not working,virtual,72,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2555,5,8,False,5
+2307,failed transfer,failed,35,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2307,5,8,False,5
+1779,get physical card,Ref,51,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1779,5,8,False,5
+1119,card not working,card payment not,16,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1119,5,8,False,5
+2104,card payment not recognised,revert,53,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2104,5,8,False,5
+713,get physical card,cancel,8,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",713,5,8,False,5
+2077,transfer fee charged,transfer timing,67,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2077,5,8,False,5
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1671,5,8,False,5
+1150,change pin,edit,30,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1150,5,8,False,5
+1491,card not working,direct,28,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1491,5,8,False,5
+2610,get disposable virtual card,get dispos,37,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2610,5,8,False,5
+1729,transfer not received by recipient,declined transfer,27,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1729,5,8,False,5
+1360,get physical card,dispos,29,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1360,5,8,False,5
+1397,virtual card not working,dispos,29,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1397,5,8,False,5
+842,transaction charged twice,transfer not,66,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",842,5,8,False,5
+2504,get physical card,order,43,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2504,5,8,False,5
+538,pin blocked,pin,49,True,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",538,5,8,False,5
+2020,get physical card,verify source,70,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2020,5,8,False,5
+769,get physical card,wrong amount,75,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",769,5,8,False,5
+945,get physical card,getting virtual,40,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",945,5,8,False,5
+1591,atm support,declined c,26,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1591,5,8,False,5
+1818,card payment not recognised,declined card,25,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1818,5,8,False,5
+1876,transfer not received by recipient,pending transfer,48,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1876,5,8,False,5
+3031,verify my identity,verify my,69,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",3031,5,8,False,5
+1992,get physical card,transaction,63,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1992,5,8,False,5
+2997,top up by cash or cheque,apple,2,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2997,5,8,False,5
+1228,verify my identity,unable,68,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1228,5,8,False,5
+1682,get physical card,request,52,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1682,5,8,False,5
+469,card not working,lost or stolen card,41,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",469,5,8,False,5
+2325,transfer into account,transfer into,65,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2325,5,8,False,5
+732,top up by cash or cheque,top up limits,60,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",732,5,8,False,5
+820,card payment fee charged,card payment fee,15,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",820,5,8,False,5
+2990,apple pay or google pay,apple,2,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2990,5,8,False,5
+1732,transfer not received by recipient,declined transfer,27,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1732,5,8,False,5
+1252,pin blocked,get physical,38,True,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1252,5,8,False,5
+227,card not working,pending c,46,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",227,5,8,False,5
+1962,transaction charged twice,transaction,63,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1962,5,8,False,5
+400,exchange rate,exchange via,33,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",400,5,8,False,5
+1134,change pin,edit,30,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1134,5,8,False,5
+59,card not working,card linking,13,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",59,5,8,False,5
+2256,transfer into account,receiving,50,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2256,5,8,False,5
+853,transfer not received by recipient,transfer not,66,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",853,5,8,False,5
+2777,get physical card,exchange charge,31,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2777,5,8,False,5
+1538,pin blocked,pass,44,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1538,5,8,False,5
+2109,cancel transfer,revert,53,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2109,5,8,False,5
+305,get physical card,card delivery,12,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",305,5,8,False,5
+711,cancel transfer,cancel,8,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",711,5,8,False,5
+2927,card delivery estimate,card about,9,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2927,5,8,False,5
+2623,get disposable virtual card,get dispos,37,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2623,5,8,False,5
+271,exchange rate,fi,36,True,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",271,5,8,False,5
+1023,top up by cash or cheque,top up revert,61,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1023,5,8,False,5
+470,lost or stolen card,lost or stolen card,41,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",470,5,8,False,5
+2779,exchange rate,exchange charge,31,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2779,5,8,False,5
+1170,verify my identity,why,74,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1170,5,8,False,5
+1886,cancel transfer,terminate,55,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1886,5,8,False,5
+2723,get physical card,cash withdrawal not,20,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2723,5,8,False,5
+915,card acceptance,supported,54,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",915,5,8,False,5
+2626,virtual card not working,get dispos,37,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2626,5,8,False,5
+2604,virtual card not working,get dispos,37,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2604,5,8,False,5
+1510,card not working,direct,28,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1510,5,8,False,5
+2303,transfer not received by recipient,failed,35,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2303,5,8,False,5
+64,lost or stolen card,card linking,13,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",64,5,8,False,5
+2041,transfer fee charged,transfer timing,67,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2041,5,8,False,5
+1995,cancel transfer,transaction,63,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1995,5,8,False,5
+1266,pin blocked,get physical,38,True,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1266,5,8,False,5
+2821,top up by card charge,top up by card,57,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2821,5,8,False,5
+1945,card not working,card sw,18,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1945,5,8,False,5
+835,card payment fee charged,card payment fee,15,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",835,5,8,False,5
+2312,transfer not received by recipient,failed,35,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2312,5,8,False,5
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1053,5,8,False,5
+2800,top up by cash or cheque,top up by card,57,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2800,5,8,False,5
+1835,card not working,declined card,25,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1835,5,8,False,5
+1434,card not working,comprom,22,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1434,5,8,False,5
+979,fiat currency support,card accept,10,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",979,5,8,False,5
+2942,card delivery estimate,card about,9,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2942,5,8,False,5
+1900,cancel transfer,terminate,55,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1900,5,8,False,5
+2973,top up by card charge,apple,2,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2973,5,8,False,5
+2989,top up by cash or cheque,apple,2,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2989,5,8,False,5
+2241,get physical card,receiving,50,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2241,5,8,False,5
+984,card acceptance,card accept,10,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",984,5,8,False,5
+2933,card about to expire,card about,9,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2933,5,8,False,5
+1265,pin blocked,get physical,38,True,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1265,5,8,False,5
+1811,card not working,declined card,25,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1811,5,8,False,5
+1428,card not working,comprom,22,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1428,5,8,False,5
+1568,card not working,declined c,26,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1568,5,8,False,5
+2675,card not working,top up failed,59,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2675,5,8,False,5
+1645,lost or stolen card,lost or stolen phone,42,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1645,5,8,False,5
+2289,transfer not received by recipient,failed,35,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2289,5,8,False,5
+2854,activate my card,activ,0,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2854,5,8,False,5
+1356,top up by cash or cheque,to,62,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1356,5,8,False,5
+982,card acceptance,card accept,10,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",982,5,8,False,5
+1518,cancel transfer,direct,28,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1518,5,8,False,5
+722,top up by cash or cheque,top up limits,60,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",722,5,8,False,5
+2372,verify top up,verify top,71,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2372,5,8,False,5
+1917,cancel transfer,terminate,55,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1917,5,8,False,5
+1500,direct debit payment not recognised,direct,28,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1500,5,8,False,5
+1933,lost or stolen card,card sw,18,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1933,5,8,False,5
+2833,top up by cash or cheque,top up by card,57,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2833,5,8,False,5
+1639,pending card payment,pending card,45,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1639,5,8,False,5
+1136,change pin,edit,30,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1136,5,8,False,5
+2124,pin blocked,change,21,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2124,5,8,False,5
+3008,verify my identity,verify my,69,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",3008,5,8,False,5
+1704,get physical card,request,52,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1704,5,8,False,5
+2243,get physical card,receiving,50,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2243,5,8,False,5
+748,top up by cash or cheque,top up limits,60,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",748,5,8,False,5
+2649,top up by cash or cheque,top up failed,59,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2649,5,8,False,5
+1258,pin blocked,get physical,38,True,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1258,5,8,False,5
+1318,card payment fee charged,vis,73,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1318,5,8,False,5
+1770,get physical card,Ref,51,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1770,5,8,False,5
+217,pending cash withdrawal,pending c,46,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",217,5,8,False,5
+1141,change pin,edit,30,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1141,5,8,False,5
+2078,transfer fee charged,transfer timing,67,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2078,5,8,False,5
+402,exchange rate,exchange via,33,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",402,5,8,False,5
+1349,transfer into account,to,62,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1349,5,8,False,5
+80,exchange rate,exchange rate,32,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",80,5,8,False,5
+1355,top up by card charge,to,62,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1355,5,8,False,5
+2386,top up by cash or cheque,verify top,71,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2386,5,8,False,5
+838,card payment fee charged,card payment fee,15,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",838,5,8,False,5
+2267,get physical card,receiving,50,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2267,5,8,False,5
+2881,card not working,cash withdrawal charge,19,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2881,5,8,False,5
+801,card not working,card payment fee,15,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",801,5,8,False,5
+73,card linking,card linking,13,False,True,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",73,5,8,False,5
+1967,cancel transfer,transaction,63,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",1967,5,8,False,5
+2982,top up by cash or cheque,apple,2,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2982,5,8,False,5
+46,card not working,card linking,13,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",46,5,8,False,5
+2916,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{36: 2, 38: 1, 49: 1, 58: 1}","[8047, 1357, 3540, 1505, 4278]",2916,5,8,False,5

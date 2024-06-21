@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,beneficiary not allowed,benef,7,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1104,5,0,False,5
+471,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",471,5,0,False,5
+1345,exchange rate,exchange charge,31,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1345,5,0,False,5
+835,lost or stolen phone,lost or stolen phone,42,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",835,5,0,False,5
+940,card payment not recognised,transaction,63,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",940,5,0,False,5
+707,unable to verify identity,unable,68,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",707,5,0,False,5
+378,contactless not working,contact,23,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",378,5,0,False,5
+1259,card payment not recognised,top up failed,59,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1259,5,0,False,5
+450,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",450,5,0,False,5
+1467,card not working,card about,9,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1467,5,0,False,5
+652,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",652,5,0,False,5
+771,card payment not recognised,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",771,5,0,False,5
+1112,beneficiary not allowed,benef,7,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1112,5,0,False,5
+659,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",659,5,0,False,5
+67,exchange rate,exchange rate,32,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",67,5,0,False,5
+770,card payment not recognised,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",770,5,0,False,5
+679,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",679,5,0,False,5
+955,card payment not recognised,transaction,63,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",955,5,0,False,5
+918,unable to verify identity,terminate,55,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",918,5,0,False,5
+1222,card linking,get dispos,37,False,False,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1222,5,0,False,5
+604,card not working,card accept,10,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",604,5,0,False,5
+240,exchange rate,exchange via,33,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",240,5,0,False,5
+1069,card payment not recognised,revert,53,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1069,5,0,False,5
+1229,card not working,get dispos,37,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1229,5,0,False,5
+1005,transfer not received by recipient,transfer timing,67,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1005,5,0,False,5
+1308,lost or stolen card,c,20,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1308,5,0,False,5
+106,exchange rate,card payment wrong,17,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",106,5,0,False,5
+1429,card not working,activ,0,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1429,5,0,False,5
+454,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",454,5,0,False,5
+1380,card payment not recognised,top up by,57,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1380,5,0,False,5
+325,unable to verify identity,pin,49,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",325,5,0,False,5
+742,pin blocked,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",742,5,0,False,5
+1439,card not working,activ,0,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1439,5,0,False,5
+939,card payment not recognised,transaction,63,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",939,5,0,False,5
+401,card payment not recognised,pending,47,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",401,5,0,False,5
+1191,transfer not received by recipient,failed,35,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1191,5,0,False,5
+756,pin blocked,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",756,5,0,False,5
+1180,card payment not recognised,failed,35,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1180,5,0,False,5
+122,card payment not recognised,extra,34,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",122,5,0,False,5
+1517,verify my identity,verify my,69,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1517,5,0,False,5
+227,card not working,card not,14,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",227,5,0,False,5
+1321,exchange rate,exchange charge,31,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1321,5,0,False,5
+393,contactless not working,contact,23,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",393,5,0,False,5
+998,card payment not recognised,verify source,70,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",998,5,0,False,5
+925,card payment not recognised,transaction,63,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",925,5,0,False,5
+244,exchange rate,exchange via,33,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",244,5,0,False,5
+181,top up by card charge,automatic,4,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",181,5,0,False,5
+1170,transfer not received by recipient,failed,35,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1170,5,0,False,5
+666,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",666,5,0,False,5
+1027,transfer not received by recipient,transfer timing,67,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1027,5,0,False,5
+769,card not working,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",769,5,0,False,5
+1224,card linking,get dispos,37,False,False,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1224,5,0,False,5
+420,top up failed,pending,47,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",420,5,0,False,5
+131,card payment not recognised,extra,34,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",131,5,0,False,5
+155,extra charge on statement,extra,34,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",155,5,0,False,5
+458,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",458,5,0,False,5
+371,contactless not working,contact,23,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",371,5,0,False,5
+15,card not working,card linking,13,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",15,5,0,False,5
+1254,card payment not recognised,top up failed,59,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1254,5,0,False,5
+197,top up failed,automatic,4,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",197,5,0,False,5
+523,transaction charged twice,transfer not,66,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",523,5,0,False,5
+527,transfer not received by recipient,transfer not,66,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",527,5,0,False,5
+382,contactless not working,contact,23,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",382,5,0,False,5
+619,card not working,card accept,10,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",619,5,0,False,5
+869,card payment not recognised,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",869,5,0,False,5
+1095,transfer not received by recipient,benef,7,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1095,5,0,False,5
+1501,verify my identity,verify my,69,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1501,5,0,False,5
+1368,card payment not recognised,top up by,57,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1368,5,0,False,5
+344,pin blocked,pin,49,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",344,5,0,False,5
+428,top up failed,pending,47,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",428,5,0,False,5
+291,card not working,lost or stolen card,41,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",291,5,0,False,5
+473,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",473,5,0,False,5
+136,extra charge on statement,extra,34,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",136,5,0,False,5
+781,card not working,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",781,5,0,False,5
+1020,transfer not received by recipient,transfer timing,67,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1020,5,0,False,5
+1414,card linking,activ,0,False,False,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1414,5,0,False,5
+738,pin blocked,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",738,5,0,False,5
+904,terminate account,terminate,55,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",904,5,0,False,5
+723,pin blocked,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",723,5,0,False,5
+87,exchange rate,card payment wrong,17,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",87,5,0,False,5
+1457,card payment not recognised,card about,9,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1457,5,0,False,5
+744,card not working,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",744,5,0,False,5
+727,card payment not recognised,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",727,5,0,False,5
+858,card payment not recognised,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",858,5,0,False,5
+355,card not working,pin,49,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",355,5,0,False,5
+1294,cash withdrawal not recognised,c,20,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1294,5,0,False,5
+517,card payment not recognised,card payment fee,15,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",517,5,0,False,5
+299,lost or stolen card,lost or stolen card,41,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",299,5,0,False,5
+804,lost or stolen card,lost or stolen phone,42,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",804,5,0,False,5
+1367,card payment not recognised,top up by,57,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1367,5,0,False,5
+555,transfer not received by recipient,transfer not,66,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",555,5,0,False,5
+239,card not working,card not,14,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",239,5,0,False,5
+1418,unable to verify identity,activ,0,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1418,5,0,False,5
+203,card not working,card not,14,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",203,5,0,False,5
+1266,card payment not recognised,top up failed,59,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1266,5,0,False,5
+1509,verify my identity,verify my,69,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1509,5,0,False,5
+284,card not working,lost or stolen card,41,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",284,5,0,False,5
+1335,exchange rate,exchange charge,31,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1335,5,0,False,5
+513,card payment not recognised,card payment fee,15,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",513,5,0,False,5
+457,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",457,5,0,False,5
+805,unable to verify identity,lost or stolen phone,42,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",805,5,0,False,5
+290,card not working,lost or stolen card,41,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",290,5,0,False,5
+583,card not working,getting,40,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",583,5,0,False,5
+128,card payment not recognised,extra,34,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",128,5,0,False,5
+306,card not working,lost or stolen card,41,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",306,5,0,False,5
+456,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",456,5,0,False,5
+179,card payment not recognised,automatic,4,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",179,5,0,False,5
+627,card payment not recognised,card accept,10,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",627,5,0,False,5
+26,card not working,card linking,13,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",26,5,0,False,5
+1276,top up failed,top up failed,59,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1276,5,0,False,5
+836,card not working,lost or stolen phone,42,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",836,5,0,False,5
+1174,transfer not received by recipient,failed,35,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1174,5,0,False,5
+556,transaction charged twice,transfer not,66,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",556,5,0,False,5
+445,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",445,5,0,False,5
+1117,card payment not recognised,benef,7,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1117,5,0,False,5
+215,card not working,card not,14,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",215,5,0,False,5
+965,unable to verify identity,verify source,70,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",965,5,0,False,5
+419,card payment not recognised,pending,47,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",419,5,0,False,5
+613,card not working,card accept,10,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",613,5,0,False,5
+192,top up failed,automatic,4,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",192,5,0,False,5
+667,transaction charged twice,card payment not,16,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",667,5,0,False,5
+850,unable to verify identity,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",850,5,0,False,5
+1083,transfer not received by recipient,benef,7,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1083,5,0,False,5
+1106,card payment not recognised,benef,7,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1106,5,0,False,5
+916,unable to verify identity,terminate,55,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",916,5,0,False,5
+503,card payment not recognised,card payment fee,15,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",503,5,0,False,5
+145,extra charge on statement,extra,34,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",145,5,0,False,5
+1307,card payment not recognised,c,20,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1307,5,0,False,5
+334,card not working,pin,49,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",334,5,0,False,5
+961,verify source of funds,verify source,70,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",961,5,0,False,5
+1014,transfer not received by recipient,transfer timing,67,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1014,5,0,False,5
+1486,verify my identity,verify my,69,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1486,5,0,False,5
+391,contactless not working,contact,23,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",391,5,0,False,5
+1244,card payment not recognised,top up failed,59,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1244,5,0,False,5
+69,exchange rate,exchange rate,32,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",69,5,0,False,5
+392,contactless not working,contact,23,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",392,5,0,False,5
+789,card not working,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",789,5,0,False,5
+1448,card not working,card about,9,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1448,5,0,False,5
+489,card payment not recognised,card payment fee,15,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",489,5,0,False,5
+676,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",676,5,0,False,5
+647,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",647,5,0,False,5
+815,unable to verify identity,lost or stolen phone,42,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",815,5,0,False,5
+981,card payment not recognised,verify source,70,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",981,5,0,False,5
+972,transfer not received by recipient,verify source,70,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",972,5,0,False,5
+531,transfer not received by recipient,transfer not,66,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",531,5,0,False,5
+790,card not working,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",790,5,0,False,5
+259,exchange rate,exchange via,33,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",259,5,0,False,5
+429,top up failed,pending,47,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",429,5,0,False,5
+480,card payment not recognised,card payment fee,15,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",480,5,0,False,5
+566,card linking,getting,40,False,False,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",566,5,0,False,5
+72,exchange rate,exchange rate,32,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",72,5,0,False,5
+112,exchange rate,card payment wrong,17,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",112,5,0,False,5
+384,card not working,contact,23,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",384,5,0,False,5
+1053,card payment not recognised,revert,53,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1053,5,0,False,5
+1401,card not working,activ,0,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1401,5,0,False,5
+968,verify source of funds,verify source,70,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",968,5,0,False,5
+312,card payment not recognised,lost or stolen card,41,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",312,5,0,False,5
+892,card payment not recognised,terminate,55,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",892,5,0,False,5
+453,card linking,top up limits,60,False,False,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",453,5,0,False,5
+478,top up limits,top up limits,60,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",478,5,0,False,5
+649,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",649,5,0,False,5
+23,card linking,card linking,13,True,True,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",23,5,0,False,5
+1213,card linking,get dispos,37,False,False,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1213,5,0,False,5
+1215,get disposable virtual card,get dispos,37,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1215,5,0,False,5
+1349,exchange rate,exchange charge,31,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1349,5,0,False,5
+262,exchange rate,exchange via,33,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",262,5,0,False,5
+48,exchange rate,exchange rate,32,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",48,5,0,False,5
+285,card not working,lost or stolen card,41,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",285,5,0,False,5
+849,card payment not recognised,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",849,5,0,False,5
+1352,exchange rate,exchange charge,31,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1352,5,0,False,5
+327,card not working,pin,49,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",327,5,0,False,5
+1438,activate my card,activ,0,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1438,5,0,False,5
+29,card linking,card linking,13,True,True,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",29,5,0,False,5
+234,card not working,card not,14,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",234,5,0,False,5
+524,transfer not received by recipient,transfer not,66,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",524,5,0,False,5
+369,card not working,contact,23,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",369,5,0,False,5
+127,card payment not recognised,extra,34,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",127,5,0,False,5
+1151,card payment not recognised,receiving,50,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1151,5,0,False,5
+543,transfer not received by recipient,transfer not,66,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",543,5,0,False,5
+884,card payment not recognised,terminate,55,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",884,5,0,False,5
+592,card not working,getting,40,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",592,5,0,False,5
+229,card not working,card not,14,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",229,5,0,False,5
+875,unable to verify identity,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",875,5,0,False,5
+628,card not working,card accept,10,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",628,5,0,False,5
+1419,card not working,activ,0,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1419,5,0,False,5
+818,unable to verify identity,lost or stolen phone,42,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",818,5,0,False,5
+1285,card payment not recognised,c,20,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1285,5,0,False,5
+678,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",678,5,0,False,5
+204,card not working,card not,14,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",204,5,0,False,5
+870,contactless not working,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",870,5,0,False,5
+696,unable to verify identity,unable,68,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",696,5,0,False,5
+219,card payment not recognised,card not,14,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",219,5,0,False,5
+190,top up by card charge,automatic,4,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",190,5,0,False,5
+379,contactless not working,contact,23,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",379,5,0,False,5
+1340,exchange rate,exchange charge,31,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1340,5,0,False,5
+977,card payment not recognised,verify source,70,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",977,5,0,False,5
+644,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",644,5,0,False,5
+733,card payment not recognised,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",733,5,0,False,5
+847,card payment not recognised,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",847,5,0,False,5
+1353,exchange rate,exchange charge,31,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1353,5,0,False,5
+797,card not working,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",797,5,0,False,5
+1329,exchange rate,exchange charge,31,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1329,5,0,False,5
+114,exchange rate,card payment wrong,17,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",114,5,0,False,5
+1396,card payment not recognised,top up by,57,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1396,5,0,False,5
+34,card linking,card linking,13,True,True,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",34,5,0,False,5
+966,verify source of funds,verify source,70,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",966,5,0,False,5
+1512,verify my identity,verify my,69,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1512,5,0,False,5
+438,top up failed,pending,47,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",438,5,0,False,5
+1411,card linking,activ,0,False,False,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1411,5,0,False,5
+1218,card not working,get dispos,37,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1218,5,0,False,5
+865,card payment not recognised,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",865,5,0,False,5
+704,unable to verify identity,unable,68,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",704,5,0,False,5
+1212,card not working,get dispos,37,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1212,5,0,False,5
+645,card payment not recognised,card payment not,16,True,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",645,5,0,False,5
+1165,transfer not received by recipient,failed,35,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1165,5,0,False,5
+796,card not working,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",796,5,0,False,5
+898,card payment not recognised,terminate,55,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",898,5,0,False,5
+36,card not working,card linking,13,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",36,5,0,False,5
+1278,top up failed,top up failed,59,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1278,5,0,False,5
+324,pin blocked,pin,49,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",324,5,0,False,5
+689,verify my identity,unable,68,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",689,5,0,False,5
+1508,unable to verify identity,verify my,69,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1508,5,0,False,5
+991,transfer not received by recipient,verify source,70,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",991,5,0,False,5
+314,card not working,lost or stolen card,41,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",314,5,0,False,5
+1082,transfer not received by recipient,benef,7,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1082,5,0,False,5
+1096,transfer not received by recipient,benef,7,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1096,5,0,False,5
+784,card payment not recognised,comprom,22,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",784,5,0,False,5
+839,unable to verify identity,lost or stolen phone,42,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",839,5,0,False,5
+191,top up limits,automatic,4,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",191,5,0,False,5
+842,card payment not recognised,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",842,5,0,False,5
+1026,transfer not received by recipient,transfer timing,67,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1026,5,0,False,5
+99,exchange rate,card payment wrong,17,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",99,5,0,False,5
+551,transfer not received by recipient,transfer not,66,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",551,5,0,False,5
+1023,transfer not received by recipient,transfer timing,67,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1023,5,0,False,5
+140,transaction charged twice,extra,34,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",140,5,0,False,5
+624,card not working,card accept,10,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",624,5,0,False,5
+920,card payment not recognised,transaction,63,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",920,5,0,False,5
+976,verify my identity,verify source,70,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",976,5,0,False,5
+134,card payment not recognised,extra,34,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",134,5,0,False,5
+1109,exchange rate,benef,7,True,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1109,5,0,False,5
+405,top up failed,pending,47,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",405,5,0,False,5
+757,card not working,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",757,5,0,False,5
+1034,transfer not received by recipient,transfer timing,67,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1034,5,0,False,5
+926,card payment not recognised,transaction,63,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",926,5,0,False,5
+975,verify source of funds,verify source,70,False,True,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",975,5,0,False,5
+962,card payment not recognised,verify source,70,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",962,5,0,False,5
+759,pin blocked,get physical,38,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",759,5,0,False,5
+510,card linking,card payment fee,15,False,False,True,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",510,5,0,False,5
+868,card payment not recognised,Ref,51,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",868,5,0,False,5
+1122,card payment not recognised,receiving,50,False,False,False,"{13: 1, 7: 2, 16: 1, 68: 1}","[3560, 908, 2614, 4147, 4430]",1122,5,0,False,5

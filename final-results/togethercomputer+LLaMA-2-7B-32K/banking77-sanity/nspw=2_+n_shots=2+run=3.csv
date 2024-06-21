@@ -1,0 +1,3 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+6253,card payment wrong exchange rate,card payment wrong,17,True,True,False,"{17: 1, 54: 1}","[6253, 7257]",6253,2,3,False,2
+7257,card payment wrong exchange rate,supported,54,True,False,False,"{17: 1, 54: 1}","[6253, 7257]",7257,2,3,False,2

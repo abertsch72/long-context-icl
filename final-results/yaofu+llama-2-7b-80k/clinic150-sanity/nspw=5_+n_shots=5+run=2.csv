@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+12078,flip coin,reci,104,True,False,False,"{104: 1, 84: 1, 17: 1, 79: 1, 35: 1}","[12078, 10042, 8244, 4528, 4110]",12078,5,2,False,5
+10042,order status,order status,84,True,True,True,"{104: 1, 84: 1, 17: 1, 79: 1, 35: 1}","[12078, 10042, 8244, 4528, 4110]",10042,5,2,False,5
+8244,jump start,jump,17,True,True,False,"{104: 1, 84: 1, 17: 1, 79: 1, 35: 1}","[12078, 10042, 8244, 4528, 4110]",8244,5,2,False,5
+4528,payday,payday,79,True,True,True,"{104: 1, 84: 1, 17: 1, 79: 1, 35: 1}","[12078, 10042, 8244, 4528, 4110]",4528,5,2,False,5
+4110,balance,balance,35,True,True,True,"{104: 1, 84: 1, 17: 1, 79: 1, 35: 1}","[12078, 10042, 8244, 4528, 4110]",4110,5,2,False,5

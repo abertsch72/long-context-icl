@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+6935,getting virtual card,getting virtual,40,True,True,False,"{40: 1, 55: 1, 30: 1, 5: 1, 71: 1}","[6935, 3070, 2657, 5224, 3413]",6935,5,9,False
+3070,terminate account,term,55,True,True,False,"{40: 1, 55: 1, 30: 1, 5: 1, 71: 1}","[6935, 3070, 2657, 5224, 3413]",3070,5,9,False
+2657,edit personal details,edit,30,True,True,False,"{40: 1, 55: 1, 30: 1, 5: 1, 71: 1}","[6935, 3070, 2657, 5224, 3413]",2657,5,9,False
+5224,balance not updated after bank transfer,balance not updated after bank,5,True,True,False,"{40: 1, 55: 1, 30: 1, 5: 1, 71: 1}","[6935, 3070, 2657, 5224, 3413]",5224,5,9,False
+3413,card payment not recognised,verify top,71,True,False,False,"{40: 1, 55: 1, 30: 1, 5: 1, 71: 1}","[6935, 3070, 2657, 5224, 3413]",3413,5,9,False

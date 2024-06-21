@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1104,2,5,False,2
+472,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",472,2,5,False,2
+1345,card delivery estimate,order,43,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1345,2,5,False,2
+838,pending transfer,pending card,45,False,False,False,"{44: 1, 58: 1}","[909, 4335]",838,2,5,False,2
+942,card not working,decl,25,False,False,False,"{44: 1, 58: 1}","[909, 4335]",942,2,5,False,2
+707,atm support,at,3,False,True,False,"{44: 1, 58: 1}","[909, 4335]",707,2,5,False,2
+378,contactless not working,contact,23,False,True,False,"{44: 1, 58: 1}","[909, 4335]",378,2,5,False,2
+1258,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1258,2,5,False,2
+451,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",451,2,5,False,2
+1467,top up by cash or cheque,top up by card,57,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1467,2,5,False,2
+652,top up by cash or cheque,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",652,2,5,False,2
+774,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",774,2,5,False,2
+1112,balance not updated after bank transfer,verify,70,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1112,2,5,False,2
+659,card delivery estimate,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",659,2,5,False,2
+67,exchange rate,exchange,32,False,True,False,"{44: 1, 58: 1}","[909, 4335]",67,2,5,False,2
+773,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",773,2,5,False,2
+679,virtual card not working,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",679,2,5,False,2
+956,card not working,decl,25,False,False,False,"{44: 1, 58: 1}","[909, 4335]",956,2,5,False,2
+919,topping up by card,request,52,False,False,False,"{44: 1, 58: 1}","[909, 4335]",919,2,5,False,2
+1221,topping up by card,receiving,50,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1221,2,5,False,2
+605,top up by cash or cheque,to,62,False,False,False,"{44: 1, 58: 1}","[909, 4335]",605,2,5,False,2
+240,card not working,card not,14,False,True,False,"{44: 1, 58: 1}","[909, 4335]",240,2,5,False,2
+1069,card not working,card sw,18,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1069,2,5,False,2
+1228,top up by cash or cheque,receiving,50,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1228,2,5,False,2
+1006,terminate account,terminate,55,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1006,2,5,False,2
+1308,top up by cash or cheque,top up by c,58,True,True,False,"{44: 1, 58: 1}","[909, 4335]",1308,2,5,False,2
+106,extra charge on statement,extra,34,False,True,False,"{44: 1, 58: 1}","[909, 4335]",106,2,5,False,2
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1429,2,5,False,2
+455,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",455,2,5,False,2
+1380,virtual card not working,virtual,72,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1380,2,5,False,2
+325,top up by cash or cheque,pin,49,False,False,False,"{44: 1, 58: 1}","[909, 4335]",325,2,5,False,2
+745,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 58: 1}","[909, 4335]",745,2,5,False,2
+1439,transfer timing,balance,5,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1439,2,5,False,2
+941,card not working,decl,25,False,False,False,"{44: 1, 58: 1}","[909, 4335]",941,2,5,False,2
+401,top up by cash or cheque,pending top,47,False,False,False,"{44: 1, 58: 1}","[909, 4335]",401,2,5,False,2
+1190,change pin,change,21,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1190,2,5,False,2
+759,declined card payment,direct,28,False,False,False,"{44: 1, 58: 1}","[909, 4335]",759,2,5,False,2
+1180,change pin,change,21,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1180,2,5,False,2
+123,topping up by card,fi,36,False,False,False,"{44: 1, 58: 1}","[909, 4335]",123,2,5,False,2
+1517,activate my card,activ,0,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1517,2,5,False,2
+227,top up by cash or cheque,automatic,4,False,False,False,"{44: 1, 58: 1}","[909, 4335]",227,2,5,False,2
+1321,card not working,order,43,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1321,2,5,False,2
+393,contactless not working,contact,23,False,True,False,"{44: 1, 58: 1}","[909, 4335]",393,2,5,False,2
+999,transfer timing,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",999,2,5,False,2
+927,card not working,decl,25,False,False,False,"{44: 1, 58: 1}","[909, 4335]",927,2,5,False,2
+244,card not working,card not,14,False,True,False,"{44: 1, 58: 1}","[909, 4335]",244,2,5,False,2
+181,order physical card,card delivery,12,False,False,False,"{44: 1, 58: 1}","[909, 4335]",181,2,5,False,2
+1170,pin blocked,change,21,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1170,2,5,False,2
+666,virtual card not working,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",666,2,5,False,2
+1028,terminate account,terminate,55,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1028,2,5,False,2
+772,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",772,2,5,False,2
+1223,change pin,receiving,50,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1223,2,5,False,2
+421,top up by cash or cheque,pending top,47,False,False,False,"{44: 1, 58: 1}","[909, 4335]",421,2,5,False,2
+132,exchange rate,fi,36,False,False,False,"{44: 1, 58: 1}","[909, 4335]",132,2,5,False,2
+155,exchange rate,fi,36,False,False,False,"{44: 1, 58: 1}","[909, 4335]",155,2,5,False,2
+459,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",459,2,5,False,2
+371,contactless not working,contact,23,False,True,False,"{44: 1, 58: 1}","[909, 4335]",371,2,5,False,2
+15,card not working,card linking,13,False,False,False,"{44: 1, 58: 1}","[909, 4335]",15,2,5,False,2
+1253,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1253,2,5,False,2
+197,change pin,card delivery,12,False,False,False,"{44: 1, 58: 1}","[909, 4335]",197,2,5,False,2
+527,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",527,2,5,False,2
+531,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",531,2,5,False,2
+382,contactless not working,contact,23,False,True,False,"{44: 1, 58: 1}","[909, 4335]",382,2,5,False,2
+620,transfer not received by recipient,to,62,False,False,False,"{44: 1, 58: 1}","[909, 4335]",620,2,5,False,2
+871,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",871,2,5,False,2
+1095,verify source of funds,verify,70,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1095,2,5,False,2
+1501,card not working,activ,0,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1501,2,5,False,2
+1368,virtual card not working,virtual,72,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1368,2,5,False,2
+344,pin blocked,pin,49,False,True,False,"{44: 1, 58: 1}","[909, 4335]",344,2,5,False,2
+429,top up by cash or cheque,pending top,47,False,False,False,"{44: 1, 58: 1}","[909, 4335]",429,2,5,False,2
+291,age limit,age,1,False,True,False,"{44: 1, 58: 1}","[909, 4335]",291,2,5,False,2
+474,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",474,2,5,False,2
+137,exchange rate,fi,36,False,False,False,"{44: 1, 58: 1}","[909, 4335]",137,2,5,False,2
+784,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",784,2,5,False,2
+1021,terminate account,terminate,55,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1021,2,5,False,2
+1414,transfer not received by recipient,balance,5,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1414,2,5,False,2
+741,verify source of funds,direct,28,False,False,False,"{44: 1, 58: 1}","[909, 4335]",741,2,5,False,2
+904,request refund,request,52,False,True,False,"{44: 1, 58: 1}","[909, 4335]",904,2,5,False,2
+723,topping up by card,direct,28,False,False,False,"{44: 1, 58: 1}","[909, 4335]",723,2,5,False,2
+87,card not working,extra,34,False,False,False,"{44: 1, 58: 1}","[909, 4335]",87,2,5,False,2
+1457,top up by cash or cheque,top up by card,57,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1457,2,5,False,2
+747,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 58: 1}","[909, 4335]",747,2,5,False,2
+728,verify source of funds,direct,28,False,False,False,"{44: 1, 58: 1}","[909, 4335]",728,2,5,False,2
+860,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",860,2,5,False,2
+355,card not working,pin,49,False,False,False,"{44: 1, 58: 1}","[909, 4335]",355,2,5,False,2
+1294,top up by cash or cheque,top up by c,58,True,True,False,"{44: 1, 58: 1}","[909, 4335]",1294,2,5,False,2
+521,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",521,2,5,False,2
+299,age limit,age,1,False,True,False,"{44: 1, 58: 1}","[909, 4335]",299,2,5,False,2
+807,pending card payment,pending card,45,False,True,False,"{44: 1, 58: 1}","[909, 4335]",807,2,5,False,2
+1367,card not working,virtual,72,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1367,2,5,False,2
+556,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",556,2,5,False,2
+239,top up by cash or cheque,automatic,4,False,False,False,"{44: 1, 58: 1}","[909, 4335]",239,2,5,False,2
+1418,transfer not received by recipient,balance,5,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1418,2,5,False,2
+203,top up by cash or cheque,automatic,4,False,False,False,"{44: 1, 58: 1}","[909, 4335]",203,2,5,False,2
+1265,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1265,2,5,False,2
+1509,card not working,activ,0,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1509,2,5,False,2
+284,age limit,age,1,False,True,False,"{44: 1, 58: 1}","[909, 4335]",284,2,5,False,2
+1335,card delivery estimate,order,43,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1335,2,5,False,2
+517,transfer not received by recipient,transfer not,66,False,True,False,"{44: 1, 58: 1}","[909, 4335]",517,2,5,False,2
+458,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",458,2,5,False,2
+808,pending card payment,pending card,45,False,True,False,"{44: 1, 58: 1}","[909, 4335]",808,2,5,False,2
+290,age limit,age,1,False,True,False,"{44: 1, 58: 1}","[909, 4335]",290,2,5,False,2
+584,top up by cash or cheque,top up revert,61,False,False,False,"{44: 1, 58: 1}","[909, 4335]",584,2,5,False,2
+129,fiat currency support,fi,36,False,True,False,"{44: 1, 58: 1}","[909, 4335]",129,2,5,False,2
+306,age limit,age,1,False,True,False,"{44: 1, 58: 1}","[909, 4335]",306,2,5,False,2
+457,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",457,2,5,False,2
+179,card delivery estimate,card delivery,12,False,True,False,"{44: 1, 58: 1}","[909, 4335]",179,2,5,False,2
+628,top up by cash or cheque,to,62,False,False,False,"{44: 1, 58: 1}","[909, 4335]",628,2,5,False,2
+26,card not working,card linking,13,False,False,False,"{44: 1, 58: 1}","[909, 4335]",26,2,5,False,2
+1276,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1276,2,5,False,2
+839,pending card payment,pending card,45,False,True,False,"{44: 1, 58: 1}","[909, 4335]",839,2,5,False,2
+1174,pin blocked,change,21,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1174,2,5,False,2
+557,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",557,2,5,False,2
+446,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",446,2,5,False,2
+1117,topping up by card,verify,70,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1117,2,5,False,2
+215,top up by cash or cheque,automatic,4,False,False,False,"{44: 1, 58: 1}","[909, 4335]",215,2,5,False,2
+966,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",966,2,5,False,2
+420,top up by cash or cheque,pending top,47,False,False,False,"{44: 1, 58: 1}","[909, 4335]",420,2,5,False,2
+614,top up by cash or cheque,to,62,False,False,False,"{44: 1, 58: 1}","[909, 4335]",614,2,5,False,2
+192,card not working,card delivery,12,False,False,False,"{44: 1, 58: 1}","[909, 4335]",192,2,5,False,2
+667,virtual card not working,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",667,2,5,False,2
+852,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",852,2,5,False,2
+1083,verify source of funds,verify,70,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1083,2,5,False,2
+1106,verify source of funds,verify,70,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1106,2,5,False,2
+917,request refund,request,52,False,True,False,"{44: 1, 58: 1}","[909, 4335]",917,2,5,False,2
+508,card not working,transfer not,66,False,False,False,"{44: 1, 58: 1}","[909, 4335]",508,2,5,False,2
+146,fiat currency support,fi,36,False,True,False,"{44: 1, 58: 1}","[909, 4335]",146,2,5,False,2
+1307,top up by cash or cheque,top up by c,58,True,True,False,"{44: 1, 58: 1}","[909, 4335]",1307,2,5,False,2
+334,pin blocked,pin,49,False,True,False,"{44: 1, 58: 1}","[909, 4335]",334,2,5,False,2
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",962,2,5,False,2
+1015,terminate account,terminate,55,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1015,2,5,False,2
+1486,activate my card,activ,0,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1486,2,5,False,2
+391,contactless not working,contact,23,False,True,False,"{44: 1, 58: 1}","[909, 4335]",391,2,5,False,2
+1243,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1243,2,5,False,2
+69,exchange rate,exchange,32,False,True,False,"{44: 1, 58: 1}","[909, 4335]",69,2,5,False,2
+392,contactless not working,contact,23,False,True,False,"{44: 1, 58: 1}","[909, 4335]",392,2,5,False,2
+792,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",792,2,5,False,2
+1448,topping up by card,top up by card,57,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1448,2,5,False,2
+490,transfer not received by recipient,transfer not,66,False,True,False,"{44: 1, 58: 1}","[909, 4335]",490,2,5,False,2
+676,virtual card not working,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",676,2,5,False,2
+648,top up by cash or cheque,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",648,2,5,False,2
+818,pending card payment,pending card,45,False,True,False,"{44: 1, 58: 1}","[909, 4335]",818,2,5,False,2
+982,transfer timing,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",982,2,5,False,2
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",973,2,5,False,2
+535,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",535,2,5,False,2
+793,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",793,2,5,False,2
+259,card not working,card not,14,False,True,False,"{44: 1, 58: 1}","[909, 4335]",259,2,5,False,2
+430,top up by cash or cheque,pending top,47,False,False,False,"{44: 1, 58: 1}","[909, 4335]",430,2,5,False,2
+481,transfer not received by recipient,transfer not,66,False,True,False,"{44: 1, 58: 1}","[909, 4335]",481,2,5,False,2
+567,top up by cash or cheque,top up revert,61,False,False,False,"{44: 1, 58: 1}","[909, 4335]",567,2,5,False,2
+72,exchange rate,exchange,32,False,True,False,"{44: 1, 58: 1}","[909, 4335]",72,2,5,False,2
+113,extra charge on statement,extra,34,False,True,False,"{44: 1, 58: 1}","[909, 4335]",113,2,5,False,2
+384,card not working,contact,23,False,False,False,"{44: 1, 58: 1}","[909, 4335]",384,2,5,False,2
+1053,lost or stolen phone,card sw,18,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1053,2,5,False,2
+1401,balance not updated after bank transfer,balance,5,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1401,2,5,False,2
+969,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",969,2,5,False,2
+312,age limit,age,1,False,True,False,"{44: 1, 58: 1}","[909, 4335]",312,2,5,False,2
+892,request refund,request,52,False,True,False,"{44: 1, 58: 1}","[909, 4335]",892,2,5,False,2
+454,top up by cash or cheque,top up limits,60,False,False,False,"{44: 1, 58: 1}","[909, 4335]",454,2,5,False,2
+479,top up limits,top up limits,60,False,True,False,"{44: 1, 58: 1}","[909, 4335]",479,2,5,False,2
+650,card delivery estimate,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",650,2,5,False,2
+23,card linking,card linking,13,False,True,False,"{44: 1, 58: 1}","[909, 4335]",23,2,5,False,2
+1212,exchange rate,receiving,50,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1212,2,5,False,2
+1214,change pin,receiving,50,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1214,2,5,False,2
+1349,card delivery estimate,order,43,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1349,2,5,False,2
+262,card not working,card not,14,False,True,False,"{44: 1, 58: 1}","[909, 4335]",262,2,5,False,2
+48,exchange rate,exchange,32,False,True,False,"{44: 1, 58: 1}","[909, 4335]",48,2,5,False,2
+285,topping up by card,age,1,False,False,False,"{44: 1, 58: 1}","[909, 4335]",285,2,5,False,2
+851,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",851,2,5,False,2
+1352,card delivery estimate,order,43,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1352,2,5,False,2
+327,pin blocked,pin,49,False,True,False,"{44: 1, 58: 1}","[909, 4335]",327,2,5,False,2
+1438,balance not updated after bank transfer,balance,5,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1438,2,5,False,2
+29,card linking,card linking,13,False,True,False,"{44: 1, 58: 1}","[909, 4335]",29,2,5,False,2
+234,top up by cash or cheque,automatic,4,False,False,False,"{44: 1, 58: 1}","[909, 4335]",234,2,5,False,2
+528,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",528,2,5,False,2
+369,card not working,contact,23,False,False,False,"{44: 1, 58: 1}","[909, 4335]",369,2,5,False,2
+128,exchange rate,fi,36,False,False,False,"{44: 1, 58: 1}","[909, 4335]",128,2,5,False,2
+1151,transfer timing,transfer timing,67,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1151,2,5,False,2
+544,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",544,2,5,False,2
+884,request refund,request,52,False,True,False,"{44: 1, 58: 1}","[909, 4335]",884,2,5,False,2
+593,top up by cash or cheque,top up revert,61,False,False,False,"{44: 1, 58: 1}","[909, 4335]",593,2,5,False,2
+229,top up by cash or cheque,automatic,4,False,False,False,"{44: 1, 58: 1}","[909, 4335]",229,2,5,False,2
+876,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",876,2,5,False,2
+629,transfer not received by recipient,to,62,False,False,False,"{44: 1, 58: 1}","[909, 4335]",629,2,5,False,2
+1419,transfer not received by recipient,balance,5,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1419,2,5,False,2
+821,pending card payment,pending card,45,False,True,False,"{44: 1, 58: 1}","[909, 4335]",821,2,5,False,2
+1285,top up by cash or cheque,top up by c,58,True,True,False,"{44: 1, 58: 1}","[909, 4335]",1285,2,5,False,2
+678,card not working,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",678,2,5,False,2
+204,top up by cash or cheque,automatic,4,False,False,False,"{44: 1, 58: 1}","[909, 4335]",204,2,5,False,2
+872,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",872,2,5,False,2
+696,topping up by card,at,3,False,False,False,"{44: 1, 58: 1}","[909, 4335]",696,2,5,False,2
+219,balance not updated after bank transfer,automatic,4,False,False,False,"{44: 1, 58: 1}","[909, 4335]",219,2,5,False,2
+190,card delivery estimate,card delivery,12,False,True,False,"{44: 1, 58: 1}","[909, 4335]",190,2,5,False,2
+379,contactless not working,contact,23,False,True,False,"{44: 1, 58: 1}","[909, 4335]",379,2,5,False,2
+1340,card acceptance,order,43,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1340,2,5,False,2
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",978,2,5,False,2
+645,card not working,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",645,2,5,False,2
+735,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 58: 1}","[909, 4335]",735,2,5,False,2
+850,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",850,2,5,False,2
+1353,card not working,order,43,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1353,2,5,False,2
+800,card not working,pending card,45,False,False,False,"{44: 1, 58: 1}","[909, 4335]",800,2,5,False,2
+1329,card delivery estimate,order,43,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1329,2,5,False,2
+115,extra charge on statement,extra,34,False,True,False,"{44: 1, 58: 1}","[909, 4335]",115,2,5,False,2
+1396,card not working,virtual,72,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1396,2,5,False,2
+34,card not working,card linking,13,False,False,False,"{44: 1, 58: 1}","[909, 4335]",34,2,5,False,2
+967,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",967,2,5,False,2
+1512,card not working,activ,0,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1512,2,5,False,2
+439,top up by cash or cheque,pending top,47,False,False,False,"{44: 1, 58: 1}","[909, 4335]",439,2,5,False,2
+1411,transfer timing,balance,5,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1411,2,5,False,2
+1217,transfer not received by recipient,receiving,50,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1217,2,5,False,2
+867,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",867,2,5,False,2
+704,topping up by card,at,3,False,False,False,"{44: 1, 58: 1}","[909, 4335]",704,2,5,False,2
+1211,transfer not received by recipient,receiving,50,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1211,2,5,False,2
+646,card swallowed,dispos,29,False,False,False,"{44: 1, 58: 1}","[909, 4335]",646,2,5,False,2
+1165,change pin,change,21,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1165,2,5,False,2
+799,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",799,2,5,False,2
+898,order physical card,request,52,False,False,False,"{44: 1, 58: 1}","[909, 4335]",898,2,5,False,2
+36,card not working,card linking,13,False,False,False,"{44: 1, 58: 1}","[909, 4335]",36,2,5,False,2
+1278,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1278,2,5,False,2
+324,pin blocked,pin,49,False,True,False,"{44: 1, 58: 1}","[909, 4335]",324,2,5,False,2
+689,atm support,at,3,False,True,False,"{44: 1, 58: 1}","[909, 4335]",689,2,5,False,2
+1508,activate my card,activ,0,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1508,2,5,False,2
+992,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",992,2,5,False,2
+314,age limit,age,1,False,True,False,"{44: 1, 58: 1}","[909, 4335]",314,2,5,False,2
+1082,topping up by card,verify,70,False,False,False,"{44: 1, 58: 1}","[909, 4335]",1082,2,5,False,2
+1096,verify source of funds,verify,70,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1096,2,5,False,2
+787,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",787,2,5,False,2
+842,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",842,2,5,False,2
+191,card delivery estimate,card delivery,12,False,True,False,"{44: 1, 58: 1}","[909, 4335]",191,2,5,False,2
+845,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",845,2,5,False,2
+1027,terminate account,terminate,55,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1027,2,5,False,2
+99,extra charge on statement,extra,34,False,True,False,"{44: 1, 58: 1}","[909, 4335]",99,2,5,False,2
+552,card acceptance,card accept,10,False,True,False,"{44: 1, 58: 1}","[909, 4335]",552,2,5,False,2
+1024,terminate account,terminate,55,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1024,2,5,False,2
+141,exchange rate,fi,36,False,False,False,"{44: 1, 58: 1}","[909, 4335]",141,2,5,False,2
+625,transfer not received by recipient,to,62,False,False,False,"{44: 1, 58: 1}","[909, 4335]",625,2,5,False,2
+922,card not working,decl,25,False,False,False,"{44: 1, 58: 1}","[909, 4335]",922,2,5,False,2
+977,transfer timing,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",977,2,5,False,2
+135,change pin,fi,36,False,False,False,"{44: 1, 58: 1}","[909, 4335]",135,2,5,False,2
+1109,verify source of funds,verify,70,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1109,2,5,False,2
+405,top up by cash or cheque,pending top,47,False,False,False,"{44: 1, 58: 1}","[909, 4335]",405,2,5,False,2
+760,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",760,2,5,False,2
+1035,terminate account,terminate,55,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1035,2,5,False,2
+928,card not working,decl,25,False,False,False,"{44: 1, 58: 1}","[909, 4335]",928,2,5,False,2
+976,transfer timing,pending transfer,48,False,False,False,"{44: 1, 58: 1}","[909, 4335]",976,2,5,False,2
+963,pending transfer,pending transfer,48,False,True,False,"{44: 1, 58: 1}","[909, 4335]",963,2,5,False,2
+762,passcode forgotten,pass,44,True,True,False,"{44: 1, 58: 1}","[909, 4335]",762,2,5,False,2
+514,transfer not received by recipient,transfer not,66,False,True,False,"{44: 1, 58: 1}","[909, 4335]",514,2,5,False,2
+870,lost or stolen phone,lost,42,False,True,False,"{44: 1, 58: 1}","[909, 4335]",870,2,5,False,2
+1122,transfer timing,transfer timing,67,False,True,False,"{44: 1, 58: 1}","[909, 4335]",1122,2,5,False,2

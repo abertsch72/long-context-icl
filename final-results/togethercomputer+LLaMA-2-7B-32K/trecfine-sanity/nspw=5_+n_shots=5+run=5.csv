@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+365,description reason,description reason,27,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1}","[365, 353, 2801, 2313, 4363]",365,5,5,False,5
+353,entity other,entity other,13,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1}","[365, 353, 2801, 2313, 4363]",353,5,5,False,5
+2801,numeric count,numeric count,38,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1}","[365, 353, 2801, 2313, 4363]",2801,5,5,False,5
+2313,location other,location other,35,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1}","[365, 353, 2801, 2313, 4363]",2313,5,5,False,5
+4363,entity disease,entity disease,7,True,True,True,"{27: 1, 13: 1, 38: 1, 35: 1, 7: 1}","[365, 353, 2801, 2313, 4363]",4363,5,5,False,5

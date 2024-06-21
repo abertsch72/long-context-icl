@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+152,numeric size,numeric other,43,False,False,False,{28: 1},[991],152,1,2,False
+94,entity creation,description,24,False,False,False,{28: 1},[991],94,1,2,False
+337,entity creation,human individual,29,False,False,False,{28: 1},[991],337,1,2,False
+78,numeric size,numeric distance,40,False,False,False,{28: 1},[991],78,1,2,False
+323,entity currency,entity currency,6,False,True,False,{28: 1},[991],323,1,2,False
+143,entity creation,human individual,29,False,False,False,{28: 1},[991],143,1,2,False
+59,entity creation,human individual,29,False,False,False,{28: 1},[991],59,1,2,False
+17,entity vehicle,location other,35,False,False,False,{28: 1},[991],17,1,2,False
+161,entity creation,description,24,False,False,False,{28: 1},[991],161,1,2,False
+220,entity substance,description,24,False,False,False,{28: 1},[991],220,1,2,False
+290,entity instrument,description,24,False,False,False,{28: 1},[991],290,1,2,False
+224,entity food,description,24,False,False,False,{28: 1},[991],224,1,2,False
+15,human individual,human individual,29,False,True,False,{28: 1},[991],15,1,2,False
+162,entity creation,description,24,False,False,False,{28: 1},[991],162,1,2,False
+272,entity vehicle,location city,32,False,False,False,{28: 1},[991],272,1,2,False
+193,entity creation,description,24,False,False,False,{28: 1},[991],193,1,2,False
+325,location city,location city,32,False,True,False,{28: 1},[991],325,1,2,False
+30,entity word,description,24,False,False,False,{28: 1},[991],30,1,2,False
+331,entity creation,description,24,False,False,False,{28: 1},[991],331,1,2,False
+219,entity vehicle,description,24,False,False,False,{28: 1},[991],219,1,2,False
+286,location country,location other,35,False,False,False,{28: 1},[991],286,1,2,False
+246,entity word,description,24,False,False,False,{28: 1},[991],246,1,2,False
+68,location country,location other,35,False,False,False,{28: 1},[991],68,1,2,False
+205,location other,location other,35,False,True,False,{28: 1},[991],205,1,2,False
+232,location city,location other,35,False,False,False,{28: 1},[991],232,1,2,False
+64,location country,location country,33,False,True,False,{28: 1},[991],64,1,2,False
+121,location city,location other,35,False,False,False,{28: 1},[991],121,1,2,False
+201,abbreviation expansion,abbreviation expansion,1,False,True,False,{28: 1},[991],201,1,2,False
+315,human group,description,24,False,False,True,{28: 1},[991],315,1,2,False
+145,entity food,location other,35,False,False,False,{28: 1},[991],145,1,2,False
+72,entity creation,human individual,29,False,False,False,{28: 1},[991],72,1,2,False
+184,entity substance,description,24,False,False,False,{28: 1},[991],184,1,2,False
+141,numeric temperature,numeric other,43,False,False,False,{28: 1},[991],141,1,2,False
+95,location city,location other,35,False,False,False,{28: 1},[991],95,1,2,False
+213,location city,location other,35,False,False,False,{28: 1},[991],213,1,2,False
+38,entity instrument,description,24,False,False,False,{28: 1},[991],38,1,2,False
+256,entity creation,human individual,29,False,False,False,{28: 1},[991],256,1,2,False
+29,entity substance,entity plant,14,False,False,False,{28: 1},[991],29,1,2,False
+45,entity food,entity food,9,False,True,False,{28: 1},[991],45,1,2,False
+151,entity substance,entity substance,18,False,True,False,{28: 1},[991],151,1,2,False
+262,entity substance,description,24,False,False,False,{28: 1},[991],262,1,2,False
+115,location city,location other,35,False,False,False,{28: 1},[991],115,1,2,False
+269,numeric size,entity substance,18,False,False,False,{28: 1},[991],269,1,2,False
+69,entity creation,description,24,False,False,False,{28: 1},[991],69,1,2,False
+106,entity instrument,human individual,29,False,False,False,{28: 1},[991],106,1,2,False
+123,location country,location other,35,False,False,False,{28: 1},[991],123,1,2,False
+233,entity vehicle,entity plant,14,False,False,False,{28: 1},[991],233,1,2,False
+41,location city,location city,32,False,True,False,{28: 1},[991],41,1,2,False
+236,numeric size,numeric distance,40,False,False,False,{28: 1},[991],236,1,2,False
+55,numeric size,numeric distance,40,False,False,False,{28: 1},[991],55,1,2,False
+289,location country,location other,35,False,False,False,{28: 1},[991],289,1,2,False
+149,entity creation,description,24,False,False,False,{28: 1},[991],149,1,2,False
+239,numeric temperature,numeric other,43,False,False,False,{28: 1},[991],239,1,2,False
+103,entity vehicle,entity vehicle,22,False,True,False,{28: 1},[991],103,1,2,False
+35,entity vehicle,description,24,False,False,False,{28: 1},[991],35,1,2,False
+132,entity creation,entity substance,18,False,False,False,{28: 1},[991],132,1,2,False
+172,numeric size,numeric distance,40,False,False,False,{28: 1},[991],172,1,2,False
+74,numeric size,description,24,False,False,False,{28: 1},[991],74,1,2,False
+180,location city,location city,32,False,True,False,{28: 1},[991],180,1,2,False
+241,location city,numeric distance,40,False,False,False,{28: 1},[991],241,1,2,False
+140,entity creation,human individual,29,False,False,False,{28: 1},[991],140,1,2,False
+245,location country,entity currency,6,False,False,False,{28: 1},[991],245,1,2,False
+320,entity substance,description,24,False,False,False,{28: 1},[991],320,1,2,False
+1,location city,location city,32,False,True,False,{28: 1},[991],1,1,2,False
+67,entity creation,human group,28,True,False,False,{28: 1},[991],67,1,2,False
+138,entity food,entity substance,18,False,False,False,{28: 1},[991],138,1,2,False
+298,entity creation,description,24,False,False,False,{28: 1},[991],298,1,2,False
+271,numeric size,numeric distance,40,False,False,False,{28: 1},[991],271,1,2,False
+13,entity creation,human individual,29,False,False,False,{28: 1},[991],13,1,2,False
+235,entity creation,human individual,29,False,False,False,{28: 1},[991],235,1,2,False
+3,numeric size,numeric distance,40,False,False,False,{28: 1},[991],3,1,2,False
+56,numeric weight,numeric weight,49,False,True,False,{28: 1},[991],56,1,2,False
+258,entity creation,human individual,29,False,False,False,{28: 1},[991],258,1,2,False
+223,location city,location other,35,False,False,False,{28: 1},[991],223,1,2,False
+65,entity creation,description,24,False,False,False,{28: 1},[991],65,1,2,False
+104,abbreviation expansion,description,24,False,False,False,{28: 1},[991],104,1,2,False
+308,entity substance,entity food,9,False,False,False,{28: 1},[991],308,1,2,False
+82,entity substance,entity substance,18,False,True,False,{28: 1},[991],82,1,2,False
+11,numeric size,numeric other,43,False,False,False,{28: 1},[991],11,1,2,False
+324,entity instrument,description,24,False,False,False,{28: 1},[991],324,1,2,False
+36,entity instrument,human individual,29,False,False,False,{28: 1},[991],36,1,2,False
+318,numeric money,description,24,False,False,False,{28: 1},[991],318,1,2,False
+192,entity food,description,24,False,False,False,{28: 1},[991],192,1,2,False
+130,entity instrument,description,24,False,False,False,{28: 1},[991],130,1,2,False
+128,entity vehicle,human individual,29,False,False,False,{28: 1},[991],128,1,2,False
+197,location city,location city,32,False,True,False,{28: 1},[991],197,1,2,False
+27,location city,location other,35,False,False,False,{28: 1},[991],27,1,2,False
+295,location city,location other,35,False,False,False,{28: 1},[991],295,1,2,False
+47,location other,location other,35,False,True,False,{28: 1},[991],47,1,2,False
+10,human individual,human individual,29,False,True,False,{28: 1},[991],10,1,2,False
+268,entity vehicle,human individual,29,False,False,False,{28: 1},[991],268,1,2,False
+316,entity food,human group,28,True,False,False,{28: 1},[991],316,1,2,False
+243,location city,location other,35,False,False,False,{28: 1},[991],243,1,2,False
+299,entity creation,description,24,False,False,False,{28: 1},[991],299,1,2,False
+127,entity substance,entity substance,18,False,True,False,{28: 1},[991],127,1,2,False
+75,numeric temperature,numeric temperature,47,False,True,False,{28: 1},[991],75,1,2,False
+76,entity creation,location other,35,False,False,False,{28: 1},[991],76,1,2,False
+251,abbreviation expansion,abbreviation expansion,1,False,True,False,{28: 1},[991],251,1,2,False
+263,numeric size,numeric other,43,False,False,False,{28: 1},[991],263,1,2,False
+142,location city,location other,35,False,False,False,{28: 1},[991],142,1,2,False
+37,entity creation,human individual,29,False,False,False,{28: 1},[991],37,1,2,False
+292,entity substance,description,24,False,False,False,{28: 1},[991],292,1,2,False
+329,entity instrument,description,24,False,False,False,{28: 1},[991],329,1,2,False
+48,numeric size,numeric other,43,False,False,False,{28: 1},[991],48,1,2,False
+2,entity vehicle,description,24,False,False,False,{28: 1},[991],2,1,2,False
+237,entity instrument,description,24,False,False,False,{28: 1},[991],237,1,2,False
+102,human individual,human individual,29,False,True,False,{28: 1},[991],102,1,2,False
+273,entity substance,description,24,False,False,False,{28: 1},[991],273,1,2,False
+117,entity food,description,24,False,False,False,{28: 1},[991],117,1,2,False
+62,entity creation,human individual,29,False,False,False,{28: 1},[991],62,1,2,False
+195,entity instrument,description,24,False,False,False,{28: 1},[991],195,1,2,False
+57,entity instrument,human individual,29,False,False,False,{28: 1},[991],57,1,2,False
+327,entity substance,entity substance,18,False,True,False,{28: 1},[991],327,1,2,False
+135,location city,location city,32,False,True,False,{28: 1},[991],135,1,2,False
+255,entity creation,entity substance,18,False,False,False,{28: 1},[991],255,1,2,False
+53,numeric size,description,24,False,False,False,{28: 1},[991],53,1,2,False
+98,entity substance,description,24,False,False,False,{28: 1},[991],98,1,2,False
+310,location city,location other,35,False,False,False,{28: 1},[991],310,1,2,False
+111,entity creation,description,24,False,False,False,{28: 1},[991],111,1,2,False
+217,abbreviation expansion,abbreviation expansion,1,False,True,False,{28: 1},[991],217,1,2,False
+238,abbreviation abbreviation,description,24,False,False,False,{28: 1},[991],238,1,2,False
+278,location city,location city,32,False,True,False,{28: 1},[991],278,1,2,False
+280,entity vehicle,entity plant,14,False,False,False,{28: 1},[991],280,1,2,False
+230,entity creation,human individual,29,False,False,False,{28: 1},[991],230,1,2,False
+88,entity vehicle,human individual,29,False,False,False,{28: 1},[991],88,1,2,False
+90,location city,description,24,False,False,False,{28: 1},[991],90,1,2,False
+8,entity creation,human individual,29,False,False,False,{28: 1},[991],8,1,2,False
+0,numeric distance,numeric distance,40,False,True,False,{28: 1},[991],0,1,2,False
+284,entity instrument,human individual,29,False,False,False,{28: 1},[991],284,1,2,False
+144,numeric temperature,numeric temperature,47,False,True,False,{28: 1},[991],144,1,2,False
+191,location city,location other,35,False,False,False,{28: 1},[991],191,1,2,False
+244,numeric weight,numeric weight,49,False,True,False,{28: 1},[991],244,1,2,False
+93,entity creation,description,24,False,False,False,{28: 1},[991],93,1,2,False
+212,entity creation,human individual,29,False,False,False,{28: 1},[991],212,1,2,False
+54,entity currency,entity currency,6,False,True,False,{28: 1},[991],54,1,2,False
+66,numeric temperature,numeric temperature,47,False,True,False,{28: 1},[991],66,1,2,False
+126,entity word,description,24,False,False,False,{28: 1},[991],126,1,2,False
+335,entity substance,description,24,False,False,False,{28: 1},[991],335,1,2,False
+185,abbreviation expansion,abbreviation ab,0,False,False,False,{28: 1},[991],185,1,2,False
+178,abbreviation expansion,description,24,False,False,False,{28: 1},[991],178,1,2,False
+250,entity word,description,24,False,False,False,{28: 1},[991],250,1,2,False
+101,entity instrument,description,24,False,False,False,{28: 1},[991],101,1,2,False
+283,entity instrument,description,24,False,False,False,{28: 1},[991],283,1,2,False
+165,entity word,description,24,False,False,False,{28: 1},[991],165,1,2,False
+169,entity creation,entity substance,18,False,False,False,{28: 1},[991],169,1,2,False
+277,entity substance,entity substance,18,False,True,False,{28: 1},[991],277,1,2,False
+167,human individual,human individual,29,False,True,False,{28: 1},[991],167,1,2,False
+332,location city,location city,32,False,True,False,{28: 1},[991],332,1,2,False
+97,human individual,human title,30,False,False,False,{28: 1},[991],97,1,2,False
+168,location city,location city,32,False,True,False,{28: 1},[991],168,1,2,False
+287,entity vehicle,entity vehicle,22,False,True,False,{28: 1},[991],287,1,2,False
+9,numeric weight,numeric weight,49,False,True,False,{28: 1},[991],9,1,2,False
+39,abbreviation abbreviation,description,24,False,False,False,{28: 1},[991],39,1,2,False
+136,entity currency,entity currency,6,False,True,False,{28: 1},[991],136,1,2,False
+159,entity substance,description,24,False,False,False,{28: 1},[991],159,1,2,False
+60,numeric size,numeric other,43,False,False,False,{28: 1},[991],60,1,2,False
+276,entity vehicle,human individual,29,False,False,False,{28: 1},[991],276,1,2,False
+228,human individual,human individual,29,False,True,False,{28: 1},[991],228,1,2,False
+157,entity creation,description,24,False,False,False,{28: 1},[991],157,1,2,False
+31,entity instrument,description,24,False,False,False,{28: 1},[991],31,1,2,False
+99,entity creation,description,24,False,False,False,{28: 1},[991],99,1,2,False
+312,entity substance,description,24,False,False,False,{28: 1},[991],312,1,2,False
+179,entity instrument,description,24,False,False,False,{28: 1},[991],179,1,2,False
+296,entity instrument,human individual,29,False,False,False,{28: 1},[991],296,1,2,False
+210,entity substance,location other,35,False,False,False,{28: 1},[991],210,1,2,False
+108,entity vehicle,human group,28,True,False,False,{28: 1},[991],108,1,2,False
+80,entity vehicle,entity plant,14,False,False,False,{28: 1},[991],80,1,2,False
+19,entity substance,description,24,False,False,False,{28: 1},[991],19,1,2,False
+265,entity creation,description,24,False,False,False,{28: 1},[991],265,1,2,False
+129,entity instrument,human individual,29,False,False,False,{28: 1},[991],129,1,2,False
+187,location other,location other,35,False,True,False,{28: 1},[991],187,1,2,False
+304,entity vehicle,human individual,29,False,False,False,{28: 1},[991],304,1,2,False
+118,entity creation,human individual,29,False,False,False,{28: 1},[991],118,1,2,False
+155,human individual,human individual,29,False,True,False,{28: 1},[991],155,1,2,False
+209,entity instrument,description,24,False,False,False,{28: 1},[991],209,1,2,False
+139,entity vehicle,location city,32,False,False,False,{28: 1},[991],139,1,2,False
+131,location city,location other,35,False,False,False,{28: 1},[991],131,1,2,False
+207,location city,location city,32,False,True,False,{28: 1},[991],207,1,2,False
+249,location country,location other,35,False,False,False,{28: 1},[991],249,1,2,False
+110,location city,location city,32,False,True,False,{28: 1},[991],110,1,2,False
+122,numeric distance,numeric distance,40,False,True,False,{28: 1},[991],122,1,2,False
+71,entity instrument,description,24,False,False,False,{28: 1},[991],71,1,2,False
+221,entity vehicle,entity vehicle,22,False,True,False,{28: 1},[991],221,1,2,False
+225,entity food,entity food,9,False,True,False,{28: 1},[991],225,1,2,False
+6,entity creation,description,24,False,False,False,{28: 1},[991],6,1,2,False
+186,entity substance,entity substance,18,False,True,False,{28: 1},[991],186,1,2,False
+175,entity instrument,human individual,29,False,False,False,{28: 1},[991],175,1,2,False
+288,entity creation,description,24,False,False,False,{28: 1},[991],288,1,2,False
+321,entity currency,entity currency,6,False,True,False,{28: 1},[991],321,1,2,False
+114,entity substance,description,24,False,False,False,{28: 1},[991],114,1,2,False
+248,entity food,entity food,9,False,True,False,{28: 1},[991],248,1,2,False
+226,entity word,description,24,False,False,False,{28: 1},[991],226,1,2,False
+302,entity substance,entity substance,18,False,True,False,{28: 1},[991],302,1,2,False
+77,entity creation,description,24,False,False,False,{28: 1},[991],77,1,2,False
+12,numeric temperature,entity substance,18,False,False,False,{28: 1},[991],12,1,2,False
+267,numeric money,numeric other,43,False,False,False,{28: 1},[991],267,1,2,False
+240,entity instrument,description,24,False,False,False,{28: 1},[991],240,1,2,False
+119,entity creation,description,24,False,False,False,{28: 1},[991],119,1,2,False
+22,location other,location other,35,False,True,False,{28: 1},[991],22,1,2,False
+181,entity creation,description,24,False,False,False,{28: 1},[991],181,1,2,False
+124,entity instrument,description,24,False,False,False,{28: 1},[991],124,1,2,False
+46,entity vehicle,description,24,False,False,False,{28: 1},[991],46,1,2,False
+133,numeric distance,numeric distance,40,False,True,False,{28: 1},[991],133,1,2,False
+247,entity creation,description,24,False,False,False,{28: 1},[991],247,1,2,False
+79,entity vehicle,human individual,29,False,False,False,{28: 1},[991],79,1,2,False
+259,entity substance,description,24,False,False,False,{28: 1},[991],259,1,2,False
+164,entity creation,location other,35,False,False,False,{28: 1},[991],164,1,2,False
+43,entity vehicle,human individual,29,False,False,False,{28: 1},[991],43,1,2,False
+163,entity substance,description,24,False,False,False,{28: 1},[991],163,1,2,False
+253,entity instrument,human individual,29,False,False,False,{28: 1},[991],253,1,2,False
+113,numeric size,description,24,False,False,False,{28: 1},[991],113,1,2,False
+44,entity vehicle,location other,35,False,False,False,{28: 1},[991],44,1,2,False
+26,numeric temperature,numeric temperature,47,False,True,False,{28: 1},[991],26,1,2,False
+20,entity creation,human individual,29,False,False,False,{28: 1},[991],20,1,2,False
+231,entity substance,description,24,False,False,False,{28: 1},[991],231,1,2,False
+333,numeric distance,numeric distance,40,False,True,False,{28: 1},[991],333,1,2,False
+270,abbreviation expansion,abbreviation expansion,1,False,True,False,{28: 1},[991],270,1,2,False
+301,entity creation,human individual,29,False,False,False,{28: 1},[991],301,1,2,False
+150,human group,description,24,False,False,True,{28: 1},[991],150,1,2,False
+160,location city,location other,35,False,False,False,{28: 1},[991],160,1,2,False
+297,entity vehicle,description,24,False,False,False,{28: 1},[991],297,1,2,False
+33,entity substance,description,24,False,False,False,{28: 1},[991],33,1,2,False
+116,location country,location other,35,False,False,False,{28: 1},[991],116,1,2,False
+96,entity creation,human individual,29,False,False,False,{28: 1},[991],96,1,2,False
+190,entity vehicle,description,24,False,False,False,{28: 1},[991],190,1,2,False
+156,entity food,description,24,False,False,False,{28: 1},[991],156,1,2,False
+50,location city,location city,32,False,True,False,{28: 1},[991],50,1,2,False
+182,entity creation,human individual,29,False,False,False,{28: 1},[991],182,1,2,False
+81,entity creation,human individual,29,False,False,False,{28: 1},[991],81,1,2,False
+328,entity substance,entity substance,18,False,True,False,{28: 1},[991],328,1,2,False
+222,numeric temperature,numeric other,43,False,False,False,{28: 1},[991],222,1,2,False
+340,entity word,description,24,False,False,False,{28: 1},[991],340,1,2,False
+42,location city,location city,32,False,True,False,{28: 1},[991],42,1,2,False
+198,numeric size,numeric other,43,False,False,False,{28: 1},[991],198,1,2,False
+51,entity creation,human individual,29,False,False,False,{28: 1},[991],51,1,2,False
+24,location country,location other,35,False,False,False,{28: 1},[991],24,1,2,False
+86,entity creation,human individual,29,False,False,False,{28: 1},[991],86,1,2,False
+154,entity creation,human individual,29,False,False,False,{28: 1},[991],154,1,2,False
+291,location city,location other,35,False,False,False,{28: 1},[991],291,1,2,False
+336,entity creation,description,24,False,False,False,{28: 1},[991],336,1,2,False
+260,entity creation,description,24,False,False,False,{28: 1},[991],260,1,2,False
+199,entity instrument,description,24,False,False,False,{28: 1},[991],199,1,2,False
+317,entity vehicle,description,24,False,False,False,{28: 1},[991],317,1,2,False
+275,entity creation,description,24,False,False,False,{28: 1},[991],275,1,2,False
+330,location city,location other,35,False,False,False,{28: 1},[991],330,1,2,False
+203,location city,location other,35,False,False,False,{28: 1},[991],203,1,2,False
+202,entity substance,description,24,False,False,False,{28: 1},[991],202,1,2,False
+227,numeric weight,numeric weight,49,False,True,False,{28: 1},[991],227,1,2,False
+319,entity food,description,24,False,False,False,{28: 1},[991],319,1,2,False
+125,location city,location other,35,False,False,False,{28: 1},[991],125,1,2,False

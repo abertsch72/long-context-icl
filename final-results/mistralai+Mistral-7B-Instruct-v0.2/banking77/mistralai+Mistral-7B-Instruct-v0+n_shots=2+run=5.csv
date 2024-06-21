@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+905,supported cards and currencies,supported,54,False,True,False,"{6: 1, 26: 1}","[3620, 333]",905,2,5,False
+1982,transaction charged twice,transaction,63,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1982,2,5,False
+2766,exchange rate,exchange charge,31,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2766,2,5,False
+2416,request refund,getting spare,39,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2416,2,5,False
+2895,atm support,cash withdrawal charge,19,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2895,2,5,False
+2137,pin blocked,change,21,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2137,2,5,False
+732,top up limits,top up limits,60,False,True,False,"{6: 1, 26: 1}","[3620, 333]",732,2,5,False
+1927,lost or stolen card,card swallowed,18,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1927,2,5,False
+945,request refund,getting virtual,40,False,False,False,"{6: 1, 26: 1}","[3620, 333]",945,2,5,False
+1942,card not working,card swallowed,18,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1942,2,5,False
+112,exchange rate,exchange rate,32,False,True,False,"{6: 1, 26: 1}","[3620, 333]",112,2,5,False
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2909,2,5,False
+965,card acceptance,card acceptance,10,False,True,False,"{6: 1, 26: 1}","[3620, 333]",965,2,5,False
+1465,card acceptance,atm,3,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1465,2,5,False
+1396,virtual card not working,dispos,29,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1396,2,5,False
+2152,change pin,change,21,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2152,2,5,False
+1159,change pin,edit,30,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1159,2,5,False
+976,card acceptance,card acceptance,10,False,True,False,"{6: 1, 26: 1}","[3620, 333]",976,2,5,False
+1518,request refund,direct,28,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1518,2,5,False
+1773,Refund not showing up,Ref,51,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1773,2,5,False
+1476,atm support,atm,3,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1476,2,5,False
+1477,card acceptance,atm,3,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1477,2,5,False
+237,atm support,pending cash,46,False,False,False,"{6: 1, 26: 1}","[3620, 333]",237,2,5,False
+2097,declined card payment,re,53,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2097,2,5,False
+2434,request refund,getting spare,39,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2434,2,5,False
+1349,transfer not received by recipient,to,62,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1349,2,5,False
+1625,pending transfer,pending card,45,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1625,2,5,False
+2675,card not working,top up failed,59,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2675,2,5,False
+274,supported cards and currencies,fi,36,False,False,False,"{6: 1, 26: 1}","[3620, 333]",274,2,5,False
+564,contactless not working,contact,23,False,True,False,"{6: 1, 26: 1}","[3620, 333]",564,2,5,False
+2482,card delivery estimate,order,43,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2482,2,5,False
+1685,request refund,request,52,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1685,2,5,False
+804,extra charge on statement,card payment fee,15,False,False,False,"{6: 1, 26: 1}","[3620, 333]",804,2,5,False
+2142,change pin,change,21,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2142,2,5,False
+2965,apple pay or google pay,apple,2,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2965,2,5,False
+2985,top up by card charge,apple,2,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2985,2,5,False
+1394,virtual card not working,dispos,29,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1394,2,5,False
+1103,card not working,card payment not,16,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1103,2,5,False
+2420,card delivery estimate,getting spare,39,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2420,2,5,False
+1875,pending transfer,pending transfer,48,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1875,2,5,False
+1146,change pin,edit,30,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1146,2,5,False
+1516,card not working,direct,28,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1516,2,5,False
+2805,card payment fee charged,top up by card,57,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2805,2,5,False
+2702,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2702,2,5,False
+2882,atm support,cash withdrawal charge,19,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2882,2,5,False
+2793,exchange rate,exchange charge,31,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2793,2,5,False
+241,supported cards and currencies,fi,36,False,False,False,"{6: 1, 26: 1}","[3620, 333]",241,2,5,False
+1068,cash withdrawal not recognised,balance not updated after che,6,True,False,False,"{6: 1, 26: 1}","[3620, 333]",1068,2,5,False
+494,age limit,age,1,False,True,False,"{6: 1, 26: 1}","[3620, 333]",494,2,5,False
+327,unable to verify identity,automatic,4,False,False,False,"{6: 1, 26: 1}","[3620, 333]",327,2,5,False
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{6: 1, 26: 1}","[3620, 333]",458,2,5,False
+428,exchange rate,exchange via,33,False,False,False,"{6: 1, 26: 1}","[3620, 333]",428,2,5,False
+1681,request refund,request,52,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1681,2,5,False
+2040,transfer timing,transfer timing,67,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2040,2,5,False
+2271,change pin,receiving,50,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2271,2,5,False
+2309,failed transfer,failed,35,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2309,2,5,False
+1819,declined card payment,declined card,25,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1819,2,5,False
+1538,passcode forgotten,pass,44,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1538,2,5,False
+1405,compromised card,comprom,22,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1405,2,5,False
+522,pin blocked,pin,49,False,True,False,"{6: 1, 26: 1}","[3620, 333]",522,2,5,False
+2230,transfer fee charged,transfer fee,64,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2230,2,5,False
+1626,pending transfer,pending card,45,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1626,2,5,False
+972,card acceptance,card acceptance,10,False,True,False,"{6: 1, 26: 1}","[3620, 333]",972,2,5,False
+2201,transfer fee charged,transfer fee,64,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2201,2,5,False
+1523,passcode forgotten,pass,44,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1523,2,5,False
+2629,request refund,get dispos,37,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2629,2,5,False
+1760,Refund not showing up,Ref,51,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1760,2,5,False
+1176,verify my identity,why,74,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1176,2,5,False
+68,card linking,card link,13,False,True,False,"{6: 1, 26: 1}","[3620, 333]",68,2,5,False
+1901,request refund,term,55,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1901,2,5,False
+2274,transfer not received by recipient,receiving,50,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2274,2,5,False
+2249,receiving money,receiving,50,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2249,2,5,False
+519,age limit,age,1,False,True,False,"{6: 1, 26: 1}","[3620, 333]",519,2,5,False
+2019,transaction charged twice,verify source,70,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2019,2,5,False
+2997,apple pay or google pay,apple,2,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2997,2,5,False
+744,top up limits,top up limits,60,False,True,False,"{6: 1, 26: 1}","[3620, 333]",744,2,5,False
+1377,disposable card limits,dispos,29,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1377,2,5,False
+893,request refund,supported,54,False,False,False,"{6: 1, 26: 1}","[3620, 333]",893,2,5,False
+1833,declined card payment,declined card,25,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1833,2,5,False
+1114,transaction charged twice,card payment not,16,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1114,2,5,False
+1899,request refund,term,55,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1899,2,5,False
+1059,pending transfer,balance not updated after che,6,True,False,False,"{6: 1, 26: 1}","[3620, 333]",1059,2,5,False
+1428,card not working,comprom,22,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1428,2,5,False
+1915,request refund,term,55,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1915,2,5,False
+826,card payment fee charged,card payment fee,15,False,True,False,"{6: 1, 26: 1}","[3620, 333]",826,2,5,False
+2580,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2580,2,5,False
+2132,change pin,change,21,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2132,2,5,False
+418,change pin,exchange via,33,False,False,False,"{6: 1, 26: 1}","[3620, 333]",418,2,5,False
+1601,pending transfer,pending card,45,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1601,2,5,False
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1645,2,5,False
+1610,transaction charged twice,pending card,45,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1610,2,5,False
+598,contactless not working,contact,23,False,True,False,"{6: 1, 26: 1}","[3620, 333]",598,2,5,False
+2992,apple pay or google pay,apple,2,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2992,2,5,False
+3017,verify my identity,verify my,69,False,True,False,"{6: 1, 26: 1}","[3620, 333]",3017,2,5,False
+2134,change pin,change,21,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2134,2,5,False
+2540,virtual card not working,virtual,72,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2540,2,5,False
+1505,direct debit payment not recognised,direct,28,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1505,2,5,False
+1093,transaction charged twice,card payment not,16,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1093,2,5,False
+863,transfer not received by recipient,transfer not,66,False,True,False,"{6: 1, 26: 1}","[3620, 333]",863,2,5,False
+1021,declined transfer,top up re,61,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1021,2,5,False
+754,top up limits,top up limits,60,False,True,False,"{6: 1, 26: 1}","[3620, 333]",754,2,5,False
+1364,request refund,dispos,29,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1364,2,5,False
+2301,transfer not received by recipient,failed,35,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2301,2,5,False
+1134,change pin,edit,30,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1134,2,5,False
+1186,pending card payment,why,74,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1186,2,5,False
+1774,Refund not showing up,Ref,51,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1774,2,5,False
+131,wrong exchange rate for cash withdrawal,card payment wrong,17,False,False,False,"{6: 1, 26: 1}","[3620, 333]",131,2,5,False
+902,card acceptance,supported,54,False,False,False,"{6: 1, 26: 1}","[3620, 333]",902,2,5,False
+2243,request refund,receiving,50,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2243,2,5,False
+2494,card delivery estimate,order,43,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2494,2,5,False
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2705,2,5,False
+592,contactless not working,contact,23,False,True,False,"{6: 1, 26: 1}","[3620, 333]",592,2,5,False
+2386,top up by card charge,verify top,71,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2386,2,5,False
+2800,card payment fee charged,top up by card,57,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2800,2,5,False
+949,virtual card not working,getting virtual,40,False,False,False,"{6: 1, 26: 1}","[3620, 333]",949,2,5,False
+448,card not working,lost or stolen card,41,False,False,False,"{6: 1, 26: 1}","[3620, 333]",448,2,5,False
+18,card not working,card arrival,11,False,False,False,"{6: 1, 26: 1}","[3620, 333]",18,2,5,False
+1348,transfer into account,to,62,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1348,2,5,False
+825,card payment fee charged,card payment fee,15,False,True,False,"{6: 1, 26: 1}","[3620, 333]",825,2,5,False
+362,card not working,card not,14,False,True,False,"{6: 1, 26: 1}","[3620, 333]",362,2,5,False
+1828,declined card payment,declined card,25,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1828,2,5,False
+1554,wrong amount of cash received,pass,44,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1554,2,5,False
+2568,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2568,2,5,False
+385,card not working,card not,14,False,True,False,"{6: 1, 26: 1}","[3620, 333]",385,2,5,False
+2911,change pin,cash withdrawal charge,19,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2911,2,5,False
+2305,transfer not received by recipient,failed,35,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2305,2,5,False
+2467,cash withdrawal not recognised,top up by cash,58,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2467,2,5,False
+1252,pin blocked,get physical,38,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1252,2,5,False
+2104,declined card payment,re,53,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2104,2,5,False
+2316,failed transfer,failed,35,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2316,2,5,False
+1595,cash withdrawal not recognised,declined cash,26,True,False,False,"{6: 1, 26: 1}","[3620, 333]",1595,2,5,False
+1673,lost or stolen phone,lost or stolen phone,42,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1673,2,5,False
+1856,transfer not received by recipient,pending transfer,48,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1856,2,5,False
+2106,Refund not showing up,re,53,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2106,2,5,False
+2527,virtual card not working,virtual,72,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2527,2,5,False
+2602,virtual card not working,get dispos,37,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2602,2,5,False
+1522,passcode forgotten,pass,44,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1522,2,5,False
+2713,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2713,2,5,False
+2519,request refund,order,43,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2519,2,5,False
+2504,request refund,order,43,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2504,2,5,False
+538,card not working,pin,49,False,False,False,"{6: 1, 26: 1}","[3620, 333]",538,2,5,False
+1635,pending transfer,pending card,45,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1635,2,5,False
+2383,top up failed,verify top,71,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2383,2,5,False
+1544,request refund,pass,44,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1544,2,5,False
+1883,request refund,term,55,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1883,2,5,False
+2493,request refund,order,43,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2493,2,5,False
+1877,pending transfer,pending transfer,48,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1877,2,5,False
+2998,top up by card charge,apple,2,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2998,2,5,False
+1717,request refund,request,52,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1717,2,5,False
+1372,request refund,dispos,29,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1372,2,5,False
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1671,2,5,False
+1793,lost or stolen card,Ref,51,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1793,2,5,False
+469,card not working,lost or stolen card,41,False,False,False,"{6: 1, 26: 1}","[3620, 333]",469,2,5,False
+2324,request refund,transfer into,65,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2324,2,5,False
+2202,transfer fee charged,transfer fee,64,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2202,2,5,False
+1383,request refund,dispos,29,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1383,2,5,False
+2333,transfer into account,transfer into,65,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2333,2,5,False
+2642,failed transfer,top up failed,59,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2642,2,5,False
+2726,transaction charged twice,cash withdrawal not,20,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2726,2,5,False
+227,pending cash withdrawal,pending cash,46,False,True,False,"{6: 1, 26: 1}","[3620, 333]",227,2,5,False
+749,top up limits,top up limits,60,False,True,False,"{6: 1, 26: 1}","[3620, 333]",749,2,5,False
+400,request refund,exchange via,33,False,False,False,"{6: 1, 26: 1}","[3620, 333]",400,2,5,False
+2711,pending transfer,balance not updated after bank,5,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2711,2,5,False
+59,card not working,card link,13,False,False,False,"{6: 1, 26: 1}","[3620, 333]",59,2,5,False
+1304,card payment not recognised,visa,73,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1304,2,5,False
+1474,atm support,atm,3,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1474,2,5,False
+2570,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2570,2,5,False
+1539,passcode forgotten,pass,44,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1539,2,5,False
+2302,failed transfer,failed,35,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2302,2,5,False
+305,request refund,card delivery,12,False,False,False,"{6: 1, 26: 1}","[3620, 333]",305,2,5,False
+713,request refund,cancel,8,False,False,False,"{6: 1, 26: 1}","[3620, 333]",713,2,5,False
+1398,disposable card limits,dispos,29,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1398,2,5,False
+1241,pin blocked,get physical,38,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1241,2,5,False
+271,exchange rate,fi,36,False,False,False,"{6: 1, 26: 1}","[3620, 333]",271,2,5,False
+1025,declined transfer,top up re,61,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1025,2,5,False
+470,lost or stolen card,lost or stolen card,41,False,True,False,"{6: 1, 26: 1}","[3620, 333]",470,2,5,False
+2779,exchange rate,exchange charge,31,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2779,2,5,False
+2417,request refund,getting spare,39,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2417,2,5,False
+1887,request refund,term,55,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1887,2,5,False
+1976,transaction charged twice,transaction,63,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1976,2,5,False
+917,supported cards and currencies,supported,54,False,True,False,"{6: 1, 26: 1}","[3620, 333]",917,2,5,False
+2649,failed transfer,top up failed,59,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2649,2,5,False
+735,top up limits,top up limits,60,False,True,False,"{6: 1, 26: 1}","[3620, 333]",735,2,5,False
+2927,request refund,card about,9,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2927,2,5,False
+1689,wrong amount of cash received,request,52,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1689,2,5,False
+64,reverted card payment?,card link,13,False,False,False,"{6: 1, 26: 1}","[3620, 333]",64,2,5,False
+1568,declined cash withdrawal,declined cash,26,True,True,False,"{6: 1, 26: 1}","[3620, 333]",1568,2,5,False
+1391,virtual card not working,dispos,29,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1391,2,5,False
+1744,declined transfer,declined transfer,27,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1744,2,5,False
+2821,card payment fee charged,top up by card,57,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2821,2,5,False
+1714,cancel transfer,request,52,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1714,2,5,False
+2350,transfer into account,transfer into,65,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2350,2,5,False
+1136,change pin,edit,30,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1136,2,5,False
+2704,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2704,2,5,False
+1298,request refund,visa,73,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1298,2,5,False
+1586,declined cash withdrawal,declined cash,26,True,True,False,"{6: 1, 26: 1}","[3620, 333]",1586,2,5,False
+1435,card not working,comprom,22,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1435,2,5,False
+1361,request refund,dispos,29,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1361,2,5,False
+1002,top up reverted,top up re,61,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1002,2,5,False
+1360,request refund,dispos,29,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1360,2,5,False
+2356,transfer fee charged,transfer into,65,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2356,2,5,False
+2289,failed transfer,failed,35,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2289,2,5,False
+1384,disposable card limits,dispos,29,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1384,2,5,False
+1210,failed transfer,unable,68,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1210,2,5,False
+2240,request refund,receiving,50,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2240,2,5,False
+1266,pin blocked,get physical,38,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1266,2,5,False
+2060,transfer timing,transfer timing,67,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2060,2,5,False
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{6: 1, 26: 1}","[3620, 333]",769,2,5,False
+979,card acceptance,card acceptance,10,False,True,False,"{6: 1, 26: 1}","[3620, 333]",979,2,5,False
+1237,unable to verify identity,unable,68,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1237,2,5,False
+1456,cash withdrawal not recognised,atm,3,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1456,2,5,False
+948,order physical card,getting virtual,40,False,False,False,"{6: 1, 26: 1}","[3620, 333]",948,2,5,False
+1261,card not working,get physical,38,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1261,2,5,False
+1752,unable to verify identity,declined transfer,27,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1752,2,5,False
+1862,transfer not received by recipient,pending transfer,48,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1862,2,5,False
+709,cancel transfer,cancel,8,False,True,False,"{6: 1, 26: 1}","[3620, 333]",709,2,5,False
+1981,transaction charged twice,transaction,63,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1981,2,5,False
+2746,card not working,cash withdrawal not,20,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2746,2,5,False
+3036,verify my identity,verify my,69,False,True,False,"{6: 1, 26: 1}","[3620, 333]",3036,2,5,False
+1501,request refund,direct,28,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1501,2,5,False
+2819,top up by card charge,top up by card,57,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2819,2,5,False
+2826,transaction charged twice,top up by card,57,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2826,2,5,False
+2723,transaction charged twice,cash withdrawal not,20,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2723,2,5,False
+1325,transfer into account,to,62,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1325,2,5,False
+2124,change pin,change,21,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2124,2,5,False
+1417,card not working,comprom,22,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1417,2,5,False
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{6: 1, 26: 1}","[3620, 333]",791,2,5,False
+2136,change pin,change,21,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2136,2,5,False
+1352,transfer not received by recipient,to,62,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1352,2,5,False
+2905,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2905,2,5,False
+2360,verify top up,verify top,71,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2360,2,5,False
+1319,visa or mastercard,visa,73,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1319,2,5,False
+1772,pending cash withdrawal,Ref,51,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1772,2,5,False
+217,pending cash withdrawal,pending cash,46,False,True,False,"{6: 1, 26: 1}","[3620, 333]",217,2,5,False
+1936,lost or stolen card,card swallowed,18,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1936,2,5,False
+2880,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2880,2,5,False
+402,exchange rate,exchange via,33,False,False,False,"{6: 1, 26: 1}","[3620, 333]",402,2,5,False
+1350,top up by bank transfer charge,to,62,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1350,2,5,False
+80,exchange rate,exchange rate,32,False,True,False,"{6: 1, 26: 1}","[3620, 333]",80,2,5,False
+1356,transaction charged twice,to,62,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1356,2,5,False
+2385,top up by cash or cheque,verify top,71,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2385,2,5,False
+2341,top up by cash or cheque,transfer into,65,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2341,2,5,False
+1869,pending transfer,pending transfer,48,False,True,False,"{6: 1, 26: 1}","[3620, 333]",1869,2,5,False
+2881,extra charge on statement,cash withdrawal charge,19,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2881,2,5,False
+1151,change pin,edit,30,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1151,2,5,False
+73,card linking,card link,13,False,True,False,"{6: 1, 26: 1}","[3620, 333]",73,2,5,False
+2264,transfer fee charged,receiving,50,False,False,False,"{6: 1, 26: 1}","[3620, 333]",2264,2,5,False
+1779,declined cash withdrawal,Ref,51,False,False,False,"{6: 1, 26: 1}","[3620, 333]",1779,2,5,False
+46,reverted card payment?,card link,13,False,False,False,"{6: 1, 26: 1}","[3620, 333]",46,2,5,False
+2898,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{6: 1, 26: 1}","[3620, 333]",2898,2,5,False

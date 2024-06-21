@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,transfer timing,receiving,50,False,False,False,{63: 1},[4826],1104,1,8,False
+472,card payment not recognised,get physical,38,False,False,False,{63: 1},[4826],472,1,8,False
+1453,card about to expire,card about,9,False,True,False,{63: 1},[4826],1453,1,8,False
+836,pending transfer,pending transfer,48,False,True,False,{63: 1},[4826],836,1,8,False
+939,card payment wrong exchange rate,transaction,63,True,False,False,{63: 1},[4826],939,1,8,False
+706,request refund,request,52,False,True,False,{63: 1},[4826],706,1,8,False
+381,verify my identity,why,74,False,False,False,{63: 1},[4826],381,1,8,False
+1078,cancel transfer,re,53,False,False,False,{63: 1},[4826],1078,1,8,False
+451,get physical card,get physical,38,False,True,False,{63: 1},[4826],451,1,8,False
+1467,request refund,card about,9,False,False,False,{63: 1},[4826],1467,1,8,False
+649,verify my identity,direct,28,False,False,False,{63: 1},[4826],649,1,8,False
+771,transaction charged twice,Ref,51,False,False,False,{63: 1},[4826],771,1,8,False
+1279,request refund,get dispos,37,False,False,False,{63: 1},[4826],1279,1,8,False
+657,transaction charged twice,direct,28,False,False,False,{63: 1},[4826],657,1,8,False
+67,get physical card,fi,36,False,False,False,{63: 1},[4826],67,1,8,False
+770,request refund,Ref,51,False,False,False,{63: 1},[4826],770,1,8,False
+678,request refund,direct,28,False,False,False,{63: 1},[4826],678,1,8,False
+954,transaction charged twice,transaction,63,True,True,False,{63: 1},[4826],954,1,8,False
+916,atm support,card swallowed,18,False,False,False,{63: 1},[4826],916,1,8,False
+1222,request refund,order,43,False,False,False,{63: 1},[4826],1222,1,8,False
+601,atm support,atm,3,False,True,False,{63: 1},[4826],601,1,8,False
+241,cancel transfer,cancel,8,False,True,False,{63: 1},[4826],241,1,8,False
+1316,transfer timing,balance,5,False,False,False,{63: 1},[4826],1316,1,8,False
+1229,card payment not recognised,order,43,False,False,False,{63: 1},[4826],1229,1,8,False
+1004,transaction charged twice,transfer,67,False,False,False,{63: 1},[4826],1004,1,8,False
+1130,transfer timing,failed,35,False,False,False,{63: 1},[4826],1130,1,8,False
+106,card not working,card not,14,False,True,False,{63: 1},[4826],106,1,8,False
+1041,transaction charged twice,re,53,False,False,False,{63: 1},[4826],1041,1,8,False
+455,card payment not recognised,get physical,38,False,False,False,{63: 1},[4826],455,1,8,False
+1380,top up by card charge,top,57,False,True,False,{63: 1},[4826],1380,1,8,False
+327,card payment not recognised,card payment not,16,False,True,False,{63: 1},[4826],327,1,8,False
+742,transaction charged twice,declined,27,False,False,False,{63: 1},[4826],742,1,8,False
+1439,activate my card,activate,0,False,True,False,{63: 1},[4826],1439,1,8,False
+938,transaction charged twice,transaction,63,True,True,False,{63: 1},[4826],938,1,8,False
+404,failed transfer,unable,68,False,False,False,{63: 1},[4826],404,1,8,False
+1212,card payment not recognised,order,43,False,False,False,{63: 1},[4826],1212,1,8,False
+756,card not working,declined,27,False,False,False,{63: 1},[4826],756,1,8,False
+1181,verify top up,verify top,71,False,True,False,{63: 1},[4826],1181,1,8,False
+122,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],122,1,8,False
+1517,verify my identity,verify my,69,False,True,False,{63: 1},[4826],1517,1,8,False
+227,transaction charged twice,pending top,47,False,False,False,{63: 1},[4826],227,1,8,False
+1321,exchange charge,exchange charge,31,False,True,False,{63: 1},[4826],1321,1,8,False
+396,verify my identity,why,74,False,False,False,{63: 1},[4826],396,1,8,False
+997,transaction charged twice,verify source,70,False,False,False,{63: 1},[4826],997,1,8,False
+924,transaction charged twice,transaction,63,True,True,False,{63: 1},[4826],924,1,8,False
+245,cancel transfer,cancel,8,False,True,False,{63: 1},[4826],245,1,8,False
+180,contactless not working,contact,23,False,True,False,{63: 1},[4826],180,1,8,False
+1170,verify top up,verify top,71,False,True,False,{63: 1},[4826],1170,1,8,False
+665,direct debit payment not recognised,direct,28,False,True,False,{63: 1},[4826],665,1,8,False
+1026,transfer timing,transfer,67,False,True,False,{63: 1},[4826],1026,1,8,False
+769,Refund not showing up,Ref,51,False,True,False,{63: 1},[4826],769,1,8,False
+1063,transaction charged twice,re,53,False,False,False,{63: 1},[4826],1063,1,8,False
+422,verify my identity,unable,68,False,False,False,{63: 1},[4826],422,1,8,False
+131,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],131,1,8,False
+154,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],154,1,8,False
+459,card payment not recognised,get physical,38,False,False,False,{63: 1},[4826],459,1,8,False
+374,verify my identity,why,74,False,False,False,{63: 1},[4826],374,1,8,False
+15,wrong amount of cash received,card payment wrong,17,False,False,False,{63: 1},[4826],15,1,8,False
+1254,request refund,get dispos,37,False,False,False,{63: 1},[4826],1254,1,8,False
+196,contactless not working,contact,23,False,True,False,{63: 1},[4826],196,1,8,False
+523,request refund,dispos,29,False,False,False,{63: 1},[4826],523,1,8,False
+527,card payment not recognised,dispos,29,False,False,False,{63: 1},[4826],527,1,8,False
+385,request refund,why,74,False,False,False,{63: 1},[4826],385,1,8,False
+616,atm support,atm,3,False,True,False,{63: 1},[4826],616,1,8,False
+869,request refund,term,55,False,False,False,{63: 1},[4826],869,1,8,False
+1095,get physical card,receiving,50,False,False,False,{63: 1},[4826],1095,1,8,False
+1406,activate my card,activate,0,False,True,False,{63: 1},[4826],1406,1,8,False
+1368,card payment not recognised,top,57,False,False,False,{63: 1},[4826],1368,1,8,False
+347,transaction charged twice,card payment not,16,False,False,False,{63: 1},[4826],347,1,8,False
+430,verify my identity,unable,68,False,False,False,{63: 1},[4826],430,1,8,False
+293,transaction charged twice,wrong,75,False,False,False,{63: 1},[4826],293,1,8,False
+474,card not working,get physical,38,False,False,False,{63: 1},[4826],474,1,8,False
+136,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],136,1,8,False
+781,transaction charged twice,Ref,51,False,False,False,{63: 1},[4826],781,1,8,False
+1019,transfer timing,transfer,67,False,True,False,{63: 1},[4826],1019,1,8,False
+1485,verify my identity,verify my,69,False,True,False,{63: 1},[4826],1485,1,8,False
+738,transfer timing,declined,27,False,False,False,{63: 1},[4826],738,1,8,False
+902,card not working,card swallowed,18,False,False,False,{63: 1},[4826],902,1,8,False
+723,transaction charged twice,declined,27,False,False,False,{63: 1},[4826],723,1,8,False
+87,card payment not recognised,card not,14,False,False,False,{63: 1},[4826],87,1,8,False
+1185,top up by card charge,verify top,71,False,False,False,{63: 1},[4826],1185,1,8,False
+744,transfer timing,declined,27,False,False,False,{63: 1},[4826],744,1,8,False
+727,transaction charged twice,declined,27,False,False,False,{63: 1},[4826],727,1,8,False
+858,cancel transfer,term,55,False,False,False,{63: 1},[4826],858,1,8,False
+358,transaction charged twice,card payment not,16,False,False,False,{63: 1},[4826],358,1,8,False
+1294,transfer timing,balance,5,False,False,False,{63: 1},[4826],1294,1,8,False
+517,top up by card charge,to,62,False,False,False,{63: 1},[4826],517,1,8,False
+301,transaction charged twice,wrong,75,False,False,False,{63: 1},[4826],301,1,8,False
+805,transfer timing,pending transfer,48,False,False,False,{63: 1},[4826],805,1,8,False
+1367,card payment not recognised,top,57,False,False,False,{63: 1},[4826],1367,1,8,False
+552,disposable card limits,dispos,29,False,True,False,{63: 1},[4826],552,1,8,False
+240,request refund,cancel,8,False,False,False,{63: 1},[4826],240,1,8,False
+1418,unable to verify identity,activate,0,False,False,False,{63: 1},[4826],1418,1,8,False
+202,top up by card charge,pending top,47,False,False,False,{63: 1},[4826],202,1,8,False
+1044,transaction charged twice,re,53,False,False,False,{63: 1},[4826],1044,1,8,False
+1509,verify my identity,verify my,69,False,True,False,{63: 1},[4826],1509,1,8,False
+286,atm support,wrong,75,False,False,False,{63: 1},[4826],286,1,8,False
+1335,exchange charge,exchange charge,31,False,True,False,{63: 1},[4826],1335,1,8,False
+513,top up by card charge,to,62,False,False,False,{63: 1},[4826],513,1,8,False
+458,unable to verify identity,get physical,38,False,False,False,{63: 1},[4826],458,1,8,False
+806,pending transfer,pending transfer,48,False,True,False,{63: 1},[4826],806,1,8,False
+292,wrong amount of cash received,wrong,75,False,True,False,{63: 1},[4826],292,1,8,False
+580,card not working,comprom,22,False,False,False,{63: 1},[4826],580,1,8,False
+128,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],128,1,8,False
+308,atm support,wrong,75,False,False,False,{63: 1},[4826],308,1,8,False
+457,card not working,get physical,38,False,False,False,{63: 1},[4826],457,1,8,False
+178,contactless not working,contact,23,False,True,False,{63: 1},[4826],178,1,8,False
+624,atm support,atm,3,False,True,False,{63: 1},[4826],624,1,8,False
+26,wrong amount of cash received,card payment wrong,17,False,False,False,{63: 1},[4826],26,1,8,False
+1276,request refund,get dispos,37,False,False,False,{63: 1},[4826],1276,1,8,False
+837,transfer timing,pending transfer,48,False,False,False,{63: 1},[4826],837,1,8,False
+1175,top up by card charge,verify top,71,False,False,False,{63: 1},[4826],1175,1,8,False
+553,disposable card limits,dispos,29,False,True,False,{63: 1},[4826],553,1,8,False
+446,card payment not recognised,get physical,38,False,False,False,{63: 1},[4826],446,1,8,False
+1117,request refund,receiving,50,False,False,False,{63: 1},[4826],1117,1,8,False
+214,request refund,pending top,47,False,False,False,{63: 1},[4826],214,1,8,False
+964,transaction charged twice,verify source,70,False,False,False,{63: 1},[4826],964,1,8,False
+421,unable to verify identity,unable,68,False,True,False,{63: 1},[4826],421,1,8,False
+610,atm support,atm,3,False,True,False,{63: 1},[4826],610,1,8,False
+191,contactless not working,contact,23,False,True,False,{63: 1},[4826],191,1,8,False
+666,transaction charged twice,direct,28,False,False,False,{63: 1},[4826],666,1,8,False
+850,cancel transfer,term,55,False,False,False,{63: 1},[4826],850,1,8,False
+1083,get physical card,receiving,50,False,False,False,{63: 1},[4826],1083,1,8,False
+1106,transfer timing,receiving,50,False,False,False,{63: 1},[4826],1106,1,8,False
+914,atm support,card swallowed,18,False,False,False,{63: 1},[4826],914,1,8,False
+504,transaction charged twice,to,62,False,False,False,{63: 1},[4826],504,1,8,False
+145,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],145,1,8,False
+1307,transaction charged twice,balance,5,False,False,False,{63: 1},[4826],1307,1,8,False
+337,transaction charged twice,card payment not,16,False,False,False,{63: 1},[4826],337,1,8,False
+960,verify source of funds,verify source,70,False,True,False,{63: 1},[4826],960,1,8,False
+1013,transfer timing,transfer,67,False,True,False,{63: 1},[4826],1013,1,8,False
+1486,verify my identity,verify my,69,False,True,False,{63: 1},[4826],1486,1,8,False
+394,verify my identity,why,74,False,False,False,{63: 1},[4826],394,1,8,False
+1244,get physical card,get dispos,37,False,False,False,{63: 1},[4826],1244,1,8,False
+69,fiat currency support,fi,36,False,True,False,{63: 1},[4826],69,1,8,False
+395,verify my identity,why,74,False,False,False,{63: 1},[4826],395,1,8,False
+789,transaction charged twice,Ref,51,False,False,False,{63: 1},[4826],789,1,8,False
+1331,exchange charge,exchange charge,31,False,True,False,{63: 1},[4826],1331,1,8,False
+490,transaction charged twice,to,62,False,False,False,{63: 1},[4826],490,1,8,False
+675,request refund,direct,28,False,False,False,{63: 1},[4826],675,1,8,False
+644,verify my identity,direct,28,False,False,False,{63: 1},[4826],644,1,8,False
+816,transfer timing,pending transfer,48,False,False,False,{63: 1},[4826],816,1,8,False
+980,balance not updated after bank transfer,verify source,70,False,False,False,{63: 1},[4826],980,1,8,False
+971,balance not updated after bank transfer,verify source,70,False,False,False,{63: 1},[4826],971,1,8,False
+531,disposable card limits,dispos,29,False,True,False,{63: 1},[4826],531,1,8,False
+790,Refund not showing up,Ref,51,False,True,False,{63: 1},[4826],790,1,8,False
+260,request refund,cancel,8,False,False,False,{63: 1},[4826],260,1,8,False
+431,unable to verify identity,unable,68,False,True,False,{63: 1},[4826],431,1,8,False
+481,transaction charged twice,to,62,False,False,False,{63: 1},[4826],481,1,8,False
+563,card not working,comprom,22,False,False,False,{63: 1},[4826],563,1,8,False
+72,fiat currency support,fi,36,False,True,False,{63: 1},[4826],72,1,8,False
+112,card not working,card not,14,False,True,False,{63: 1},[4826],112,1,8,False
+387,verify my identity,why,74,False,False,False,{63: 1},[4826],387,1,8,False
+1039,balance not updated after bank transfer,transfer,67,False,False,False,{63: 1},[4826],1039,1,8,False
+1401,activate my card,activate,0,False,True,False,{63: 1},[4826],1401,1,8,False
+967,transaction charged twice,verify source,70,False,False,False,{63: 1},[4826],967,1,8,False
+314,transaction charged twice,wrong,75,False,False,False,{63: 1},[4826],314,1,8,False
+890,atm support,card swallowed,18,False,False,False,{63: 1},[4826],890,1,8,False
+454,card payment not recognised,get physical,38,False,False,False,{63: 1},[4826],454,1,8,False
+479,get physical card,get physical,38,False,True,False,{63: 1},[4826],479,1,8,False
+647,direct debit payment not recognised,direct,28,False,True,False,{63: 1},[4826],647,1,8,False
+23,exchange charge,card payment wrong,17,False,False,False,{63: 1},[4826],23,1,8,False
+1213,request refund,order,43,False,False,False,{63: 1},[4826],1213,1,8,False
+1215,card payment not recognised,order,43,False,False,False,{63: 1},[4826],1215,1,8,False
+1349,exchange charge,exchange charge,31,False,True,False,{63: 1},[4826],1349,1,8,False
+263,cancel transfer,cancel,8,False,True,False,{63: 1},[4826],263,1,8,False
+48,fiat currency support,fi,36,False,True,False,{63: 1},[4826],48,1,8,False
+287,atm support,wrong,75,False,False,False,{63: 1},[4826],287,1,8,False
+849,request refund,term,55,False,False,False,{63: 1},[4826],849,1,8,False
+1352,transaction charged twice,exchange charge,31,False,False,False,{63: 1},[4826],1352,1,8,False
+329,transaction charged twice,card payment not,16,False,False,False,{63: 1},[4826],329,1,8,False
+1438,activate my card,activate,0,False,True,False,{63: 1},[4826],1438,1,8,False
+29,wrong amount of cash received,card payment wrong,17,False,False,False,{63: 1},[4826],29,1,8,False
+235,transaction charged twice,pending top,47,False,False,False,{63: 1},[4826],235,1,8,False
+524,request refund,dispos,29,False,False,False,{63: 1},[4826],524,1,8,False
+372,request refund,why,74,False,False,False,{63: 1},[4826],372,1,8,False
+127,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],127,1,8,False
+1277,disposable card limits,get dispos,37,False,False,False,{63: 1},[4826],1277,1,8,False
+540,disposable card limits,dispos,29,False,True,False,{63: 1},[4826],540,1,8,False
+882,unable to verify identity,card swallowed,18,False,False,False,{63: 1},[4826],882,1,8,False
+589,card not working,comprom,22,False,False,False,{63: 1},[4826],589,1,8,False
+229,top up by card charge,pending top,47,False,False,False,{63: 1},[4826],229,1,8,False
+874,cancel transfer,term,55,False,False,False,{63: 1},[4826],874,1,8,False
+625,atm support,atm,3,False,True,False,{63: 1},[4826],625,1,8,False
+1195,verify top up,verify top,71,False,True,False,{63: 1},[4826],1195,1,8,False
+819,transfer timing,pending transfer,48,False,False,False,{63: 1},[4826],819,1,8,False
+1285,transfer timing,balance,5,False,False,False,{63: 1},[4826],1285,1,8,False
+677,wrong amount of cash received,direct,28,False,False,False,{63: 1},[4826],677,1,8,False
+203,top up by card charge,pending top,47,False,False,False,{63: 1},[4826],203,1,8,False
+870,cancel transfer,term,55,False,False,False,{63: 1},[4826],870,1,8,False
+695,order physical card,request,52,False,False,False,{63: 1},[4826],695,1,8,False
+219,transaction charged twice,pending top,47,False,False,False,{63: 1},[4826],219,1,8,False
+189,contactless not working,contact,23,False,True,False,{63: 1},[4826],189,1,8,False
+382,transaction charged twice,why,74,False,False,False,{63: 1},[4826],382,1,8,False
+1139,transfer timing,failed,35,False,False,False,{63: 1},[4826],1139,1,8,False
+976,verify my identity,verify source,70,False,False,False,{63: 1},[4826],976,1,8,False
+641,transaction charged twice,direct,28,False,False,False,{63: 1},[4826],641,1,8,False
+733,transaction charged twice,declined,27,False,False,False,{63: 1},[4826],733,1,8,False
+848,cancel transfer,term,55,False,False,False,{63: 1},[4826],848,1,8,False
+1353,exchange charge,exchange charge,31,False,True,False,{63: 1},[4826],1353,1,8,False
+798,request refund,Ref,51,False,False,False,{63: 1},[4826],798,1,8,False
+1329,exchange charge,exchange charge,31,False,True,False,{63: 1},[4826],1329,1,8,False
+114,card not working,card not,14,False,True,False,{63: 1},[4826],114,1,8,False
+1396,transfer timing,top,57,False,False,False,{63: 1},[4826],1396,1,8,False
+34,wrong amount of cash received,card payment wrong,17,False,False,False,{63: 1},[4826],34,1,8,False
+965,request refund,verify source,70,False,False,False,{63: 1},[4826],965,1,8,False
+1226,card payment not recognised,order,43,False,False,False,{63: 1},[4826],1226,1,8,False
+439,verify my identity,unable,68,False,False,False,{63: 1},[4826],439,1,8,False
+1411,card payment not recognised,activate,0,False,False,False,{63: 1},[4826],1411,1,8,False
+1218,card payment not recognised,order,43,False,False,False,{63: 1},[4826],1218,1,8,False
+865,cancel transfer,term,55,False,False,False,{63: 1},[4826],865,1,8,False
+703,request refund,request,52,False,True,False,{63: 1},[4826],703,1,8,False
+1362,transaction charged twice,top,57,False,False,False,{63: 1},[4826],1362,1,8,False
+642,direct debit payment not recognised,direct,28,False,True,False,{63: 1},[4826],642,1,8,False
+1166,top up by card charge,verify top,71,False,False,False,{63: 1},[4826],1166,1,8,False
+796,request refund,Ref,51,False,False,False,{63: 1},[4826],796,1,8,False
+896,atm support,card swallowed,18,False,False,False,{63: 1},[4826],896,1,8,False
+36,exchange charge,card payment wrong,17,False,False,False,{63: 1},[4826],36,1,8,False
+1278,disposable card limits,get dispos,37,False,False,False,{63: 1},[4826],1278,1,8,False
+326,transaction charged twice,card payment not,16,False,False,False,{63: 1},[4826],326,1,8,False
+688,request refund,request,52,False,True,False,{63: 1},[4826],688,1,8,False
+1508,verify my identity,verify my,69,False,True,False,{63: 1},[4826],1508,1,8,False
+990,transaction charged twice,verify source,70,False,False,False,{63: 1},[4826],990,1,8,False
+316,transaction charged twice,wrong,75,False,False,False,{63: 1},[4826],316,1,8,False
+1082,request refund,receiving,50,False,False,False,{63: 1},[4826],1082,1,8,False
+1096,transfer timing,receiving,50,False,False,False,{63: 1},[4826],1096,1,8,False
+784,request refund,Ref,51,False,False,False,{63: 1},[4826],784,1,8,False
+840,request refund,term,55,False,False,False,{63: 1},[4826],840,1,8,False
+190,contactless not working,contact,23,False,True,False,{63: 1},[4826],190,1,8,False
+843,request refund,term,55,False,False,False,{63: 1},[4826],843,1,8,False
+1025,transfer timing,transfer,67,False,True,False,{63: 1},[4826],1025,1,8,False
+99,card not working,card not,14,False,True,False,{63: 1},[4826],99,1,8,False
+548,request refund,dispos,29,False,False,False,{63: 1},[4826],548,1,8,False
+1022,transaction charged twice,transfer,67,False,False,False,{63: 1},[4826],1022,1,8,False
+140,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],140,1,8,False
+621,atm support,atm,3,False,True,False,{63: 1},[4826],621,1,8,False
+919,card not working,card swallowed,18,False,False,False,{63: 1},[4826],919,1,8,False
+975,verify source of funds,verify source,70,False,True,False,{63: 1},[4826],975,1,8,False
+134,exchange charge,exchange via,33,False,False,False,{63: 1},[4826],134,1,8,False
+1142,transfer timing,failed,35,False,False,False,{63: 1},[4826],1142,1,8,False
+408,unable to verify identity,unable,68,False,True,False,{63: 1},[4826],408,1,8,False
+757,transfer timing,declined,27,False,False,False,{63: 1},[4826],757,1,8,False
+1034,transfer timing,transfer,67,False,True,False,{63: 1},[4826],1034,1,8,False
+925,transaction charged twice,transaction,63,True,True,False,{63: 1},[4826],925,1,8,False
+974,verify source of funds,verify source,70,False,True,False,{63: 1},[4826],974,1,8,False
+961,request refund,verify source,70,False,False,False,{63: 1},[4826],961,1,8,False
+759,transaction charged twice,declined,27,False,False,False,{63: 1},[4826],759,1,8,False
+510,top up by card charge,to,62,False,False,False,{63: 1},[4826],510,1,8,False
+868,cancel transfer,term,55,False,False,False,{63: 1},[4826],868,1,8,False
+1444,card about to expire,card about,9,False,True,False,{63: 1},[4826],1444,1,8,False

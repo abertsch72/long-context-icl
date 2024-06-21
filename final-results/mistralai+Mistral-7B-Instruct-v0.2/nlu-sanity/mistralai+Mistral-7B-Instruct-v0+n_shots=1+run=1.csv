@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+7726,general repeat,general repeat,28,True,True,True,{28: 1},[7726],7726,1,1,False
+9458,calendar set,calendar set,9,False,True,False,{28: 1},[7726],9458,1,1,False
+13221,general repeat,lists query,39,False,False,True,{28: 1},[7726],13221,1,1,False
+15313,calendar set,calendar set,9,False,True,False,{28: 1},[7726],15313,1,1,False
+449,general repeat,general explain,22,False,False,True,{28: 1},[7726],449,1,1,False
+548,general command stop,iot hue light off,33,False,False,False,{28: 1},[7726],548,1,1,False
+8350,weather query,weather,67,False,True,False,{28: 1},[7726],8350,1,1,False
+324,email sendemail,email send,17,False,True,False,{28: 1},[7726],324,1,1,False
+558,play audiobook,play aud,46,False,True,False,{28: 1},[7726],558,1,1,False
+10515,general repeat,general dont,21,False,False,True,{28: 1},[7726],10515,1,1,False
+7064,general repeat,play podcast,49,False,False,True,{28: 1},[7726],7064,1,1,False
+17667,social post,social post,59,False,True,False,{28: 1},[7726],17667,1,1,False
+18102,general repeat,transport query,63,False,False,True,{28: 1},[7726],18102,1,1,False
+6471,general repeat,qa fact,53,False,False,True,{28: 1},[7726],6471,1,1,False
+14216,general repeat,social post,59,False,False,True,{28: 1},[7726],14216,1,1,False
+18436,general repeat,general affirm,18,False,False,True,{28: 1},[7726],18436,1,1,False
+3807,general repeat,social query,60,False,False,True,{28: 1},[7726],3807,1,1,False
+12485,weather query,general qu,27,False,False,False,{28: 1},[7726],12485,1,1,False
+7997,general repeat,general explain,22,False,False,True,{28: 1},[7726],7997,1,1,False
+1989,takeaway order,takeaway order,61,False,True,False,{28: 1},[7726],1989,1,1,False
+6088,general repeat,calendar set,9,False,False,True,{28: 1},[7726],6088,1,1,False
+4104,general repeat,general confirm,20,False,False,True,{28: 1},[7726],4104,1,1,False
+18448,general repeat,transport taxi,64,False,False,True,{28: 1},[7726],18448,1,1,False
+14798,email sendemail,email send,17,False,True,False,{28: 1},[7726],14798,1,1,False
+17807,general command stop,iot hue light change,31,False,False,False,{28: 1},[7726],17807,1,1,False
+1365,news query,news,45,False,True,False,{28: 1},[7726],1365,1,1,False
+12574,alarm query,alarm query,0,False,True,False,{28: 1},[7726],12574,1,1,False
+9323,calendar query,calendar query,7,False,True,False,{28: 1},[7726],9323,1,1,False
+7642,general repeat,audio volume m,4,False,False,True,{28: 1},[7726],7642,1,1,False
+13768,music settings,audio volume down,3,False,False,False,{28: 1},[7726],13768,1,1,False
+14770,news query,news,45,False,True,False,{28: 1},[7726],14770,1,1,False
+4040,calendar remove,calendar remove,8,False,True,False,{28: 1},[7726],4040,1,1,False
+6090,general repeat,general dont,21,False,False,True,{28: 1},[7726],6090,1,1,False
+1363,general command stop,iot hue light up,35,False,False,False,{28: 1},[7726],1363,1,1,False
+18657,lists query,lists query,39,False,True,False,{28: 1},[7726],18657,1,1,False
+11496,email sendemail,email send,17,False,True,False,{28: 1},[7726],11496,1,1,False
+13725,calendar query,recommendation events,56,False,False,False,{28: 1},[7726],13725,1,1,False
+7508,cooking recipe,cooking recipe,11,False,True,False,{28: 1},[7726],7508,1,1,False
+7742,datetime query,datetime query,13,False,True,False,{28: 1},[7726],7742,1,1,False
+2032,general repeat,general confirm,20,False,False,True,{28: 1},[7726],2032,1,1,False
+11162,general repeat,general praise,26,False,False,True,{28: 1},[7726],11162,1,1,False
+17499,general repeat,qa fact,53,False,False,True,{28: 1},[7726],17499,1,1,False
+2556,play music,play aud,46,False,False,False,{28: 1},[7726],2556,1,1,False
+12712,general repeat,general affirm,18,False,False,True,{28: 1},[7726],12712,1,1,False
+7831,play podcasts,play aud,46,False,False,False,{28: 1},[7726],7831,1,1,False
+12005,takeaway order,takeaway order,61,False,True,False,{28: 1},[7726],12005,1,1,False
+12878,general repeat,general neg,25,False,False,True,{28: 1},[7726],12878,1,1,False
+8236,news query,news,45,False,True,False,{28: 1},[7726],8236,1,1,False
+15286,general repeat,general praise,26,False,False,True,{28: 1},[7726],15286,1,1,False
+12453,calendar set,calendar set,9,False,True,False,{28: 1},[7726],12453,1,1,False
+5848,cooking recipe,cooking recipe,11,False,True,False,{28: 1},[7726],5848,1,1,False
+6541,cooking recipe,cooking recipe,11,False,True,False,{28: 1},[7726],6541,1,1,False
+19159,general repeat,qa math,54,False,False,True,{28: 1},[7726],19159,1,1,False
+2373,email query,email query,15,False,True,False,{28: 1},[7726],2373,1,1,False
+4581,general repeat,general repeat,28,True,True,True,{28: 1},[7726],4581,1,1,False
+5946,calendar query,calendar set,9,False,False,False,{28: 1},[7726],5946,1,1,False
+15185,weather query,weather,67,False,True,False,{28: 1},[7726],15185,1,1,False
+16559,email query,email query,15,False,True,False,{28: 1},[7726],16559,1,1,False
+15284,music query,play music,48,False,False,False,{28: 1},[7726],15284,1,1,False
+19053,general repeat,qa fact,53,False,False,True,{28: 1},[7726],19053,1,1,False
+15953,calendar query,calendar remove,8,False,False,False,{28: 1},[7726],15953,1,1,False
+1386,general repeat,general neg,25,False,False,True,{28: 1},[7726],1386,1,1,False
+6820,general repeat,general qu,27,False,False,True,{28: 1},[7726],6820,1,1,False
+12068,iot wemo on,transport query,63,False,False,False,{28: 1},[7726],12068,1,1,False
+14745,play game,play game,47,False,True,False,{28: 1},[7726],14745,1,1,False
+12070,calendar set,calendar set,9,False,True,False,{28: 1},[7726],12070,1,1,False
+14578,iot wemo on,qa stock,55,False,False,False,{28: 1},[7726],14578,1,1,False
+9474,weather query,transport traffic,66,False,False,False,{28: 1},[7726],9474,1,1,False
+13932,music query,play music,48,False,False,False,{28: 1},[7726],13932,1,1,False
+13344,calendar set,calendar set,9,False,True,False,{28: 1},[7726],13344,1,1,False
+8340,email sendemail,email send,17,False,True,False,{28: 1},[7726],8340,1,1,False
+9165,music query,lists remove,40,False,False,False,{28: 1},[7726],9165,1,1,False
+18179,general repeat,general neg,25,False,False,True,{28: 1},[7726],18179,1,1,False
+4076,general repeat,general neg,25,False,False,True,{28: 1},[7726],4076,1,1,False
+19008,general repeat,email query contact,16,False,False,True,{28: 1},[7726],19008,1,1,False
+6284,general repeat,general qu,27,False,False,True,{28: 1},[7726],6284,1,1,False
+1654,email query,email query,15,False,True,False,{28: 1},[7726],1654,1,1,False
+14462,play music,play music,48,False,True,False,{28: 1},[7726],14462,1,1,False
+16199,weather query,qa fact,53,False,False,False,{28: 1},[7726],16199,1,1,False
+17573,calendar set,calendar set,9,False,True,False,{28: 1},[7726],17573,1,1,False
+18459,play podcasts,play podcast,49,False,True,False,{28: 1},[7726],18459,1,1,False
+12588,general repeat,iot cleaning,29,False,False,True,{28: 1},[7726],12588,1,1,False
+11587,social post,social post,59,False,True,False,{28: 1},[7726],11587,1,1,False
+14411,calendar query,calendar query,7,False,True,False,{28: 1},[7726],14411,1,1,False
+7316,alarm set,alarm set,2,False,True,False,{28: 1},[7726],7316,1,1,False
+7021,calendar remove,calendar remove,8,False,True,False,{28: 1},[7726],7021,1,1,False
+14464,news query,news,45,False,True,False,{28: 1},[7726],14464,1,1,False
+18084,general repeat,general qu,27,False,False,True,{28: 1},[7726],18084,1,1,False
+13337,alarm set,alarm set,2,False,True,False,{28: 1},[7726],13337,1,1,False
+3734,general repeat,general repeat,28,True,True,True,{28: 1},[7726],3734,1,1,False
+8928,takeaway query,takeaway query,62,False,True,False,{28: 1},[7726],8928,1,1,False
+9919,general repeat,general neg,25,False,False,True,{28: 1},[7726],9919,1,1,False
+12201,calendar set,calendar set,9,False,True,False,{28: 1},[7726],12201,1,1,False
+8667,play music,play music,48,False,True,False,{28: 1},[7726],8667,1,1,False
+13066,takeaway order,lists remove,40,False,False,False,{28: 1},[7726],13066,1,1,False
+6407,weather query,weather,67,False,True,False,{28: 1},[7726],6407,1,1,False
+6924,calendar remove,calendar remove,8,False,True,False,{28: 1},[7726],6924,1,1,False
+8843,alarm set,alarm set,2,False,True,False,{28: 1},[7726],8843,1,1,False
+11365,general repeat,lists remove,40,False,False,True,{28: 1},[7726],11365,1,1,False
+11722,general repeat,iot cleaning,29,False,False,True,{28: 1},[7726],11722,1,1,False
+13703,weather query,weather,67,False,True,False,{28: 1},[7726],13703,1,1,False
+3467,general repeat,general neg,25,False,False,True,{28: 1},[7726],3467,1,1,False
+4678,play music,play music,48,False,True,False,{28: 1},[7726],4678,1,1,False
+3693,play music,play music,48,False,True,False,{28: 1},[7726],3693,1,1,False
+11865,play music,play music,48,False,True,False,{28: 1},[7726],11865,1,1,False
+18146,audio volume up,play aud,46,False,False,False,{28: 1},[7726],18146,1,1,False
+8439,general repeat,general qu,27,False,False,True,{28: 1},[7726],8439,1,1,False
+11790,general repeat,general praise,26,False,False,True,{28: 1},[7726],11790,1,1,False
+7684,play game,play game,47,False,True,False,{28: 1},[7726],7684,1,1,False
+7283,general repeat,iot hue light change,31,False,False,True,{28: 1},[7726],7283,1,1,False
+498,general repeat,qa math,54,False,False,True,{28: 1},[7726],498,1,1,False
+15381,general repeat,general command,19,False,False,True,{28: 1},[7726],15381,1,1,False
+15249,general repeat,lists create,38,False,False,True,{28: 1},[7726],15249,1,1,False
+2454,weather query,weather,67,False,True,False,{28: 1},[7726],2454,1,1,False
+8658,alarm query,alarm query,0,False,True,False,{28: 1},[7726],8658,1,1,False
+16899,general repeat,general qu,27,False,False,True,{28: 1},[7726],16899,1,1,False
+8872,general repeat,general praise,26,False,False,True,{28: 1},[7726],8872,1,1,False
+1351,general repeat,general affirm,18,False,False,True,{28: 1},[7726],1351,1,1,False
+6892,calendar set,calendar set,9,False,True,False,{28: 1},[7726],6892,1,1,False
+7885,recommendation movies,recommendation movies,58,False,True,False,{28: 1},[7726],7885,1,1,False
+11597,general repeat,general dont,21,False,False,True,{28: 1},[7726],11597,1,1,False
+7058,general repeat,social post,59,False,False,True,{28: 1},[7726],7058,1,1,False
+8420,cooking recipe,cooking recipe,11,False,True,False,{28: 1},[7726],8420,1,1,False
+11785,general repeat,calendar query,7,False,False,True,{28: 1},[7726],11785,1,1,False
+16397,cooking recipe,cooking recipe,11,False,True,False,{28: 1},[7726],16397,1,1,False
+2999,general repeat,general qu,27,False,False,True,{28: 1},[7726],2999,1,1,False
+14188,general repeat,audio volume m,4,False,False,True,{28: 1},[7726],14188,1,1,False
+17163,general repeat,lists create,38,False,False,True,{28: 1},[7726],17163,1,1,False
+271,cooking query,cooking recipe,11,False,False,False,{28: 1},[7726],271,1,1,False
+6401,cooking recipe,cooking recipe,11,False,True,False,{28: 1},[7726],6401,1,1,False
+4206,weather query,weather,67,False,True,False,{28: 1},[7726],4206,1,1,False
+17860,calendar query,datetime query,13,False,False,False,{28: 1},[7726],17860,1,1,False
+9204,general repeat,social post,59,False,False,True,{28: 1},[7726],9204,1,1,False
+7360,general joke,general joke,24,False,True,False,{28: 1},[7726],7360,1,1,False
+12140,general repeat,qa definition,52,False,False,True,{28: 1},[7726],12140,1,1,False
+5563,play podcasts,play podcast,49,False,True,False,{28: 1},[7726],5563,1,1,False
+9683,calendar remove,calendar remove,8,False,True,False,{28: 1},[7726],9683,1,1,False
+13766,calendar set,calendar set,9,False,True,False,{28: 1},[7726],13766,1,1,False
+6210,calendar query,calendar query,7,False,True,False,{28: 1},[7726],6210,1,1,False
+17007,general repeat,transport query,63,False,False,True,{28: 1},[7726],17007,1,1,False
+14400,general repeat,iot hue light dim,32,False,False,True,{28: 1},[7726],14400,1,1,False
+17813,general repeat,general explain,22,False,False,True,{28: 1},[7726],17813,1,1,False
+6273,calendar remove,calendar remove,8,False,True,False,{28: 1},[7726],6273,1,1,False
+13886,takeaway order,takeaway query,62,False,False,False,{28: 1},[7726],13886,1,1,False
+7176,general repeat,calendar set,9,False,False,True,{28: 1},[7726],7176,1,1,False
+1111,news query,news,45,False,True,False,{28: 1},[7726],1111,1,1,False
+5055,general command stop,transport ticket,65,False,False,False,{28: 1},[7726],5055,1,1,False
+6975,general repeat,general confirm,20,False,False,True,{28: 1},[7726],6975,1,1,False
+12354,calendar set,calendar set,9,False,True,False,{28: 1},[7726],12354,1,1,False
+16303,general repeat,general affirm,18,False,False,True,{28: 1},[7726],16303,1,1,False
+10930,general repeat,general neg,25,False,False,True,{28: 1},[7726],10930,1,1,False
+18068,general repeat,general explain,22,False,False,True,{28: 1},[7726],18068,1,1,False
+3013,alarm set,calendar set,9,False,False,False,{28: 1},[7726],3013,1,1,False
+10420,general repeat,iot cleaning,29,False,False,True,{28: 1},[7726],10420,1,1,False
+768,email query,email query,15,False,True,False,{28: 1},[7726],768,1,1,False
+270,play music,play radio,50,False,False,False,{28: 1},[7726],270,1,1,False
+14268,news query,qa fact,53,False,False,False,{28: 1},[7726],14268,1,1,False
+14146,music query,play radio,50,False,False,False,{28: 1},[7726],14146,1,1,False
+6386,general repeat,general explain,22,False,False,True,{28: 1},[7726],6386,1,1,False
+12673,general command stop,lists remove,40,False,False,False,{28: 1},[7726],12673,1,1,False
+3051,general repeat,email query,15,False,False,True,{28: 1},[7726],3051,1,1,False
+15069,general repeat,qa currency,51,False,False,True,{28: 1},[7726],15069,1,1,False
+10084,general repeat,general praise,26,False,False,True,{28: 1},[7726],10084,1,1,False
+8768,general repeat,datetime query,13,False,False,True,{28: 1},[7726],8768,1,1,False
+12660,general repeat,general explain,22,False,False,True,{28: 1},[7726],12660,1,1,False
+11808,calendar set,calendar set,9,False,True,False,{28: 1},[7726],11808,1,1,False
+8851,email sendemail,email send,17,False,True,False,{28: 1},[7726],8851,1,1,False
+8580,calendar remove,calendar remove,8,False,True,False,{28: 1},[7726],8580,1,1,False
+6472,general repeat,news,45,False,False,True,{28: 1},[7726],6472,1,1,False
+6719,play music,play music,48,False,True,False,{28: 1},[7726],6719,1,1,False
+4192,general repeat,audio volume m,4,False,False,True,{28: 1},[7726],4192,1,1,False
+5930,email sendemail,email send,17,False,True,False,{28: 1},[7726],5930,1,1,False
+11077,iot hue light change,iot hue light dim,32,False,False,False,{28: 1},[7726],11077,1,1,False
+9210,general repeat,general command,19,False,False,True,{28: 1},[7726],9210,1,1,False
+18236,music query,qa fact,53,False,False,False,{28: 1},[7726],18236,1,1,False
+12220,recommendation locations,general qu,27,False,False,False,{28: 1},[7726],12220,1,1,False
+3358,calendar query,recommendation events,56,False,False,False,{28: 1},[7726],3358,1,1,False
+19277,calendar set,calendar set,9,False,True,False,{28: 1},[7726],19277,1,1,False
+18766,calendar set,calendar set,9,False,True,False,{28: 1},[7726],18766,1,1,False
+13699,email query,email query,15,False,True,False,{28: 1},[7726],13699,1,1,False
+17516,general repeat,transport ticket,65,False,False,True,{28: 1},[7726],17516,1,1,False
+5882,email sendemail,email send,17,False,True,False,{28: 1},[7726],5882,1,1,False
+9177,email sendemail,email send,17,False,True,False,{28: 1},[7726],9177,1,1,False
+18923,alarm set,calendar set,9,False,False,False,{28: 1},[7726],18923,1,1,False
+2336,general repeat,email query contact,16,False,False,True,{28: 1},[7726],2336,1,1,False
+562,general repeat,iot hue light off,33,False,False,True,{28: 1},[7726],562,1,1,False
+582,general affirm,general qu,27,False,False,False,{28: 1},[7726],582,1,1,False
+8616,alarm set,alarm set,2,False,True,False,{28: 1},[7726],8616,1,1,False
+12170,cooking recipe,cooking recipe,11,False,True,False,{28: 1},[7726],12170,1,1,False
+356,general repeat,qa stock,55,False,False,True,{28: 1},[7726],356,1,1,False
+1566,general repeat,iot hue light change,31,False,False,True,{28: 1},[7726],1566,1,1,False
+15947,email sendemail,email send,17,False,True,False,{28: 1},[7726],15947,1,1,False
+4980,weather query,news,45,False,False,False,{28: 1},[7726],4980,1,1,False
+10,general repeat,cooking recipe,11,False,False,True,{28: 1},[7726],10,1,1,False
+14864,general repeat,iot hue light up,35,False,False,True,{28: 1},[7726],14864,1,1,False
+11693,general repeat,general affirm,18,False,False,True,{28: 1},[7726],11693,1,1,False
+7241,email add contact,email add,14,False,True,False,{28: 1},[7726],7241,1,1,False
+7963,email query,email query,15,False,True,False,{28: 1},[7726],7963,1,1,False
+6243,general repeat,social post,59,False,False,True,{28: 1},[7726],6243,1,1,False
+3849,play music,play music,48,False,True,False,{28: 1},[7726],3849,1,1,False
+6669,general repeat,recommendation locations,57,False,False,True,{28: 1},[7726],6669,1,1,False
+201,general repeat,lists query,39,False,False,True,{28: 1},[7726],201,1,1,False
+12156,weather query,qa currency,51,False,False,False,{28: 1},[7726],12156,1,1,False
+18004,general repeat,general praise,26,False,False,True,{28: 1},[7726],18004,1,1,False
+17743,cooking recipe,iot coffee,30,False,False,False,{28: 1},[7726],17743,1,1,False
+16056,calendar query,calendar query,7,False,True,False,{28: 1},[7726],16056,1,1,False
+10477,calendar set,calendar set,9,False,True,False,{28: 1},[7726],10477,1,1,False
+4139,calendar query,calendar query,7,False,True,False,{28: 1},[7726],4139,1,1,False
+7633,calendar set,calendar set,9,False,True,False,{28: 1},[7726],7633,1,1,False
+10115,play music,audio volume up,6,False,False,False,{28: 1},[7726],10115,1,1,False
+5616,datetime query,datetime query,13,False,True,False,{28: 1},[7726],5616,1,1,False
+7517,general repeat,general neg,25,False,False,True,{28: 1},[7726],7517,1,1,False
+3302,general repeat,general confirm,20,False,False,True,{28: 1},[7726],3302,1,1,False
+7381,alarm query,alarm query,0,False,True,False,{28: 1},[7726],7381,1,1,False
+2129,play music,play music,48,False,True,False,{28: 1},[7726],2129,1,1,False
+6180,calendar query,datetime query,13,False,False,False,{28: 1},[7726],6180,1,1,False
+5159,general repeat,iot hue light off,33,False,False,True,{28: 1},[7726],5159,1,1,False
+2453,music query,calendar query,7,False,False,False,{28: 1},[7726],2453,1,1,False
+4409,alarm query,alarm query,0,False,True,False,{28: 1},[7726],4409,1,1,False
+3927,play podcasts,play podcast,49,False,True,False,{28: 1},[7726],3927,1,1,False
+8407,calendar query,datetime query,13,False,False,False,{28: 1},[7726],8407,1,1,False
+11428,general repeat,qa fact,53,False,False,True,{28: 1},[7726],11428,1,1,False
+5333,general repeat,general explain,22,False,False,True,{28: 1},[7726],5333,1,1,False
+3544,play podcasts,play podcast,49,False,True,False,{28: 1},[7726],3544,1,1,False
+12811,general explain,qa definition,52,False,False,False,{28: 1},[7726],12811,1,1,False
+3892,email sendemail,email send,17,False,True,False,{28: 1},[7726],3892,1,1,False
+855,news query,news,45,False,True,False,{28: 1},[7726],855,1,1,False
+13071,play game,play game,47,False,True,False,{28: 1},[7726],13071,1,1,False
+14633,general repeat,general repeat,28,True,True,True,{28: 1},[7726],14633,1,1,False
+15172,news query,news,45,False,True,False,{28: 1},[7726],15172,1,1,False
+2783,music query,music query,43,False,True,False,{28: 1},[7726],2783,1,1,False
+15077,music query,qa fact,53,False,False,False,{28: 1},[7726],15077,1,1,False
+13349,calendar remove,calendar remove,8,False,True,False,{28: 1},[7726],13349,1,1,False
+173,general repeat,email send,17,False,False,True,{28: 1},[7726],173,1,1,False
+14390,general repeat,qa fact,53,False,False,True,{28: 1},[7726],14390,1,1,False
+9952,calendar query,qa fact,53,False,False,False,{28: 1},[7726],9952,1,1,False
+17566,music query,music query,43,False,True,False,{28: 1},[7726],17566,1,1,False
+3275,general repeat,social post,59,False,False,True,{28: 1},[7726],3275,1,1,False
+489,general repeat,social query,60,False,False,True,{28: 1},[7726],489,1,1,False
+370,music query,music query,43,False,True,False,{28: 1},[7726],370,1,1,False
+5339,social post,social post,59,False,True,False,{28: 1},[7726],5339,1,1,False
+223,play music,play radio,50,False,False,False,{28: 1},[7726],223,1,1,False
+3530,alarm remove,alarm remove,1,False,True,False,{28: 1},[7726],3530,1,1,False
+11264,news query,social query,60,False,False,False,{28: 1},[7726],11264,1,1,False
+2104,general greet,general qu,27,False,False,False,{28: 1},[7726],2104,1,1,False
+14613,general repeat,lists remove,40,False,False,True,{28: 1},[7726],14613,1,1,False
+256,cooking recipe,cooking recipe,11,False,True,False,{28: 1},[7726],256,1,1,False
+6409,general repeat,general confirm,20,False,False,True,{28: 1},[7726],6409,1,1,False
+15815,news query,news,45,False,True,False,{28: 1},[7726],15815,1,1,False
+15639,calendar remove,calendar remove,8,False,True,False,{28: 1},[7726],15639,1,1,False

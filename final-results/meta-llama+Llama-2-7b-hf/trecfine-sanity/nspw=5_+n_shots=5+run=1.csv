@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4640,human group,human group,28,True,True,True,"{28: 2, 32: 1, 39: 1, 29: 1}","[4640, 1918, 3653, 4511, 1862]",4640,5,1,False,5
+1918,human group,human group,28,True,True,True,"{28: 2, 32: 1, 39: 1, 29: 1}","[4640, 1918, 3653, 4511, 1862]",1918,5,1,False,5
+3653,location city,location city,32,True,True,True,"{28: 2, 32: 1, 39: 1, 29: 1}","[4640, 1918, 3653, 4511, 1862]",3653,5,1,False,5
+4511,numeric date,numeric date,39,True,True,True,"{28: 2, 32: 1, 39: 1, 29: 1}","[4640, 1918, 3653, 4511, 1862]",4511,5,1,False,5
+1862,human individual,human individual,29,True,True,True,"{28: 2, 32: 1, 39: 1, 29: 1}","[4640, 1918, 3653, 4511, 1862]",1862,5,1,False,5

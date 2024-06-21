@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,transfer not received by recipient,supported,54,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",903,5,7,False,5
+1003,top up failed,top up revert,61,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1003,5,7,False,5
+2953,card about to expire,card about,9,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2953,5,7,False,5
+2979,top up failed,apple,2,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2979,5,7,False,5
+1926,get physical card,card sw,18,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1926,5,7,False,5
+2137,pin blocked,change,21,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2137,5,7,False,5
+2980,apple pay or google pay,apple,2,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2980,5,7,False,5
+702,cancel transfer,cancel,8,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",702,5,7,False,5
+2493,get physical card,order,43,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2493,5,7,False,5
+2210,transfer fee charged,transfer fee,64,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2210,5,7,False,5
+112,exchange rate,exchange rate,32,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",112,5,7,False,5
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2909,5,7,False,5
+1987,card not working,transaction,63,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1987,5,7,False,5
+1283,card payment not recognised,vis,73,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1283,5,7,False,5
+1539,passcode forgotten,pass,44,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1539,5,7,False,5
+2879,activate my card,activ,0,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2879,5,7,False,5
+1158,change pin,edit,30,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1158,5,7,False,5
+1376,card payment not recognised,dispos,29,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1376,5,7,False,5
+1517,wrong amount of cash received,direct,28,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1517,5,7,False,5
+1171,verify my identity,why,74,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1171,5,7,False,5
+2242,transfer into account,receiving,50,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2242,5,7,False,5
+1476,atm support,at,3,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1476,5,7,False,5
+237,atm support,pending c,46,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",237,5,7,False,5
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1650,5,7,False,5
+2484,card payment fee charged,order,43,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2484,5,7,False,5
+2105,cancel transfer,revert,53,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2105,5,7,False,5
+2121,change pin,change,21,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2121,5,7,False,5
+1452,atm support,at,3,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1452,5,7,False,5
+274,get physical card,fi,36,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",274,5,7,False,5
+564,contactless not working,contact,23,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",564,5,7,False,5
+905,supported cards and currencies,supported,54,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",905,5,7,False,5
+1535,passcode forgotten,pass,44,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1535,5,7,False,5
+2113,cancel transfer,revert,53,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2113,5,7,False,5
+2142,change pin,change,21,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2142,5,7,False,5
+2965,top up by card charge,apple,2,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2965,5,7,False,5
+1834,card payment not recognised,declined card,25,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1834,5,7,False,5
+1549,passcode forgotten,pass,44,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1549,5,7,False,5
+1320,top up by card charge,to,62,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1320,5,7,False,5
+2421,order physical card,getting spare,39,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2421,5,7,False,5
+2784,exchange rate,exchange charge,31,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2784,5,7,False,5
+768,wrong amount of cash received,wrong amount,75,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",768,5,7,False,5
+2472,top up by cash or cheque,top up by c,58,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2472,5,7,False,5
+2154,pin blocked,change,21,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2154,5,7,False,5
+795,wrong amount of cash received,wrong amount,75,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",795,5,7,False,5
+1278,pin blocked,get physical,38,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1278,5,7,False,5
+1494,direct debit payment not recognised,direct,28,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1494,5,7,False,5
+241,exchange rate,fi,36,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",241,5,7,False,5
+3060,verify my identity,country,24,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",3060,5,7,False,5
+494,age limit,age,1,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",494,5,7,False,5
+327,top up by card charge,automatic,4,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",327,5,7,False,5
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",458,5,7,False,5
+428,exchange rate,exchange via,33,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",428,5,7,False,5
+2862,activate my card,activ,0,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2862,5,7,False,5
+2164,transfer not received by recipient,benef,7,True,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2164,5,7,False,5
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2897,5,7,False,5
+2440,top up by cash or cheque,top up by c,58,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2440,5,7,False,5
+1663,lost or stolen card,lost or stolen phone,42,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1663,5,7,False,5
+2700,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2700,5,7,False,5
+2955,card not working,card about,9,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2955,5,7,False,5
+522,pin blocked,pin,49,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",522,5,7,False,5
+1788,pending transfer,Ref,51,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1788,5,7,False,5
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1055,5,7,False,5
+2992,top up by card charge,apple,2,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2992,5,7,False,5
+1093,transfer not received by recipient,card payment not,16,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1093,5,7,False,5
+791,wrong amount of cash received,wrong amount,75,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",791,5,7,False,5
+894,transfer into account,supported,54,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",894,5,7,False,5
+897,card payment not recognised,supported,54,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",897,5,7,False,5
+1175,verify my identity,why,74,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1175,5,7,False,5
+68,card linking,card linking,13,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",68,5,7,False,5
+1551,change pin,pass,44,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1551,5,7,False,5
+1508,direct debit payment not recognised,direct,28,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1508,5,7,False,5
+2250,transfer not received by recipient,receiving,50,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2250,5,7,False,5
+519,age limit,age,1,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",519,5,7,False,5
+1731,transfer not received by recipient,declined transfer,27,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1731,5,7,False,5
+1210,failed transfer,unable,68,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1210,5,7,False,5
+1750,transfer not received by recipient,declined transfer,27,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1750,5,7,False,5
+1687,cancel transfer,request,52,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1687,5,7,False,5
+891,card not working,supported,54,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",891,5,7,False,5
+1061,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1061,5,7,False,5
+2403,get physical card,getting spare,39,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2403,5,7,False,5
+1898,cancel transfer,terminate,55,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1898,5,7,False,5
+2978,apple pay or google pay,apple,2,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2978,5,7,False,5
+1427,card not working,comprom,22,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1427,5,7,False,5
+1526,wrong amount of cash received,pass,44,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1526,5,7,False,5
+824,extra charge on statement,card payment fee,15,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",824,5,7,False,5
+1983,wrong amount of cash received,transaction,63,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1983,5,7,False,5
+2132,change pin,change,21,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2132,5,7,False,5
+418,change pin,exchange via,33,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",418,5,7,False,5
+1345,transfer not received by recipient,to,62,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1345,5,7,False,5
+2829,top up by card charge,top up by card,57,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2829,5,7,False,5
+2489,card payment fee charged,order,43,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2489,5,7,False,5
+598,contactless not working,contact,23,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",598,5,7,False,5
+804,why verify identity,card payment fee,15,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",804,5,7,False,5
+3017,verify my identity,verify my,69,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",3017,5,7,False,5
+2589,exchange rate,wrong exchange,76,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2589,5,7,False,5
+2540,virtual card not working,virtual,72,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2540,5,7,False,5
+2908,transfer not received by recipient,cash withdrawal charge,19,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2908,5,7,False,5
+2968,apple pay or google pay,apple,2,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2968,5,7,False,5
+2747,atm support,cash withdrawal not,20,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2747,5,7,False,5
+1340,transfer not received by recipient,to,62,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1340,5,7,False,5
+1348,transfer not received by recipient,to,62,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1348,5,7,False,5
+1451,atm support,at,3,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1451,5,7,False,5
+2903,cash withdrawal not recognised,cash withdrawal charge,19,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2903,5,7,False,5
+1237,verify my identity,unable,68,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1237,5,7,False,5
+2119,transfer not received by recipient,revert,53,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2119,5,7,False,5
+652,pending top up,pending top,47,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",652,5,7,False,5
+131,exchange rate,card payment wrong,17,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",131,5,7,False,5
+949,virtual card not working,getting virtual,40,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",949,5,7,False,5
+2528,virtual card not working,virtual,72,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2528,5,7,False,5
+2158,change pin,change,21,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2158,5,7,False,5
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2705,5,7,False,5
+592,contactless not working,contact,23,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",592,5,7,False,5
+2511,card delivery estimate,order,43,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2511,5,7,False,5
+1080,transfer not received by recipient,card payment not,16,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1080,5,7,False,5
+1361,card not working,dispos,29,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1361,5,7,False,5
+448,card not working,lost or stolen card,41,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",448,5,7,False,5
+18,card not working,card arrival,11,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",18,5,7,False,5
+1168,verify my identity,why,74,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1168,5,7,False,5
+2396,top up failed,verify top,71,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2396,5,7,False,5
+362,card not working,card not,14,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",362,5,7,False,5
+1456,transfer not received by recipient,at,3,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1456,5,7,False,5
+1735,declined transfer,declined transfer,27,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1735,5,7,False,5
+2579,atm support,wrong exchange,76,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2579,5,7,False,5
+385,card not working,card not,14,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",385,5,7,False,5
+2555,virtual card not working,virtual,72,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2555,5,7,False,5
+2307,failed transfer,failed,35,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2307,5,7,False,5
+1779,transfer not received by recipient,Ref,51,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1779,5,7,False,5
+1119,transaction charged twice,card payment not,16,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1119,5,7,False,5
+2104,card payment not recognised,revert,53,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2104,5,7,False,5
+713,wrong amount of cash received,cancel,8,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",713,5,7,False,5
+2077,transfer fee charged,transfer timing,67,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2077,5,7,False,5
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1671,5,7,False,5
+1150,change pin,edit,30,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1150,5,7,False,5
+1491,wrong amount of cash received,direct,28,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1491,5,7,False,5
+2610,disposable card limits,get dispos,37,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2610,5,7,False,5
+1729,transfer not received by recipient,declined transfer,27,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1729,5,7,False,5
+1360,get disposable virtual card,dispos,29,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1360,5,7,False,5
+1397,virtual card not working,dispos,29,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1397,5,7,False,5
+842,pending transfer,transfer not,66,True,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",842,5,7,False,5
+2504,get physical card,order,43,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2504,5,7,False,5
+538,card not working,pin,49,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",538,5,7,False,5
+2020,get physical card,verify source,70,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2020,5,7,False,5
+769,wrong amount of cash received,wrong amount,75,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",769,5,7,False,5
+945,card delivery estimate,getting virtual,40,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",945,5,7,False,5
+1591,atm support,declined c,26,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1591,5,7,False,5
+1818,declined card payment,declined card,25,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1818,5,7,False,5
+1876,transfer not received by recipient,pending transfer,48,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1876,5,7,False,5
+3031,verify my identity,verify my,69,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",3031,5,7,False,5
+1992,transaction charged twice,transaction,63,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1992,5,7,False,5
+2997,top up failed,apple,2,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2997,5,7,False,5
+1228,unable to verify identity,unable,68,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1228,5,7,False,5
+1682,get physical card,request,52,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1682,5,7,False,5
+469,card not working,lost or stolen card,41,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",469,5,7,False,5
+2325,transfer into account,transfer into,65,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2325,5,7,False,5
+732,top up limits,top up limits,60,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",732,5,7,False,5
+820,card payment fee charged,card payment fee,15,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",820,5,7,False,5
+2990,apple pay or google pay,apple,2,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2990,5,7,False,5
+1732,transfer not received by recipient,declined transfer,27,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1732,5,7,False,5
+1252,pin blocked,get physical,38,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1252,5,7,False,5
+227,pending top up,pending c,46,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",227,5,7,False,5
+1962,wrong amount of cash received,transaction,63,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1962,5,7,False,5
+400,exchange rate,exchange via,33,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",400,5,7,False,5
+1134,change pin,edit,30,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1134,5,7,False,5
+59,card not working,card linking,13,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",59,5,7,False,5
+2256,transfer not received by recipient,receiving,50,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2256,5,7,False,5
+853,transfer not received by recipient,transfer not,66,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",853,5,7,False,5
+2777,exchange rate,exchange charge,31,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2777,5,7,False,5
+1538,passcode forgotten,pass,44,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1538,5,7,False,5
+2109,cancel transfer,revert,53,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2109,5,7,False,5
+305,card delivery estimate,card delivery,12,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",305,5,7,False,5
+711,cancel transfer,cancel,8,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",711,5,7,False,5
+2927,card delivery estimate,card about,9,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2927,5,7,False,5
+2623,virtual card not working,get dispos,37,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2623,5,7,False,5
+271,exchange rate,fi,36,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",271,5,7,False,5
+1023,transfer not received by recipient,top up revert,61,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1023,5,7,False,5
+470,lost or stolen card,lost or stolen card,41,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",470,5,7,False,5
+2779,exchange rate,exchange charge,31,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2779,5,7,False,5
+1170,verify my identity,why,74,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1170,5,7,False,5
+1886,cancel transfer,terminate,55,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1886,5,7,False,5
+2723,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2723,5,7,False,5
+915,card acceptance,supported,54,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",915,5,7,False,5
+2626,get disposable virtual card,get dispos,37,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2626,5,7,False,5
+2604,virtual card not working,get dispos,37,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2604,5,7,False,5
+1510,card not working,direct,28,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1510,5,7,False,5
+2303,transfer not received by recipient,failed,35,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2303,5,7,False,5
+64,lost or stolen card,card linking,13,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",64,5,7,False,5
+2041,transfer timing,transfer timing,67,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2041,5,7,False,5
+1995,cancel transfer,transaction,63,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1995,5,7,False,5
+1266,pin blocked,get physical,38,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1266,5,7,False,5
+2821,card payment fee charged,top up by card,57,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2821,5,7,False,5
+1945,card not working,card sw,18,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1945,5,7,False,5
+835,why verify identity,card payment fee,15,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",835,5,7,False,5
+2312,transfer not received by recipient,failed,35,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2312,5,7,False,5
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1053,5,7,False,5
+2800,card payment fee charged,top up by card,57,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2800,5,7,False,5
+1835,card not working,declined card,25,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1835,5,7,False,5
+1434,card not working,comprom,22,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1434,5,7,False,5
+979,card not working,card accept,10,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",979,5,7,False,5
+2942,card not working,card about,9,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2942,5,7,False,5
+1900,cancel transfer,terminate,55,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1900,5,7,False,5
+2973,apple pay or google pay,apple,2,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2973,5,7,False,5
+2989,top up by card charge,apple,2,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2989,5,7,False,5
+2241,get physical card,receiving,50,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2241,5,7,False,5
+984,card acceptance,card accept,10,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",984,5,7,False,5
+2933,card about to expire,card about,9,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2933,5,7,False,5
+1265,pin blocked,get physical,38,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1265,5,7,False,5
+1811,card not working,declined card,25,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1811,5,7,False,5
+1428,card not working,comprom,22,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1428,5,7,False,5
+1568,transfer not received by recipient,declined c,26,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1568,5,7,False,5
+2675,card not working,top up failed,59,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2675,5,7,False,5
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1645,5,7,False,5
+2289,transfer not received by recipient,failed,35,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2289,5,7,False,5
+2854,activate my card,activ,0,True,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2854,5,7,False,5
+1356,top up failed,to,62,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1356,5,7,False,5
+982,card not working,card accept,10,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",982,5,7,False,5
+1518,cancel transfer,direct,28,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1518,5,7,False,5
+722,top up limits,top up limits,60,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",722,5,7,False,5
+2372,verify top up,verify top,71,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2372,5,7,False,5
+1917,cancel transfer,terminate,55,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1917,5,7,False,5
+1500,direct debit payment not recognised,direct,28,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1500,5,7,False,5
+1933,lost or stolen card,card sw,18,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1933,5,7,False,5
+2833,top up by bank transfer charge,top up by card,57,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2833,5,7,False,5
+1639,pending top up,pending card,45,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1639,5,7,False,5
+1136,change pin,edit,30,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1136,5,7,False,5
+2124,change pin,change,21,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2124,5,7,False,5
+3008,verify my identity,verify my,69,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",3008,5,7,False,5
+1704,get physical card,request,52,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1704,5,7,False,5
+2243,transfer not received by recipient,receiving,50,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2243,5,7,False,5
+748,top up limits,top up limits,60,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",748,5,7,False,5
+2649,top up failed,top up failed,59,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2649,5,7,False,5
+1258,pin blocked,get physical,38,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1258,5,7,False,5
+1318,card payment not recognised,vis,73,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1318,5,7,False,5
+1770,cancel transfer,Ref,51,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1770,5,7,False,5
+217,pending cash withdrawal,pending c,46,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",217,5,7,False,5
+1141,change pin,edit,30,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1141,5,7,False,5
+2078,transfer timing,transfer timing,67,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2078,5,7,False,5
+402,change pin,exchange via,33,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",402,5,7,False,5
+1349,transfer not received by recipient,to,62,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1349,5,7,False,5
+80,exchange rate,exchange rate,32,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",80,5,7,False,5
+1355,top up by card charge,to,62,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1355,5,7,False,5
+2386,verify top up,verify top,71,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2386,5,7,False,5
+838,card payment fee charged,card payment fee,15,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",838,5,7,False,5
+2267,transfer not received by recipient,receiving,50,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2267,5,7,False,5
+2881,extra charge on statement,cash withdrawal charge,19,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2881,5,7,False,5
+801,wrong amount of cash received,card payment fee,15,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",801,5,7,False,5
+73,card linking,card linking,13,False,True,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",73,5,7,False,5
+1967,cancel transfer,transaction,63,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",1967,5,7,False,5
+2982,top up by card charge,apple,2,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2982,5,7,False,5
+46,card not working,card linking,13,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",46,5,7,False,5
+2916,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{7: 1, 75: 1, 0: 1, 47: 1, 66: 1}","[3232, 3758, 344, 7000, 3641]",2916,5,7,False,5

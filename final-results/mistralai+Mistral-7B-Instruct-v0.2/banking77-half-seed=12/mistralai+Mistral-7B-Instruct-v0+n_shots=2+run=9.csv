@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1104,2,9,False
+472,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",472,2,9,False
+1345,card delivery estimate,order,43,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1345,2,9,False
+838,pending transfer,pending card,45,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",838,2,9,False
+942,card not working,declined,25,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",942,2,9,False
+707,card acceptance,atm,3,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",707,2,9,False
+378,contactless not working,contact,23,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",378,2,9,False
+1258,transfer not received by recipient,failed,35,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1258,2,9,False
+451,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",451,2,9,False
+1467,top up by card charge,top up by card,57,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1467,2,9,False
+652,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",652,2,9,False
+774,passcode forgotten,pass,44,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",774,2,9,False
+1112,verify source of funds,verify,70,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1112,2,9,False
+659,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",659,2,9,False
+67,exchange rate,exchange,32,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",67,2,9,False
+773,passcode forgotten,pass,44,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",773,2,9,False
+679,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",679,2,9,False
+956,card not working,declined,25,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",956,2,9,False
+919,request refund,request,52,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",919,2,9,False
+1221,receiving money,receiving,50,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1221,2,9,False
+605,top up by card charge,to,62,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",605,2,9,False
+240,card not working,card not,14,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",240,2,9,False
+1069,card not working,card swallowed,18,True,False,False,"{18: 1, 60: 1}","[1744, 3612]",1069,2,9,False
+1228,transfer not received by recipient,receiving,50,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1228,2,9,False
+1006,request refund,term,55,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1006,2,9,False
+1308,top up by cash or cheque,top up by cash,58,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1308,2,9,False
+106,extra charge on statement,extra,34,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",106,2,9,False
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1429,2,9,False
+455,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",455,2,9,False
+1380,virtual card not working,virtual,72,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1380,2,9,False
+325,top up limits,pin,49,False,False,True,"{18: 1, 60: 1}","[1744, 3612]",325,2,9,False
+745,direct debit payment not recognised,direct,28,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",745,2,9,False
+1439,balance not updated after bank transfer,balance,5,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1439,2,9,False
+941,card not working,declined,25,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",941,2,9,False
+401,top up reverted,pending top,47,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",401,2,9,False
+1190,change pin,change,21,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1190,2,9,False
+759,declined card payment,direct,28,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",759,2,9,False
+1180,change pin,change,21,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1180,2,9,False
+123,exchange rate,fi,36,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",123,2,9,False
+1517,activate my card,activate,0,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1517,2,9,False
+227,automatic top up,automatic,4,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",227,2,9,False
+1321,request refund,order,43,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1321,2,9,False
+393,contactless not working,contact,23,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",393,2,9,False
+999,transfer timing,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",999,2,9,False
+927,card not working,declined,25,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",927,2,9,False
+244,card not working,card not,14,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",244,2,9,False
+181,order physical card,card delivery,12,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",181,2,9,False
+1170,pin blocked,change,21,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1170,2,9,False
+666,virtual card not working,dispos,29,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",666,2,9,False
+1028,terminate account,term,55,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1028,2,9,False
+772,lost or stolen phone,pass,44,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",772,2,9,False
+1223,change pin,receiving,50,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1223,2,9,False
+421,top up reverted,pending top,47,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",421,2,9,False
+132,exchange rate,fi,36,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",132,2,9,False
+155,exchange rate,fi,36,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",155,2,9,False
+459,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",459,2,9,False
+371,contactless not working,contact,23,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",371,2,9,False
+15,activate my card,card link,13,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",15,2,9,False
+1253,transfer not received by recipient,failed,35,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1253,2,9,False
+197,change pin,card delivery,12,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",197,2,9,False
+527,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",527,2,9,False
+531,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",531,2,9,False
+382,contactless not working,contact,23,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",382,2,9,False
+620,transfer not received by recipient,to,62,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",620,2,9,False
+871,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",871,2,9,False
+1095,verify source of funds,verify,70,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1095,2,9,False
+1501,card not working,activate,0,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1501,2,9,False
+1368,virtual card not working,virtual,72,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1368,2,9,False
+344,pin blocked,pin,49,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",344,2,9,False
+429,top up reverted,pending top,47,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",429,2,9,False
+291,age limit,age,1,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",291,2,9,False
+474,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",474,2,9,False
+137,fiat currency support,fi,36,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",137,2,9,False
+784,passcode forgotten,pass,44,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",784,2,9,False
+1021,request refund,term,55,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1021,2,9,False
+1414,transfer not received by recipient,balance,5,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1414,2,9,False
+741,card not working,direct,28,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",741,2,9,False
+904,card not working,request,52,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",904,2,9,False
+723,request refund,direct,28,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",723,2,9,False
+87,atm support,extra,34,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",87,2,9,False
+1457,card acceptance,top up by card,57,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1457,2,9,False
+747,direct debit payment not recognised,direct,28,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",747,2,9,False
+728,card not working,direct,28,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",728,2,9,False
+860,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",860,2,9,False
+355,card not working,pin,49,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",355,2,9,False
+1294,top up by cash or cheque,top up by cash,58,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1294,2,9,False
+521,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",521,2,9,False
+299,age limit,age,1,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",299,2,9,False
+807,pending transfer,pending card,45,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",807,2,9,False
+1367,virtual card not working,virtual,72,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1367,2,9,False
+556,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",556,2,9,False
+239,top up by card charge,automatic,4,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",239,2,9,False
+1418,transfer not received by recipient,balance,5,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1418,2,9,False
+203,automatic top up,automatic,4,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",203,2,9,False
+1265,transfer not received by recipient,failed,35,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1265,2,9,False
+1509,card delivery estimate,activate,0,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1509,2,9,False
+284,age limit,age,1,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",284,2,9,False
+1335,card delivery estimate,order,43,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1335,2,9,False
+517,transfer not received by recipient,transfer not,66,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",517,2,9,False
+458,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",458,2,9,False
+808,pending transfer,pending card,45,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",808,2,9,False
+290,age limit,age,1,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",290,2,9,False
+584,top up reverted,top up re,61,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",584,2,9,False
+129,fiat currency support,fi,36,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",129,2,9,False
+306,age limit,age,1,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",306,2,9,False
+457,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",457,2,9,False
+179,card delivery estimate,card delivery,12,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",179,2,9,False
+628,top up by card charge,to,62,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",628,2,9,False
+26,card not working,card link,13,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",26,2,9,False
+1276,transfer not received by recipient,failed,35,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1276,2,9,False
+839,pending transfer,pending card,45,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",839,2,9,False
+1174,change pin,change,21,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1174,2,9,False
+557,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",557,2,9,False
+446,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",446,2,9,False
+1117,verify source of funds,verify,70,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1117,2,9,False
+215,top up by card charge,automatic,4,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",215,2,9,False
+966,transfer timing,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",966,2,9,False
+420,top up reverted,pending top,47,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",420,2,9,False
+614,top up by card charge,to,62,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",614,2,9,False
+192,card not working,card delivery,12,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",192,2,9,False
+667,virtual card not working,dispos,29,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",667,2,9,False
+852,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",852,2,9,False
+1083,verify source of funds,verify,70,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1083,2,9,False
+1106,verify source of funds,verify,70,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1106,2,9,False
+917,request refund,request,52,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",917,2,9,False
+508,pending transfer,transfer not,66,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",508,2,9,False
+146,fiat currency support,fi,36,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",146,2,9,False
+1307,top up by cash or cheque,top up by cash,58,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1307,2,9,False
+334,pin blocked,pin,49,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",334,2,9,False
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",962,2,9,False
+1015,request refund,term,55,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1015,2,9,False
+1486,activate my card,activate,0,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1486,2,9,False
+391,contactless not working,contact,23,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",391,2,9,False
+1243,transfer not received by recipient,failed,35,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1243,2,9,False
+69,exchange rate,exchange,32,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",69,2,9,False
+392,contactless not working,contact,23,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",392,2,9,False
+792,passcode forgotten,pass,44,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",792,2,9,False
+1448,top up limits,top up by card,57,False,False,True,"{18: 1, 60: 1}","[1744, 3612]",1448,2,9,False
+490,transfer not received by recipient,transfer not,66,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",490,2,9,False
+676,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",676,2,9,False
+648,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",648,2,9,False
+818,pending card payment,pending card,45,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",818,2,9,False
+982,transfer timing,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",982,2,9,False
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",973,2,9,False
+535,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",535,2,9,False
+793,passcode forgotten,pass,44,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",793,2,9,False
+259,card not working,card not,14,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",259,2,9,False
+430,top up reverted,pending top,47,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",430,2,9,False
+481,transfer not received by recipient,transfer not,66,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",481,2,9,False
+567,top up reverted,top up re,61,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",567,2,9,False
+72,exchange rate,exchange,32,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",72,2,9,False
+113,extra charge on statement,extra,34,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",113,2,9,False
+384,contactless not working,contact,23,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",384,2,9,False
+1053,card swallowed,card swallowed,18,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",1053,2,9,False
+1401,transfer not received by recipient,balance,5,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1401,2,9,False
+969,transfer not received by recipient,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",969,2,9,False
+312,age limit,age,1,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",312,2,9,False
+892,request refund,request,52,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",892,2,9,False
+454,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",454,2,9,False
+479,top up limits,top up limits,60,True,True,True,"{18: 1, 60: 1}","[1744, 3612]",479,2,9,False
+650,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",650,2,9,False
+23,card linking,card link,13,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",23,2,9,False
+1212,exchange rate,receiving,50,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1212,2,9,False
+1214,receiving money,receiving,50,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1214,2,9,False
+1349,card delivery estimate,order,43,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1349,2,9,False
+262,card not working,card not,14,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",262,2,9,False
+48,exchange rate,exchange,32,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",48,2,9,False
+285,request refund,age,1,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",285,2,9,False
+851,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",851,2,9,False
+1352,request refund,order,43,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1352,2,9,False
+327,pin blocked,pin,49,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",327,2,9,False
+1438,transfer not received by recipient,balance,5,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1438,2,9,False
+29,card linking,card link,13,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",29,2,9,False
+234,top up by card charge,automatic,4,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",234,2,9,False
+528,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",528,2,9,False
+369,card not working,contact,23,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",369,2,9,False
+128,fiat currency support,fi,36,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",128,2,9,False
+1151,transfer timing,transfer timing,67,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1151,2,9,False
+544,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",544,2,9,False
+884,atm support,request,52,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",884,2,9,False
+593,top up reverted,top up re,61,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",593,2,9,False
+229,top up by card charge,automatic,4,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",229,2,9,False
+876,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",876,2,9,False
+629,transfer not received by recipient,to,62,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",629,2,9,False
+1419,transfer not received by recipient,balance,5,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1419,2,9,False
+821,pending transfer,pending card,45,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",821,2,9,False
+1285,top up by cash or cheque,top up by cash,58,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1285,2,9,False
+678,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",678,2,9,False
+204,top up by card charge,automatic,4,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",204,2,9,False
+872,card not working,lost,42,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",872,2,9,False
+696,atm support,atm,3,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",696,2,9,False
+219,top up limits,automatic,4,False,False,True,"{18: 1, 60: 1}","[1744, 3612]",219,2,9,False
+190,request refund,card delivery,12,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",190,2,9,False
+379,contactless not working,contact,23,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",379,2,9,False
+1340,card acceptance,order,43,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1340,2,9,False
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",978,2,9,False
+645,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",645,2,9,False
+735,direct debit payment not recognised,direct,28,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",735,2,9,False
+850,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",850,2,9,False
+1353,lost or stolen phone,order,43,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1353,2,9,False
+800,card not working,pending card,45,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",800,2,9,False
+1329,card delivery estimate,order,43,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1329,2,9,False
+115,extra charge on statement,extra,34,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",115,2,9,False
+1396,virtual card not working,virtual,72,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1396,2,9,False
+34,card linking,card link,13,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",34,2,9,False
+967,transfer not received by recipient,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",967,2,9,False
+1512,card delivery estimate,activate,0,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1512,2,9,False
+439,pending top up,pending top,47,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",439,2,9,False
+1411,transfer timing,balance,5,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1411,2,9,False
+1217,receiving money,receiving,50,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1217,2,9,False
+867,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",867,2,9,False
+704,atm support,atm,3,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",704,2,9,False
+1211,receiving money,receiving,50,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1211,2,9,False
+646,disposable card limits,dispos,29,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",646,2,9,False
+1165,change pin,change,21,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1165,2,9,False
+799,pin blocked,pass,44,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",799,2,9,False
+898,order physical card,request,52,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",898,2,9,False
+36,card not working,card link,13,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",36,2,9,False
+1278,transfer not received by recipient,failed,35,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1278,2,9,False
+324,pin blocked,pin,49,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",324,2,9,False
+689,atm support,atm,3,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",689,2,9,False
+1508,activate my card,activate,0,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1508,2,9,False
+992,transfer timing,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",992,2,9,False
+314,age limit,age,1,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",314,2,9,False
+1082,balance not updated after bank transfer,verify,70,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1082,2,9,False
+1096,verify source of funds,verify,70,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1096,2,9,False
+787,change pin,pass,44,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",787,2,9,False
+842,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",842,2,9,False
+191,card delivery estimate,card delivery,12,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",191,2,9,False
+845,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",845,2,9,False
+1027,request refund,term,55,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1027,2,9,False
+99,extra charge on statement,extra,34,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",99,2,9,False
+552,card acceptance,card acceptance,10,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",552,2,9,False
+1024,terminate account,term,55,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1024,2,9,False
+141,exchange rate,fi,36,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",141,2,9,False
+625,transfer not received by recipient,to,62,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",625,2,9,False
+922,card not working,declined,25,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",922,2,9,False
+977,transfer timing,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",977,2,9,False
+135,change pin,fi,36,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",135,2,9,False
+1109,request refund,verify,70,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1109,2,9,False
+405,top up reverted,pending top,47,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",405,2,9,False
+760,passcode forgotten,pass,44,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",760,2,9,False
+1035,request refund,term,55,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",1035,2,9,False
+928,card not working,declined,25,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",928,2,9,False
+976,transfer timing,pending transfer,48,False,False,False,"{18: 1, 60: 1}","[1744, 3612]",976,2,9,False
+963,pending transfer,pending transfer,48,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",963,2,9,False
+762,passcode forgotten,pass,44,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",762,2,9,False
+514,transfer not received by recipient,transfer not,66,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",514,2,9,False
+870,lost or stolen phone,lost,42,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",870,2,9,False
+1122,transfer timing,transfer timing,67,False,True,False,"{18: 1, 60: 1}","[1744, 3612]",1122,2,9,False

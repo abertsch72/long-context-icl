@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+6795,transfer timing,transfer timing,67,True,True,True,"{67: 1, 51: 1}","[6795, 1406]",6795,2,9,False,2
+1406,Refund not showing up,Ref,51,True,True,False,"{67: 1, 51: 1}","[6795, 1406]",1406,2,9,False,2
+6579,card payment not recognised,pending card,45,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6579,2,9,False,2
+8461,transfer fee charged,verify source,70,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8461,2,9,False,2
+2655,cash withdrawal not recognised,wrong amount,75,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2655,2,9,False,2
+3681,card not working,age,1,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3681,2,9,False,2
+6234,card payment not recognised,vis,73,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6234,2,9,False,2
+2103,top up failed,apple,2,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2103,2,9,False,2
+9232,Refund not showing up,cash withdrawal not,20,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9232,2,9,False,2
+868,top up failed,to,62,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",868,2,9,False,2
+5068,Refund not showing up,balance not updated after che,6,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5068,2,9,False,2
+8785,order physical card,card delivery,12,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8785,2,9,False,2
+6201,verify my identity,verify my,69,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",6201,2,9,False,2
+6766,card not working,card sw,18,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6766,2,9,False,2
+9326,card not working,cash withdrawal not,20,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9326,2,9,False,2
+7854,verify my identity,edit,30,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7854,2,9,False,2
+516,top up by card charge,automatic,4,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",516,2,9,False,2
+2372,Refund not showing up,balance not updated after che,6,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2372,2,9,False,2
+4309,top up failed,pending top,47,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4309,2,9,False,2
+1984,card not working,dispos,29,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1984,2,9,False,2
+9847,card not working,order,43,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9847,2,9,False,2
+1734,transfer timing,transfer not,66,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",1734,2,9,False,2
+9398,transfer timing,transfer not,66,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",9398,2,9,False,2
+9332,card delivery estimate,card delivery,12,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",9332,2,9,False,2
+2434,activate my card,activ,0,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",2434,2,9,False,2
+2895,Refund not showing up,transfer not,66,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2895,2,9,False,2
+9521,verify my identity,why,74,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9521,2,9,False,2
+4163,card payment not recognised,pending card,45,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4163,2,9,False,2
+6933,transfer fee charged,top up by bank,56,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6933,2,9,False,2
+3004,Refund not showing up,Ref,51,True,True,False,"{67: 1, 51: 1}","[6795, 1406]",3004,2,9,False,2
+922,get physical card,receiving,50,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",922,2,9,False,2
+3027,exchange rate,exchange rate,32,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",3027,2,9,False,2
+5698,Refund not showing up,card payment wrong,17,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5698,2,9,False,2
+4198,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",4198,2,9,False,2
+3226,Refund not showing up,revert,53,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3226,2,9,False,2
+1097,card delivery estimate,card about,9,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1097,2,9,False,2
+7879,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",7879,2,9,False,2
+7778,verify my identity,unable,68,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7778,2,9,False,2
+6017,exchange rate,exchange via,33,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6017,2,9,False,2
+2477,cancel transfer,terminate,55,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2477,2,9,False,2
+9390,exchange rate,exchange rate,32,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",9390,2,9,False,2
+8038,lost or stolen phone,lost or stolen phone,42,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",8038,2,9,False,2
+1789,transfer fee charged,top up by bank,56,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1789,2,9,False,2
+5389,card not working,card payment fee,15,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5389,2,9,False,2
+978,virtual card not working,getting virtual,40,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",978,2,9,False,2
+8508,exchange rate,exchange rate,32,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",8508,2,9,False,2
+5394,Refund not showing up,request,52,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5394,2,9,False,2
+4219,verify my identity,why,74,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4219,2,9,False,2
+5366,exchange rate,exchange via,33,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5366,2,9,False,2
+7711,Refund not showing up,pending c,46,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7711,2,9,False,2
+4038,card delivery estimate,card arrival,11,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4038,2,9,False,2
+3191,exchange rate,card payment wrong,17,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3191,2,9,False,2
+9906,Refund not showing up,wrong amount,75,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9906,2,9,False,2
+3732,card payment not recognised,declined card,25,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3732,2,9,False,2
+7618,get physical card,pass,44,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7618,2,9,False,2
+250,Refund not showing up,direct,28,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",250,2,9,False,2
+9150,Refund not showing up,card payment not,16,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9150,2,9,False,2
+5755,verify my identity,why,74,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5755,2,9,False,2
+1456,card payment not recognised,supported,54,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1456,2,9,False,2
+9078,Refund not showing up,cancel,8,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9078,2,9,False,2
+6780,Refund not showing up,card payment not,16,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6780,2,9,False,2
+9712,top up limits,top up limits,60,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",9712,2,9,False,2
+4699,change pin,exchange via,33,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4699,2,9,False,2
+9274,atm support,cash withdrawal charge,19,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9274,2,9,False,2
+2736,top up by card charge,verify top,71,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2736,2,9,False,2
+3044,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",3044,2,9,False,2
+7149,card not working,comprom,22,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7149,2,9,False,2
+985,transfer timing,pending transfer,48,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",985,2,9,False,2
+3567,Refund not showing up,pending card,45,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3567,2,9,False,2
+5449,card not working,activ,0,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5449,2,9,False,2
+4988,card delivery estimate,card arrival,11,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4988,2,9,False,2
+7801,exchange rate,wrong exchange,76,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7801,2,9,False,2
+4583,top up by card charge,apple,2,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4583,2,9,False,2
+7891,verify my identity,verify my,69,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",7891,2,9,False,2
+4778,extra charge on statement,extra,34,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",4778,2,9,False,2
+6870,Refund not showing up,declined transfer,27,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6870,2,9,False,2
+1109,transfer not received by recipient,benef,7,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1109,2,9,False,2
+3122,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",3122,2,9,False,2
+8962,exchange rate,wrong exchange,76,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8962,2,9,False,2
+5059,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5059,2,9,False,2
+636,Refund not showing up,extra,34,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",636,2,9,False,2
+8965,transfer timing,pending transfer,48,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",8965,2,9,False,2
+8142,transfer timing,balance not updated after bank,5,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",8142,2,9,False,2
+9004,topping up by card,top up by card,57,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9004,2,9,False,2
+8667,exchange rate,exchange rate,32,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",8667,2,9,False,2
+3798,pending cash withdrawal,pending c,46,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",3798,2,9,False,2
+4106,top up failed,top up revert,61,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4106,2,9,False,2
+345,transfer fee charged,transfer into,65,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",345,2,9,False,2
+3165,card acceptance,card accept,10,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",3165,2,9,False,2
+157,card not working,card payment not,16,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",157,2,9,False,2
+2884,card payment not recognised,card payment not,16,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",2884,2,9,False,2
+2802,pin blocked,get physical,38,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2802,2,9,False,2
+4916,card not working,supported,54,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4916,2,9,False,2
+728,cancel transfer,terminate,55,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",728,2,9,False,2
+1981,card not working,declined card,25,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1981,2,9,False,2
+1026,transfer timing,fi,36,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",1026,2,9,False,2
+5354,card delivery estimate,getting spare,39,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5354,2,9,False,2
+6490,card not working,card arrival,11,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6490,2,9,False,2
+3988,country support,country,24,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",3988,2,9,False,2
+6610,card acceptance,card accept,10,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",6610,2,9,False,2
+9042,change pin,edit,30,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9042,2,9,False,2
+683,top up failed,verify top,71,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",683,2,9,False,2
+6910,Refund not showing up,transaction,63,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6910,2,9,False,2
+4684,Refund not showing up,transaction,63,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4684,2,9,False,2
+4104,transfer timing,top up by c,58,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",4104,2,9,False,2
+7212,top up by card charge,automatic,4,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7212,2,9,False,2
+5305,Refund not showing up,transaction,63,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5305,2,9,False,2
+2560,card not working,at,3,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2560,2,9,False,2
+2343,pin blocked,pin,49,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",2343,2,9,False,2
+5315,beneficiary not allowed,benef,7,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",5315,2,9,False,2
+2468,Refund not showing up,cash withdrawal not,20,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2468,2,9,False,2
+9214,transfer not received by recipient,failed,35,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9214,2,9,False,2
+1841,verify my identity,verify my,69,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",1841,2,9,False,2
+5785,card not working,activ,0,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5785,2,9,False,2
+241,change pin,edit,30,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",241,2,9,False,2
+7479,card not working,vis,73,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7479,2,9,False,2
+3662,top up failed,top up revert,61,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3662,2,9,False,2
+60,transfer fee charged,top up by bank,56,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",60,2,9,False,2
+270,Refund not showing up,cash withdrawal not,20,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",270,2,9,False,2
+8116,Refund not showing up,why,74,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8116,2,9,False,2
+5813,get physical card,age,1,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5813,2,9,False,2
+1930,exchange rate,card payment wrong,17,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1930,2,9,False,2
+6659,Refund not showing up,Ref,51,True,True,False,"{67: 1, 51: 1}","[6795, 1406]",6659,2,9,False,2
+8891,card not working,country,24,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8891,2,9,False,2
+3561,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",3561,2,9,False,2
+3647,exchange rate,card payment wrong,17,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3647,2,9,False,2
+5263,verify my identity,verify my,69,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",5263,2,9,False,2
+6177,cancel transfer,cancel,8,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",6177,2,9,False,2
+3559,Refund not showing up,Ref,51,True,True,False,"{67: 1, 51: 1}","[6795, 1406]",3559,2,9,False,2
+2018,exchange rate,exchange via,33,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2018,2,9,False,2
+1906,top up failed,top up revert,61,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1906,2,9,False,2
+2527,top up failed,top up failed,59,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",2527,2,9,False,2
+7806,card not working,activ,0,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7806,2,9,False,2
+6388,change pin,change,21,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",6388,2,9,False,2
+9685,Refund not showing up,extra,34,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9685,2,9,False,2
+4156,transfer not received by recipient,declined transfer,27,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4156,2,9,False,2
+8198,top up limits,top up limits,60,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",8198,2,9,False,2
+2049,cash withdrawal not recognised,wrong amount,75,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2049,2,9,False,2
+4563,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",4563,2,9,False,2
+4406,transfer fee charged,top up by bank,56,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4406,2,9,False,2
+7082,Refund not showing up,top up revert,61,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7082,2,9,False,2
+216,verify my identity,unable,68,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",216,2,9,False,2
+6711,exchange rate,exchange charge,31,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6711,2,9,False,2
+3758,Refund not showing up,wrong amount,75,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3758,2,9,False,2
+4538,top up limits,top up limits,60,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",4538,2,9,False,2
+6125,cancel transfer,terminate,55,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6125,2,9,False,2
+346,change pin,edit,30,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",346,2,9,False,2
+4500,cancel transfer,terminate,55,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4500,2,9,False,2
+3967,transfer not received by recipient,pending transfer,48,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3967,2,9,False,2
+8612,Refund not showing up,Ref,51,True,True,False,"{67: 1, 51: 1}","[6795, 1406]",8612,2,9,False,2
+8139,card not working,verify top,71,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8139,2,9,False,2
+4184,card payment not recognised,card payment fee,15,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4184,2,9,False,2
+4208,top up reverted,top up revert,61,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",4208,2,9,False,2
+6612,transfer timing,pending transfer,48,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",6612,2,9,False,2
+7555,transfer timing,transfer timing,67,True,True,True,"{67: 1, 51: 1}","[6795, 1406]",7555,2,9,False,2
+8829,verify my identity,unable,68,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8829,2,9,False,2
+6593,card not working,activ,0,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6593,2,9,False,2
+7987,transfer timing,transfer timing,67,True,True,True,"{67: 1, 51: 1}","[6795, 1406]",7987,2,9,False,2
+4613,top up by card charge,apple,2,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4613,2,9,False,2
+9942,transfer into account,transfer into,65,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",9942,2,9,False,2
+2014,cancel transfer,cash withdrawal not,20,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2014,2,9,False,2
+7024,transfer timing,balance not updated after bank,5,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",7024,2,9,False,2
+3164,atm support,cash withdrawal charge,19,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3164,2,9,False,2
+3540,pin blocked,get physical,38,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3540,2,9,False,2
+3498,pending card payment,pending transfer,48,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3498,2,9,False,2
+7414,Refund not showing up,Ref,51,True,True,False,"{67: 1, 51: 1}","[6795, 1406]",7414,2,9,False,2
+3444,Refund not showing up,extra,34,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3444,2,9,False,2
+4105,exchange rate,wrong exchange,76,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4105,2,9,False,2
+5978,Refund not showing up,transaction,63,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5978,2,9,False,2
+3705,card not working,card arrival,11,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3705,2,9,False,2
+4250,change pin,edit,30,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4250,2,9,False,2
+3541,card linking,card linking,13,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",3541,2,9,False,2
+5836,passcode forgotten,pass,44,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",5836,2,9,False,2
+8273,Refund not showing up,verify source,70,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8273,2,9,False,2
+1115,Refund not showing up,Ref,51,True,True,False,"{67: 1, 51: 1}","[6795, 1406]",1115,2,9,False,2
+979,transfer not received by recipient,failed,35,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",979,2,9,False,2
+6284,card payment not recognised,declined card,25,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6284,2,9,False,2
+3435,transfer fee charged,top up by bank,56,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3435,2,9,False,2
+1384,Refund not showing up,request,52,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1384,2,9,False,2
+528,pin blocked,get physical,38,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",528,2,9,False,2
+291,verify source of funds,verify source,70,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",291,2,9,False,2
+3992,Refund not showing up,extra,34,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3992,2,9,False,2
+4718,Refund not showing up,request,52,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4718,2,9,False,2
+5509,card not working,card not,14,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",5509,2,9,False,2
+3702,card not working,country,24,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3702,2,9,False,2
+9795,Refund not showing up,benef,7,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9795,2,9,False,2
+6901,card delivery estimate,order,43,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6901,2,9,False,2
+9885,card not working,dispos,29,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9885,2,9,False,2
+7442,cancel transfer,cancel,8,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",7442,2,9,False,2
+2488,card not working,lost or stolen card,41,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2488,2,9,False,2
+935,transfer timing,verify source,70,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",935,2,9,False,2
+9462,cancel transfer,revert,53,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9462,2,9,False,2
+1432,transfer not received by recipient,benef,7,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1432,2,9,False,2
+9812,cancel transfer,request,52,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9812,2,9,False,2
+8129,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8129,2,9,False,2
+7177,exchange rate,receiving,50,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7177,2,9,False,2
+467,card not working,activ,0,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",467,2,9,False,2
+9182,card delivery estimate,card delivery,12,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",9182,2,9,False,2
+3933,Refund not showing up,pending card,45,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3933,2,9,False,2
+1120,exchange rate,exchange rate,32,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",1120,2,9,False,2
+5996,Refund not showing up,transaction,63,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5996,2,9,False,2
+1091,Refund not showing up,pending c,46,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1091,2,9,False,2
+6241,card delivery estimate,card arrival,11,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6241,2,9,False,2
+9379,Refund not showing up,extra,34,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9379,2,9,False,2
+5780,Refund not showing up,pending card,45,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5780,2,9,False,2
+7341,card payment not recognised,vis,73,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7341,2,9,False,2
+6420,exchange rate,card payment wrong,17,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6420,2,9,False,2
+3478,Refund not showing up,revert,53,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3478,2,9,False,2
+7782,transfer timing,transfer timing,67,True,True,True,"{67: 1, 51: 1}","[6795, 1406]",7782,2,9,False,2
+3292,card not working,getting spare,39,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3292,2,9,False,2
+5852,Refund not showing up,card payment not,16,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5852,2,9,False,2
+6935,virtual card not working,getting virtual,40,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6935,2,9,False,2
+7354,Refund not showing up,transaction,63,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7354,2,9,False,2
+9631,lost or stolen card,lost or stolen card,41,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",9631,2,9,False,2
+739,pin blocked,pin,49,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",739,2,9,False,2
+2972,top up by card charge,top up by card,57,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",2972,2,9,False,2
+6880,Refund not showing up,pending c,46,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6880,2,9,False,2
+2549,Refund not showing up,transfer not,66,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2549,2,9,False,2
+1893,atm support,cash withdrawal charge,19,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1893,2,9,False,2
+2352,Refund not showing up,balance not updated after che,6,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2352,2,9,False,2
+8660,card not working,virtual,72,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8660,2,9,False,2
+6417,top up by card charge,apple,2,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",6417,2,9,False,2
+2258,atm support,at,3,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",2258,2,9,False,2
+7644,direct debit payment not recognised,direct,28,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",7644,2,9,False,2
+7662,cancel transfer,terminate,55,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",7662,2,9,False,2
+1025,transfer timing,balance not updated after bank,5,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",1025,2,9,False,2
+8753,atm support,wrong amount,75,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",8753,2,9,False,2
+1398,card not working,card delivery,12,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1398,2,9,False,2
+2807,transfer timing,transfer not,66,False,False,True,"{67: 1, 51: 1}","[6795, 1406]",2807,2,9,False,2
+4564,card not working,card not,14,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",4564,2,9,False,2
+2013,virtual card not working,get dispos,37,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2013,2,9,False,2
+4415,top up by card charge,to,62,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",4415,2,9,False,2
+9439,card not working,getting spare,39,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",9439,2,9,False,2
+3367,card not working,card about,9,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3367,2,9,False,2
+995,Refund not showing up,cash withdrawal charge,19,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",995,2,9,False,2
+1056,card not working,card payment not,16,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1056,2,9,False,2
+1242,Refund not showing up,transaction,63,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",1242,2,9,False,2
+113,cash withdrawal not recognised,pending c,46,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",113,2,9,False,2
+412,card not working,card not,14,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",412,2,9,False,2
+4933,exchange rate,exchange rate,32,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",4933,2,9,False,2
+3985,exchange rate,card payment wrong,17,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",3985,2,9,False,2
+5775,card not working,dispos,29,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5775,2,9,False,2
+4303,pin blocked,pin,49,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",4303,2,9,False,2
+7131,verify my identity,verify my,69,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",7131,2,9,False,2
+5831,transfer not received by recipient,benef,7,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",5831,2,9,False,2
+6927,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",6927,2,9,False,2
+2120,card not working,card sw,18,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2120,2,9,False,2
+863,top up by card charge,apple,2,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",863,2,9,False,2
+2846,card not working,comprom,22,False,False,False,"{67: 1, 51: 1}","[6795, 1406]",2846,2,9,False,2
+2536,age limit,age,1,False,True,False,"{67: 1, 51: 1}","[6795, 1406]",2536,2,9,False,2

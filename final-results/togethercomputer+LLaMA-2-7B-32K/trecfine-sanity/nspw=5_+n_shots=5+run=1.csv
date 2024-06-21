@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4097,description description,description description,25,True,True,True,"{25: 2, 9: 1, 39: 1, 24: 1}","[4097, 1548, 5419, 4731, 3902]",4097,5,1,False,5
+1548,description description,description description,25,True,True,True,"{25: 2, 9: 1, 39: 1, 24: 1}","[4097, 1548, 5419, 4731, 3902]",1548,5,1,False,5
+5419,entity food,entity food,9,True,True,True,"{25: 2, 9: 1, 39: 1, 24: 1}","[4097, 1548, 5419, 4731, 3902]",5419,5,1,False,5
+4731,numeric date,numeric date,39,True,True,True,"{25: 2, 9: 1, 39: 1, 24: 1}","[4097, 1548, 5419, 4731, 3902]",4731,5,1,False,5
+3902,description definition,description definition,24,True,True,True,"{25: 2, 9: 1, 39: 1, 24: 1}","[4097, 1548, 5419, 4731, 3902]",3902,5,1,False,5

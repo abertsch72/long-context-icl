@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+2054,qa definition,qa definition,52,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2054,5,5,False,5
+6754,calendar remove,calendar remove,8,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6754,5,5,False,5
+11595,calendar query,calendar query,7,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11595,5,5,False,5
+13292,iot hue light change,iot hue light change,31,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13292,5,5,False,5
+14856,qa maths,qa math,54,True,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14856,5,5,False,5
+6545,iot hue light change,lists query,39,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6545,5,5,False,5
+12177,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12177,5,5,False,5
+9049,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",9049,5,5,False,5
+8690,qa factoid,general qu,27,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8690,5,5,False,5
+16298,calendar query,datetime query,13,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16298,5,5,False,5
+5731,calendar set,calendar set,9,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5731,5,5,False,5
+17818,qa maths,general aff,18,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17818,5,5,False,5
+1829,qa maths,general repeat,28,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1829,5,5,False,5
+10117,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10117,5,5,False,5
+18269,email add contact,email s,17,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18269,5,5,False,5
+4325,iot hue light change,transport ticket,65,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4325,5,5,False,5
+7600,calendar query,email query,15,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7600,5,5,False,5
+10568,qa maths,general aff,18,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10568,5,5,False,5
+18717,qa factoid,takeaway query,62,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18717,5,5,False,5
+16620,weather query,weather,67,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16620,5,5,False,5
+16892,social post,social post,59,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16892,5,5,False,5
+291,calendar query,calendar remove,8,True,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",291,5,5,False,5
+11714,music query,lists query,39,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11714,5,5,False,5
+6270,iot hue light change,iot hue light off,33,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6270,5,5,False,5
+1332,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1332,5,5,False,5
+7431,alarm set,alarm set,2,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7431,5,5,False,5
+17793,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17793,5,5,False,5
+3495,iot coffee,iot coffee,30,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3495,5,5,False,5
+2711,music query,audio volume up,6,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2711,5,5,False,5
+17238,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17238,5,5,False,5
+5102,iot hue light change,lists create,38,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5102,5,5,False,5
+12105,weather query,weather,67,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12105,5,5,False,5
+975,qa currency,qa currency,51,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",975,5,5,False,5
+2150,news query,news,45,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2150,5,5,False,5
+6262,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6262,5,5,False,5
+9216,calendar query,qa stock,55,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",9216,5,5,False,5
+18413,calendar remove,lists remove,40,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18413,5,5,False,5
+10152,qa currency,qa currency,51,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10152,5,5,False,5
+1341,weather query,weather,67,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1341,5,5,False,5
+9766,qa currency,qa currency,51,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",9766,5,5,False,5
+134,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",134,5,5,False,5
+2550,calendar query,lists create,38,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2550,5,5,False,5
+17484,music query,play radio,50,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17484,5,5,False,5
+15302,qa factoid,general qu,27,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15302,5,5,False,5
+10485,iot hue light change,transport tax,64,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10485,5,5,False,5
+76,alarm set,alarm set,2,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",76,5,5,False,5
+18614,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18614,5,5,False,5
+17532,social post,social post,59,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17532,5,5,False,5
+7388,qa maths,general confirm,20,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7388,5,5,False,5
+18362,alarm query,alarm query,0,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18362,5,5,False,5
+10556,social query,social post,59,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10556,5,5,False,5
+187,social post,social post,59,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",187,5,5,False,5
+18368,qa maths,general aff,18,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18368,5,5,False,5
+6909,qa currency,qa currency,51,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6909,5,5,False,5
+1631,calendar query,general qu,27,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1631,5,5,False,5
+17161,iot hue light change,iot wemo on,37,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17161,5,5,False,5
+792,qa maths,qa fact,53,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",792,5,5,False,5
+14237,calendar query,general qu,27,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14237,5,5,False,5
+15141,qa currency,general qu,27,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15141,5,5,False,5
+3076,weather query,weather,67,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3076,5,5,False,5
+514,calendar query,email add,14,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",514,5,5,False,5
+6832,alarm set,alarm query,0,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6832,5,5,False,5
+9529,qa maths,qa math,54,True,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",9529,5,5,False,5
+11402,qa maths,general explain,22,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11402,5,5,False,5
+19137,qa maths,general dont,21,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",19137,5,5,False,5
+2831,iot coffee,iot coffee,30,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2831,5,5,False,5
+4102,iot hue light change,general pra,26,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4102,5,5,False,5
+6880,iot hue light change,general confirm,20,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6880,5,5,False,5
+11189,email query,email query,15,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11189,5,5,False,5
+3268,email query,email query,15,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3268,5,5,False,5
+7830,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7830,5,5,False,5
+708,iot hue light change,iot hue light dim,32,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",708,5,5,False,5
+7886,calendar query,calendar query,7,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7886,5,5,False,5
+5058,qa maths,general neg,25,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5058,5,5,False,5
+17617,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17617,5,5,False,5
+1021,calendar remove,calendar remove,8,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1021,5,5,False,5
+18834,calendar query,calendar query,7,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18834,5,5,False,5
+1652,iot hue light change,transport ticket,65,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1652,5,5,False,5
+11669,weather query,weather,67,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11669,5,5,False,5
+1284,calendar query,play pod,49,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1284,5,5,False,5
+1554,calendar query,play audio,46,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1554,5,5,False,5
+12675,qa maths,general aff,18,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12675,5,5,False,5
+4076,iot hue light change,general neg,25,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4076,5,5,False,5
+446,qa maths,general explain,22,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",446,5,5,False,5
+1861,qa definition,qa definition,52,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1861,5,5,False,5
+4950,iot hue light off,iot hue light off,33,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4950,5,5,False,5
+11454,qa factoid,qa fact,53,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11454,5,5,False,5
+4552,email query,email query,15,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4552,5,5,False,5
+12605,news query,news,45,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12605,5,5,False,5
+14256,qa maths,general explain,22,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14256,5,5,False,5
+6614,qa maths,general dont,21,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6614,5,5,False,5
+16158,qa maths,general repeat,28,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16158,5,5,False,5
+17204,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17204,5,5,False,5
+6555,news query,news,45,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6555,5,5,False,5
+5951,calendar query,email query,15,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5951,5,5,False,5
+867,social query,social query,60,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",867,5,5,False,5
+16132,qa maths,lists query,39,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16132,5,5,False,5
+5236,qa maths,lists query,39,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5236,5,5,False,5
+12015,qa maths,general pra,26,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12015,5,5,False,5
+12368,qa maths,general pra,26,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12368,5,5,False,5
+19143,qa maths,general dont,21,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",19143,5,5,False,5
+18513,email query,email query,15,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18513,5,5,False,5
+10314,play audiobook,play pod,49,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10314,5,5,False,5
+6156,calendar query,calendar query,7,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6156,5,5,False,5
+206,iot hue light change,recommendation locations,57,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",206,5,5,False,5
+5773,calendar query,alarm query,0,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5773,5,5,False,5
+3054,qa maths,general dont,21,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3054,5,5,False,5
+4137,iot hue light change,alarm remove,1,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4137,5,5,False,5
+13801,qa maths,general qu,27,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13801,5,5,False,5
+9477,iot hue light change,iot hue light dim,32,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",9477,5,5,False,5
+7862,qa maths,general pra,26,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7862,5,5,False,5
+183,qa factoid,recommendation mov,58,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",183,5,5,False,5
+1504,iot hue light change,social post,59,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1504,5,5,False,5
+18206,qa currency,qa currency,51,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18206,5,5,False,5
+8516,qa factoid,takeaway query,62,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8516,5,5,False,5
+16260,qa maths,general confirm,20,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16260,5,5,False,5
+4192,iot hue light change,audio volume m,4,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4192,5,5,False,5
+12428,qa maths,general aff,18,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12428,5,5,False,5
+540,qa maths,general explain,22,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",540,5,5,False,5
+6609,qa maths,general confirm,20,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6609,5,5,False,5
+1447,qa maths,datetime query,13,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1447,5,5,False,5
+19270,qa maths,general confirm,20,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",19270,5,5,False,5
+5354,iot hue light off,iot hue light off,33,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5354,5,5,False,5
+2739,music query,music query,43,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2739,5,5,False,5
+3161,qa maths,general neg,25,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3161,5,5,False,5
+6679,qa maths,general neg,25,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6679,5,5,False,5
+17867,alarm remove,alarm remove,1,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17867,5,5,False,5
+11720,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11720,5,5,False,5
+13990,qa maths,general pra,26,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13990,5,5,False,5
+3958,calendar remove,calendar remove,8,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3958,5,5,False,5
+10376,calendar query,datetime query,13,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10376,5,5,False,5
+6474,qa maths,cooking query,10,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6474,5,5,False,5
+3410,iot hue light change,music dis,41,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3410,5,5,False,5
+16970,email add contact,email s,17,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16970,5,5,False,5
+7833,qa maths,datetime query,13,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7833,5,5,False,5
+4907,qa maths,general repeat,28,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4907,5,5,False,5
+16147,iot hue light change,weather,67,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16147,5,5,False,5
+10174,calendar query,calendar query,7,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10174,5,5,False,5
+14991,iot hue light change,takeaway order,61,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14991,5,5,False,5
+15787,iot hue light change,iot hue light change,31,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15787,5,5,False,5
+7480,news query,news,45,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7480,5,5,False,5
+15169,calendar remove,calendar remove,8,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15169,5,5,False,5
+11512,qa maths,general pra,26,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11512,5,5,False,5
+2494,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2494,5,5,False,5
+14653,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14653,5,5,False,5
+3914,iot hue light change,play radio,50,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3914,5,5,False,5
+6893,news query,news,45,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6893,5,5,False,5
+1327,iot hue light change,audio volume m,4,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1327,5,5,False,5
+1030,qa maths,general explain,22,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1030,5,5,False,5
+10926,calendar query,recommendation events,56,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10926,5,5,False,5
+4786,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4786,5,5,False,5
+16966,calendar query,transport ticket,65,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16966,5,5,False,5
+1815,calendar query,email s,17,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1815,5,5,False,5
+5746,qa currency,qa currency,51,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5746,5,5,False,5
+11342,music query,play radio,50,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11342,5,5,False,5
+18556,play podcasts,play pod,49,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18556,5,5,False,5
+9999,qa stock,qa stock,55,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",9999,5,5,False,5
+4265,qa factoid,recommendation locations,57,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4265,5,5,False,5
+3032,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3032,5,5,False,5
+5296,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5296,5,5,False,5
+17065,iot hue light change,play radio,50,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17065,5,5,False,5
+2450,calendar query,alarm query,0,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2450,5,5,False,5
+12279,calendar query,alarm query,0,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12279,5,5,False,5
+12545,alarm set,alarm set,2,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12545,5,5,False,5
+8146,qa maths,datetime convert,12,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8146,5,5,False,5
+3908,qa maths,general explain,22,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3908,5,5,False,5
+2696,qa definition,qa definition,52,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2696,5,5,False,5
+10651,qa maths,general pra,26,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10651,5,5,False,5
+2619,iot hue light change,iot hue light dim,32,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2619,5,5,False,5
+4231,qa maths,play game,47,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4231,5,5,False,5
+2860,news query,news,45,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2860,5,5,False,5
+6826,music query,play radio,50,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6826,5,5,False,5
+4908,calendar query,email query,15,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4908,5,5,False,5
+14181,qa maths,general dont,21,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14181,5,5,False,5
+11151,calendar query,alarm set,2,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11151,5,5,False,5
+17350,calendar query,calendar query,7,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17350,5,5,False,5
+14998,qa maths,social post,59,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14998,5,5,False,5
+7869,qa maths,general repeat,28,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7869,5,5,False,5
+7844,iot hue light off,general command,19,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7844,5,5,False,5
+13974,qa factoid,qa fact,53,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13974,5,5,False,5
+6198,weather query,weather,67,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6198,5,5,False,5
+380,weather query,transport traffic,66,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",380,5,5,False,5
+6728,iot hue light change,general repeat,28,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6728,5,5,False,5
+4888,calendar query,calendar query,7,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4888,5,5,False,5
+3701,iot hue light change,play audio,46,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3701,5,5,False,5
+8315,qa factoid,email query contact,16,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8315,5,5,False,5
+10703,iot hue light change,audio volume other,5,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10703,5,5,False,5
+12635,weather query,transport traffic,66,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12635,5,5,False,5
+6543,qa factoid,news,45,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6543,5,5,False,5
+15560,iot hue light change,lists create,38,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15560,5,5,False,5
+3020,calendar set,general qu,27,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3020,5,5,False,5
+4970,iot hue light off,general command,19,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4970,5,5,False,5
+4215,calendar query,recommendation events,56,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4215,5,5,False,5
+14314,play podcasts,play pod,49,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14314,5,5,False,5
+13094,qa factoid,datetime query,13,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13094,5,5,False,5
+4323,iot hue light change,lists remove,40,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4323,5,5,False,5
+4032,iot hue light change,general qu,27,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4032,5,5,False,5
+4171,iot hue light change,music li,42,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4171,5,5,False,5
+1002,calendar remove,calendar remove,8,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1002,5,5,False,5
+13920,email add contact,email s,17,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13920,5,5,False,5
+9560,iot hue light off,iot hue light off,33,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",9560,5,5,False,5
+2725,calendar query,transport ticket,65,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2725,5,5,False,5
+18349,qa maths,general explain,22,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18349,5,5,False,5
+14444,iot hue light change,iot hue light up,35,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14444,5,5,False,5
+5103,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5103,5,5,False,5
+15235,qa maths,recommendation locations,57,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15235,5,5,False,5
+8009,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8009,5,5,False,5
+17870,iot hue light change,general aff,18,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17870,5,5,False,5
+11780,qa maths,general neg,25,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11780,5,5,False,5
+8590,qa maths,email query,15,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8590,5,5,False,5
+444,calendar query,alarm set,2,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",444,5,5,False,5
+2135,qa maths,general confirm,20,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2135,5,5,False,5
+6124,news query,news,45,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6124,5,5,False,5
+13499,calendar query,social query,60,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13499,5,5,False,5
+8379,qa maths,general explain,22,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8379,5,5,False,5
+4116,qa definition,qa definition,52,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4116,5,5,False,5
+17114,music query,audio volume down,3,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",17114,5,5,False,5
+7788,qa maths,email query contact,16,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",7788,5,5,False,5
+5419,calendar query,calendar set,9,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",5419,5,5,False,5
+12738,music query,play radio,50,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",12738,5,5,False,5
+9027,calendar query,datetime query,13,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",9027,5,5,False,5
+19111,music query,play music,48,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",19111,5,5,False,5
+384,iot hue light change,general qu,27,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",384,5,5,False,5
+15571,qa maths,general repeat,28,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15571,5,5,False,5
+4452,iot hue light change,play audio,46,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",4452,5,5,False,5
+18631,qa factoid,qa fact,53,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",18631,5,5,False,5
+6696,calendar remove,calendar remove,8,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6696,5,5,False,5
+6507,iot hue light change,general confirm,20,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6507,5,5,False,5
+15286,qa maths,general pra,26,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15286,5,5,False,5
+363,calendar set,calendar set,9,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",363,5,5,False,5
+6585,news query,news,45,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",6585,5,5,False,5
+16540,iot hue light change,takeaway order,61,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",16540,5,5,False,5
+13825,qa stock,qa stock,55,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13825,5,5,False,5
+10667,qa maths,general dont,21,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10667,5,5,False,5
+11959,qa maths,general neg,25,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11959,5,5,False,5
+8530,qa factoid,recommendation locations,57,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8530,5,5,False,5
+8360,weather query,weather,67,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8360,5,5,False,5
+684,iot hue light change,takeaway query,62,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",684,5,5,False,5
+14530,iot hue light change,takeaway order,61,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",14530,5,5,False,5
+15248,calendar remove,calendar remove,8,True,True,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",15248,5,5,False,5
+3097,email add contact,email s,17,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3097,5,5,False,5
+13470,qa maths,recommendation locations,57,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",13470,5,5,False,5
+11185,iot hue light change,lists query,39,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",11185,5,5,False,5
+8027,iot hue light change,general qu,27,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8027,5,5,False,5
+3534,qa maths,cooking reci,11,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",3534,5,5,False,5
+1772,qa factoid,email s,17,False,False,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",1772,5,5,False,5
+10406,calendar query,play audio,46,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10406,5,5,False,5
+8353,iot hue light change,play radio,50,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",8353,5,5,False,5
+2523,weather query,weather,67,False,True,False,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",2523,5,5,False,5
+10903,iot hue light change,general command,19,False,False,True,"{52: 1, 8: 1, 7: 1, 31: 1, 54: 1}","[2054, 6754, 11595, 13292, 14856]",10903,5,5,False,5

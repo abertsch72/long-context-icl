@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,atm support,verify,70,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1104,2,1,False,2
+472,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",472,2,1,False,2
+1345,card delivery estimate,order,43,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1345,2,1,False,2
+838,pending transfer,pending card,45,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",838,2,1,False,2
+942,atm support,decl,25,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",942,2,1,False,2
+707,atm support,at,3,True,True,False,"{60: 1, 3: 1}","[1367, 1373]",707,2,1,False,2
+378,contactless not working,contact,23,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",378,2,1,False,2
+1258,transfer not received by recipient,failed,35,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1258,2,1,False,2
+451,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",451,2,1,False,2
+1467,top up limits,top up by card,57,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",1467,2,1,False,2
+652,card delivery estimate,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",652,2,1,False,2
+774,passcode forgotten,pass,44,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",774,2,1,False,2
+1112,atm support,verify,70,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1112,2,1,False,2
+659,atm support,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",659,2,1,False,2
+67,exchange rate,exchange,32,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",67,2,1,False,2
+773,passcode forgotten,pass,44,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",773,2,1,False,2
+679,virtual card not working,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",679,2,1,False,2
+956,card not working,decl,25,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",956,2,1,False,2
+919,card not working,request,52,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",919,2,1,False,2
+1221,atm support,receiving,50,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1221,2,1,False,2
+605,transfer not received by recipient,to,62,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",605,2,1,False,2
+240,card not working,card not,14,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",240,2,1,False,2
+1069,atm support,card sw,18,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1069,2,1,False,2
+1228,atm support,receiving,50,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1228,2,1,False,2
+1006,terminate account,terminate,55,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1006,2,1,False,2
+1308,atm support,top up by c,58,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1308,2,1,False,2
+106,atm support,extra,34,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",106,2,1,False,2
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1429,2,1,False,2
+455,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",455,2,1,False,2
+1380,virtual card not working,virtual,72,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1380,2,1,False,2
+325,atm support,pin,49,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",325,2,1,False,2
+745,atm support,direct,28,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",745,2,1,False,2
+1439,transfer not received by recipient,balance,5,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1439,2,1,False,2
+941,card not working,decl,25,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",941,2,1,False,2
+401,atm support,pending top,47,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",401,2,1,False,2
+1190,change pin,change,21,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1190,2,1,False,2
+759,atm support,direct,28,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",759,2,1,False,2
+1180,atm support,change,21,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1180,2,1,False,2
+123,atm support,fi,36,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",123,2,1,False,2
+1517,activate my card,activ,0,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1517,2,1,False,2
+227,automatic top up,automatic,4,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",227,2,1,False,2
+1321,card delivery estimate,order,43,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1321,2,1,False,2
+393,contactless not working,contact,23,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",393,2,1,False,2
+999,transfer timing,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",999,2,1,False,2
+927,card not working,decl,25,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",927,2,1,False,2
+244,card not working,card not,14,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",244,2,1,False,2
+181,order physical card,card delivery,12,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",181,2,1,False,2
+1170,pin blocked,change,21,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1170,2,1,False,2
+666,virtual card not working,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",666,2,1,False,2
+1028,contactless not working,terminate,55,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1028,2,1,False,2
+772,atm support,pass,44,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",772,2,1,False,2
+1223,change pin,receiving,50,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1223,2,1,False,2
+421,top up limits,pending top,47,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",421,2,1,False,2
+132,exchange rate,fi,36,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",132,2,1,False,2
+155,atm support,fi,36,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",155,2,1,False,2
+459,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",459,2,1,False,2
+371,contactless not working,contact,23,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",371,2,1,False,2
+15,activate my card,card linking,13,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",15,2,1,False,2
+1253,transfer not received by recipient,failed,35,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1253,2,1,False,2
+197,order physical card,card delivery,12,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",197,2,1,False,2
+527,atm support,card accept,10,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",527,2,1,False,2
+531,card acceptance,card accept,10,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",531,2,1,False,2
+382,contactless not working,contact,23,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",382,2,1,False,2
+620,transfer not received by recipient,to,62,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",620,2,1,False,2
+871,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",871,2,1,False,2
+1095,verify source of funds,verify,70,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1095,2,1,False,2
+1501,card not working,activ,0,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1501,2,1,False,2
+1368,virtual card not working,virtual,72,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1368,2,1,False,2
+344,pin blocked,pin,49,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",344,2,1,False,2
+429,top up limits,pending top,47,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",429,2,1,False,2
+291,age limit,age,1,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",291,2,1,False,2
+474,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",474,2,1,False,2
+137,exchange rate,fi,36,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",137,2,1,False,2
+784,passcode forgotten,pass,44,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",784,2,1,False,2
+1021,terminate account,terminate,55,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1021,2,1,False,2
+1414,transfer not received by recipient,balance,5,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1414,2,1,False,2
+741,card not working,direct,28,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",741,2,1,False,2
+904,card not working,request,52,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",904,2,1,False,2
+723,atm support,direct,28,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",723,2,1,False,2
+87,atm support,extra,34,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",87,2,1,False,2
+1457,top up limits,top up by card,57,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",1457,2,1,False,2
+747,atm support,direct,28,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",747,2,1,False,2
+728,atm support,direct,28,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",728,2,1,False,2
+860,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",860,2,1,False,2
+355,card not working,pin,49,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",355,2,1,False,2
+1294,top up limits,top up by c,58,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",1294,2,1,False,2
+521,card acceptance,card accept,10,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",521,2,1,False,2
+299,age limit,age,1,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",299,2,1,False,2
+807,pending transfer,pending card,45,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",807,2,1,False,2
+1367,virtual card not working,virtual,72,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1367,2,1,False,2
+556,atm support,card accept,10,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",556,2,1,False,2
+239,top up limits,automatic,4,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",239,2,1,False,2
+1418,transfer not received by recipient,balance,5,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1418,2,1,False,2
+203,top up limits,automatic,4,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",203,2,1,False,2
+1265,transfer not received by recipient,failed,35,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1265,2,1,False,2
+1509,card delivery estimate,activ,0,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1509,2,1,False,2
+284,age limit,age,1,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",284,2,1,False,2
+1335,card delivery estimate,order,43,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1335,2,1,False,2
+517,transfer not received by recipient,transfer not,66,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",517,2,1,False,2
+458,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",458,2,1,False,2
+808,pending transfer,pending card,45,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",808,2,1,False,2
+290,age limit,age,1,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",290,2,1,False,2
+584,top up limits,top up revert,61,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",584,2,1,False,2
+129,fiat currency support,fi,36,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",129,2,1,False,2
+306,age limit,age,1,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",306,2,1,False,2
+457,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",457,2,1,False,2
+179,card delivery estimate,card delivery,12,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",179,2,1,False,2
+628,transfer not received by recipient,to,62,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",628,2,1,False,2
+26,card not working,card linking,13,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",26,2,1,False,2
+1276,transfer not received by recipient,failed,35,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1276,2,1,False,2
+839,pending transfer,pending card,45,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",839,2,1,False,2
+1174,pin blocked,change,21,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1174,2,1,False,2
+557,card acceptance,card accept,10,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",557,2,1,False,2
+446,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",446,2,1,False,2
+1117,atm support,verify,70,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1117,2,1,False,2
+215,top up limits,automatic,4,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",215,2,1,False,2
+966,transfer timing,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",966,2,1,False,2
+420,top up limits,pending top,47,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",420,2,1,False,2
+614,top up limits,to,62,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",614,2,1,False,2
+192,card delivery estimate,card delivery,12,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",192,2,1,False,2
+667,virtual card not working,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",667,2,1,False,2
+852,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",852,2,1,False,2
+1083,verify source of funds,verify,70,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1083,2,1,False,2
+1106,verify source of funds,verify,70,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1106,2,1,False,2
+917,order physical card,request,52,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",917,2,1,False,2
+508,atm support,transfer not,66,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",508,2,1,False,2
+146,fiat currency support,fi,36,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",146,2,1,False,2
+1307,top up limits,top up by c,58,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",1307,2,1,False,2
+334,pin blocked,pin,49,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",334,2,1,False,2
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",962,2,1,False,2
+1015,terminate account,terminate,55,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1015,2,1,False,2
+1486,activate my card,activ,0,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1486,2,1,False,2
+391,contactless not working,contact,23,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",391,2,1,False,2
+1243,transfer not received by recipient,failed,35,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1243,2,1,False,2
+69,exchange rate,exchange,32,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",69,2,1,False,2
+392,contactless not working,contact,23,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",392,2,1,False,2
+792,passcode forgotten,pass,44,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",792,2,1,False,2
+1448,atm support,top up by card,57,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1448,2,1,False,2
+490,transfer not received by recipient,transfer not,66,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",490,2,1,False,2
+676,virtual card not working,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",676,2,1,False,2
+648,card delivery estimate,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",648,2,1,False,2
+818,pending card payment,pending card,45,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",818,2,1,False,2
+982,transfer timing,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",982,2,1,False,2
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",973,2,1,False,2
+535,card acceptance,card accept,10,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",535,2,1,False,2
+793,passcode forgotten,pass,44,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",793,2,1,False,2
+259,card not working,card not,14,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",259,2,1,False,2
+430,top up limits,pending top,47,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",430,2,1,False,2
+481,transfer not received by recipient,transfer not,66,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",481,2,1,False,2
+567,top up limits,top up revert,61,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",567,2,1,False,2
+72,exchange rate,exchange,32,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",72,2,1,False,2
+113,atm support,extra,34,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",113,2,1,False,2
+384,contactless not working,contact,23,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",384,2,1,False,2
+1053,atm support,card sw,18,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1053,2,1,False,2
+1401,transfer not received by recipient,balance,5,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1401,2,1,False,2
+969,transfer not received by recipient,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",969,2,1,False,2
+312,age limit,age,1,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",312,2,1,False,2
+892,contactless not working,request,52,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",892,2,1,False,2
+454,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",454,2,1,False,2
+479,top up limits,top up limits,60,True,True,True,"{60: 1, 3: 1}","[1367, 1373]",479,2,1,False,2
+650,atm support,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",650,2,1,False,2
+23,card linking,card linking,13,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",23,2,1,False,2
+1212,atm support,receiving,50,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1212,2,1,False,2
+1214,atm support,receiving,50,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1214,2,1,False,2
+1349,card delivery estimate,order,43,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1349,2,1,False,2
+262,card not working,card not,14,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",262,2,1,False,2
+48,exchange rate,exchange,32,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",48,2,1,False,2
+285,transfer not received by recipient,age,1,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",285,2,1,False,2
+851,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",851,2,1,False,2
+1352,card delivery estimate,order,43,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1352,2,1,False,2
+327,pin blocked,pin,49,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",327,2,1,False,2
+1438,balance not updated after bank transfer,balance,5,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1438,2,1,False,2
+29,card linking,card linking,13,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",29,2,1,False,2
+234,top up limits,automatic,4,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",234,2,1,False,2
+528,card acceptance,card accept,10,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",528,2,1,False,2
+369,card not working,contact,23,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",369,2,1,False,2
+128,exchange rate,fi,36,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",128,2,1,False,2
+1151,transfer timing,transfer timing,67,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1151,2,1,False,2
+544,card acceptance,card accept,10,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",544,2,1,False,2
+884,atm support,request,52,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",884,2,1,False,2
+593,top up limits,top up revert,61,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",593,2,1,False,2
+229,top up limits,automatic,4,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",229,2,1,False,2
+876,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",876,2,1,False,2
+629,transfer not received by recipient,to,62,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",629,2,1,False,2
+1419,transfer not received by recipient,balance,5,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1419,2,1,False,2
+821,pending card payment,pending card,45,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",821,2,1,False,2
+1285,top up limits,top up by c,58,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",1285,2,1,False,2
+678,atm support,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",678,2,1,False,2
+204,top up limits,automatic,4,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",204,2,1,False,2
+872,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",872,2,1,False,2
+696,atm support,at,3,True,True,False,"{60: 1, 3: 1}","[1367, 1373]",696,2,1,False,2
+219,atm support,automatic,4,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",219,2,1,False,2
+190,card delivery estimate,card delivery,12,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",190,2,1,False,2
+379,contactless not working,contact,23,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",379,2,1,False,2
+1340,atm support,order,43,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1340,2,1,False,2
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",978,2,1,False,2
+645,atm support,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",645,2,1,False,2
+735,atm support,direct,28,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",735,2,1,False,2
+850,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",850,2,1,False,2
+1353,card delivery estimate,order,43,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1353,2,1,False,2
+800,card not working,pending card,45,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",800,2,1,False,2
+1329,card delivery estimate,order,43,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1329,2,1,False,2
+115,atm support,extra,34,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",115,2,1,False,2
+1396,virtual card not working,virtual,72,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1396,2,1,False,2
+34,card not working,card linking,13,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",34,2,1,False,2
+967,transfer not received by recipient,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",967,2,1,False,2
+1512,card delivery estimate,activ,0,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1512,2,1,False,2
+439,top up limits,pending top,47,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",439,2,1,False,2
+1411,transfer timing,balance,5,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1411,2,1,False,2
+1217,transfer not received by recipient,receiving,50,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1217,2,1,False,2
+867,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",867,2,1,False,2
+704,atm support,at,3,True,True,False,"{60: 1, 3: 1}","[1367, 1373]",704,2,1,False,2
+1211,transfer not received by recipient,receiving,50,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1211,2,1,False,2
+646,card acceptance,dispos,29,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",646,2,1,False,2
+1165,change pin,change,21,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1165,2,1,False,2
+799,pin blocked,pass,44,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",799,2,1,False,2
+898,order physical card,request,52,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",898,2,1,False,2
+36,card not working,card linking,13,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",36,2,1,False,2
+1278,transfer not received by recipient,failed,35,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1278,2,1,False,2
+324,pin blocked,pin,49,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",324,2,1,False,2
+689,atm support,at,3,True,True,False,"{60: 1, 3: 1}","[1367, 1373]",689,2,1,False,2
+1508,activate my card,activ,0,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1508,2,1,False,2
+992,transfer timing,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",992,2,1,False,2
+314,age limit,age,1,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",314,2,1,False,2
+1082,atm support,verify,70,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1082,2,1,False,2
+1096,verify source of funds,verify,70,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1096,2,1,False,2
+787,change pin,pass,44,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",787,2,1,False,2
+842,atm support,lost,42,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",842,2,1,False,2
+191,card delivery estimate,card delivery,12,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",191,2,1,False,2
+845,lost or stolen phone,lost,42,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",845,2,1,False,2
+1027,terminate account,terminate,55,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1027,2,1,False,2
+99,atm support,extra,34,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",99,2,1,False,2
+552,atm support,card accept,10,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",552,2,1,False,2
+1024,terminate account,terminate,55,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1024,2,1,False,2
+141,exchange rate,fi,36,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",141,2,1,False,2
+625,transfer not received by recipient,to,62,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",625,2,1,False,2
+922,card not working,decl,25,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",922,2,1,False,2
+977,transfer timing,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",977,2,1,False,2
+135,change pin,fi,36,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",135,2,1,False,2
+1109,atm support,verify,70,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",1109,2,1,False,2
+405,top up limits,pending top,47,False,False,True,"{60: 1, 3: 1}","[1367, 1373]",405,2,1,False,2
+760,passcode forgotten,pass,44,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",760,2,1,False,2
+1035,terminate account,terminate,55,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1035,2,1,False,2
+928,atm support,decl,25,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",928,2,1,False,2
+976,transfer timing,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",976,2,1,False,2
+963,transfer not received by recipient,pending transfer,48,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",963,2,1,False,2
+762,passcode forgotten,pass,44,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",762,2,1,False,2
+514,transfer timing,transfer not,66,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",514,2,1,False,2
+870,atm support,lost,42,False,False,False,"{60: 1, 3: 1}","[1367, 1373]",870,2,1,False,2
+1122,transfer timing,transfer timing,67,False,True,False,"{60: 1, 3: 1}","[1367, 1373]",1122,2,1,False,2

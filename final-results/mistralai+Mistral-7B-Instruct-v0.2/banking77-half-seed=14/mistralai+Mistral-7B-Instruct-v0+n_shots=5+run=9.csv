@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,transfer not received by recipient,benef,7,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1104,5,9,False
+472,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",472,5,9,False
+1453,card about to expire,card about,9,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1453,5,9,False
+835,lost or stolen phone,lost or stolen phone,42,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",835,5,9,False
+939,card payment not recognised,transaction,63,True,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",939,5,9,False
+707,verify my identity,unable,68,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",707,5,9,False
+378,contactless not working,contact,23,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",378,5,9,False
+1078,card payment not recognised,re,53,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1078,5,9,False
+451,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",451,5,9,False
+1467,card not working,card about,9,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1467,5,9,False
+652,card not working,card payment not,16,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",652,5,9,False
+771,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",771,5,9,False
+1279,top up failed,top up failed,59,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1279,5,9,False
+659,transaction charged twice,card payment not,16,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",659,5,9,False
+67,exchange rate,exchange rate,32,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",67,5,9,False
+770,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",770,5,9,False
+679,transaction charged twice,card payment not,16,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",679,5,9,False
+954,transaction charged twice,transaction,63,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",954,5,9,False
+917,terminate account,term,55,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",917,5,9,False
+1222,card payment not recognised,get dispos,37,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1222,5,9,False
+604,card acceptance,card acceptance,10,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",604,5,9,False
+240,exchange rate,exchange via,33,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",240,5,9,False
+1316,card not working,cash,20,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1316,5,9,False
+1229,get disposable virtual card,get dispos,37,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1229,5,9,False
+1004,transfer timing,transfer timing,67,True,True,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1004,5,9,False
+1130,receiving money,receiving,50,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1130,5,9,False
+106,exchange rate,card payment wrong,17,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",106,5,9,False
+1041,card payment not recognised,re,53,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1041,5,9,False
+455,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",455,5,9,False
+1380,top up by card charge,top up by,57,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1380,5,9,False
+325,reverted card payment?,pin,49,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",325,5,9,False
+742,pin blocked,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",742,5,9,False
+1439,activate my card,activate,0,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1439,5,9,False
+938,transaction charged twice,transaction,63,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",938,5,9,False
+401,card not working,pending,47,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",401,5,9,False
+1212,activate my card,get dispos,37,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1212,5,9,False
+756,pin blocked,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",756,5,9,False
+1180,card payment fee charged,failed,35,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1180,5,9,False
+122,transaction charged twice,extra,34,True,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",122,5,9,False
+1517,verify my identity,verify my,69,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1517,5,9,False
+227,card not working,card not,14,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",227,5,9,False
+1321,exchange rate,exchange charge,31,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1321,5,9,False
+393,contactless not working,contact,23,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",393,5,9,False
+997,transaction charged twice,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",997,5,9,False
+924,transaction charged twice,transaction,63,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",924,5,9,False
+244,exchange rate,exchange via,33,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",244,5,9,False
+181,automatic top up,automatic,4,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",181,5,9,False
+1169,transfer not received by recipient,failed,35,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1169,5,9,False
+666,card payment not recognised,card payment not,16,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",666,5,9,False
+1026,transfer timing,transfer timing,67,True,True,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1026,5,9,False
+769,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",769,5,9,False
+1063,card payment not recognised,re,53,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1063,5,9,False
+421,top up failed,pending,47,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",421,5,9,False
+131,extra charge on statement,extra,34,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",131,5,9,False
+155,extra charge on statement,extra,34,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",155,5,9,False
+459,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",459,5,9,False
+371,contactless not working,contact,23,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",371,5,9,False
+15,reverted card payment?,card link,13,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",15,5,9,False
+1254,top up failed,top up failed,59,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1254,5,9,False
+197,top up by card charge,automatic,4,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",197,5,9,False
+523,transaction charged twice,transfer not,66,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",523,5,9,False
+527,transfer not received by recipient,transfer not,66,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",527,5,9,False
+382,contactless not working,contact,23,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",382,5,9,False
+619,card acceptance,card acceptance,10,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",619,5,9,False
+868,Refund not showing up,Ref,51,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",868,5,9,False
+1095,transfer not received by recipient,benef,7,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1095,5,9,False
+1406,activate my card,activate,0,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1406,5,9,False
+1368,extra charge on statement,top up by,57,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1368,5,9,False
+344,pin blocked,pin,49,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",344,5,9,False
+429,top up failed,pending,47,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",429,5,9,False
+291,card not working,lost or stolen card,41,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",291,5,9,False
+474,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",474,5,9,False
+136,extra charge on statement,extra,34,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",136,5,9,False
+781,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",781,5,9,False
+1019,transfer timing,transfer timing,67,True,True,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1019,5,9,False
+1485,verify my identity,verify my,69,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1485,5,9,False
+738,pin blocked,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",738,5,9,False
+903,terminate account,term,55,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",903,5,9,False
+723,pin blocked,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",723,5,9,False
+87,exchange rate,card payment wrong,17,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",87,5,9,False
+1184,transfer not received by recipient,failed,35,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1184,5,9,False
+744,card payment not recognised,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",744,5,9,False
+727,card payment not recognised,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",727,5,9,False
+857,pending top up,Ref,51,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",857,5,9,False
+355,card not working,pin,49,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",355,5,9,False
+1294,transaction charged twice,cash,20,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1294,5,9,False
+517,card payment fee charged,card payment fee,15,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",517,5,9,False
+299,lost or stolen card,lost or stolen card,41,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",299,5,9,False
+804,lost or stolen card,lost or stolen phone,42,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",804,5,9,False
+1367,card payment fee charged,top up by,57,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1367,5,9,False
+555,transfer timing,transfer not,66,False,False,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",555,5,9,False
+239,card not working,card not,14,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",239,5,9,False
+1418,activate my card,activate,0,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1418,5,9,False
+203,card not working,card not,14,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",203,5,9,False
+1044,transaction charged twice,re,53,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1044,5,9,False
+1509,verify my identity,verify my,69,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1509,5,9,False
+284,lost or stolen card,lost or stolen card,41,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",284,5,9,False
+1335,exchange rate,exchange charge,31,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1335,5,9,False
+513,transaction charged twice,card payment fee,15,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",513,5,9,False
+458,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",458,5,9,False
+805,lost or stolen phone,lost or stolen phone,42,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",805,5,9,False
+290,lost or stolen card,lost or stolen card,41,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",290,5,9,False
+583,get physical card,getting,40,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",583,5,9,False
+128,extra charge on statement,extra,34,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",128,5,9,False
+306,lost or stolen card,lost or stolen card,41,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",306,5,9,False
+457,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",457,5,9,False
+179,card payment not recognised,automatic,4,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",179,5,9,False
+627,card payment not recognised,card acceptance,10,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",627,5,9,False
+26,card not working,card link,13,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",26,5,9,False
+1276,top up failed,top up failed,59,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1276,5,9,False
+836,lost or stolen card,lost or stolen phone,42,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",836,5,9,False
+1174,transfer not received by recipient,failed,35,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1174,5,9,False
+556,transfer timing,transfer not,66,False,False,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",556,5,9,False
+446,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",446,5,9,False
+1117,unable to verify identity,benef,7,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1117,5,9,False
+215,card not working,card not,14,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",215,5,9,False
+964,transaction charged twice,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",964,5,9,False
+420,top up failed,pending,47,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",420,5,9,False
+613,card acceptance,card acceptance,10,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",613,5,9,False
+192,automatic top up,automatic,4,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",192,5,9,False
+667,transaction charged twice,card payment not,16,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",667,5,9,False
+849,Refund not showing up,Ref,51,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",849,5,9,False
+1083,transfer not received by recipient,benef,7,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1083,5,9,False
+1106,transfer not received by recipient,benef,7,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1106,5,9,False
+915,terminate account,term,55,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",915,5,9,False
+504,extra charge on statement,card payment fee,15,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",504,5,9,False
+145,extra charge on statement,extra,34,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",145,5,9,False
+1307,transaction charged twice,cash,20,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1307,5,9,False
+334,pin blocked,pin,49,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",334,5,9,False
+960,verify source of funds,verify source,70,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",960,5,9,False
+1013,transfer timing,transfer timing,67,True,True,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1013,5,9,False
+1486,verify my identity,verify my,69,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1486,5,9,False
+391,contactless not working,contact,23,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",391,5,9,False
+1244,top up failed,top up failed,59,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1244,5,9,False
+69,exchange rate,exchange rate,32,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",69,5,9,False
+392,contactless not working,contact,23,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",392,5,9,False
+789,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",789,5,9,False
+1331,exchange rate,exchange charge,31,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1331,5,9,False
+490,extra charge on statement,card payment fee,15,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",490,5,9,False
+676,transaction charged twice,card payment not,16,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",676,5,9,False
+647,card payment not recognised,card payment not,16,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",647,5,9,False
+815,lost or stolen phone,lost or stolen phone,42,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",815,5,9,False
+980,get disposable virtual card,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",980,5,9,False
+971,get disposable virtual card,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",971,5,9,False
+531,transfer not received by recipient,transfer not,66,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",531,5,9,False
+790,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",790,5,9,False
+259,exchange rate,exchange via,33,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",259,5,9,False
+430,top up failed,pending,47,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",430,5,9,False
+481,card not working,card payment fee,15,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",481,5,9,False
+566,get physical card,getting,40,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",566,5,9,False
+72,exchange rate,exchange rate,32,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",72,5,9,False
+112,exchange rate,card payment wrong,17,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",112,5,9,False
+384,contactless not working,contact,23,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",384,5,9,False
+1039,transfer timing,transfer timing,67,True,True,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1039,5,9,False
+1401,activate my card,activate,0,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1401,5,9,False
+967,transaction charged twice,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",967,5,9,False
+312,lost or stolen card,lost or stolen card,41,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",312,5,9,False
+891,terminate account,term,55,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",891,5,9,False
+454,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",454,5,9,False
+479,top up limits,top up limits,60,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",479,5,9,False
+649,transaction charged twice,card payment not,16,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",649,5,9,False
+23,card linking,card link,13,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",23,5,9,False
+1213,card payment not recognised,get dispos,37,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1213,5,9,False
+1215,get disposable virtual card,get dispos,37,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1215,5,9,False
+1349,exchange rate,exchange charge,31,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1349,5,9,False
+262,exchange rate,exchange via,33,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",262,5,9,False
+48,exchange rate,exchange rate,32,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",48,5,9,False
+285,lost or stolen card,lost or stolen card,41,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",285,5,9,False
+848,Refund not showing up,Ref,51,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",848,5,9,False
+1352,exchange rate,exchange charge,31,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1352,5,9,False
+327,pin blocked,pin,49,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",327,5,9,False
+1438,activate my card,activate,0,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1438,5,9,False
+29,card linking,card link,13,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",29,5,9,False
+234,card not working,card not,14,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",234,5,9,False
+524,transfer not received by recipient,transfer not,66,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",524,5,9,False
+369,card not working,contact,23,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",369,5,9,False
+127,transaction charged twice,extra,34,True,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",127,5,9,False
+1277,top up failed,top up failed,59,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1277,5,9,False
+543,transfer not received by recipient,transfer not,66,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",543,5,9,False
+883,terminate account,term,55,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",883,5,9,False
+592,get physical card,getting,40,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",592,5,9,False
+229,card not working,card not,14,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",229,5,9,False
+874,transaction charged twice,Ref,51,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",874,5,9,False
+628,card acceptance,card acceptance,10,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",628,5,9,False
+1195,transfer not received by recipient,failed,35,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1195,5,9,False
+818,lost or stolen card,lost or stolen phone,42,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",818,5,9,False
+1285,transaction charged twice,cash,20,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1285,5,9,False
+678,transaction charged twice,card payment not,16,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",678,5,9,False
+204,card not working,card not,14,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",204,5,9,False
+869,transaction charged twice,Ref,51,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",869,5,9,False
+696,verify my identity,unable,68,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",696,5,9,False
+219,card not working,card not,14,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",219,5,9,False
+190,automatic top up,automatic,4,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",190,5,9,False
+379,contactless not working,contact,23,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",379,5,9,False
+1139,receiving money,receiving,50,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1139,5,9,False
+976,verify my identity,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",976,5,9,False
+644,card payment not recognised,card payment not,16,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",644,5,9,False
+733,card payment not recognised,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",733,5,9,False
+847,Refund not showing up,Ref,51,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",847,5,9,False
+1353,exchange rate,exchange charge,31,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1353,5,9,False
+797,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",797,5,9,False
+1329,transfer timing,exchange charge,31,False,False,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1329,5,9,False
+114,exchange rate,card payment wrong,17,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",114,5,9,False
+1396,card payment fee charged,top up by,57,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1396,5,9,False
+34,card payment not recognised,card link,13,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",34,5,9,False
+965,transaction charged twice,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",965,5,9,False
+1226,get disposable virtual card,get dispos,37,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1226,5,9,False
+439,top up failed,pending,47,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",439,5,9,False
+1411,activate my card,activate,0,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1411,5,9,False
+1218,get disposable virtual card,get dispos,37,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1218,5,9,False
+864,Refund not showing up,Ref,51,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",864,5,9,False
+704,verify my identity,unable,68,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",704,5,9,False
+1362,card not working,top up by,57,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1362,5,9,False
+645,card payment not recognised,card payment not,16,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",645,5,9,False
+1165,transfer not received by recipient,failed,35,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1165,5,9,False
+796,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",796,5,9,False
+897,terminate account,term,55,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",897,5,9,False
+36,reverted card payment?,card link,13,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",36,5,9,False
+1278,top up failed,top up failed,59,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1278,5,9,False
+324,pin blocked,pin,49,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",324,5,9,False
+689,verify my identity,unable,68,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",689,5,9,False
+1508,verify my identity,verify my,69,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1508,5,9,False
+990,transaction charged twice,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",990,5,9,False
+314,lost or stolen card,lost or stolen card,41,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",314,5,9,False
+1082,transfer not received by recipient,benef,7,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1082,5,9,False
+1096,transfer not received by recipient,benef,7,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1096,5,9,False
+784,card not working,comprom,22,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",784,5,9,False
+839,get physical card,lost or stolen phone,42,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",839,5,9,False
+191,top up by card charge,automatic,4,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",191,5,9,False
+842,Refund not showing up,Ref,51,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",842,5,9,False
+1025,transfer timing,transfer timing,67,True,True,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1025,5,9,False
+99,exchange rate,card payment wrong,17,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",99,5,9,False
+551,transfer timing,transfer not,66,False,False,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",551,5,9,False
+1022,transfer timing,transfer timing,67,True,True,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1022,5,9,False
+140,extra charge on statement,extra,34,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",140,5,9,False
+624,card acceptance,card acceptance,10,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",624,5,9,False
+919,terminate account,term,55,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",919,5,9,False
+975,verify source of funds,verify source,70,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",975,5,9,False
+134,extra charge on statement,extra,34,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",134,5,9,False
+1142,transfer not received by recipient,receiving,50,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1142,5,9,False
+405,top up failed,pending,47,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",405,5,9,False
+757,card payment not recognised,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",757,5,9,False
+1034,transfer timing,transfer timing,67,True,True,True,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1034,5,9,False
+925,transaction charged twice,transaction,63,True,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",925,5,9,False
+974,verify source of funds,verify source,70,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",974,5,9,False
+961,transaction charged twice,verify source,70,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",961,5,9,False
+759,pin blocked,get physical,38,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",759,5,9,False
+510,card not working,card payment fee,15,False,False,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",510,5,9,False
+867,Refund not showing up,Ref,51,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",867,5,9,False
+1444,card about to expire,card about,9,False,True,False,"{63: 2, 0: 1, 34: 1, 67: 1}","[1593, 3411, 3683, 2082, 4306]",1444,5,9,False

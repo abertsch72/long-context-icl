@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1387,transfer timing,transfer timing,67,True,True,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1387,5,2,False,5
+5380,beneficiary not allowed,benef,7,True,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5380,5,2,False,5
+3055,verify my identity,verify my,69,True,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3055,5,2,False,5
+5943,declined card payment,declined card,25,True,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5943,5,2,False,5
+4215,top up limits,top up limits,60,True,True,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4215,5,2,False,5
+9835,card not working,card not,14,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9835,5,2,False,5
+9648,cancel transfer,terminate,55,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9648,5,2,False,5
+1673,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1673,5,2,False,5
+6340,transfer fee charged,transfer fee,64,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6340,5,2,False,5
+5567,pending card payment,pending card,45,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5567,5,2,False,5
+8295,transfer not received by recipient,transfer fee,64,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8295,5,2,False,5
+9117,contactless not working,contact,23,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9117,5,2,False,5
+5215,transaction charged twice,direct,28,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5215,5,2,False,5
+3251,get physical card,Ref,51,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3251,5,2,False,5
+1626,card not working,declined c,26,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1626,5,2,False,5
+5293,change pin,lost or stolen phone,42,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5293,5,2,False,5
+1317,pending top up,pending top,47,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1317,5,2,False,5
+8799,cash withdrawal not recognised,wrong amount,75,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8799,5,2,False,5
+8773,pending card payment,pending card,45,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8773,5,2,False,5
+8859,verify my identity,unable,68,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8859,5,2,False,5
+3643,cash withdrawal not recognised,wrong amount,75,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3643,5,2,False,5
+9466,top up limits,top up limits,60,True,True,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9466,5,2,False,5
+208,get physical card,card arrival,11,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",208,5,2,False,5
+146,card payment not recognised,vis,73,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",146,5,2,False,5
+3614,card payment not recognised,pending card,45,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3614,5,2,False,5
+434,card payment not recognised,country,24,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",434,5,2,False,5
+5324,lost or stolen phone,lost or stolen phone,42,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5324,5,2,False,5
+7938,order physical card,card delivery,12,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7938,5,2,False,5
+5462,card payment not recognised,card accept,10,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5462,5,2,False,5
+8887,transfer not received by recipient,pending transfer,48,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8887,5,2,False,5
+1341,card delivery estimate,country,24,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1341,5,2,False,5
+1179,exchange rate,exchange via,33,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1179,5,2,False,5
+7251,top up limits,top up limits,60,True,True,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7251,5,2,False,5
+6670,verify my identity,top up by c,58,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6670,5,2,False,5
+456,card payment not recognised,vis,73,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",456,5,2,False,5
+6284,declined card payment,declined card,25,True,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6284,5,2,False,5
+4050,transfer timing,transfer not,66,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4050,5,2,False,5
+6613,card payment not recognised,card accept,10,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6613,5,2,False,5
+6674,pending top up,pending top,47,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6674,5,2,False,5
+3095,card not working,card not,14,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3095,5,2,False,5
+7195,pending transfer,balance not updated after che,6,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7195,5,2,False,5
+5830,card not working,card arrival,11,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5830,5,2,False,5
+6590,transfer into account,top up by c,58,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6590,5,2,False,5
+9764,supported cards and currencies,fi,36,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9764,5,2,False,5
+8610,top up limits,top up revert,61,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8610,5,2,False,5
+5519,card payment not recognised,vis,73,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5519,5,2,False,5
+6871,verify my identity,unable,68,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6871,5,2,False,5
+8881,card not working,comprom,22,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8881,5,2,False,5
+3258,pin blocked,pin,49,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3258,5,2,False,5
+4798,card payment not recognised,pending top,47,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4798,5,2,False,5
+9543,cancel transfer,top up revert,61,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9543,5,2,False,5
+1522,transaction charged twice,card payment fee,15,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1522,5,2,False,5
+7620,top up failed,pending top,47,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7620,5,2,False,5
+7771,age limit,age,1,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7771,5,2,False,5
+6641,top up limits,top up by card,57,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6641,5,2,False,5
+4766,card payment not recognised,pending card,45,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4766,5,2,False,5
+1293,card not working,comprom,22,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1293,5,2,False,5
+6273,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6273,5,2,False,5
+2806,pending cash withdrawal,extra,34,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2806,5,2,False,5
+9413,cancel transfer,request,52,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9413,5,2,False,5
+6850,top up limits,top up by c,58,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6850,5,2,False,5
+9203,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9203,5,2,False,5
+1347,age limit,age,1,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1347,5,2,False,5
+6520,exchange rate,exchange via,33,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6520,5,2,False,5
+6657,verify top up,verify top,71,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6657,5,2,False,5
+3664,transfer fee charged,transfer fee,64,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3664,5,2,False,5
+9483,verify top up,verify top,71,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9483,5,2,False,5
+6276,card acceptance,card accept,10,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6276,5,2,False,5
+7694,atm support,declined c,26,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7694,5,2,False,5
+4268,change pin,edit,30,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4268,5,2,False,5
+1552,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1552,5,2,False,5
+4902,transfer not received by recipient,benef,7,True,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4902,5,2,False,5
+9183,top up failed,top up failed,59,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9183,5,2,False,5
+7467,top up reverted,top up revert,61,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7467,5,2,False,5
+4746,virtual card not working,getting virtual,40,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4746,5,2,False,5
+1656,card not working,comprom,22,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1656,5,2,False,5
+4031,direct debit payment not recognised,direct,28,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4031,5,2,False,5
+9099,cash withdrawal not recognised,pending c,46,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9099,5,2,False,5
+1203,virtual card not working,getting virtual,40,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1203,5,2,False,5
+9189,card not working,card linking,13,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9189,5,2,False,5
+4091,wrong amount of cash received,transaction,63,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4091,5,2,False,5
+9604,card payment not recognised,transaction,63,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9604,5,2,False,5
+2831,get physical card,age,1,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2831,5,2,False,5
+1414,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1414,5,2,False,5
+1638,activate my card,activ,0,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1638,5,2,False,5
+3805,transfer not received by recipient,declined transfer,27,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3805,5,2,False,5
+3134,verify my identity,direct,28,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3134,5,2,False,5
+9834,virtual card not working,getting virtual,40,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9834,5,2,False,5
+515,cancel transfer,declined c,26,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",515,5,2,False,5
+5758,transfer into account,receiving,50,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5758,5,2,False,5
+6270,passcode forgotten,pass,44,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6270,5,2,False,5
+2039,top up limits,top up limits,60,True,True,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2039,5,2,False,5
+484,transfer timing,pending top,47,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",484,5,2,False,5
+7248,reverted card payment?,cancel,8,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7248,5,2,False,5
+2169,cancel transfer,cancel,8,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2169,5,2,False,5
+6090,card acceptance,card accept,10,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6090,5,2,False,5
+3313,cash withdrawal not recognised,pending c,46,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3313,5,2,False,5
+8737,declined card payment,declined card,25,True,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8737,5,2,False,5
+1466,cancel transfer,cancel,8,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1466,5,2,False,5
+6385,verify my identity,why,74,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6385,5,2,False,5
+2944,transaction charged twice,card payment not,16,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2944,5,2,False,5
+5942,transfer not received by recipient,benef,7,True,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5942,5,2,False,5
+7520,why verify identity,card payment fee,15,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7520,5,2,False,5
+1250,card payment not recognised,card about,9,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1250,5,2,False,5
+37,get physical card,revert,53,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",37,5,2,False,5
+3008,cancel transfer,request,52,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3008,5,2,False,5
+850,verify my identity,lost or stolen phone,42,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",850,5,2,False,5
+8586,change pin,edit,30,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8586,5,2,False,5
+9239,direct debit payment not recognised,direct,28,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9239,5,2,False,5
+1224,atm support,wrong amount,75,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1224,5,2,False,5
+5753,cancel transfer,revert,53,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5753,5,2,False,5
+4451,transfer timing,balance not updated after bank,5,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4451,5,2,False,5
+9917,card delivery estimate,country,24,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9917,5,2,False,5
+8520,change pin,pass,44,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8520,5,2,False,5
+4679,get disposable virtual card,dispos,29,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4679,5,2,False,5
+2581,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2581,5,2,False,5
+788,transfer fee charged,receiving,50,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",788,5,2,False,5
+706,transfer timing,pending transfer,48,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",706,5,2,False,5
+2145,declined card payment,revert,53,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2145,5,2,False,5
+7670,transfer timing,fi,36,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7670,5,2,False,5
+5587,verify my identity,verify top,71,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5587,5,2,False,5
+6409,transfer timing,failed,35,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6409,5,2,False,5
+3387,transfer not received by recipient,failed,35,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3387,5,2,False,5
+221,card not working,activ,0,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",221,5,2,False,5
+3471,declined transfer,declined transfer,27,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3471,5,2,False,5
+2377,card payment not recognised,declined card,25,True,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2377,5,2,False,5
+7840,card payment fee charged,top up by card,57,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7840,5,2,False,5
+4334,declined transfer,declined transfer,27,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4334,5,2,False,5
+8868,pending cash withdrawal,pending c,46,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8868,5,2,False,5
+7599,card payment not recognised,card not,14,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7599,5,2,False,5
+8284,change pin,change,21,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8284,5,2,False,5
+1427,card payment not recognised,revert,53,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1427,5,2,False,5
+965,card swallowed,card sw,18,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",965,5,2,False,5
+4927,declined card payment,at,3,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4927,5,2,False,5
+9673,card payment not recognised,card about,9,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9673,5,2,False,5
+4483,order physical card,card delivery,12,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4483,5,2,False,5
+6135,card not working,card not,14,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6135,5,2,False,5
+5356,verify my identity,receiving,50,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5356,5,2,False,5
+3185,lost or stolen card,lost or stolen phone,42,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3185,5,2,False,5
+8254,card delivery estimate,order,43,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8254,5,2,False,5
+6071,balance not updated after bank transfer,Ref,51,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6071,5,2,False,5
+479,card payment not recognised,declined card,25,True,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",479,5,2,False,5
+8058,card not working,lost or stolen card,41,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8058,5,2,False,5
+1088,transfer not received by recipient,failed,35,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1088,5,2,False,5
+5735,card payment not recognised,country,24,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5735,5,2,False,5
+7219,card not working,lost or stolen card,41,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7219,5,2,False,5
+8502,virtual card not working,virtual,72,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8502,5,2,False,5
+5709,change pin,edit,30,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5709,5,2,False,5
+8588,card not working,activ,0,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8588,5,2,False,5
+2430,card delivery estimate,card about,9,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2430,5,2,False,5
+8792,declined card payment,card payment not,16,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8792,5,2,False,5
+2829,apple pay or google pay,apple,2,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2829,5,2,False,5
+2069,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2069,5,2,False,5
+5254,verify top up,verify top,71,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5254,5,2,False,5
+5807,declined transfer,declined transfer,27,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5807,5,2,False,5
+421,apple pay or google pay,apple,2,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",421,5,2,False,5
+5896,verify my identity,unable,68,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5896,5,2,False,5
+4185,card delivery estimate,order,43,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4185,5,2,False,5
+9720,card not working,card about,9,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9720,5,2,False,5
+5016,card delivery estimate,card arrival,11,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5016,5,2,False,5
+9620,card payment not recognised,revert,53,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9620,5,2,False,5
+2457,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2457,5,2,False,5
+3353,top up limits,top up revert,61,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3353,5,2,False,5
+7932,exchange rate,wrong exchange,76,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7932,5,2,False,5
+8600,exchange rate,exchange charge,31,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8600,5,2,False,5
+4651,change pin,exchange via,33,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4651,5,2,False,5
+2201,virtual card not working,get dispos,37,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2201,5,2,False,5
+8443,atm support,declined c,26,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8443,5,2,False,5
+6100,verify my identity,why,74,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6100,5,2,False,5
+6994,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6994,5,2,False,5
+5385,transfer fee charged,top up by bank,56,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5385,5,2,False,5
+2897,card delivery estimate,card arrival,11,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2897,5,2,False,5
+6511,transfer not received by recipient,benef,7,True,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6511,5,2,False,5
+6280,age limit,age,1,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6280,5,2,False,5
+2769,extra charge on statement,extra,34,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2769,5,2,False,5
+7904,exchange rate,exchange rate,32,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7904,5,2,False,5
+7352,transfer timing,balance not updated after bank,5,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7352,5,2,False,5
+8411,activate my card,activ,0,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8411,5,2,False,5
+7591,exchange rate,card payment wrong,17,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7591,5,2,False,5
+5211,atm support,wrong exchange,76,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5211,5,2,False,5
+6791,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6791,5,2,False,5
+9811,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9811,5,2,False,5
+4579,card payment not recognised,pending card,45,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4579,5,2,False,5
+6915,cancel transfer,terminate,55,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6915,5,2,False,5
+5471,top up limits,supported,54,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5471,5,2,False,5
+3494,transaction charged twice,card payment fee,15,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3494,5,2,False,5
+3514,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3514,5,2,False,5
+2999,atm support,wrong amount,75,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2999,5,2,False,5
+9534,pending transfer,pending transfer,48,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9534,5,2,False,5
+8696,exchange rate,card payment wrong,17,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8696,5,2,False,5
+5439,get physical card,Ref,51,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5439,5,2,False,5
+3432,exchange rate,exchange via,33,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3432,5,2,False,5
+4043,transfer not received by recipient,failed,35,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4043,5,2,False,5
+4247,transfer timing,transfer not,66,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4247,5,2,False,5
+5089,atm support,wrong amount,75,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5089,5,2,False,5
+916,transfer not received by recipient,transfer not,66,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",916,5,2,False,5
+3887,cancel transfer,request,52,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3887,5,2,False,5
+6009,exchange rate,exchange charge,31,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6009,5,2,False,5
+2625,transfer not received by recipient,declined c,26,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2625,5,2,False,5
+7706,card delivery estimate,card about,9,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7706,5,2,False,5
+9575,get physical card,at,3,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9575,5,2,False,5
+6440,virtual card not working,getting virtual,40,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6440,5,2,False,5
+5715,declined transfer,declined transfer,27,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5715,5,2,False,5
+8875,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8875,5,2,False,5
+8495,transfer timing,transfer timing,67,True,True,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8495,5,2,False,5
+8470,wrong amount of cash received,transaction,63,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8470,5,2,False,5
+857,why verify identity,card payment fee,15,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",857,5,2,False,5
+1382,card delivery estimate,getting spare,39,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1382,5,2,False,5
+7895,transfer into account,to,62,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7895,5,2,False,5
+9768,card payment not recognised,vis,73,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9768,5,2,False,5
+6756,top up limits,top up by card,57,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6756,5,2,False,5
+8030,contactless not working,contact,23,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8030,5,2,False,5
+1848,get physical card,Ref,51,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1848,5,2,False,5
+2123,cancel transfer,request,52,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2123,5,2,False,5
+4535,change pin,edit,30,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4535,5,2,False,5
+8695,change pin,change,21,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8695,5,2,False,5
+1166,cancel transfer,top up revert,61,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1166,5,2,False,5
+7378,virtual card not working,getting virtual,40,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7378,5,2,False,5
+6083,atm support,cash withdrawal charge,19,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6083,5,2,False,5
+8613,top up limits,top up revert,61,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8613,5,2,False,5
+5121,reverted card payment?,top up revert,61,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5121,5,2,False,5
+6337,transfer timing,balance not updated after bank,5,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",6337,5,2,False,5
+2985,transfer not received by recipient,transfer not,66,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2985,5,2,False,5
+5196,verify my identity,unable,68,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5196,5,2,False,5
+735,card delivery estimate,card about,9,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",735,5,2,False,5
+2419,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2419,5,2,False,5
+3092,transfer not received by recipient,pending transfer,48,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3092,5,2,False,5
+8379,cash withdrawal not recognised,wrong amount,75,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8379,5,2,False,5
+3601,card not working,order,43,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3601,5,2,False,5
+7268,wrong amount of cash received,cancel,8,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7268,5,2,False,5
+5279,exchange rate,exchange charge,31,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",5279,5,2,False,5
+2876,top up limits,top up limits,60,True,True,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2876,5,2,False,5
+2001,exchange rate,card payment wrong,17,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2001,5,2,False,5
+3651,extra charge on statement,transfer fee,64,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",3651,5,2,False,5
+9928,transfer timing,balance not updated after bank,5,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9928,5,2,False,5
+7239,verify top up,verify top,71,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7239,5,2,False,5
+4841,transfer fee charged,verify source,70,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4841,5,2,False,5
+8162,atm support,cash withdrawal charge,19,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8162,5,2,False,5
+8519,verify my identity,verify source,70,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8519,5,2,False,5
+7216,transfer not received by recipient,benef,7,True,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7216,5,2,False,5
+4065,transaction charged twice,extra,34,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4065,5,2,False,5
+7577,cancel transfer,request,52,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7577,5,2,False,5
+8247,card not working,comprom,22,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",8247,5,2,False,5
+1525,card payment fee charged,card payment fee,15,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",1525,5,2,False,5
+386,top up limits,top up by c,58,False,False,True,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",386,5,2,False,5
+4470,card not working,lost or stolen card,41,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",4470,5,2,False,5
+9536,cancel transfer,transaction,63,False,False,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",9536,5,2,False,5
+7432,direct debit payment not recognised,direct,28,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7432,5,2,False,5
+7573,atm support,at,3,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",7573,5,2,False,5
+2055,pending transfer,pending transfer,48,False,True,False,"{67: 1, 7: 1, 69: 1, 25: 1, 60: 1}","[1387, 5380, 3055, 5943, 4215]",2055,5,2,False,5

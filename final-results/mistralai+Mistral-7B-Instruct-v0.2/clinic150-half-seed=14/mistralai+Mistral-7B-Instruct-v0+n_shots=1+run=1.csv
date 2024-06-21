@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+602,credit score,new,91,False,False,False,{26: 1},[1937],602,1,1,False
+2278,who do you work for,o,42,False,False,False,{26: 1},[1937],2278,1,1,False
+1951,pay bill,bill balance,27,False,False,False,{26: 1},[1937],1951,1,1,False
+1419,credit limit,credit limit,41,False,True,False,{26: 1},[1937],1419,1,1,False
+2325,text,o,42,False,False,True,{26: 1},[1937],2325,1,1,False
+493,restaurant suggestion,restaurant suggestion,145,False,True,False,{26: 1},[1937],493,1,1,False
+1519,account blocked,account,2,False,True,False,{26: 1},[1937],1519,1,1,False
+1704,travel notification,vacc,52,False,False,False,{26: 1},[1937],1704,1,1,False
+3051,text,o,42,False,False,True,{26: 1},[1937],3051,1,1,False
+2011,calendar update,calendar,105,False,True,False,{26: 1},[1937],2011,1,1,False
+1478,greeting,good,114,False,False,False,{26: 1},[1937],1478,1,1,False
+1932,text,text,26,True,True,True,{26: 1},[1937],1932,1,1,False
+2300,find phone,o,42,False,False,False,{26: 1},[1937],2300,1,1,False
+379,account blocked,freeze,20,False,False,False,{26: 1},[1937],379,1,1,False
+2026,cancel reservation,calendar,105,False,False,False,{26: 1},[1937],2026,1,1,False
+1686,travel notification,vacc,52,False,False,False,{26: 1},[1937],1686,1,1,False
+519,pay bill,pay bill,111,False,True,False,{26: 1},[1937],519,1,1,False
+859,calendar update,date,95,False,False,False,{26: 1},[1937],859,1,1,False
+492,restaurant suggestion,restaurant suggestion,145,False,True,False,{26: 1},[1937],492,1,1,False
+927,travel notification,travel,146,False,True,False,{26: 1},[1937],927,1,1,False
+2435,travel notification,o,42,False,False,False,{26: 1},[1937],2435,1,1,False
+849,date,date,95,False,True,False,{26: 1},[1937],849,1,1,False
+325,restaurant reservation,restaurant reserv,23,False,True,False,{26: 1},[1937],325,1,1,False
+247,text,maybe,121,False,False,True,{26: 1},[1937],247,1,1,False
+112,pto request,pto request,97,False,True,False,{26: 1},[1937],112,1,1,False
+1292,gas type,gas,8,False,True,False,{26: 1},[1937],1292,1,1,False
+1755,greeting,what is,75,False,False,False,{26: 1},[1937],1755,1,1,False
+2998,find phone,o,42,False,False,False,{26: 1},[1937],2998,1,1,False
+2764,find phone,o,42,False,False,False,{26: 1},[1937],2764,1,1,False
+1501,account blocked,account,2,False,True,False,{26: 1},[1937],1501,1,1,False
+338,account blocked,balance,35,False,False,False,{26: 1},[1937],338,1,1,False
+797,text,change speed,119,False,False,True,{26: 1},[1937],797,1,1,False
+18,timer,timer,32,False,True,False,{26: 1},[1937],18,1,1,False
+1279,find phone,schedule,18,False,False,False,{26: 1},[1937],1279,1,1,False
+1564,report fraud,report fraud,70,False,True,False,{26: 1},[1937],1564,1,1,False
+1568,bill due,report fraud,70,False,False,False,{26: 1},[1937],1568,1,1,False
+896,flight status,carry,62,False,False,False,{26: 1},[1937],896,1,1,False
+2696,shopping list,o,42,False,False,False,{26: 1},[1937],2696,1,1,False
+72,find phone,find,81,False,True,False,{26: 1},[1937],72,1,1,False
+3136,find phone,o,42,False,False,False,{26: 1},[1937],3136,1,1,False
+2824,find phone,o,42,False,False,False,{26: 1},[1937],2824,1,1,False
+1945,text,text,26,True,True,True,{26: 1},[1937],1945,1,1,False
+1512,account blocked,account,2,False,True,False,{26: 1},[1937],1512,1,1,False
+489,restaurant suggestion,restaurant suggestion,145,False,True,False,{26: 1},[1937],489,1,1,False
+1613,change volume,smart,10,False,False,False,{26: 1},[1937],1613,1,1,False
+607,credit score,new,91,False,False,False,{26: 1},[1937],607,1,1,False
+1107,alarm,alarm,83,False,True,False,{26: 1},[1937],1107,1,1,False
+1208,report lost card,damaged,87,False,False,False,{26: 1},[1937],1208,1,1,False
+2126,tell joke,tell,36,False,True,False,{26: 1},[1937],2126,1,1,False
+131,payday,payday,79,False,True,False,{26: 1},[1937],131,1,1,False
+2910,find phone,o,42,False,False,False,{26: 1},[1937],2910,1,1,False
+2610,find phone,o,42,False,False,False,{26: 1},[1937],2610,1,1,False
+2754,what is your name,o,42,False,False,False,{26: 1},[1937],2754,1,1,False
+1253,greeting,do,34,False,False,False,{26: 1},[1937],1253,1,1,False
+186,where are you from,where,77,False,True,False,{26: 1},[1937],186,1,1,False
+2218,traffic,traffic,24,False,True,False,{26: 1},[1937],2218,1,1,False
+1259,tell joke,do,34,False,False,False,{26: 1},[1937],1259,1,1,False
+904,travel notification,travel,146,False,True,False,{26: 1},[1937],904,1,1,False
+2877,book flight,o,42,False,False,False,{26: 1},[1937],2877,1,1,False
+3152,find phone,o,42,False,False,False,{26: 1},[1937],3152,1,1,False
+1549,credit score,international,137,False,False,False,{26: 1},[1937],1549,1,1,False
+59,insurance,insurance change,64,False,False,False,{26: 1},[1937],59,1,1,False
+1770,direct deposit,direct,108,False,True,False,{26: 1},[1937],1770,1,1,False
+2700,find phone,o,42,False,False,False,{26: 1},[1937],2700,1,1,False
+374,account blocked,freeze,20,False,False,False,{26: 1},[1937],374,1,1,False
+2002,play music,play,106,False,True,False,{26: 1},[1937],2002,1,1,False
+897,flight status,carry,62,False,False,False,{26: 1},[1937],897,1,1,False
+1299,gas type,gas,8,False,True,False,{26: 1},[1937],1299,1,1,False
+2835,who do you work for,o,42,False,False,False,{26: 1},[1937],2835,1,1,False
+1588,report fraud,report fraud,70,False,True,False,{26: 1},[1937],1588,1,1,False
+2833,find phone,o,42,False,False,False,{26: 1},[1937],2833,1,1,False
+1585,report fraud,report fraud,70,False,True,False,{26: 1},[1937],1585,1,1,False
+484,restaurant reservation,restaurant suggestion,145,False,False,False,{26: 1},[1937],484,1,1,False
+553,travel notification,pto request status,101,False,False,False,{26: 1},[1937],553,1,1,False
+3064,find phone,o,42,False,False,False,{26: 1},[1937],3064,1,1,False
+2100,tell joke,tell,36,False,True,False,{26: 1},[1937],2100,1,1,False
+1793,direct deposit,direct,108,False,True,False,{26: 1},[1937],1793,1,1,False
+1796,direct deposit,direct,108,False,True,False,{26: 1},[1937],1796,1,1,False
+771,reminder,reminder,76,False,True,False,{26: 1},[1937],771,1,1,False
+1632,current location,current,136,False,True,False,{26: 1},[1937],1632,1,1,False
+1415,travel notification,credit limit,41,False,False,False,{26: 1},[1937],1415,1,1,False
+2261,do you have pets,o,42,False,False,False,{26: 1},[1937],2261,1,1,False
+2251,tell joke,o,42,False,False,False,{26: 1},[1937],2251,1,1,False
+2711,how old are you,o,42,False,False,False,{26: 1},[1937],2711,1,1,False
+518,pay bill,pay bill,111,False,True,False,{26: 1},[1937],518,1,1,False
+1209,report lost card,damaged,87,False,False,False,{26: 1},[1937],1209,1,1,False
+1001,timezone,cook,86,False,False,False,{26: 1},[1937],1001,1,1,False
+1385,who do you work for,who,57,False,True,False,{26: 1},[1937],1385,1,1,False
+1867,flight status,book,63,False,False,False,{26: 1},[1937],1867,1,1,False
+1198,pay bill,bill due,56,False,False,False,{26: 1},[1937],1198,1,1,False
+1320,exchange rate,exchange,38,False,True,False,{26: 1},[1937],1320,1,1,False
+2418,find phone,o,42,False,False,False,{26: 1},[1937],2418,1,1,False
+2721,how old are you,o,42,False,False,False,{26: 1},[1937],2721,1,1,False
+1611,change volume,smart,10,False,False,False,{26: 1},[1937],1611,1,1,False
+909,travel notification,travel,146,False,True,False,{26: 1},[1937],909,1,1,False
+1491,greeting,good,114,False,False,False,{26: 1},[1937],1491,1,1,False
+1338,exchange rate,exchange,38,False,True,False,{26: 1},[1937],1338,1,1,False
+17,timer,timer,32,False,True,False,{26: 1},[1937],17,1,1,False
+3061,shopping list,o,42,False,False,False,{26: 1},[1937],3061,1,1,False
+1050,cook time,ingred,134,False,False,False,{26: 1},[1937],1050,1,1,False
+1746,greeting,what is,75,False,False,False,{26: 1},[1937],1746,1,1,False
+1373,change volume,change volume,150,False,True,False,{26: 1},[1937],1373,1,1,False
+1709,travel notification,vacc,52,False,False,False,{26: 1},[1937],1709,1,1,False
+3044,find phone,o,42,False,False,False,{26: 1},[1937],3044,1,1,False
+1830,find phone,what are,15,False,False,False,{26: 1},[1937],1830,1,1,False
+1538,find phone,international,137,False,False,False,{26: 1},[1937],1538,1,1,False
+427,greeting,user,11,False,False,False,{26: 1},[1937],427,1,1,False
+2245,change volume,o,42,False,False,False,{26: 1},[1937],2245,1,1,False
+2469,find phone,o,42,False,False,False,{26: 1},[1937],2469,1,1,False
+2059,play music,update,141,False,False,False,{26: 1},[1937],2059,1,1,False
+1219,credit score,damaged,87,False,False,False,{26: 1},[1937],1219,1,1,False
+636,repeat,repeat,13,False,True,False,{26: 1},[1937],636,1,1,False
+804,change speed,change speed,119,False,True,False,{26: 1},[1937],804,1,1,False
+985,roll dice,roll dice,92,False,True,False,{26: 1},[1937],985,1,1,False
+1587,report fraud,report fraud,70,False,True,False,{26: 1},[1937],1587,1,1,False
+2394,find phone,o,42,False,False,False,{26: 1},[1937],2394,1,1,False
+2540,find phone,o,42,False,False,False,{26: 1},[1937],2540,1,1,False
+2499,find phone,o,42,False,False,False,{26: 1},[1937],2499,1,1,False
+2480,pto request,o,42,False,False,False,{26: 1},[1937],2480,1,1,False
+2010,calendar update,calendar,105,False,True,False,{26: 1},[1937],2010,1,1,False
+2174,restaurant suggestion,meal,46,False,False,False,{26: 1},[1937],2174,1,1,False
+2046,play music,update,141,False,False,False,{26: 1},[1937],2046,1,1,False
+890,travel notification,carry,62,False,False,False,{26: 1},[1937],890,1,1,False
+2029,calendar update,calendar,105,False,True,False,{26: 1},[1937],2029,1,1,False
+2637,find phone,o,42,False,False,False,{26: 1},[1937],2637,1,1,False
+2114,tell joke,tell,36,False,True,False,{26: 1},[1937],2114,1,1,False
+2397,mpg,o,42,False,False,False,{26: 1},[1937],2397,1,1,False
+604,credit score,new,91,False,False,False,{26: 1},[1937],604,1,1,False
+3120,find phone,o,42,False,False,False,{26: 1},[1937],3120,1,1,False
+1018,cook time,cook,86,False,True,False,{26: 1},[1937],1018,1,1,False
+1975,bill balance,bill balance,27,False,True,False,{26: 1},[1937],1975,1,1,False
+2953,find phone,o,42,False,False,False,{26: 1},[1937],2953,1,1,False
+2544,who do you work for,o,42,False,False,False,{26: 1},[1937],2544,1,1,False
+2583,find phone,o,42,False,False,False,{26: 1},[1937],2583,1,1,False
+597,credit score,credit score,69,False,True,False,{26: 1},[1937],597,1,1,False
+974,roll dice,roll dice,92,False,True,False,{26: 1},[1937],974,1,1,False
+2822,find phone,o,42,False,False,False,{26: 1},[1937],2822,1,1,False
+2395,find phone,o,42,False,False,False,{26: 1},[1937],2395,1,1,False
+1695,travel notification,vacc,52,False,False,False,{26: 1},[1937],1695,1,1,False
+2690,timezone,o,42,False,False,False,{26: 1},[1937],2690,1,1,False
+2770,change accent,o,42,False,False,False,{26: 1},[1937],2770,1,1,False
+2616,mpg,o,42,False,False,False,{26: 1},[1937],2616,1,1,False
+2825,how old are you,o,42,False,False,False,{26: 1},[1937],2825,1,1,False
+1200,report fraud,damaged,87,False,False,False,{26: 1},[1937],1200,1,1,False
+294,change speed,oil,3,False,False,False,{26: 1},[1937],294,1,1,False
+458,timezone,time,66,False,True,False,{26: 1},[1937],458,1,1,False
+468,timezone,time,66,False,True,False,{26: 1},[1937],468,1,1,False
+1165,change volume,change accent,51,False,False,False,{26: 1},[1937],1165,1,1,False
+2598,find phone,o,42,False,False,False,{26: 1},[1937],2598,1,1,False
+2269,text,o,42,False,False,True,{26: 1},[1937],2269,1,1,False
+469,timezone,time,66,False,True,False,{26: 1},[1937],469,1,1,False
+1446,order status,order,84,False,True,False,{26: 1},[1937],1446,1,1,False
+1719,greeting,gre,82,False,True,False,{26: 1},[1937],1719,1,1,False
+2360,find phone,o,42,False,False,False,{26: 1},[1937],2360,1,1,False
+1459,order status,order,84,False,True,False,{26: 1},[1937],1459,1,1,False
+2673,traffic,o,42,False,False,False,{26: 1},[1937],2673,1,1,False
+301,restaurant reservation,restaurant reserv,23,False,True,False,{26: 1},[1937],301,1,1,False
+1003,cook time,cook,86,False,True,False,{26: 1},[1937],1003,1,1,False
+950,thank you,thank,124,False,True,False,{26: 1},[1937],950,1,1,False
+729,cancel reservation,todo list update,65,False,False,False,{26: 1},[1937],729,1,1,False
+2231,find phone,o,42,False,False,False,{26: 1},[1937],2231,1,1,False
+688,mpg,m,142,False,True,False,{26: 1},[1937],688,1,1,False
+2631,find phone,o,42,False,False,False,{26: 1},[1937],2631,1,1,False
+214,find phone,what can,115,False,False,False,{26: 1},[1937],214,1,1,False
+1422,credit limit,credit limit,41,False,True,False,{26: 1},[1937],1422,1,1,False
+535,pay bill,pay bill,111,False,True,False,{26: 1},[1937],535,1,1,False
+2519,shopping list,o,42,False,False,False,{26: 1},[1937],2519,1,1,False
+2713,what is your name,o,42,False,False,False,{26: 1},[1937],2713,1,1,False
+1635,find phone,current,136,False,False,False,{26: 1},[1937],1635,1,1,False
+1888,flight status,book,63,False,False,False,{26: 1},[1937],1888,1,1,False
+1171,bill due,bill due,56,False,True,False,{26: 1},[1937],1171,1,1,False
+2960,what is your name,o,42,False,False,False,{26: 1},[1937],2960,1,1,False
+1252,do you have pets,do,34,False,True,False,{26: 1},[1937],1252,1,1,False
+361,freeze account,freeze,20,False,True,False,{26: 1},[1937],361,1,1,False
+1682,travel notification,vacc,52,False,False,False,{26: 1},[1937],1682,1,1,False
+2771,find phone,o,42,False,False,False,{26: 1},[1937],2771,1,1,False
+852,date,date,95,False,True,False,{26: 1},[1937],852,1,1,False
+2799,order status,o,42,False,False,False,{26: 1},[1937],2799,1,1,False
+2682,vaccines,o,42,False,False,False,{26: 1},[1937],2682,1,1,False
+2977,find phone,o,42,False,False,False,{26: 1},[1937],2977,1,1,False
+624,credit score,new,91,False,False,False,{26: 1},[1937],624,1,1,False
+1455,order status,order,84,False,True,False,{26: 1},[1937],1455,1,1,False
+2074,cancel reservation,cancel,67,False,True,False,{26: 1},[1937],2074,1,1,False
+3094,find phone,o,42,False,False,False,{26: 1},[1937],3094,1,1,False
+442,who do you work for,user,11,False,False,False,{26: 1},[1937],442,1,1,False
+2377,account blocked,o,42,False,False,False,{26: 1},[1937],2377,1,1,False
+1763,greeting,what is,75,False,False,False,{26: 1},[1937],1763,1,1,False
+1933,text,text,26,True,True,True,{26: 1},[1937],1933,1,1,False
+912,travel notification,travel,146,False,True,False,{26: 1},[1937],912,1,1,False
+3125,find phone,o,42,False,False,False,{26: 1},[1937],3125,1,1,False
+2406,change speed,o,42,False,False,False,{26: 1},[1937],2406,1,1,False
+1674,change volume,whisper,14,False,False,False,{26: 1},[1937],1674,1,1,False
+1426,credit limit,credit limit,41,False,True,False,{26: 1},[1937],1426,1,1,False
+1540,credit score,international,137,False,False,False,{26: 1},[1937],1540,1,1,False
+2884,find phone,o,42,False,False,False,{26: 1},[1937],2884,1,1,False
+1159,change accent,change accent,51,False,True,False,{26: 1},[1937],1159,1,1,False
+1594,change volume,smart,10,False,False,False,{26: 1},[1937],1594,1,1,False
+3188,tell joke,o,42,False,False,False,{26: 1},[1937],3188,1,1,False
+1658,whisper mode,whisper,14,False,True,False,{26: 1},[1937],1658,1,1,False
+1701,vaccines,vacc,52,False,True,False,{26: 1},[1937],1701,1,1,False
+3119,text,o,42,False,False,True,{26: 1},[1937],3119,1,1,False
+2080,cancel reservation,cancel,67,False,True,False,{26: 1},[1937],2080,1,1,False
+2347,timezone,o,42,False,False,False,{26: 1},[1937],2347,1,1,False
+2468,current location,o,42,False,False,False,{26: 1},[1937],2468,1,1,False
+541,travel notification,pto request status,101,False,False,False,{26: 1},[1937],541,1,1,False
+3156,how old are you,o,42,False,False,False,{26: 1},[1937],3156,1,1,False
+2389,find phone,o,42,False,False,False,{26: 1},[1937],2389,1,1,False
+2869,find phone,o,42,False,False,False,{26: 1},[1937],2869,1,1,False
+399,rollover 401k,rollover,100,False,True,False,{26: 1},[1937],399,1,1,False
+3118,find phone,o,42,False,False,False,{26: 1},[1937],3118,1,1,False
+1578,account blocked,report fraud,70,False,False,False,{26: 1},[1937],1578,1,1,False
+1315,gas type,gas,8,False,True,False,{26: 1},[1937],1315,1,1,False
+68,find phone,find,81,False,True,False,{26: 1},[1937],68,1,1,False
+1729,greeting,gre,82,False,True,False,{26: 1},[1937],1729,1,1,False
+1667,whisper mode,whisper,14,False,True,False,{26: 1},[1937],1667,1,1,False
+1484,goodbye,good,114,False,True,False,{26: 1},[1937],1484,1,1,False
+2667,oos,o,42,False,True,False,{26: 1},[1937],2667,1,1,False
+2086,cancel reservation,cancel,67,False,True,False,{26: 1},[1937],2086,1,1,False
+691,insurance,insurance,74,False,True,False,{26: 1},[1937],691,1,1,False
+1146,text,change accent,51,False,False,True,{26: 1},[1937],1146,1,1,False
+1463,order status,order,84,False,True,False,{26: 1},[1937],1463,1,1,False
+1680,travel notification,vacc,52,False,False,False,{26: 1},[1937],1680,1,1,False
+3071,find phone,o,42,False,False,False,{26: 1},[1937],3071,1,1,False
+1923,text,text,26,True,True,True,{26: 1},[1937],1923,1,1,False
+1267,schedule meeting,schedule,18,False,True,False,{26: 1},[1937],1267,1,1,False
+2838,find phone,o,42,False,False,False,{26: 1},[1937],2838,1,1,False
+786,text,change speed,119,False,False,True,{26: 1},[1937],786,1,1,False
+3103,shopping list,o,42,False,False,False,{26: 1},[1937],3103,1,1,False
+2958,cancel reservation,o,42,False,False,False,{26: 1},[1937],2958,1,1,False
+710,current location,insurance,74,False,False,False,{26: 1},[1937],710,1,1,False
+61,find phone,find,81,False,True,False,{26: 1},[1937],61,1,1,False
+1114,todo list,todo list,48,False,True,False,{26: 1},[1937],1114,1,1,False
+2285,find phone,o,42,False,False,False,{26: 1},[1937],2285,1,1,False
+591,credit score,credit score,69,False,True,False,{26: 1},[1937],591,1,1,False
+817,text,no,30,False,False,True,{26: 1},[1937],817,1,1,False
+1249,find phone,do,34,False,False,False,{26: 1},[1937],1249,1,1,False
+2980,find phone,o,42,False,False,False,{26: 1},[1937],2980,1,1,False
+1490,goodbye,good,114,False,True,False,{26: 1},[1937],1490,1,1,False
+1689,travel notification,vacc,52,False,False,False,{26: 1},[1937],1689,1,1,False
+1258,current location,do,34,False,False,False,{26: 1},[1937],1258,1,1,False
+2075,cancel reservation,cancel,67,False,True,False,{26: 1},[1937],2075,1,1,False
+1213,report lost card,damaged,87,False,False,False,{26: 1},[1937],1213,1,1,False
+1539,credit score,international,137,False,False,False,{26: 1},[1937],1539,1,1,False
+233,find phone,what can,115,False,False,False,{26: 1},[1937],233,1,1,False
+2555,insurance,o,42,False,False,False,{26: 1},[1937],2555,1,1,False
+3109,find phone,o,42,False,False,False,{26: 1},[1937],3109,1,1,False
+267,text,maybe,121,False,False,True,{26: 1},[1937],267,1,1,False
+1158,text,change accent,51,False,False,True,{26: 1},[1937],1158,1,1,False
+2181,cook time,meal,46,False,False,False,{26: 1},[1937],2181,1,1,False
+2891,how old are you,o,42,False,False,False,{26: 1},[1937],2891,1,1,False

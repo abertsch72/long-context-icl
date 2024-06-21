@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+152,location city,numeric other,43,False,False,True,{32: 1},[304],152,1,4,False
+94,description definition,description,24,False,True,False,{32: 1},[304],94,1,4,False
+337,description definition,human individual,29,False,False,False,{32: 1},[304],337,1,4,False
+78,location city,numeric distance,40,False,False,True,{32: 1},[304],78,1,4,False
+323,description definition,entity currency,6,False,False,False,{32: 1},[304],323,1,4,False
+143,description definition,human individual,29,False,False,False,{32: 1},[304],143,1,4,False
+59,entity currency,human individual,29,False,False,False,{32: 1},[304],59,1,4,False
+17,location city,location other,35,False,False,True,{32: 1},[304],17,1,4,False
+161,description definition,description,24,False,True,False,{32: 1},[304],161,1,4,False
+220,description definition,description,24,False,True,False,{32: 1},[304],220,1,4,False
+290,description definition,description,24,False,True,False,{32: 1},[304],290,1,4,False
+224,description definition,description,24,False,True,False,{32: 1},[304],224,1,4,False
+15,description definition,human individual,29,False,False,False,{32: 1},[304],15,1,4,False
+162,description definition,description,24,False,True,False,{32: 1},[304],162,1,4,False
+272,location city,location city,32,True,True,True,{32: 1},[304],272,1,4,False
+193,description definition,description,24,False,True,False,{32: 1},[304],193,1,4,False
+325,location city,location city,32,True,True,True,{32: 1},[304],325,1,4,False
+30,description definition,description,24,False,True,False,{32: 1},[304],30,1,4,False
+331,description definition,description,24,False,True,False,{32: 1},[304],331,1,4,False
+219,description definition,description,24,False,True,False,{32: 1},[304],219,1,4,False
+286,description definition,location other,35,False,False,False,{32: 1},[304],286,1,4,False
+246,description definition,description,24,False,True,False,{32: 1},[304],246,1,4,False
+68,location country,location other,35,False,False,False,{32: 1},[304],68,1,4,False
+205,description definition,location other,35,False,False,False,{32: 1},[304],205,1,4,False
+232,location city,location other,35,False,False,True,{32: 1},[304],232,1,4,False
+64,location country,location country,33,False,True,False,{32: 1},[304],64,1,4,False
+121,location city,location other,35,False,False,True,{32: 1},[304],121,1,4,False
+201,abbreviation expansion,abbreviation expansion,1,False,True,False,{32: 1},[304],201,1,4,False
+315,description definition,description,24,False,True,False,{32: 1},[304],315,1,4,False
+145,location city,location other,35,False,False,True,{32: 1},[304],145,1,4,False
+72,entity currency,human individual,29,False,False,False,{32: 1},[304],72,1,4,False
+184,description definition,description,24,False,True,False,{32: 1},[304],184,1,4,False
+141,description definition,numeric other,43,False,False,False,{32: 1},[304],141,1,4,False
+95,location city,location other,35,False,False,True,{32: 1},[304],95,1,4,False
+213,location city,location other,35,False,False,True,{32: 1},[304],213,1,4,False
+38,description definition,description,24,False,True,False,{32: 1},[304],38,1,4,False
+256,description definition,human individual,29,False,False,False,{32: 1},[304],256,1,4,False
+29,description definition,entity plant,14,False,False,False,{32: 1},[304],29,1,4,False
+45,description definition,entity food,9,False,False,False,{32: 1},[304],45,1,4,False
+151,description definition,entity subst,18,False,False,False,{32: 1},[304],151,1,4,False
+262,description definition,description,24,False,True,False,{32: 1},[304],262,1,4,False
+115,location country,location other,35,False,False,False,{32: 1},[304],115,1,4,False
+269,description definition,entity subst,18,False,False,False,{32: 1},[304],269,1,4,False
+69,description definition,description,24,False,True,False,{32: 1},[304],69,1,4,False
+106,entity currency,human individual,29,False,False,False,{32: 1},[304],106,1,4,False
+123,location country,location other,35,False,False,False,{32: 1},[304],123,1,4,False
+233,description definition,entity plant,14,False,False,False,{32: 1},[304],233,1,4,False
+41,location city,location city,32,True,True,True,{32: 1},[304],41,1,4,False
+236,numeric order,numeric distance,40,False,False,False,{32: 1},[304],236,1,4,False
+55,location city,numeric distance,40,False,False,True,{32: 1},[304],55,1,4,False
+289,location country,location other,35,False,False,False,{32: 1},[304],289,1,4,False
+149,description definition,description,24,False,True,False,{32: 1},[304],149,1,4,False
+239,description definition,numeric other,43,False,False,False,{32: 1},[304],239,1,4,False
+103,description definition,entity vehicle,22,False,False,False,{32: 1},[304],103,1,4,False
+35,description definition,description,24,False,True,False,{32: 1},[304],35,1,4,False
+132,description definition,entity subst,18,False,False,False,{32: 1},[304],132,1,4,False
+172,description definition,numeric distance,40,False,False,False,{32: 1},[304],172,1,4,False
+74,description definition,description,24,False,True,False,{32: 1},[304],74,1,4,False
+180,location city,location city,32,True,True,True,{32: 1},[304],180,1,4,False
+241,location city,numeric distance,40,False,False,True,{32: 1},[304],241,1,4,False
+140,entity currency,human individual,29,False,False,False,{32: 1},[304],140,1,4,False
+245,description definition,entity currency,6,False,False,False,{32: 1},[304],245,1,4,False
+320,description definition,description,24,False,True,False,{32: 1},[304],320,1,4,False
+1,location city,location city,32,True,True,True,{32: 1},[304],1,1,4,False
+67,entity currency,human group,28,False,False,False,{32: 1},[304],67,1,4,False
+138,description definition,entity subst,18,False,False,False,{32: 1},[304],138,1,4,False
+298,description definition,description,24,False,True,False,{32: 1},[304],298,1,4,False
+271,location city,numeric distance,40,False,False,True,{32: 1},[304],271,1,4,False
+13,entity currency,human individual,29,False,False,False,{32: 1},[304],13,1,4,False
+235,entity word,human individual,29,False,False,False,{32: 1},[304],235,1,4,False
+3,description definition,numeric distance,40,False,False,False,{32: 1},[304],3,1,4,False
+56,human individual,numeric weight,49,False,False,False,{32: 1},[304],56,1,4,False
+258,entity currency,human individual,29,False,False,False,{32: 1},[304],258,1,4,False
+223,location city,location other,35,False,False,True,{32: 1},[304],223,1,4,False
+65,description definition,description,24,False,True,False,{32: 1},[304],65,1,4,False
+104,description definition,description,24,False,True,False,{32: 1},[304],104,1,4,False
+308,description definition,entity food,9,False,False,False,{32: 1},[304],308,1,4,False
+82,description definition,entity subst,18,False,False,False,{32: 1},[304],82,1,4,False
+11,description definition,numeric other,43,False,False,False,{32: 1},[304],11,1,4,False
+324,description definition,description,24,False,True,False,{32: 1},[304],324,1,4,False
+36,entity currency,human individual,29,False,False,False,{32: 1},[304],36,1,4,False
+318,description definition,description,24,False,True,False,{32: 1},[304],318,1,4,False
+192,description definition,description,24,False,True,False,{32: 1},[304],192,1,4,False
+130,description definition,description,24,False,True,False,{32: 1},[304],130,1,4,False
+128,location city,human individual,29,False,False,True,{32: 1},[304],128,1,4,False
+197,location city,location city,32,True,True,True,{32: 1},[304],197,1,4,False
+27,location country,location other,35,False,False,False,{32: 1},[304],27,1,4,False
+295,location city,location other,35,False,False,True,{32: 1},[304],295,1,4,False
+47,location country,location other,35,False,False,False,{32: 1},[304],47,1,4,False
+10,entity currency,human individual,29,False,False,False,{32: 1},[304],10,1,4,False
+268,description definition,human individual,29,False,False,False,{32: 1},[304],268,1,4,False
+316,location city,human group,28,False,False,True,{32: 1},[304],316,1,4,False
+243,location city,location other,35,False,False,True,{32: 1},[304],243,1,4,False
+299,description definition,description,24,False,True,False,{32: 1},[304],299,1,4,False
+127,description definition,entity subst,18,False,False,False,{32: 1},[304],127,1,4,False
+75,description definition,numeric temperature,47,False,False,False,{32: 1},[304],75,1,4,False
+76,description definition,location other,35,False,False,False,{32: 1},[304],76,1,4,False
+251,abbreviation expansion,abbreviation expansion,1,False,True,False,{32: 1},[304],251,1,4,False
+263,description definition,numeric other,43,False,False,False,{32: 1},[304],263,1,4,False
+142,location country,location other,35,False,False,False,{32: 1},[304],142,1,4,False
+37,entity word,human individual,29,False,False,False,{32: 1},[304],37,1,4,False
+292,description definition,description,24,False,True,False,{32: 1},[304],292,1,4,False
+329,description definition,description,24,False,True,False,{32: 1},[304],329,1,4,False
+48,location city,numeric other,43,False,False,True,{32: 1},[304],48,1,4,False
+2,description definition,description,24,False,True,False,{32: 1},[304],2,1,4,False
+237,description definition,description,24,False,True,False,{32: 1},[304],237,1,4,False
+102,entity currency,human individual,29,False,False,False,{32: 1},[304],102,1,4,False
+273,description definition,description,24,False,True,False,{32: 1},[304],273,1,4,False
+117,description definition,description,24,False,True,False,{32: 1},[304],117,1,4,False
+62,description definition,human individual,29,False,False,False,{32: 1},[304],62,1,4,False
+195,description definition,description,24,False,True,False,{32: 1},[304],195,1,4,False
+57,location city,human individual,29,False,False,True,{32: 1},[304],57,1,4,False
+327,description definition,entity subst,18,False,False,False,{32: 1},[304],327,1,4,False
+135,location city,location city,32,True,True,True,{32: 1},[304],135,1,4,False
+255,description definition,entity subst,18,False,False,False,{32: 1},[304],255,1,4,False
+53,description definition,description,24,False,True,False,{32: 1},[304],53,1,4,False
+98,description definition,description,24,False,True,False,{32: 1},[304],98,1,4,False
+310,location city,location other,35,False,False,True,{32: 1},[304],310,1,4,False
+111,description definition,description,24,False,True,False,{32: 1},[304],111,1,4,False
+217,description definition,abbreviation expansion,1,False,False,False,{32: 1},[304],217,1,4,False
+238,description definition,description,24,False,True,False,{32: 1},[304],238,1,4,False
+278,location city,location city,32,True,True,True,{32: 1},[304],278,1,4,False
+280,description definition,entity plant,14,False,False,False,{32: 1},[304],280,1,4,False
+230,entity word,human individual,29,False,False,False,{32: 1},[304],230,1,4,False
+88,description definition,human individual,29,False,False,False,{32: 1},[304],88,1,4,False
+90,location city,description,24,False,False,True,{32: 1},[304],90,1,4,False
+8,entity currency,human individual,29,False,False,False,{32: 1},[304],8,1,4,False
+0,location city,numeric distance,40,False,False,True,{32: 1},[304],0,1,4,False
+284,description definition,human individual,29,False,False,False,{32: 1},[304],284,1,4,False
+144,description definition,numeric temperature,47,False,False,False,{32: 1},[304],144,1,4,False
+191,location city,location other,35,False,False,True,{32: 1},[304],191,1,4,False
+244,location city,numeric weight,49,False,False,True,{32: 1},[304],244,1,4,False
+93,description definition,description,24,False,True,False,{32: 1},[304],93,1,4,False
+212,description definition,human individual,29,False,False,False,{32: 1},[304],212,1,4,False
+54,description definition,entity currency,6,False,False,False,{32: 1},[304],54,1,4,False
+66,description definition,numeric temperature,47,False,False,False,{32: 1},[304],66,1,4,False
+126,description definition,description,24,False,True,False,{32: 1},[304],126,1,4,False
+335,description definition,description,24,False,True,False,{32: 1},[304],335,1,4,False
+185,abbreviation abbreviation,abbreviation abbre,0,False,True,False,{32: 1},[304],185,1,4,False
+178,description definition,description,24,False,True,False,{32: 1},[304],178,1,4,False
+250,description definition,description,24,False,True,False,{32: 1},[304],250,1,4,False
+101,description definition,description,24,False,True,False,{32: 1},[304],101,1,4,False
+283,description definition,description,24,False,True,False,{32: 1},[304],283,1,4,False
+165,description definition,description,24,False,True,False,{32: 1},[304],165,1,4,False
+169,description definition,entity subst,18,False,False,False,{32: 1},[304],169,1,4,False
+277,description definition,entity subst,18,False,False,False,{32: 1},[304],277,1,4,False
+167,description definition,human individual,29,False,False,False,{32: 1},[304],167,1,4,False
+332,location city,location city,32,True,True,True,{32: 1},[304],332,1,4,False
+97,description definition,human title,30,False,False,False,{32: 1},[304],97,1,4,False
+168,description definition,location city,32,True,False,False,{32: 1},[304],168,1,4,False
+287,entity word,entity vehicle,22,False,False,False,{32: 1},[304],287,1,4,False
+9,description definition,numeric weight,49,False,False,False,{32: 1},[304],9,1,4,False
+39,description definition,description,24,False,True,False,{32: 1},[304],39,1,4,False
+136,description definition,entity currency,6,False,False,False,{32: 1},[304],136,1,4,False
+159,description definition,description,24,False,True,False,{32: 1},[304],159,1,4,False
+60,description definition,numeric other,43,False,False,False,{32: 1},[304],60,1,4,False
+276,entity word,human individual,29,False,False,False,{32: 1},[304],276,1,4,False
+228,description definition,human individual,29,False,False,False,{32: 1},[304],228,1,4,False
+157,description definition,description,24,False,True,False,{32: 1},[304],157,1,4,False
+31,description definition,description,24,False,True,False,{32: 1},[304],31,1,4,False
+99,description definition,description,24,False,True,False,{32: 1},[304],99,1,4,False
+312,description definition,description,24,False,True,False,{32: 1},[304],312,1,4,False
+179,description definition,description,24,False,True,False,{32: 1},[304],179,1,4,False
+296,entity currency,human individual,29,False,False,False,{32: 1},[304],296,1,4,False
+210,location city,location other,35,False,False,True,{32: 1},[304],210,1,4,False
+108,description definition,human group,28,False,False,False,{32: 1},[304],108,1,4,False
+80,description definition,entity plant,14,False,False,False,{32: 1},[304],80,1,4,False
+19,description definition,description,24,False,True,False,{32: 1},[304],19,1,4,False
+265,description definition,description,24,False,True,False,{32: 1},[304],265,1,4,False
+129,entity currency,human individual,29,False,False,False,{32: 1},[304],129,1,4,False
+187,location city,location other,35,False,False,True,{32: 1},[304],187,1,4,False
+304,entity word,human individual,29,False,False,False,{32: 1},[304],304,1,4,False
+118,entity currency,human individual,29,False,False,False,{32: 1},[304],118,1,4,False
+155,description definition,human individual,29,False,False,False,{32: 1},[304],155,1,4,False
+209,description definition,description,24,False,True,False,{32: 1},[304],209,1,4,False
+139,location city,location city,32,True,True,True,{32: 1},[304],139,1,4,False
+131,location city,location other,35,False,False,True,{32: 1},[304],131,1,4,False
+207,location city,location city,32,True,True,True,{32: 1},[304],207,1,4,False
+249,location city,location other,35,False,False,True,{32: 1},[304],249,1,4,False
+110,location city,location city,32,True,True,True,{32: 1},[304],110,1,4,False
+122,numeric distance,numeric distance,40,False,True,False,{32: 1},[304],122,1,4,False
+71,description definition,description,24,False,True,False,{32: 1},[304],71,1,4,False
+221,entity word,entity vehicle,22,False,False,False,{32: 1},[304],221,1,4,False
+225,description definition,entity food,9,False,False,False,{32: 1},[304],225,1,4,False
+6,description definition,description,24,False,True,False,{32: 1},[304],6,1,4,False
+186,description definition,entity subst,18,False,False,False,{32: 1},[304],186,1,4,False
+175,entity sport,human individual,29,False,False,False,{32: 1},[304],175,1,4,False
+288,description definition,description,24,False,True,False,{32: 1},[304],288,1,4,False
+321,description definition,entity currency,6,False,False,False,{32: 1},[304],321,1,4,False
+114,description definition,description,24,False,True,False,{32: 1},[304],114,1,4,False
+248,description definition,entity food,9,False,False,False,{32: 1},[304],248,1,4,False
+226,description definition,description,24,False,True,False,{32: 1},[304],226,1,4,False
+302,description definition,entity subst,18,False,False,False,{32: 1},[304],302,1,4,False
+77,description definition,description,24,False,True,False,{32: 1},[304],77,1,4,False
+12,description definition,entity subst,18,False,False,False,{32: 1},[304],12,1,4,False
+267,location city,numeric other,43,False,False,True,{32: 1},[304],267,1,4,False
+240,description definition,description,24,False,True,False,{32: 1},[304],240,1,4,False
+119,description definition,description,24,False,True,False,{32: 1},[304],119,1,4,False
+22,location country,location other,35,False,False,False,{32: 1},[304],22,1,4,False
+181,description definition,description,24,False,True,False,{32: 1},[304],181,1,4,False
+124,description definition,description,24,False,True,False,{32: 1},[304],124,1,4,False
+46,description definition,description,24,False,True,False,{32: 1},[304],46,1,4,False
+133,location city,numeric distance,40,False,False,True,{32: 1},[304],133,1,4,False
+247,description definition,description,24,False,True,False,{32: 1},[304],247,1,4,False
+79,entity word,human individual,29,False,False,False,{32: 1},[304],79,1,4,False
+259,description definition,description,24,False,True,False,{32: 1},[304],259,1,4,False
+164,description definition,location other,35,False,False,False,{32: 1},[304],164,1,4,False
+43,description definition,human individual,29,False,False,False,{32: 1},[304],43,1,4,False
+163,description definition,description,24,False,True,False,{32: 1},[304],163,1,4,False
+253,entity currency,human individual,29,False,False,False,{32: 1},[304],253,1,4,False
+113,description definition,description,24,False,True,False,{32: 1},[304],113,1,4,False
+44,location city,location other,35,False,False,True,{32: 1},[304],44,1,4,False
+26,description definition,numeric temperature,47,False,False,False,{32: 1},[304],26,1,4,False
+20,entity currency,human individual,29,False,False,False,{32: 1},[304],20,1,4,False
+231,description definition,description,24,False,True,False,{32: 1},[304],231,1,4,False
+333,location city,numeric distance,40,False,False,True,{32: 1},[304],333,1,4,False
+270,description definition,abbreviation expansion,1,False,False,False,{32: 1},[304],270,1,4,False
+301,entity currency,human individual,29,False,False,False,{32: 1},[304],301,1,4,False
+150,description definition,description,24,False,True,False,{32: 1},[304],150,1,4,False
+160,location city,location other,35,False,False,True,{32: 1},[304],160,1,4,False
+297,description definition,description,24,False,True,False,{32: 1},[304],297,1,4,False
+33,description definition,description,24,False,True,False,{32: 1},[304],33,1,4,False
+116,location country,location other,35,False,False,False,{32: 1},[304],116,1,4,False
+96,entity word,human individual,29,False,False,False,{32: 1},[304],96,1,4,False
+190,description definition,description,24,False,True,False,{32: 1},[304],190,1,4,False
+156,description definition,description,24,False,True,False,{32: 1},[304],156,1,4,False
+50,location city,location city,32,True,True,True,{32: 1},[304],50,1,4,False
+182,description definition,human individual,29,False,False,False,{32: 1},[304],182,1,4,False
+81,entity currency,human individual,29,False,False,False,{32: 1},[304],81,1,4,False
+328,description definition,entity subst,18,False,False,False,{32: 1},[304],328,1,4,False
+222,description definition,numeric other,43,False,False,False,{32: 1},[304],222,1,4,False
+340,description definition,description,24,False,True,False,{32: 1},[304],340,1,4,False
+42,location city,location city,32,True,True,True,{32: 1},[304],42,1,4,False
+198,description definition,numeric other,43,False,False,False,{32: 1},[304],198,1,4,False
+51,entity word,human individual,29,False,False,False,{32: 1},[304],51,1,4,False
+24,location country,location other,35,False,False,False,{32: 1},[304],24,1,4,False
+86,entity currency,human individual,29,False,False,False,{32: 1},[304],86,1,4,False
+154,entity currency,human individual,29,False,False,False,{32: 1},[304],154,1,4,False
+291,location city,location other,35,False,False,True,{32: 1},[304],291,1,4,False
+336,description definition,description,24,False,True,False,{32: 1},[304],336,1,4,False
+260,description definition,description,24,False,True,False,{32: 1},[304],260,1,4,False
+199,description definition,description,24,False,True,False,{32: 1},[304],199,1,4,False
+317,description definition,description,24,False,True,False,{32: 1},[304],317,1,4,False
+275,description definition,description,24,False,True,False,{32: 1},[304],275,1,4,False
+330,location city,location other,35,False,False,True,{32: 1},[304],330,1,4,False
+203,location country,location other,35,False,False,False,{32: 1},[304],203,1,4,False
+202,description definition,description,24,False,True,False,{32: 1},[304],202,1,4,False
+227,description definition,numeric weight,49,False,False,False,{32: 1},[304],227,1,4,False
+319,description definition,description,24,False,True,False,{32: 1},[304],319,1,4,False
+125,location country,location other,35,False,False,False,{32: 1},[304],125,1,4,False

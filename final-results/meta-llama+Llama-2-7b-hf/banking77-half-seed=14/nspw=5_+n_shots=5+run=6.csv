@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1104,5,6,False,5
+471,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",471,5,6,False,5
+1345,exchange rate,exchange charge,31,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1345,5,6,False,5
+835,lost or stolen card,lost or stolen phone,42,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",835,5,6,False,5
+940,get physical card,transaction,63,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",940,5,6,False,5
+707,verify my identity,unable,68,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",707,5,6,False,5
+378,contactless not working,contact,23,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",378,5,6,False,5
+1259,failed transfer,top up failed,59,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1259,5,6,False,5
+450,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",450,5,6,False,5
+1467,card not working,card about,9,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1467,5,6,False,5
+652,card not working,card payment not,16,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",652,5,6,False,5
+771,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",771,5,6,False,5
+1112,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1112,5,6,False,5
+659,transaction charged twice,card payment not,16,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",659,5,6,False,5
+67,exchange rate,exchange rate,32,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",67,5,6,False,5
+770,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",770,5,6,False,5
+679,transaction charged twice,card payment not,16,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",679,5,6,False,5
+955,failed transfer,transaction,63,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",955,5,6,False,5
+918,terminate account,terminate,55,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",918,5,6,False,5
+1222,card not working,get dispos,37,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1222,5,6,False,5
+604,card acceptance,card accept,10,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",604,5,6,False,5
+240,exchange rate,exchange via,33,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",240,5,6,False,5
+1069,card payment not recognised,revert,53,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1069,5,6,False,5
+1229,get disposable virtual card,get dispos,37,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1229,5,6,False,5
+1005,transfer not received by recipient,transfer timing,67,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1005,5,6,False,5
+1308,lost or stolen card,c,20,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1308,5,6,False,5
+106,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",106,5,6,False,5
+1429,activate my card,activ,0,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1429,5,6,False,5
+454,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",454,5,6,False,5
+1380,top up by card charge,top up by,57,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1380,5,6,False,5
+325,verify source of funds,pin,49,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",325,5,6,False,5
+742,pin blocked,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",742,5,6,False,5
+1439,activate my card,activ,0,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1439,5,6,False,5
+939,card not working,transaction,63,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",939,5,6,False,5
+401,failed transfer,pending,47,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",401,5,6,False,5
+1191,failed transfer,failed,35,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1191,5,6,False,5
+756,pin blocked,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",756,5,6,False,5
+1180,transfer not received by recipient,failed,35,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1180,5,6,False,5
+122,card not working,extra,34,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",122,5,6,False,5
+1517,verify source of funds,verify my,69,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1517,5,6,False,5
+227,card not working,card not,14,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",227,5,6,False,5
+1321,exchange rate,exchange charge,31,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1321,5,6,False,5
+393,contactless not working,contact,23,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",393,5,6,False,5
+998,get physical card,verify source,70,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",998,5,6,False,5
+925,transaction charged twice,transaction,63,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",925,5,6,False,5
+244,exchange rate,exchange via,33,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",244,5,6,False,5
+181,top up by card charge,automatic,4,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",181,5,6,False,5
+1170,failed transfer,failed,35,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1170,5,6,False,5
+666,card payment not recognised,card payment not,16,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",666,5,6,False,5
+1027,transfer timing,transfer timing,67,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1027,5,6,False,5
+769,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",769,5,6,False,5
+1224,card not working,get dispos,37,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1224,5,6,False,5
+420,top up failed,pending,47,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",420,5,6,False,5
+131,failed transfer,extra,34,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",131,5,6,False,5
+155,extra charge on statement,extra,34,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",155,5,6,False,5
+458,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",458,5,6,False,5
+371,contactless not working,contact,23,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",371,5,6,False,5
+15,activate my card,card linking,13,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",15,5,6,False,5
+1254,failed transfer,top up failed,59,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1254,5,6,False,5
+197,top up by card charge,automatic,4,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",197,5,6,False,5
+523,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",523,5,6,False,5
+527,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",527,5,6,False,5
+382,contactless not working,contact,23,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",382,5,6,False,5
+619,card not working,card accept,10,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",619,5,6,False,5
+869,failed transfer,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",869,5,6,False,5
+1095,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1095,5,6,False,5
+1501,verify my identity,verify my,69,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1501,5,6,False,5
+1368,card not working,top up by,57,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1368,5,6,False,5
+344,pin blocked,pin,49,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",344,5,6,False,5
+428,top up failed,pending,47,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",428,5,6,False,5
+291,card not working,lost or stolen card,41,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",291,5,6,False,5
+473,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",473,5,6,False,5
+136,extra charge on statement,extra,34,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",136,5,6,False,5
+781,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",781,5,6,False,5
+1020,transfer timing,transfer timing,67,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1020,5,6,False,5
+1414,activate my card,activ,0,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1414,5,6,False,5
+738,pin blocked,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",738,5,6,False,5
+904,terminate account,terminate,55,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",904,5,6,False,5
+723,pin blocked,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",723,5,6,False,5
+87,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",87,5,6,False,5
+1457,card not working,card about,9,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1457,5,6,False,5
+744,pin blocked,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",744,5,6,False,5
+727,pin blocked,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",727,5,6,False,5
+858,Refund not showing up,Ref,51,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",858,5,6,False,5
+355,card not working,pin,49,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",355,5,6,False,5
+1294,cash withdrawal not recognised,c,20,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1294,5,6,False,5
+517,card payment fee charged,card payment fee,15,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",517,5,6,False,5
+299,lost or stolen card,lost or stolen card,41,True,True,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",299,5,6,False,5
+804,lost or stolen card,lost or stolen phone,42,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",804,5,6,False,5
+1367,top up limits,top up by,57,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1367,5,6,False,5
+555,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",555,5,6,False,5
+239,card not working,card not,14,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",239,5,6,False,5
+1418,activate my card,activ,0,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1418,5,6,False,5
+203,card not working,card not,14,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",203,5,6,False,5
+1266,failed transfer,top up failed,59,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1266,5,6,False,5
+1509,verify my identity,verify my,69,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1509,5,6,False,5
+284,lost or stolen card,lost or stolen card,41,True,True,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",284,5,6,False,5
+1335,exchange rate,exchange charge,31,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1335,5,6,False,5
+513,card payment fee charged,card payment fee,15,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",513,5,6,False,5
+457,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",457,5,6,False,5
+805,lost or stolen card,lost or stolen phone,42,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",805,5,6,False,5
+290,lost or stolen card,lost or stolen card,41,True,True,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",290,5,6,False,5
+583,get physical card,getting,40,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",583,5,6,False,5
+128,extra charge on statement,extra,34,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",128,5,6,False,5
+306,lost or stolen card,lost or stolen card,41,True,True,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",306,5,6,False,5
+456,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",456,5,6,False,5
+179,card not working,automatic,4,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",179,5,6,False,5
+627,card payment not recognised,card accept,10,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",627,5,6,False,5
+26,card not working,card linking,13,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",26,5,6,False,5
+1276,failed transfer,top up failed,59,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1276,5,6,False,5
+836,lost or stolen card,lost or stolen phone,42,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",836,5,6,False,5
+1174,failed transfer,failed,35,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1174,5,6,False,5
+556,transfer timing,transfer not,66,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",556,5,6,False,5
+445,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",445,5,6,False,5
+1117,cash withdrawal not recognised,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1117,5,6,False,5
+215,card not working,card not,14,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",215,5,6,False,5
+965,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",965,5,6,False,5
+419,pending top up,pending,47,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",419,5,6,False,5
+613,card acceptance,card accept,10,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",613,5,6,False,5
+192,top up by card charge,automatic,4,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",192,5,6,False,5
+667,transaction charged twice,card payment not,16,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",667,5,6,False,5
+850,failed transfer,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",850,5,6,False,5
+1083,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1083,5,6,False,5
+1106,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1106,5,6,False,5
+916,terminate account,terminate,55,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",916,5,6,False,5
+503,card payment fee charged,card payment fee,15,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",503,5,6,False,5
+145,extra charge on statement,extra,34,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",145,5,6,False,5
+1307,card not working,c,20,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1307,5,6,False,5
+334,pin blocked,pin,49,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",334,5,6,False,5
+961,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",961,5,6,False,5
+1014,transfer timing,transfer timing,67,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1014,5,6,False,5
+1486,verify source of funds,verify my,69,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1486,5,6,False,5
+391,contactless not working,contact,23,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",391,5,6,False,5
+1244,top up failed,top up failed,59,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1244,5,6,False,5
+69,exchange rate,exchange rate,32,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",69,5,6,False,5
+392,contactless not working,contact,23,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",392,5,6,False,5
+789,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",789,5,6,False,5
+1448,card about to expire,card about,9,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1448,5,6,False,5
+489,extra charge on statement,card payment fee,15,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",489,5,6,False,5
+676,transaction charged twice,card payment not,16,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",676,5,6,False,5
+647,card payment not recognised,card payment not,16,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",647,5,6,False,5
+815,lost or stolen card,lost or stolen phone,42,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",815,5,6,False,5
+981,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",981,5,6,False,5
+972,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",972,5,6,False,5
+531,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",531,5,6,False,5
+790,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",790,5,6,False,5
+259,exchange rate,exchange via,33,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",259,5,6,False,5
+429,pending top up,pending,47,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",429,5,6,False,5
+480,card payment fee charged,card payment fee,15,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",480,5,6,False,5
+566,get physical card,getting,40,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",566,5,6,False,5
+72,exchange rate,exchange rate,32,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",72,5,6,False,5
+112,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",112,5,6,False,5
+384,contactless not working,contact,23,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",384,5,6,False,5
+1053,failed transfer,revert,53,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1053,5,6,False,5
+1401,activate my card,activ,0,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1401,5,6,False,5
+968,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",968,5,6,False,5
+312,lost or stolen card,lost or stolen card,41,True,True,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",312,5,6,False,5
+892,terminate account,terminate,55,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",892,5,6,False,5
+453,card payment not recognised,top up limits,60,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",453,5,6,False,5
+478,top up limits,top up limits,60,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",478,5,6,False,5
+649,card not working,card payment not,16,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",649,5,6,False,5
+23,card linking,card linking,13,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",23,5,6,False,5
+1213,verify source of funds,get dispos,37,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1213,5,6,False,5
+1215,get disposable virtual card,get dispos,37,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1215,5,6,False,5
+1349,exchange rate,exchange charge,31,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1349,5,6,False,5
+262,exchange rate,exchange via,33,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",262,5,6,False,5
+48,exchange rate,exchange rate,32,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",48,5,6,False,5
+285,lost or stolen card,lost or stolen card,41,True,True,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",285,5,6,False,5
+849,failed transfer,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",849,5,6,False,5
+1352,exchange rate,exchange charge,31,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1352,5,6,False,5
+327,pin blocked,pin,49,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",327,5,6,False,5
+1438,activate my card,activ,0,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1438,5,6,False,5
+29,card linking,card linking,13,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",29,5,6,False,5
+234,card not working,card not,14,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",234,5,6,False,5
+524,failed transfer,transfer not,66,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",524,5,6,False,5
+369,card not working,contact,23,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",369,5,6,False,5
+127,transaction charged twice,extra,34,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",127,5,6,False,5
+1151,exchange rate,receiving,50,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1151,5,6,False,5
+543,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",543,5,6,False,5
+884,terminate account,terminate,55,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",884,5,6,False,5
+592,get physical card,getting,40,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",592,5,6,False,5
+229,card not working,card not,14,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",229,5,6,False,5
+875,failed transfer,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",875,5,6,False,5
+628,card not working,card accept,10,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",628,5,6,False,5
+1419,activate my card,activ,0,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1419,5,6,False,5
+818,lost or stolen card,lost or stolen phone,42,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",818,5,6,False,5
+1285,transaction charged twice,c,20,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1285,5,6,False,5
+678,transaction charged twice,card payment not,16,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",678,5,6,False,5
+204,card not working,card not,14,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",204,5,6,False,5
+870,failed transfer,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",870,5,6,False,5
+696,verify my identity,unable,68,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",696,5,6,False,5
+219,card not working,card not,14,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",219,5,6,False,5
+190,top up by card charge,automatic,4,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",190,5,6,False,5
+379,contactless not working,contact,23,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",379,5,6,False,5
+1340,exchange rate,exchange charge,31,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1340,5,6,False,5
+977,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",977,5,6,False,5
+644,transaction charged twice,card payment not,16,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",644,5,6,False,5
+733,pin blocked,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",733,5,6,False,5
+847,get physical card,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",847,5,6,False,5
+1353,exchange rate,exchange charge,31,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1353,5,6,False,5
+797,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",797,5,6,False,5
+1329,exchange rate,exchange charge,31,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1329,5,6,False,5
+114,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",114,5,6,False,5
+1396,transfer not received by recipient,top up by,57,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1396,5,6,False,5
+34,card payment not recognised,card linking,13,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",34,5,6,False,5
+966,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",966,5,6,False,5
+1512,verify my identity,verify my,69,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1512,5,6,False,5
+438,top up failed,pending,47,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",438,5,6,False,5
+1411,card not working,activ,0,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1411,5,6,False,5
+1218,get disposable virtual card,get dispos,37,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1218,5,6,False,5
+865,failed transfer,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",865,5,6,False,5
+704,verify my identity,unable,68,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",704,5,6,False,5
+1212,verify source of funds,get dispos,37,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1212,5,6,False,5
+645,card payment not recognised,card payment not,16,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",645,5,6,False,5
+1165,failed transfer,failed,35,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1165,5,6,False,5
+796,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",796,5,6,False,5
+898,terminate account,terminate,55,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",898,5,6,False,5
+36,lost or stolen card,card linking,13,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",36,5,6,False,5
+1278,top up failed,top up failed,59,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1278,5,6,False,5
+324,pin blocked,pin,49,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",324,5,6,False,5
+689,verify my identity,unable,68,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",689,5,6,False,5
+1508,verify source of funds,verify my,69,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1508,5,6,False,5
+991,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",991,5,6,False,5
+314,card not working,lost or stolen card,41,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",314,5,6,False,5
+1082,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1082,5,6,False,5
+1096,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1096,5,6,False,5
+784,card not working,comprom,22,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",784,5,6,False,5
+839,lost or stolen card,lost or stolen phone,42,False,False,True,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",839,5,6,False,5
+191,top up by card charge,automatic,4,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",191,5,6,False,5
+842,failed transfer,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",842,5,6,False,5
+1026,transfer timing,transfer timing,67,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1026,5,6,False,5
+99,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",99,5,6,False,5
+551,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",551,5,6,False,5
+1023,transfer timing,transfer timing,67,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1023,5,6,False,5
+140,transaction charged twice,extra,34,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",140,5,6,False,5
+624,card acceptance,card accept,10,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",624,5,6,False,5
+920,failed transfer,transaction,63,True,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",920,5,6,False,5
+976,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",976,5,6,False,5
+134,extra charge on statement,extra,34,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",134,5,6,False,5
+1109,exchange rate,benef,7,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1109,5,6,False,5
+405,top up failed,pending,47,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",405,5,6,False,5
+757,card not working,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",757,5,6,False,5
+1034,transfer timing,transfer timing,67,False,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1034,5,6,False,5
+926,transaction charged twice,transaction,63,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",926,5,6,False,5
+975,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",975,5,6,False,5
+962,verify source of funds,verify source,70,True,True,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",962,5,6,False,5
+759,pin blocked,get physical,38,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",759,5,6,False,5
+510,card not working,card payment fee,15,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",510,5,6,False,5
+868,failed transfer,Ref,51,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",868,5,6,False,5
+1122,transfer not received by recipient,receiving,50,False,False,False,"{34: 1, 41: 1, 63: 1, 35: 1, 70: 1}","[1729, 4528, 3750, 1525, 2618]",1122,5,6,False,5

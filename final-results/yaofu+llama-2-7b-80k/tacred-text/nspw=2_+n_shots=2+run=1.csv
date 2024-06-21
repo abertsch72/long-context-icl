@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+13005,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13005,2,1,False,2
+13881,person age,organization top,organization top members or employees,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13881,2,1,False,2
+8000,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8000,2,1,False,2
+15210,person siblings,person sib,person siblings,False,True,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15210,2,1,False,2
+7432,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7432,2,1,False,2
+2785,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2785,2,1,False,2
+11677,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11677,2,1,False,2
+6929,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6929,2,1,False,2
+7143,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7143,2,1,False,2
+12405,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12405,2,1,False,2
+1677,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1677,2,1,False,2
+2872,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2872,2,1,False,2
+13474,organization parents,organization parents,organization parents,True,True,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13474,2,1,False,2
+5391,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5391,2,1,False,2
+14781,person age,person title,person title,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14781,2,1,False,2
+13767,organization parents,organization top,organization top members or employees,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13767,2,1,False,2
+4670,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4670,2,1,False,2
+343,person age,person age,person age,True,True,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",343,2,1,False,2
+6853,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6853,2,1,False,2
+7373,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7373,2,1,False,2
+6965,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6965,2,1,False,2
+8391,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8391,2,1,False,2
+2539,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2539,2,1,False,2
+14078,organization parents,organization alternate,organization alternate names,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14078,2,1,False,2
+14670,person age,person title,person title,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14670,2,1,False,2
+3983,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3983,2,1,False,2
+9758,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9758,2,1,False,2
+2760,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2760,2,1,False,2
+2670,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2670,2,1,False,2
+3175,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3175,2,1,False,2
+14456,person age,person origin,person origin,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14456,2,1,False,2
+858,person parents,person cities,person cities of residence,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",858,2,1,False,2
+6211,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6211,2,1,False,2
+15099,organization parents,organization country,organization country of headquarters,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15099,2,1,False,2
+2891,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2891,2,1,False,2
+1785,person date of birth,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1785,2,1,False,2
+14958,person age,person title,person title,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14958,2,1,False,2
+12198,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12198,2,1,False,2
+15254,organization parents,organization state,organization state or province of headquarters,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15254,2,1,False,2
+3319,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3319,2,1,False,2
+2900,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2900,2,1,False,2
+9109,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9109,2,1,False,2
+10607,person siblings,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10607,2,1,False,2
+9328,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9328,2,1,False,2
+14837,person parents,person title,person title,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14837,2,1,False,2
+15483,person age,organization founded by,organization founded by,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15483,2,1,False,2
+3049,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3049,2,1,False,2
+3434,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3434,2,1,False,2
+3440,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3440,2,1,False,2
+6635,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6635,2,1,False,2
+1718,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1718,2,1,False,2
+14875,person age,person title,person title,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14875,2,1,False,2
+10226,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10226,2,1,False,2
+7343,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7343,2,1,False,2
+1109,person age,person employee,person employee of,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1109,2,1,False,2
+2457,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2457,2,1,False,2
+11703,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11703,2,1,False,2
+7135,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7135,2,1,False,2
+423,person age,person charges,person charges,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",423,2,1,False,2
+8108,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8108,2,1,False,2
+12923,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12923,2,1,False,2
+10264,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10264,2,1,False,2
+8698,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8698,2,1,False,2
+12760,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12760,2,1,False,2
+4478,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4478,2,1,False,2
+10200,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10200,2,1,False,2
+234,person age,person age,person age,True,True,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",234,2,1,False,2
+15499,person parents,organization founded by,organization founded by,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15499,2,1,False,2
+2710,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2710,2,1,False,2
+2320,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2320,2,1,False,2
+1124,person age,person employee,person employee of,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1124,2,1,False,2
+9247,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9247,2,1,False,2
+5666,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5666,2,1,False,2
+1571,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1571,2,1,False,2
+6405,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6405,2,1,False,2
+12166,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12166,2,1,False,2
+1552,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1552,2,1,False,2
+10940,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10940,2,1,False,2
+8549,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8549,2,1,False,2
+9529,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9529,2,1,False,2
+5018,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5018,2,1,False,2
+1650,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1650,2,1,False,2
+10531,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10531,2,1,False,2
+6580,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6580,2,1,False,2
+591,person age,person countries,person countries of residence,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",591,2,1,False,2
+8453,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8453,2,1,False,2
+2674,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2674,2,1,False,2
+1508,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1508,2,1,False,2
+15507,person age,organization founded by,organization founded by,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15507,2,1,False,2
+13496,organization parents,organization parents,organization parents,True,True,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13496,2,1,False,2
+7291,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7291,2,1,False,2
+4529,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4529,2,1,False,2
+13395,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13395,2,1,False,2
+7484,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7484,2,1,False,2
+9159,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9159,2,1,False,2
+14259,person parents,person religion,person religion,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14259,2,1,False,2
+4538,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4538,2,1,False,2
+2166,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2166,2,1,False,2
+11035,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11035,2,1,False,2
+10831,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10831,2,1,False,2
+6054,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6054,2,1,False,2
+11872,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11872,2,1,False,2
+7513,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7513,2,1,False,2
+1556,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1556,2,1,False,2
+12022,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12022,2,1,False,2
+14990,person parents,person title,person title,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14990,2,1,False,2
+9628,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9628,2,1,False,2
+9978,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9978,2,1,False,2
+15072,person age,organization country,organization country of headquarters,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15072,2,1,False,2
+3355,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3355,2,1,False,2
+6562,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6562,2,1,False,2
+5574,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5574,2,1,False,2
+8053,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8053,2,1,False,2
+8231,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8231,2,1,False,2
+15201,person age,person sib,person siblings,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15201,2,1,False,2
+11400,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11400,2,1,False,2
+2091,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2091,2,1,False,2
+1639,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1639,2,1,False,2
+14221,organization parents,organization alternate,organization alternate names,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14221,2,1,False,2
+6237,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6237,2,1,False,2
+792,person parents,person cities,person cities of residence,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",792,2,1,False,2
+563,person age,person countries,person countries of residence,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",563,2,1,False,2
+5764,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5764,2,1,False,2
+1330,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1330,2,1,False,2
+8484,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8484,2,1,False,2
+11473,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11473,2,1,False,2
+1118,person age,person employee,person employee of,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1118,2,1,False,2
+3432,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3432,2,1,False,2
+11871,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11871,2,1,False,2
+14764,person parents,person title,person title,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14764,2,1,False,2
+7777,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7777,2,1,False,2
+10413,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10413,2,1,False,2
+14090,organization parents,organization alternate,organization alternate names,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14090,2,1,False,2
+12996,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12996,2,1,False,2
+1655,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1655,2,1,False,2
+6799,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6799,2,1,False,2
+8001,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8001,2,1,False,2
+4680,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4680,2,1,False,2
+14115,organization parents,organization alternate,organization alternate names,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14115,2,1,False,2
+1433,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1433,2,1,False,2
+15240,person parents,organization state,organization state or province of headquarters,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15240,2,1,False,2
+12147,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12147,2,1,False,2
+15417,person age,person city of death,person city of death,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15417,2,1,False,2
+10813,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10813,2,1,False,2
+4314,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4314,2,1,False,2
+2002,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2002,2,1,False,2
+5601,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5601,2,1,False,2
+15,organization parents,organization founded in,organization founded in year,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15,2,1,False,2
+7042,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7042,2,1,False,2
+9622,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9622,2,1,False,2
+8938,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8938,2,1,False,2
+10440,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10440,2,1,False,2
+11553,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11553,2,1,False,2
+4055,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4055,2,1,False,2
+1757,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1757,2,1,False,2
+4093,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4093,2,1,False,2
+1424,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1424,2,1,False,2
+186,person age,person age,person age,True,True,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",186,2,1,False,2
+619,person parents,person countries,person countries of residence,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",619,2,1,False,2
+6263,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6263,2,1,False,2
+4164,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4164,2,1,False,2
+280,person age,person age,person age,True,True,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",280,2,1,False,2
+4928,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4928,2,1,False,2
+13449,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13449,2,1,False,2
+12885,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12885,2,1,False,2
+11313,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11313,2,1,False,2
+7063,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7063,2,1,False,2
+1236,person parents,person employee,person employee of,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1236,2,1,False,2
+2378,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2378,2,1,False,2
+9578,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9578,2,1,False,2
+6260,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6260,2,1,False,2
+15428,person parents,person state or province of death,person state or province of death,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15428,2,1,False,2
+10863,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10863,2,1,False,2
+4240,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4240,2,1,False,2
+6766,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6766,2,1,False,2
+7580,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7580,2,1,False,2
+9861,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9861,2,1,False,2
+4662,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4662,2,1,False,2
+3979,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3979,2,1,False,2
+294,person age,person age,person age,True,True,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",294,2,1,False,2
+9048,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9048,2,1,False,2
+94,person age,organization city,organization city of headquarters,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",94,2,1,False,2
+7704,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7704,2,1,False,2
+12940,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12940,2,1,False,2
+500,person age,person countries,person countries of residence,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",500,2,1,False,2
+12796,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12796,2,1,False,2
+9912,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9912,2,1,False,2
+10002,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10002,2,1,False,2
+4295,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4295,2,1,False,2
+2283,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2283,2,1,False,2
+13709,person age,organization top,organization top members or employees,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13709,2,1,False,2
+11789,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11789,2,1,False,2
+1530,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1530,2,1,False,2
+10195,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10195,2,1,False,2
+1728,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1728,2,1,False,2
+2787,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2787,2,1,False,2
+12812,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12812,2,1,False,2
+4559,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4559,2,1,False,2
+14699,person age,person title,person title,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14699,2,1,False,2
+14008,person age,person date of death,person date of death,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14008,2,1,False,2
+617,person age,person countries,person countries of residence,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",617,2,1,False,2
+14111,organization parents,organization alternate,organization alternate names,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14111,2,1,False,2
+8269,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8269,2,1,False,2
+14874,person parents,person title,person title,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14874,2,1,False,2
+14750,person parents,person title,person title,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14750,2,1,False,2
+581,person parents,person countries,person countries of residence,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",581,2,1,False,2
+1659,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1659,2,1,False,2
+7627,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7627,2,1,False,2
+10629,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10629,2,1,False,2
+2025,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2025,2,1,False,2
+5603,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5603,2,1,False,2
+8954,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8954,2,1,False,2
+5321,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5321,2,1,False,2
+5966,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5966,2,1,False,2
+12215,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",12215,2,1,False,2
+388,person parents,person charges,person charges,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",388,2,1,False,2
+15044,organization parents,organization number,organization number of employees or members,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",15044,2,1,False,2
+8042,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8042,2,1,False,2
+6209,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6209,2,1,False,2
+14648,person parents,person title,person title,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14648,2,1,False,2
+1602,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1602,2,1,False,2
+5195,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5195,2,1,False,2
+9456,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9456,2,1,False,2
+13466,organization parents,organization parents,organization parents,True,True,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",13466,2,1,False,2
+3655,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3655,2,1,False,2
+698,person parents,person state or provinces,person state or provinces of residence,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",698,2,1,False,2
+6491,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",6491,2,1,False,2
+14004,person age,person date of death,person date of death,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14004,2,1,False,2
+3578,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3578,2,1,False,2
+11512,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",11512,2,1,False,2
+1589,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1589,2,1,False,2
+5828,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",5828,2,1,False,2
+4694,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4694,2,1,False,2
+10232,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10232,2,1,False,2
+625,person age,person country of birth,person country of birth,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",625,2,1,False,2
+1713,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1713,2,1,False,2
+8551,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8551,2,1,False,2
+4388,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4388,2,1,False,2
+4560,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",4560,2,1,False,2
+9854,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",9854,2,1,False,2
+14017,organization parents,organization members,organization members,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",14017,2,1,False,2
+7377,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7377,2,1,False,2
+1872,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1872,2,1,False,2
+2054,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",2054,2,1,False,2
+3544,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",3544,2,1,False,2
+1483,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",1483,2,1,False,2
+929,person parents,person parents,person parents,False,True,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",929,2,1,False,2
+7381,person parents,na,na,False,False,False,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",7381,2,1,False,2
+10157,person age,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",10157,2,1,False,2
+8286,organization parents,na,na,False,False,True,"{'person age': 1, 'organization parents': 1}","[45572, 24494]",8286,2,1,False,2

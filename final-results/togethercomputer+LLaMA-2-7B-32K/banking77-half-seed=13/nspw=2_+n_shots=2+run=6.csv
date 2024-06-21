@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,transfer timing,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1104,2,6,False,2
+472,card payment not recognised,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",472,2,6,False,2
+1345,exchange charge,exchange charge,31,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1345,2,6,False,2
+837,transfer timing,pending transfer,48,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",837,2,6,False,2
+940,cancel transfer,transaction,63,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",940,2,6,False,2
+706,cancel transfer,request,52,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",706,2,6,False,2
+381,topping up by card,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",381,2,6,False,2
+1259,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1259,2,6,False,2
+451,card payment not recognised,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",451,2,6,False,2
+1467,card payment not recognised,card about,9,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1467,2,6,False,2
+649,direct debit payment not recognised,direct,28,True,True,False,"{53: 1, 28: 1}","[1977, 3586]",649,2,6,False,2
+771,direct debit payment not recognised,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",771,2,6,False,2
+1112,topping up by card,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1112,2,6,False,2
+657,direct debit payment not recognised,direct,28,True,True,False,"{53: 1, 28: 1}","[1977, 3586]",657,2,6,False,2
+67,topping up by card,fi,36,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",67,2,6,False,2
+770,cancel transfer,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",770,2,6,False,2
+678,direct debit payment not recognised,direct,28,True,True,False,"{53: 1, 28: 1}","[1977, 3586]",678,2,6,False,2
+955,cancel transfer,transaction,63,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",955,2,6,False,2
+917,cancel transfer,card sw,18,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",917,2,6,False,2
+1222,card payment not recognised,order,43,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1222,2,6,False,2
+601,card payment not recognised,at,3,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",601,2,6,False,2
+241,cancel transfer,cancel,8,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",241,2,6,False,2
+1069,cancel transfer,revert,53,True,False,False,"{53: 1, 28: 1}","[1977, 3586]",1069,2,6,False,2
+1229,card payment not recognised,order,43,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1229,2,6,False,2
+1005,transfer timing,transfer,67,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1005,2,6,False,2
+1308,transfer timing,balance,5,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1308,2,6,False,2
+106,card payment not recognised,card not,14,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",106,2,6,False,2
+1429,activate my card,activ,0,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1429,2,6,False,2
+455,card payment not recognised,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",455,2,6,False,2
+1380,top up by card charge,top,57,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1380,2,6,False,2
+327,cancel transfer,card payment not,16,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",327,2,6,False,2
+742,transfer timing,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",742,2,6,False,2
+1439,activate my card,activ,0,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1439,2,6,False,2
+939,cancel transfer,transaction,63,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",939,2,6,False,2
+404,verify my identity,unable,68,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",404,2,6,False,2
+1191,verify top up,verify top,71,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1191,2,6,False,2
+756,card payment not recognised,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",756,2,6,False,2
+1181,top up by card charge,verify top,71,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1181,2,6,False,2
+122,topping up by card,exchange via,33,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",122,2,6,False,2
+1517,topping up by card,verify my,69,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1517,2,6,False,2
+227,top up by card charge,pending top,47,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",227,2,6,False,2
+1321,exchange charge,exchange charge,31,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1321,2,6,False,2
+396,verify my identity,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",396,2,6,False,2
+998,topping up by card,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",998,2,6,False,2
+925,cancel transfer,transaction,63,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",925,2,6,False,2
+245,cancel transfer,cancel,8,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",245,2,6,False,2
+180,contactless not working,contact,23,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",180,2,6,False,2
+1171,top up by card charge,verify top,71,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1171,2,6,False,2
+665,direct debit payment not recognised,direct,28,True,True,False,"{53: 1, 28: 1}","[1977, 3586]",665,2,6,False,2
+1027,transfer timing,transfer,67,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1027,2,6,False,2
+769,direct debit payment not recognised,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",769,2,6,False,2
+1224,card payment not recognised,order,43,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1224,2,6,False,2
+422,verify my identity,unable,68,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",422,2,6,False,2
+131,exchange via app,exchange via,33,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",131,2,6,False,2
+154,topping up by card,exchange via,33,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",154,2,6,False,2
+459,topping up by card,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",459,2,6,False,2
+374,topping up by card,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",374,2,6,False,2
+15,wrong amount of cash received,card payment wrong,17,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",15,2,6,False,2
+1254,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1254,2,6,False,2
+196,contactless not working,contact,23,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",196,2,6,False,2
+523,topping up by card,dispos,29,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",523,2,6,False,2
+527,card payment not recognised,dispos,29,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",527,2,6,False,2
+385,topping up by card,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",385,2,6,False,2
+616,topping up by card,at,3,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",616,2,6,False,2
+870,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",870,2,6,False,2
+1095,topping up by card,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1095,2,6,False,2
+1501,verify my identity,verify my,69,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1501,2,6,False,2
+1368,topping up by card,top,57,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1368,2,6,False,2
+347,cancel transfer,card payment not,16,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",347,2,6,False,2
+430,verify my identity,unable,68,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",430,2,6,False,2
+293,direct debit payment not recognised,wrong,75,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",293,2,6,False,2
+474,card not working,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",474,2,6,False,2
+136,topping up by card,exchange via,33,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",136,2,6,False,2
+781,direct debit payment not recognised,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",781,2,6,False,2
+1020,transfer timing,transfer,67,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1020,2,6,False,2
+1414,activate my card,activ,0,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1414,2,6,False,2
+738,transfer timing,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",738,2,6,False,2
+903,card payment not recognised,card sw,18,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",903,2,6,False,2
+723,transfer timing,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",723,2,6,False,2
+87,card payment not recognised,card not,14,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",87,2,6,False,2
+1457,card payment not recognised,card about,9,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1457,2,6,False,2
+744,transfer timing,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",744,2,6,False,2
+727,transfer timing,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",727,2,6,False,2
+859,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",859,2,6,False,2
+358,cancel transfer,card payment not,16,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",358,2,6,False,2
+1294,transfer timing,balance,5,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1294,2,6,False,2
+517,top up by card charge,to,62,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",517,2,6,False,2
+301,topping up by card,wrong,75,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",301,2,6,False,2
+806,transfer timing,pending transfer,48,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",806,2,6,False,2
+1367,topping up by card,top,57,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1367,2,6,False,2
+552,card payment not recognised,dispos,29,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",552,2,6,False,2
+240,reverted card payment?,cancel,8,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",240,2,6,False,2
+1418,activate my card,activ,0,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1418,2,6,False,2
+202,top up by card charge,pending top,47,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",202,2,6,False,2
+1266,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1266,2,6,False,2
+1509,verify my identity,verify my,69,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1509,2,6,False,2
+286,atm support,wrong,75,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",286,2,6,False,2
+1335,exchange charge,exchange charge,31,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1335,2,6,False,2
+513,topping up by card,to,62,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",513,2,6,False,2
+458,card payment not recognised,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",458,2,6,False,2
+807,transfer timing,pending transfer,48,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",807,2,6,False,2
+292,cancel transfer,wrong,75,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",292,2,6,False,2
+580,cancel transfer,comprom,22,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",580,2,6,False,2
+128,exchange charge,exchange via,33,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",128,2,6,False,2
+308,topping up by card,wrong,75,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",308,2,6,False,2
+457,card not working,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",457,2,6,False,2
+178,contactless not working,contact,23,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",178,2,6,False,2
+624,topping up by card,at,3,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",624,2,6,False,2
+26,exchange charge,card payment wrong,17,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",26,2,6,False,2
+1276,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1276,2,6,False,2
+838,transfer timing,pending transfer,48,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",838,2,6,False,2
+1175,top up by card charge,verify top,71,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1175,2,6,False,2
+553,card payment not recognised,dispos,29,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",553,2,6,False,2
+446,card payment not recognised,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",446,2,6,False,2
+1117,topping up by card,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1117,2,6,False,2
+214,top up by card charge,pending top,47,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",214,2,6,False,2
+965,topping up by card,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",965,2,6,False,2
+421,direct debit payment not recognised,unable,68,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",421,2,6,False,2
+610,atm support,at,3,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",610,2,6,False,2
+191,contactless not working,contact,23,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",191,2,6,False,2
+666,cancel transfer,direct,28,True,False,False,"{53: 1, 28: 1}","[1977, 3586]",666,2,6,False,2
+851,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",851,2,6,False,2
+1083,topping up by card,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1083,2,6,False,2
+1106,topping up by card,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1106,2,6,False,2
+915,atm support,card sw,18,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",915,2,6,False,2
+504,card payment not recognised,to,62,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",504,2,6,False,2
+145,topping up by card,exchange via,33,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",145,2,6,False,2
+1307,transfer timing,balance,5,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1307,2,6,False,2
+337,card payment not recognised,card payment not,16,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",337,2,6,False,2
+961,direct debit payment not recognised,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",961,2,6,False,2
+1014,transfer timing,transfer,67,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1014,2,6,False,2
+1486,verify my identity,verify my,69,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1486,2,6,False,2
+394,verify my identity,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",394,2,6,False,2
+1244,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1244,2,6,False,2
+69,exchange via app,fi,36,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",69,2,6,False,2
+395,verify my identity,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",395,2,6,False,2
+789,direct debit payment not recognised,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",789,2,6,False,2
+1448,card payment not recognised,card about,9,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1448,2,6,False,2
+490,transfer timing,to,62,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",490,2,6,False,2
+675,cancel transfer,direct,28,True,False,False,"{53: 1, 28: 1}","[1977, 3586]",675,2,6,False,2
+644,cancel transfer,direct,28,True,False,False,"{53: 1, 28: 1}","[1977, 3586]",644,2,6,False,2
+817,transfer timing,pending transfer,48,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",817,2,6,False,2
+981,topping up by card,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",981,2,6,False,2
+972,topping up by card,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",972,2,6,False,2
+531,card payment not recognised,dispos,29,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",531,2,6,False,2
+790,direct debit payment not recognised,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",790,2,6,False,2
+260,cancel transfer,cancel,8,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",260,2,6,False,2
+431,verify my identity,unable,68,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",431,2,6,False,2
+481,card payment not recognised,to,62,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",481,2,6,False,2
+563,card payment not recognised,comprom,22,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",563,2,6,False,2
+72,topping up by card,fi,36,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",72,2,6,False,2
+112,card payment not recognised,card not,14,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",112,2,6,False,2
+387,verify my identity,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",387,2,6,False,2
+1053,card payment not recognised,revert,53,True,False,False,"{53: 1, 28: 1}","[1977, 3586]",1053,2,6,False,2
+1401,activate my card,activ,0,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1401,2,6,False,2
+968,topping up by card,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",968,2,6,False,2
+314,topping up by card,wrong,75,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",314,2,6,False,2
+891,card payment not recognised,card sw,18,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",891,2,6,False,2
+454,card payment not recognised,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",454,2,6,False,2
+479,cancel transfer,get physical,38,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",479,2,6,False,2
+647,direct debit payment not recognised,direct,28,True,True,False,"{53: 1, 28: 1}","[1977, 3586]",647,2,6,False,2
+23,exchange charge,card payment wrong,17,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",23,2,6,False,2
+1213,card payment not recognised,order,43,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1213,2,6,False,2
+1215,card payment not recognised,order,43,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1215,2,6,False,2
+1349,exchange charge,exchange charge,31,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1349,2,6,False,2
+263,cancel transfer,cancel,8,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",263,2,6,False,2
+48,exchange charge,fi,36,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",48,2,6,False,2
+287,cancel transfer,wrong,75,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",287,2,6,False,2
+850,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",850,2,6,False,2
+1352,exchange charge,exchange charge,31,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1352,2,6,False,2
+329,cancel transfer,card payment not,16,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",329,2,6,False,2
+1438,activate my card,activ,0,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1438,2,6,False,2
+29,exchange charge,card payment wrong,17,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",29,2,6,False,2
+235,top up by card charge,pending top,47,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",235,2,6,False,2
+524,topping up by card,dispos,29,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",524,2,6,False,2
+372,topping up by card,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",372,2,6,False,2
+127,exchange via app,exchange via,33,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",127,2,6,False,2
+1152,transfer timing,failed,35,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1152,2,6,False,2
+540,topping up by card,dispos,29,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",540,2,6,False,2
+883,card payment not recognised,card sw,18,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",883,2,6,False,2
+589,card payment not recognised,comprom,22,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",589,2,6,False,2
+229,top up by card charge,pending top,47,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",229,2,6,False,2
+875,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",875,2,6,False,2
+625,atm support,at,3,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",625,2,6,False,2
+1419,activate my card,activ,0,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1419,2,6,False,2
+820,transfer timing,pending transfer,48,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",820,2,6,False,2
+1285,transfer timing,balance,5,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1285,2,6,False,2
+677,cancel transfer,direct,28,True,False,False,"{53: 1, 28: 1}","[1977, 3586]",677,2,6,False,2
+203,top up by card charge,pending top,47,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",203,2,6,False,2
+871,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",871,2,6,False,2
+695,cancel transfer,request,52,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",695,2,6,False,2
+219,topping up by card,pending top,47,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",219,2,6,False,2
+189,contactless not working,contact,23,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",189,2,6,False,2
+382,topping up by card,why,74,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",382,2,6,False,2
+1340,exchange charge,exchange charge,31,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1340,2,6,False,2
+977,direct debit payment not recognised,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",977,2,6,False,2
+641,direct debit payment not recognised,direct,28,True,True,False,"{53: 1, 28: 1}","[1977, 3586]",641,2,6,False,2
+733,transfer timing,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",733,2,6,False,2
+849,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",849,2,6,False,2
+1353,exchange charge,exchange charge,31,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1353,2,6,False,2
+799,direct debit payment not recognised,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",799,2,6,False,2
+1329,exchange charge,exchange charge,31,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1329,2,6,False,2
+114,card payment not recognised,card not,14,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",114,2,6,False,2
+1396,transfer timing,top,57,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1396,2,6,False,2
+34,exchange charge,card payment wrong,17,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",34,2,6,False,2
+966,verify my identity,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",966,2,6,False,2
+1512,topping up by card,verify my,69,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1512,2,6,False,2
+439,verify my identity,unable,68,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",439,2,6,False,2
+1411,card payment not recognised,activ,0,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1411,2,6,False,2
+1218,card payment not recognised,order,43,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1218,2,6,False,2
+866,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",866,2,6,False,2
+703,cancel transfer,request,52,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",703,2,6,False,2
+1212,card payment not recognised,order,43,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1212,2,6,False,2
+642,direct debit payment not recognised,direct,28,True,True,False,"{53: 1, 28: 1}","[1977, 3586]",642,2,6,False,2
+1166,top up by card charge,verify top,71,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1166,2,6,False,2
+798,direct debit payment not recognised,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",798,2,6,False,2
+897,card payment not recognised,card sw,18,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",897,2,6,False,2
+36,exchange charge,card payment wrong,17,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",36,2,6,False,2
+1278,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1278,2,6,False,2
+326,cancel transfer,card payment not,16,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",326,2,6,False,2
+688,cancel transfer,request,52,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",688,2,6,False,2
+1508,topping up by card,verify my,69,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1508,2,6,False,2
+991,topping up by card,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",991,2,6,False,2
+316,direct debit payment not recognised,wrong,75,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",316,2,6,False,2
+1082,topping up by card,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1082,2,6,False,2
+1096,transfer timing,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1096,2,6,False,2
+784,direct debit payment not recognised,Ref,51,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",784,2,6,False,2
+841,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",841,2,6,False,2
+190,contactless not working,contact,23,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",190,2,6,False,2
+844,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",844,2,6,False,2
+1026,transfer timing,transfer,67,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1026,2,6,False,2
+99,card payment not recognised,card not,14,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",99,2,6,False,2
+548,topping up by card,dispos,29,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",548,2,6,False,2
+1023,transfer timing,transfer,67,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1023,2,6,False,2
+140,exchange charge,exchange via,33,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",140,2,6,False,2
+621,atm support,at,3,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",621,2,6,False,2
+920,cancel transfer,transaction,63,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",920,2,6,False,2
+976,verify my identity,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",976,2,6,False,2
+134,topping up by card,exchange via,33,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",134,2,6,False,2
+1109,topping up by card,receiving,50,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1109,2,6,False,2
+408,cancel transfer,unable,68,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",408,2,6,False,2
+757,transfer timing,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",757,2,6,False,2
+1034,transfer timing,transfer,67,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",1034,2,6,False,2
+926,cancel transfer,transaction,63,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",926,2,6,False,2
+975,verify my identity,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",975,2,6,False,2
+962,direct debit payment not recognised,verify source,70,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",962,2,6,False,2
+759,transfer timing,decl,27,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",759,2,6,False,2
+510,topping up by card,to,62,False,True,False,"{53: 1, 28: 1}","[1977, 3586]",510,2,6,False,2
+869,cancel transfer,terminate,55,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",869,2,6,False,2
+1122,transfer timing,failed,35,False,False,False,"{53: 1, 28: 1}","[1977, 3586]",1122,2,6,False,2

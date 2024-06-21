@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+152,numeric size,numeric other,43,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",152,5,6,False,5
+94,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",94,5,6,False,5
+337,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",337,5,6,False,5
+78,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",78,5,6,False,5
+323,entity currency,entity currency,6,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",323,5,6,False,5
+143,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",143,5,6,False,5
+59,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",59,5,6,False,5
+17,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",17,5,6,False,5
+161,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",161,5,6,False,5
+220,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",220,5,6,False,5
+290,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",290,5,6,False,5
+224,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",224,5,6,False,5
+15,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",15,5,6,False,5
+162,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",162,5,6,False,5
+272,entity sport,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",272,5,6,False,5
+193,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",193,5,6,False,5
+325,location other,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",325,5,6,False,5
+30,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",30,5,6,False,5
+331,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",331,5,6,False,5
+219,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",219,5,6,False,5
+286,entity sport,location other,35,True,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",286,5,6,False,5
+246,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",246,5,6,False,5
+68,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",68,5,6,False,5
+205,entity plant,location other,35,True,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",205,5,6,False,5
+232,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",232,5,6,False,5
+64,entity sport,location country,33,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",64,5,6,False,5
+121,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",121,5,6,False,5
+201,entity word,abbreviation expansion,1,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",201,5,6,False,5
+315,entity sport,description,24,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",315,5,6,False,5
+145,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",145,5,6,False,5
+72,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",72,5,6,False,5
+184,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",184,5,6,False,5
+141,numeric temperature,numeric other,43,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",141,5,6,False,5
+95,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",95,5,6,False,5
+213,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",213,5,6,False,5
+38,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",38,5,6,False,5
+256,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",256,5,6,False,5
+29,entity plant,entity plant,14,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",29,5,6,False,5
+45,entity food,entity food,9,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",45,5,6,False,5
+151,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",151,5,6,False,5
+262,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",262,5,6,False,5
+115,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",115,5,6,False,5
+269,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",269,5,6,False,5
+69,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",69,5,6,False,5
+106,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",106,5,6,False,5
+123,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",123,5,6,False,5
+233,entity plant,entity plant,14,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",233,5,6,False,5
+41,location other,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",41,5,6,False,5
+236,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",236,5,6,False,5
+55,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",55,5,6,False,5
+289,entity sport,location other,35,True,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",289,5,6,False,5
+149,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",149,5,6,False,5
+239,numeric distance,numeric other,43,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",239,5,6,False,5
+103,entity vehicle,entity vehicle,22,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",103,5,6,False,5
+35,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",35,5,6,False,5
+132,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",132,5,6,False,5
+172,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",172,5,6,False,5
+74,numeric distance,description,24,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",74,5,6,False,5
+180,entity currency,location city,32,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",180,5,6,False,5
+241,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",241,5,6,False,5
+140,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",140,5,6,False,5
+245,entity currency,entity currency,6,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",245,5,6,False,5
+320,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",320,5,6,False,5
+1,location other,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",1,5,6,False,5
+67,entity sport,human group,28,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",67,5,6,False,5
+138,entity food,entity subst,18,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",138,5,6,False,5
+298,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",298,5,6,False,5
+271,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",271,5,6,False,5
+13,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",13,5,6,False,5
+235,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",235,5,6,False,5
+3,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",3,5,6,False,5
+56,numeric weight,numeric weight,49,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",56,5,6,False,5
+258,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",258,5,6,False,5
+223,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",223,5,6,False,5
+65,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",65,5,6,False,5
+104,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",104,5,6,False,5
+308,entity substance,entity food,9,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",308,5,6,False,5
+82,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",82,5,6,False,5
+11,numeric size,numeric other,43,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",11,5,6,False,5
+324,entity instrument,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",324,5,6,False,5
+36,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",36,5,6,False,5
+318,entity currency,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",318,5,6,False,5
+192,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",192,5,6,False,5
+130,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",130,5,6,False,5
+128,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",128,5,6,False,5
+197,entity sport,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",197,5,6,False,5
+27,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",27,5,6,False,5
+295,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",295,5,6,False,5
+47,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",47,5,6,False,5
+10,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",10,5,6,False,5
+268,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",268,5,6,False,5
+316,entity food,human group,28,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",316,5,6,False,5
+243,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",243,5,6,False,5
+299,entity instrument,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",299,5,6,False,5
+127,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",127,5,6,False,5
+75,numeric temperature,numeric temperature,47,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",75,5,6,False,5
+76,entity sport,location other,35,True,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",76,5,6,False,5
+251,entity word,abbreviation expansion,1,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",251,5,6,False,5
+263,numeric size,numeric other,43,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",263,5,6,False,5
+142,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",142,5,6,False,5
+37,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",37,5,6,False,5
+292,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",292,5,6,False,5
+329,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",329,5,6,False,5
+48,numeric size,numeric other,43,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",48,5,6,False,5
+2,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",2,5,6,False,5
+237,entity plant,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",237,5,6,False,5
+102,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",102,5,6,False,5
+273,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",273,5,6,False,5
+117,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",117,5,6,False,5
+62,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",62,5,6,False,5
+195,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",195,5,6,False,5
+57,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",57,5,6,False,5
+327,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",327,5,6,False,5
+135,location other,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",135,5,6,False,5
+255,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",255,5,6,False,5
+53,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",53,5,6,False,5
+98,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",98,5,6,False,5
+310,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",310,5,6,False,5
+111,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",111,5,6,False,5
+217,entity word,abbreviation expansion,1,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",217,5,6,False,5
+238,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",238,5,6,False,5
+278,location other,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",278,5,6,False,5
+280,entity plant,entity plant,14,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",280,5,6,False,5
+230,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",230,5,6,False,5
+88,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",88,5,6,False,5
+90,location other,description,24,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",90,5,6,False,5
+8,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",8,5,6,False,5
+0,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",0,5,6,False,5
+284,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",284,5,6,False,5
+144,numeric temperature,numeric temperature,47,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",144,5,6,False,5
+191,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",191,5,6,False,5
+244,numeric weight,numeric weight,49,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",244,5,6,False,5
+93,entity sport,description,24,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",93,5,6,False,5
+212,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",212,5,6,False,5
+54,entity currency,entity currency,6,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",54,5,6,False,5
+66,numeric temperature,numeric temperature,47,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",66,5,6,False,5
+126,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",126,5,6,False,5
+335,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",335,5,6,False,5
+185,entity word,abbreviation abbre,0,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",185,5,6,False,5
+178,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",178,5,6,False,5
+250,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",250,5,6,False,5
+101,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",101,5,6,False,5
+283,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",283,5,6,False,5
+165,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",165,5,6,False,5
+169,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",169,5,6,False,5
+277,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",277,5,6,False,5
+167,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",167,5,6,False,5
+332,location other,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",332,5,6,False,5
+97,entity sport,human title,30,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",97,5,6,False,5
+168,entity sport,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",168,5,6,False,5
+287,entity vehicle,entity vehicle,22,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",287,5,6,False,5
+9,numeric weight,numeric weight,49,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",9,5,6,False,5
+39,entity vehicle,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",39,5,6,False,5
+136,entity currency,entity currency,6,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",136,5,6,False,5
+159,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",159,5,6,False,5
+60,numeric size,numeric other,43,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",60,5,6,False,5
+276,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",276,5,6,False,5
+228,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",228,5,6,False,5
+157,entity instrument,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",157,5,6,False,5
+31,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",31,5,6,False,5
+99,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",99,5,6,False,5
+312,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",312,5,6,False,5
+179,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",179,5,6,False,5
+296,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",296,5,6,False,5
+210,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",210,5,6,False,5
+108,entity sport,human group,28,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",108,5,6,False,5
+80,entity plant,entity plant,14,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",80,5,6,False,5
+19,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",19,5,6,False,5
+265,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",265,5,6,False,5
+129,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",129,5,6,False,5
+187,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",187,5,6,False,5
+304,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",304,5,6,False,5
+118,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",118,5,6,False,5
+155,entity sport,human individual,29,True,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",155,5,6,False,5
+209,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",209,5,6,False,5
+139,entity word,location city,32,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",139,5,6,False,5
+131,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",131,5,6,False,5
+207,entity currency,location city,32,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",207,5,6,False,5
+249,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",249,5,6,False,5
+110,location other,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",110,5,6,False,5
+122,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",122,5,6,False,5
+71,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",71,5,6,False,5
+221,entity vehicle,entity vehicle,22,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",221,5,6,False,5
+225,entity food,entity food,9,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",225,5,6,False,5
+6,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",6,5,6,False,5
+186,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",186,5,6,False,5
+175,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",175,5,6,False,5
+288,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",288,5,6,False,5
+321,entity currency,entity currency,6,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",321,5,6,False,5
+114,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",114,5,6,False,5
+248,entity food,entity food,9,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",248,5,6,False,5
+226,entity plant,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",226,5,6,False,5
+302,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",302,5,6,False,5
+77,entity sport,description,24,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",77,5,6,False,5
+12,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",12,5,6,False,5
+267,numeric money,numeric other,43,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",267,5,6,False,5
+240,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",240,5,6,False,5
+119,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",119,5,6,False,5
+22,entity word,location other,35,True,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",22,5,6,False,5
+181,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",181,5,6,False,5
+124,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",124,5,6,False,5
+46,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",46,5,6,False,5
+133,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",133,5,6,False,5
+247,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",247,5,6,False,5
+79,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",79,5,6,False,5
+259,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",259,5,6,False,5
+164,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",164,5,6,False,5
+43,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",43,5,6,False,5
+163,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",163,5,6,False,5
+253,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",253,5,6,False,5
+113,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",113,5,6,False,5
+44,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",44,5,6,False,5
+26,numeric temperature,numeric temperature,47,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",26,5,6,False,5
+20,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",20,5,6,False,5
+231,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",231,5,6,False,5
+333,numeric distance,numeric distance,40,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",333,5,6,False,5
+270,entity word,abbreviation expansion,1,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",270,5,6,False,5
+301,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",301,5,6,False,5
+150,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",150,5,6,False,5
+160,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",160,5,6,False,5
+297,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",297,5,6,False,5
+33,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",33,5,6,False,5
+116,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",116,5,6,False,5
+96,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",96,5,6,False,5
+190,entity vehicle,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",190,5,6,False,5
+156,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",156,5,6,False,5
+50,location other,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",50,5,6,False,5
+182,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",182,5,6,False,5
+81,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",81,5,6,False,5
+328,entity substance,entity subst,18,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",328,5,6,False,5
+222,numeric temperature,numeric other,43,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",222,5,6,False,5
+340,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",340,5,6,False,5
+42,entity sport,location city,32,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",42,5,6,False,5
+198,numeric distance,numeric other,43,False,False,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",198,5,6,False,5
+51,entity creation,human individual,29,True,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",51,5,6,False,5
+24,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",24,5,6,False,5
+86,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",86,5,6,False,5
+154,human individual,human individual,29,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",154,5,6,False,5
+291,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",291,5,6,False,5
+336,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",336,5,6,False,5
+260,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",260,5,6,False,5
+199,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",199,5,6,False,5
+317,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",317,5,6,False,5
+275,entity word,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",275,5,6,False,5
+330,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",330,5,6,False,5
+203,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",203,5,6,False,5
+202,entity substance,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",202,5,6,False,5
+227,numeric weight,numeric weight,49,False,True,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",227,5,6,False,5
+319,entity food,description,24,False,False,False,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",319,5,6,False,5
+125,location other,location other,35,True,True,True,"{35: 1, 17: 1, 48: 1, 29: 1, 40: 1}","[2586, 3071, 1523, 516, 1540]",125,5,6,False,5

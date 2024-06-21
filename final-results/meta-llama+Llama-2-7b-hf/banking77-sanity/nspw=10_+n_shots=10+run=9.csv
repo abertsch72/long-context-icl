@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+7929,age limit,age,1,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",7929,10,9,False,10
+6818,transfer timing,transfer timing,67,True,True,True,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",6818,10,9,False,10
+1928,transfer fee charged,transfer fee,64,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",1928,10,9,False,10
+9912,activate my card,activ,0,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",9912,10,9,False,10
+4806,pending cash withdrawal,pending c,46,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",4806,10,9,False,10
+1083,card payment fee charged,card payment fee,15,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",1083,10,9,False,10
+3857,card payment fee charged,card payment fee,15,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",3857,10,9,False,10
+8502,virtual card not working,virtual,72,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",8502,10,9,False,10
+8119,apple pay or google pay,apple,2,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",8119,10,9,False,10
+6888,activate my card,activ,0,True,True,False,"{1: 1, 67: 1, 64: 1, 0: 2, 46: 1, 15: 2, 72: 1, 2: 1}","[7929, 6818, 1928, 9912, 4806, 1083, 3857, 8502, 8119, 6888]",6888,10,9,False,10

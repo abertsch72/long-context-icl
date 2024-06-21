@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+903,fiat currency support,supported,54,False,False,False,{36: 1},[8047],903,1,8,False
+1003,transaction charged twice,top up revert,61,False,False,False,{36: 1},[8047],1003,1,8,False
+2953,card payment not recognised,card about,9,False,False,False,{36: 1},[8047],2953,1,8,False
+2979,apple pay or google pay,apple,2,False,True,False,{36: 1},[8047],2979,1,8,False
+1926,card not working,card sw,18,False,False,False,{36: 1},[8047],1926,1,8,False
+2137,pin blocked,change,21,False,False,False,{36: 1},[8047],2137,1,8,False
+2980,top up by card charge,apple,2,False,False,False,{36: 1},[8047],2980,1,8,False
+702,cancel transfer,cancel,8,False,True,False,{36: 1},[8047],702,1,8,False
+2493,card delivery estimate,order,43,False,False,False,{36: 1},[8047],2493,1,8,False
+2210,transfer fee charged,transfer fee,64,False,True,False,{36: 1},[8047],2210,1,8,False
+112,exchange rate,exchange rate,32,False,True,False,{36: 1},[8047],112,1,8,False
+2909,fiat currency support,cash withdrawal charge,19,False,False,False,{36: 1},[8047],2909,1,8,False
+1987,card payment not recognised,transaction,63,False,False,False,{36: 1},[8047],1987,1,8,False
+1283,card payment not recognised,vis,73,False,False,False,{36: 1},[8047],1283,1,8,False
+1539,passcode forgotten,pass,44,False,True,False,{36: 1},[8047],1539,1,8,False
+2879,card payment not recognised,activ,0,False,False,False,{36: 1},[8047],2879,1,8,False
+1158,change pin,edit,30,False,False,False,{36: 1},[8047],1158,1,8,False
+1376,transaction charged twice,dispos,29,False,False,False,{36: 1},[8047],1376,1,8,False
+1517,cancel transfer,direct,28,False,False,False,{36: 1},[8047],1517,1,8,False
+1171,transaction charged twice,why,74,False,False,False,{36: 1},[8047],1171,1,8,False
+2242,fiat currency support,receiving,50,False,False,False,{36: 1},[8047],2242,1,8,False
+1476,fiat currency support,at,3,False,False,False,{36: 1},[8047],1476,1,8,False
+237,atm support,pending c,46,False,False,False,{36: 1},[8047],237,1,8,False
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,{36: 1},[8047],1650,1,8,False
+2484,card payment fee charged,order,43,False,False,False,{36: 1},[8047],2484,1,8,False
+2105,card payment not recognised,revert,53,False,False,False,{36: 1},[8047],2105,1,8,False
+2121,pin blocked,change,21,False,False,False,{36: 1},[8047],2121,1,8,False
+1452,get physical card,at,3,False,False,False,{36: 1},[8047],1452,1,8,False
+274,fiat currency support,fi,36,True,True,False,{36: 1},[8047],274,1,8,False
+564,card payment not recognised,contact,23,False,False,False,{36: 1},[8047],564,1,8,False
+905,card payment fee charged,supported,54,False,False,False,{36: 1},[8047],905,1,8,False
+1535,passcode forgotten,pass,44,False,True,False,{36: 1},[8047],1535,1,8,False
+2113,transaction charged twice,revert,53,False,False,False,{36: 1},[8047],2113,1,8,False
+2142,change pin,change,21,False,True,False,{36: 1},[8047],2142,1,8,False
+2965,top up limits,apple,2,False,False,False,{36: 1},[8047],2965,1,8,False
+1834,card payment not recognised,declined card,25,False,False,False,{36: 1},[8047],1834,1,8,False
+1549,passcode forgotten,pass,44,False,True,False,{36: 1},[8047],1549,1,8,False
+1320,top up by card charge,to,62,False,False,False,{36: 1},[8047],1320,1,8,False
+2421,order physical card,getting spare,39,False,False,False,{36: 1},[8047],2421,1,8,False
+2784,transaction charged twice,exchange charge,31,False,False,False,{36: 1},[8047],2784,1,8,False
+768,Refund not showing up,wrong amount,75,False,False,False,{36: 1},[8047],768,1,8,False
+2472,top up by cash or cheque,top up by c,58,False,True,False,{36: 1},[8047],2472,1,8,False
+2154,pin blocked,change,21,False,False,False,{36: 1},[8047],2154,1,8,False
+795,fiat currency support,wrong amount,75,False,False,False,{36: 1},[8047],795,1,8,False
+1278,card payment not recognised,get physical,38,False,False,False,{36: 1},[8047],1278,1,8,False
+1494,transaction charged twice,direct,28,False,False,False,{36: 1},[8047],1494,1,8,False
+241,fiat currency support,fi,36,True,True,False,{36: 1},[8047],241,1,8,False
+3060,verify my identity,country,24,False,False,False,{36: 1},[8047],3060,1,8,False
+494,age limit,age,1,False,True,False,{36: 1},[8047],494,1,8,False
+327,top up limits,automatic,4,False,False,False,{36: 1},[8047],327,1,8,False
+458,card not working,lost or stolen card,41,False,False,False,{36: 1},[8047],458,1,8,False
+428,fiat currency support,exchange via,33,False,False,False,{36: 1},[8047],428,1,8,False
+2862,card payment not recognised,activ,0,False,False,False,{36: 1},[8047],2862,1,8,False
+2164,transfer not received by recipient,benef,7,False,False,False,{36: 1},[8047],2164,1,8,False
+2897,transaction charged twice,cash withdrawal charge,19,False,False,False,{36: 1},[8047],2897,1,8,False
+2440,fiat currency support,top up by c,58,False,False,False,{36: 1},[8047],2440,1,8,False
+1663,lost or stolen card,lost or stolen phone,42,False,False,False,{36: 1},[8047],1663,1,8,False
+2700,transaction charged twice,balance not updated after bank,5,False,False,False,{36: 1},[8047],2700,1,8,False
+2955,card payment fee charged,card about,9,False,False,False,{36: 1},[8047],2955,1,8,False
+522,pin blocked,pin,49,False,True,False,{36: 1},[8047],522,1,8,False
+1788,Refund not showing up,Ref,51,False,True,False,{36: 1},[8047],1788,1,8,False
+1055,transaction charged twice,balance not updated after che,6,False,False,False,{36: 1},[8047],1055,1,8,False
+2992,top up by card charge,apple,2,False,False,False,{36: 1},[8047],2992,1,8,False
+1093,transaction charged twice,card payment not,16,False,False,False,{36: 1},[8047],1093,1,8,False
+791,get physical card,wrong amount,75,False,False,False,{36: 1},[8047],791,1,8,False
+894,card payment not recognised,supported,54,False,False,False,{36: 1},[8047],894,1,8,False
+897,card payment fee charged,supported,54,False,False,False,{36: 1},[8047],897,1,8,False
+1175,card payment not recognised,why,74,False,False,False,{36: 1},[8047],1175,1,8,False
+68,card linking,card linking,13,False,True,False,{36: 1},[8047],68,1,8,False
+1551,change pin,pass,44,False,False,False,{36: 1},[8047],1551,1,8,False
+1508,cancel transfer,direct,28,False,False,False,{36: 1},[8047],1508,1,8,False
+2250,fiat currency support,receiving,50,False,False,False,{36: 1},[8047],2250,1,8,False
+519,age limit,age,1,False,True,False,{36: 1},[8047],519,1,8,False
+1731,transfer not received by recipient,declined transfer,27,False,False,False,{36: 1},[8047],1731,1,8,False
+1210,verify my identity,unable,68,False,False,False,{36: 1},[8047],1210,1,8,False
+1750,transfer not received by recipient,declined transfer,27,False,False,False,{36: 1},[8047],1750,1,8,False
+1687,cancel transfer,request,52,False,False,False,{36: 1},[8047],1687,1,8,False
+891,card acceptance,supported,54,False,False,False,{36: 1},[8047],891,1,8,False
+1061,transaction charged twice,balance not updated after che,6,False,False,False,{36: 1},[8047],1061,1,8,False
+2403,card delivery estimate,getting spare,39,False,False,False,{36: 1},[8047],2403,1,8,False
+1898,cancel transfer,terminate,55,False,False,False,{36: 1},[8047],1898,1,8,False
+2978,transaction charged twice,apple,2,False,False,False,{36: 1},[8047],2978,1,8,False
+1427,card payment fee charged,comprom,22,False,False,False,{36: 1},[8047],1427,1,8,False
+1526,change pin,pass,44,False,False,False,{36: 1},[8047],1526,1,8,False
+824,extra charge on statement,card payment fee,15,False,False,False,{36: 1},[8047],824,1,8,False
+1983,card payment fee charged,transaction,63,False,False,False,{36: 1},[8047],1983,1,8,False
+2132,fiat currency support,change,21,False,False,False,{36: 1},[8047],2132,1,8,False
+418,exchange rate,exchange via,33,False,False,False,{36: 1},[8047],418,1,8,False
+1345,transaction charged twice,to,62,False,False,False,{36: 1},[8047],1345,1,8,False
+2829,card payment not recognised,top up by card,57,False,False,False,{36: 1},[8047],2829,1,8,False
+2489,card payment fee charged,order,43,False,False,False,{36: 1},[8047],2489,1,8,False
+598,card payment not recognised,contact,23,False,False,False,{36: 1},[8047],598,1,8,False
+804,transaction charged twice,card payment fee,15,False,False,False,{36: 1},[8047],804,1,8,False
+3017,verify my identity,verify my,69,False,True,False,{36: 1},[8047],3017,1,8,False
+2589,transaction charged twice,wrong exchange,76,False,False,False,{36: 1},[8047],2589,1,8,False
+2540,card not working,virtual,72,False,False,False,{36: 1},[8047],2540,1,8,False
+2908,transaction charged twice,cash withdrawal charge,19,False,False,False,{36: 1},[8047],2908,1,8,False
+2968,apple pay or google pay,apple,2,False,True,False,{36: 1},[8047],2968,1,8,False
+2747,card not working,cash withdrawal not,20,False,False,False,{36: 1},[8047],2747,1,8,False
+1340,transfer fee charged,to,62,False,False,False,{36: 1},[8047],1340,1,8,False
+1348,transfer fee charged,to,62,False,False,False,{36: 1},[8047],1348,1,8,False
+1451,fiat currency support,at,3,False,False,False,{36: 1},[8047],1451,1,8,False
+2903,fiat currency support,cash withdrawal charge,19,False,False,False,{36: 1},[8047],2903,1,8,False
+1237,verify my identity,unable,68,False,False,False,{36: 1},[8047],1237,1,8,False
+2119,transaction charged twice,revert,53,False,False,False,{36: 1},[8047],2119,1,8,False
+652,transaction charged twice,pending top,47,False,False,False,{36: 1},[8047],652,1,8,False
+131,card payment fee charged,card payment wrong,17,False,False,False,{36: 1},[8047],131,1,8,False
+949,card delivery estimate,getting virtual,40,False,False,False,{36: 1},[8047],949,1,8,False
+2528,card not working,virtual,72,False,False,False,{36: 1},[8047],2528,1,8,False
+2158,card payment not recognised,change,21,False,False,False,{36: 1},[8047],2158,1,8,False
+2705,transaction charged twice,balance not updated after bank,5,False,False,False,{36: 1},[8047],2705,1,8,False
+592,transaction charged twice,contact,23,False,False,False,{36: 1},[8047],592,1,8,False
+2511,card delivery estimate,order,43,False,False,False,{36: 1},[8047],2511,1,8,False
+1080,transaction charged twice,card payment not,16,False,False,False,{36: 1},[8047],1080,1,8,False
+1361,card delivery estimate,dispos,29,False,False,False,{36: 1},[8047],1361,1,8,False
+448,card not working,lost or stolen card,41,False,False,False,{36: 1},[8047],448,1,8,False
+18,card delivery estimate,card arrival,11,False,False,False,{36: 1},[8047],18,1,8,False
+1168,verify my identity,why,74,False,False,False,{36: 1},[8047],1168,1,8,False
+2396,top up by card charge,verify top,71,False,False,False,{36: 1},[8047],2396,1,8,False
+362,card payment not recognised,card not,14,False,False,False,{36: 1},[8047],362,1,8,False
+1456,fiat currency support,at,3,False,False,False,{36: 1},[8047],1456,1,8,False
+1735,card payment not recognised,declined transfer,27,False,False,False,{36: 1},[8047],1735,1,8,False
+2579,fiat currency support,wrong exchange,76,False,False,False,{36: 1},[8047],2579,1,8,False
+385,card not working,card not,14,False,True,False,{36: 1},[8047],385,1,8,False
+2555,card not working,virtual,72,False,False,False,{36: 1},[8047],2555,1,8,False
+2307,transfer not received by recipient,failed,35,False,False,False,{36: 1},[8047],2307,1,8,False
+1779,transaction charged twice,Ref,51,False,False,False,{36: 1},[8047],1779,1,8,False
+1119,transaction charged twice,card payment not,16,False,False,False,{36: 1},[8047],1119,1,8,False
+2104,card payment not recognised,revert,53,False,False,False,{36: 1},[8047],2104,1,8,False
+713,get physical card,cancel,8,False,False,False,{36: 1},[8047],713,1,8,False
+2077,transfer fee charged,transfer timing,67,False,False,False,{36: 1},[8047],2077,1,8,False
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,{36: 1},[8047],1671,1,8,False
+1150,change pin,edit,30,False,False,False,{36: 1},[8047],1150,1,8,False
+1491,transaction charged twice,direct,28,False,False,False,{36: 1},[8047],1491,1,8,False
+2610,card payment fee charged,get dispos,37,False,False,False,{36: 1},[8047],2610,1,8,False
+1729,transfer not received by recipient,declined transfer,27,False,False,False,{36: 1},[8047],1729,1,8,False
+1360,card delivery estimate,dispos,29,False,False,False,{36: 1},[8047],1360,1,8,False
+1397,card payment fee charged,dispos,29,False,False,False,{36: 1},[8047],1397,1,8,False
+842,transaction charged twice,transfer not,66,False,False,False,{36: 1},[8047],842,1,8,False
+2504,card delivery estimate,order,43,False,False,False,{36: 1},[8047],2504,1,8,False
+538,card payment not recognised,pin,49,False,False,False,{36: 1},[8047],538,1,8,False
+2020,transaction charged twice,verify source,70,False,False,False,{36: 1},[8047],2020,1,8,False
+769,get physical card,wrong amount,75,False,False,False,{36: 1},[8047],769,1,8,False
+945,card delivery estimate,getting virtual,40,False,False,False,{36: 1},[8047],945,1,8,False
+1591,get physical card,declined c,26,False,False,False,{36: 1},[8047],1591,1,8,False
+1818,card payment not recognised,declined card,25,False,False,False,{36: 1},[8047],1818,1,8,False
+1876,transaction charged twice,pending transfer,48,False,False,False,{36: 1},[8047],1876,1,8,False
+3031,verify my identity,verify my,69,False,True,False,{36: 1},[8047],3031,1,8,False
+1992,transaction charged twice,transaction,63,False,True,False,{36: 1},[8047],1992,1,8,False
+2997,card payment not recognised,apple,2,False,False,False,{36: 1},[8047],2997,1,8,False
+1228,verify my identity,unable,68,False,False,False,{36: 1},[8047],1228,1,8,False
+1682,Refund not showing up,request,52,False,False,False,{36: 1},[8047],1682,1,8,False
+469,cancel transfer,lost or stolen card,41,False,False,False,{36: 1},[8047],469,1,8,False
+2325,transfer into account,transfer into,65,False,True,False,{36: 1},[8047],2325,1,8,False
+732,fiat currency support,top up limits,60,False,False,False,{36: 1},[8047],732,1,8,False
+820,card payment fee charged,card payment fee,15,False,True,False,{36: 1},[8047],820,1,8,False
+2990,fiat currency support,apple,2,False,False,False,{36: 1},[8047],2990,1,8,False
+1732,transfer fee charged,declined transfer,27,False,False,False,{36: 1},[8047],1732,1,8,False
+1252,card payment not recognised,get physical,38,False,False,False,{36: 1},[8047],1252,1,8,False
+227,card payment not recognised,pending c,46,False,False,False,{36: 1},[8047],227,1,8,False
+1962,transaction charged twice,transaction,63,False,True,False,{36: 1},[8047],1962,1,8,False
+400,fiat currency support,exchange via,33,False,False,False,{36: 1},[8047],400,1,8,False
+1134,change pin,edit,30,False,False,False,{36: 1},[8047],1134,1,8,False
+59,card linking,card linking,13,False,True,False,{36: 1},[8047],59,1,8,False
+2256,transfer fee charged,receiving,50,False,False,False,{36: 1},[8047],2256,1,8,False
+853,transaction charged twice,transfer not,66,False,False,False,{36: 1},[8047],853,1,8,False
+2777,fiat currency support,exchange charge,31,False,False,False,{36: 1},[8047],2777,1,8,False
+1538,passcode forgotten,pass,44,False,True,False,{36: 1},[8047],1538,1,8,False
+2109,card payment not recognised,revert,53,False,False,False,{36: 1},[8047],2109,1,8,False
+305,card delivery estimate,card delivery,12,False,True,False,{36: 1},[8047],305,1,8,False
+711,cancel transfer,cancel,8,False,True,False,{36: 1},[8047],711,1,8,False
+2927,card payment fee charged,card about,9,False,False,False,{36: 1},[8047],2927,1,8,False
+2623,virtual card not working,get dispos,37,False,False,False,{36: 1},[8047],2623,1,8,False
+271,exchange rate,fi,36,True,False,False,{36: 1},[8047],271,1,8,False
+1023,transaction charged twice,top up revert,61,False,False,False,{36: 1},[8047],1023,1,8,False
+470,card payment not recognised,lost or stolen card,41,False,False,False,{36: 1},[8047],470,1,8,False
+2779,exchange rate,exchange charge,31,False,False,False,{36: 1},[8047],2779,1,8,False
+1170,fiat currency support,why,74,False,False,False,{36: 1},[8047],1170,1,8,False
+1886,cancel transfer,terminate,55,False,False,False,{36: 1},[8047],1886,1,8,False
+2723,fiat currency support,cash withdrawal not,20,False,False,False,{36: 1},[8047],2723,1,8,False
+915,card acceptance,supported,54,False,False,False,{36: 1},[8047],915,1,8,False
+2626,virtual card not working,get dispos,37,False,False,False,{36: 1},[8047],2626,1,8,False
+2604,virtual card not working,get dispos,37,False,False,False,{36: 1},[8047],2604,1,8,False
+1510,card payment fee charged,direct,28,False,False,False,{36: 1},[8047],1510,1,8,False
+2303,transfer not received by recipient,failed,35,False,False,False,{36: 1},[8047],2303,1,8,False
+64,card payment not recognised,card linking,13,False,False,False,{36: 1},[8047],64,1,8,False
+2041,fiat currency support,transfer timing,67,False,False,False,{36: 1},[8047],2041,1,8,False
+1995,cancel transfer,transaction,63,False,False,False,{36: 1},[8047],1995,1,8,False
+1266,cancel transfer,get physical,38,False,False,False,{36: 1},[8047],1266,1,8,False
+2821,card payment fee charged,top up by card,57,False,False,False,{36: 1},[8047],2821,1,8,False
+1945,get physical card,card sw,18,False,False,False,{36: 1},[8047],1945,1,8,False
+835,transaction charged twice,card payment fee,15,False,False,False,{36: 1},[8047],835,1,8,False
+2312,transfer fee charged,failed,35,False,False,False,{36: 1},[8047],2312,1,8,False
+1053,transaction charged twice,balance not updated after che,6,False,False,False,{36: 1},[8047],1053,1,8,False
+2800,transaction charged twice,top up by card,57,False,False,False,{36: 1},[8047],2800,1,8,False
+1835,card not working,declined card,25,False,False,False,{36: 1},[8047],1835,1,8,False
+1434,card not working,comprom,22,False,False,False,{36: 1},[8047],1434,1,8,False
+979,card payment not recognised,card accept,10,False,False,False,{36: 1},[8047],979,1,8,False
+2942,card payment not recognised,card about,9,False,False,False,{36: 1},[8047],2942,1,8,False
+1900,cancel transfer,terminate,55,False,False,False,{36: 1},[8047],1900,1,8,False
+2973,top up by card charge,apple,2,False,False,False,{36: 1},[8047],2973,1,8,False
+2989,top up by card charge,apple,2,False,False,False,{36: 1},[8047],2989,1,8,False
+2241,fiat currency support,receiving,50,False,False,False,{36: 1},[8047],2241,1,8,False
+984,card acceptance,card accept,10,False,True,False,{36: 1},[8047],984,1,8,False
+2933,card payment fee charged,card about,9,False,False,False,{36: 1},[8047],2933,1,8,False
+1265,card payment not recognised,get physical,38,False,False,False,{36: 1},[8047],1265,1,8,False
+1811,card payment not recognised,declined card,25,False,False,False,{36: 1},[8047],1811,1,8,False
+1428,card payment not recognised,comprom,22,False,False,False,{36: 1},[8047],1428,1,8,False
+1568,transaction charged twice,declined c,26,False,False,False,{36: 1},[8047],1568,1,8,False
+2675,card payment not recognised,top up failed,59,False,False,False,{36: 1},[8047],2675,1,8,False
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,{36: 1},[8047],1645,1,8,False
+2289,transfer not received by recipient,failed,35,False,False,False,{36: 1},[8047],2289,1,8,False
+2854,card payment not recognised,activ,0,False,False,False,{36: 1},[8047],2854,1,8,False
+1356,card payment not recognised,to,62,False,False,False,{36: 1},[8047],1356,1,8,False
+982,card acceptance,card accept,10,False,True,False,{36: 1},[8047],982,1,8,False
+1518,cancel transfer,direct,28,False,False,False,{36: 1},[8047],1518,1,8,False
+722,balance not updated after bank transfer,top up limits,60,False,False,False,{36: 1},[8047],722,1,8,False
+2372,verify top up,verify top,71,False,True,False,{36: 1},[8047],2372,1,8,False
+1917,cancel transfer,terminate,55,False,False,False,{36: 1},[8047],1917,1,8,False
+1500,transaction charged twice,direct,28,False,False,False,{36: 1},[8047],1500,1,8,False
+1933,card not working,card sw,18,False,False,False,{36: 1},[8047],1933,1,8,False
+2833,fiat currency support,top up by card,57,False,False,False,{36: 1},[8047],2833,1,8,False
+1639,transaction charged twice,pending card,45,False,False,False,{36: 1},[8047],1639,1,8,False
+1136,edit personal details,edit,30,False,True,False,{36: 1},[8047],1136,1,8,False
+2124,pin blocked,change,21,False,False,False,{36: 1},[8047],2124,1,8,False
+3008,verify my identity,verify my,69,False,True,False,{36: 1},[8047],3008,1,8,False
+1704,transaction charged twice,request,52,False,False,False,{36: 1},[8047],1704,1,8,False
+2243,fiat currency support,receiving,50,False,False,False,{36: 1},[8047],2243,1,8,False
+748,fiat currency support,top up limits,60,False,False,False,{36: 1},[8047],748,1,8,False
+2649,transaction charged twice,top up failed,59,False,False,False,{36: 1},[8047],2649,1,8,False
+1258,pin blocked,get physical,38,False,False,False,{36: 1},[8047],1258,1,8,False
+1318,card payment not recognised,vis,73,False,False,False,{36: 1},[8047],1318,1,8,False
+1770,Refund not showing up,Ref,51,False,True,False,{36: 1},[8047],1770,1,8,False
+217,transaction charged twice,pending c,46,False,False,False,{36: 1},[8047],217,1,8,False
+1141,change pin,edit,30,False,False,False,{36: 1},[8047],1141,1,8,False
+2078,transfer timing,transfer timing,67,False,True,False,{36: 1},[8047],2078,1,8,False
+402,exchange rate,exchange via,33,False,False,False,{36: 1},[8047],402,1,8,False
+1349,transfer fee charged,to,62,False,False,False,{36: 1},[8047],1349,1,8,False
+80,get physical card,exchange rate,32,False,False,False,{36: 1},[8047],80,1,8,False
+1355,card payment not recognised,to,62,False,False,False,{36: 1},[8047],1355,1,8,False
+2386,card payment not recognised,verify top,71,False,False,False,{36: 1},[8047],2386,1,8,False
+838,card payment fee charged,card payment fee,15,False,True,False,{36: 1},[8047],838,1,8,False
+2267,fiat currency support,receiving,50,False,False,False,{36: 1},[8047],2267,1,8,False
+2881,transaction charged twice,cash withdrawal charge,19,False,False,False,{36: 1},[8047],2881,1,8,False
+801,card payment fee charged,card payment fee,15,False,True,False,{36: 1},[8047],801,1,8,False
+73,card linking,card linking,13,False,True,False,{36: 1},[8047],73,1,8,False
+1967,cancel transfer,transaction,63,False,False,False,{36: 1},[8047],1967,1,8,False
+2982,top up by card charge,apple,2,False,False,False,{36: 1},[8047],2982,1,8,False
+46,card linking,card linking,13,False,True,False,{36: 1},[8047],46,1,8,False
+2916,get physical card,cash withdrawal charge,19,False,False,False,{36: 1},[8047],2916,1,8,False

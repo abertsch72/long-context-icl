@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,transfer not received by recipient,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1104,2,4,False,2
+471,top up by card charge,top up limits,60,False,False,False,"{53: 1, 16: 1}","[2313, 476]",471,2,4,False,2
+1345,exchange rate,exchange charge,31,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1345,2,4,False,2
+835,lost or stolen phone,lost or stolen phone,42,False,True,False,"{53: 1, 16: 1}","[2313, 476]",835,2,4,False,2
+940,get physical card,transaction,63,False,False,False,"{53: 1, 16: 1}","[2313, 476]",940,2,4,False,2
+707,verify my identity,unable,68,False,False,False,"{53: 1, 16: 1}","[2313, 476]",707,2,4,False,2
+378,contactless not working,contact,23,False,True,False,"{53: 1, 16: 1}","[2313, 476]",378,2,4,False,2
+1259,top up failed,top up failed,59,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1259,2,4,False,2
+450,top up limits,top up limits,60,False,True,False,"{53: 1, 16: 1}","[2313, 476]",450,2,4,False,2
+1467,card payment not recognised,card about,9,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1467,2,4,False,2
+652,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",652,2,4,False,2
+771,card payment not recognised,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",771,2,4,False,2
+1112,transfer not received by recipient,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1112,2,4,False,2
+659,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",659,2,4,False,2
+67,exchange rate,exchange rate,32,False,True,False,"{53: 1, 16: 1}","[2313, 476]",67,2,4,False,2
+770,card payment not recognised,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",770,2,4,False,2
+679,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",679,2,4,False,2
+955,card payment not recognised,transaction,63,False,False,False,"{53: 1, 16: 1}","[2313, 476]",955,2,4,False,2
+918,card payment not recognised,terminate,55,False,False,False,"{53: 1, 16: 1}","[2313, 476]",918,2,4,False,2
+1222,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1222,2,4,False,2
+604,card payment not recognised,card accept,10,False,False,False,"{53: 1, 16: 1}","[2313, 476]",604,2,4,False,2
+240,exchange rate,exchange via,33,False,False,False,"{53: 1, 16: 1}","[2313, 476]",240,2,4,False,2
+1069,card payment not recognised,revert,53,True,False,False,"{53: 1, 16: 1}","[2313, 476]",1069,2,4,False,2
+1229,get disposable virtual card,get dispos,37,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1229,2,4,False,2
+1005,transfer not received by recipient,transfer timing,67,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1005,2,4,False,2
+1308,lost or stolen card,c,20,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1308,2,4,False,2
+106,exchange rate,card payment wrong,17,False,False,False,"{53: 1, 16: 1}","[2313, 476]",106,2,4,False,2
+1429,card payment not recognised,activ,0,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1429,2,4,False,2
+454,top up limits,top up limits,60,False,True,False,"{53: 1, 16: 1}","[2313, 476]",454,2,4,False,2
+1380,top up by card charge,top up by,57,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1380,2,4,False,2
+325,card payment not recognised,pin,49,False,False,False,"{53: 1, 16: 1}","[2313, 476]",325,2,4,False,2
+742,pin blocked,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",742,2,4,False,2
+1439,card not working,activ,0,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1439,2,4,False,2
+939,card payment not recognised,transaction,63,False,False,False,"{53: 1, 16: 1}","[2313, 476]",939,2,4,False,2
+401,card payment not recognised,pending,47,False,False,False,"{53: 1, 16: 1}","[2313, 476]",401,2,4,False,2
+1191,transfer not received by recipient,failed,35,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1191,2,4,False,2
+756,pin blocked,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",756,2,4,False,2
+1180,card payment not recognised,failed,35,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1180,2,4,False,2
+122,card payment not recognised,extra,34,False,False,False,"{53: 1, 16: 1}","[2313, 476]",122,2,4,False,2
+1517,card payment not recognised,verify my,69,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1517,2,4,False,2
+227,card payment not recognised,card not,14,False,False,False,"{53: 1, 16: 1}","[2313, 476]",227,2,4,False,2
+1321,exchange rate,exchange charge,31,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1321,2,4,False,2
+393,contactless not working,contact,23,False,True,False,"{53: 1, 16: 1}","[2313, 476]",393,2,4,False,2
+998,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",998,2,4,False,2
+925,card payment not recognised,transaction,63,False,False,False,"{53: 1, 16: 1}","[2313, 476]",925,2,4,False,2
+244,exchange rate,exchange via,33,False,False,False,"{53: 1, 16: 1}","[2313, 476]",244,2,4,False,2
+181,top up by card charge,automatic,4,False,False,False,"{53: 1, 16: 1}","[2313, 476]",181,2,4,False,2
+1170,transfer not received by recipient,failed,35,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1170,2,4,False,2
+666,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",666,2,4,False,2
+1027,transfer not received by recipient,transfer timing,67,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1027,2,4,False,2
+769,card payment not recognised,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",769,2,4,False,2
+1224,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1224,2,4,False,2
+420,top up failed,pending,47,False,False,False,"{53: 1, 16: 1}","[2313, 476]",420,2,4,False,2
+131,card payment not recognised,extra,34,False,False,False,"{53: 1, 16: 1}","[2313, 476]",131,2,4,False,2
+155,extra charge on statement,extra,34,False,True,False,"{53: 1, 16: 1}","[2313, 476]",155,2,4,False,2
+458,top up limits,top up limits,60,False,True,False,"{53: 1, 16: 1}","[2313, 476]",458,2,4,False,2
+371,contactless not working,contact,23,False,True,False,"{53: 1, 16: 1}","[2313, 476]",371,2,4,False,2
+15,card payment not recognised,card linking,13,False,False,False,"{53: 1, 16: 1}","[2313, 476]",15,2,4,False,2
+1254,top up failed,top up failed,59,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1254,2,4,False,2
+197,top up by card charge,automatic,4,False,False,False,"{53: 1, 16: 1}","[2313, 476]",197,2,4,False,2
+523,transaction charged twice,transfer not,66,False,False,False,"{53: 1, 16: 1}","[2313, 476]",523,2,4,False,2
+527,transfer not received by recipient,transfer not,66,False,True,False,"{53: 1, 16: 1}","[2313, 476]",527,2,4,False,2
+382,contactless not working,contact,23,False,True,False,"{53: 1, 16: 1}","[2313, 476]",382,2,4,False,2
+619,card payment not recognised,card accept,10,False,False,False,"{53: 1, 16: 1}","[2313, 476]",619,2,4,False,2
+869,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",869,2,4,False,2
+1095,transfer not received by recipient,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1095,2,4,False,2
+1501,verify my identity,verify my,69,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1501,2,4,False,2
+1368,card payment not recognised,top up by,57,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1368,2,4,False,2
+344,pin blocked,pin,49,False,True,False,"{53: 1, 16: 1}","[2313, 476]",344,2,4,False,2
+428,top up failed,pending,47,False,False,False,"{53: 1, 16: 1}","[2313, 476]",428,2,4,False,2
+291,card payment not recognised,lost or stolen card,41,False,False,False,"{53: 1, 16: 1}","[2313, 476]",291,2,4,False,2
+473,top up limits,top up limits,60,False,True,False,"{53: 1, 16: 1}","[2313, 476]",473,2,4,False,2
+136,extra charge on statement,extra,34,False,True,False,"{53: 1, 16: 1}","[2313, 476]",136,2,4,False,2
+781,card payment not recognised,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",781,2,4,False,2
+1020,transfer not received by recipient,transfer timing,67,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1020,2,4,False,2
+1414,activate my card,activ,0,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1414,2,4,False,2
+738,pin blocked,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",738,2,4,False,2
+904,terminate account,terminate,55,False,True,False,"{53: 1, 16: 1}","[2313, 476]",904,2,4,False,2
+723,pin blocked,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",723,2,4,False,2
+87,card payment not recognised,card payment wrong,17,False,False,False,"{53: 1, 16: 1}","[2313, 476]",87,2,4,False,2
+1457,card payment not recognised,card about,9,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1457,2,4,False,2
+744,card payment not recognised,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",744,2,4,False,2
+727,card payment not recognised,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",727,2,4,False,2
+858,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",858,2,4,False,2
+355,card payment not recognised,pin,49,False,False,False,"{53: 1, 16: 1}","[2313, 476]",355,2,4,False,2
+1294,cash withdrawal not recognised,c,20,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1294,2,4,False,2
+517,card payment fee charged,card payment fee,15,False,True,False,"{53: 1, 16: 1}","[2313, 476]",517,2,4,False,2
+299,lost or stolen card,lost or stolen card,41,False,True,False,"{53: 1, 16: 1}","[2313, 476]",299,2,4,False,2
+804,lost or stolen card,lost or stolen phone,42,False,False,False,"{53: 1, 16: 1}","[2313, 476]",804,2,4,False,2
+1367,card payment not recognised,top up by,57,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1367,2,4,False,2
+555,transfer not received by recipient,transfer not,66,False,True,False,"{53: 1, 16: 1}","[2313, 476]",555,2,4,False,2
+239,card payment not recognised,card not,14,False,False,False,"{53: 1, 16: 1}","[2313, 476]",239,2,4,False,2
+1418,activate my card,activ,0,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1418,2,4,False,2
+203,card payment not recognised,card not,14,False,False,False,"{53: 1, 16: 1}","[2313, 476]",203,2,4,False,2
+1266,top up failed,top up failed,59,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1266,2,4,False,2
+1509,verify my identity,verify my,69,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1509,2,4,False,2
+284,lost or stolen card,lost or stolen card,41,False,True,False,"{53: 1, 16: 1}","[2313, 476]",284,2,4,False,2
+1335,exchange rate,exchange charge,31,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1335,2,4,False,2
+513,card payment not recognised,card payment fee,15,False,False,False,"{53: 1, 16: 1}","[2313, 476]",513,2,4,False,2
+457,top up limits,top up limits,60,False,True,False,"{53: 1, 16: 1}","[2313, 476]",457,2,4,False,2
+805,lost or stolen phone,lost or stolen phone,42,False,True,False,"{53: 1, 16: 1}","[2313, 476]",805,2,4,False,2
+290,card payment not recognised,lost or stolen card,41,False,False,False,"{53: 1, 16: 1}","[2313, 476]",290,2,4,False,2
+583,get physical card,getting,40,False,False,False,"{53: 1, 16: 1}","[2313, 476]",583,2,4,False,2
+128,extra charge on statement,extra,34,False,True,False,"{53: 1, 16: 1}","[2313, 476]",128,2,4,False,2
+306,card payment not recognised,lost or stolen card,41,False,False,False,"{53: 1, 16: 1}","[2313, 476]",306,2,4,False,2
+456,top up limits,top up limits,60,False,True,False,"{53: 1, 16: 1}","[2313, 476]",456,2,4,False,2
+179,card payment not recognised,automatic,4,False,False,False,"{53: 1, 16: 1}","[2313, 476]",179,2,4,False,2
+627,card payment not recognised,card accept,10,False,False,False,"{53: 1, 16: 1}","[2313, 476]",627,2,4,False,2
+26,card not working,card linking,13,False,False,False,"{53: 1, 16: 1}","[2313, 476]",26,2,4,False,2
+1276,top up failed,top up failed,59,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1276,2,4,False,2
+836,lost or stolen phone,lost or stolen phone,42,False,True,False,"{53: 1, 16: 1}","[2313, 476]",836,2,4,False,2
+1174,transfer not received by recipient,failed,35,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1174,2,4,False,2
+556,transaction charged twice,transfer not,66,False,False,False,"{53: 1, 16: 1}","[2313, 476]",556,2,4,False,2
+445,top up limits,top up limits,60,False,True,False,"{53: 1, 16: 1}","[2313, 476]",445,2,4,False,2
+1117,card payment not recognised,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1117,2,4,False,2
+215,card payment not recognised,card not,14,False,False,False,"{53: 1, 16: 1}","[2313, 476]",215,2,4,False,2
+965,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",965,2,4,False,2
+419,card payment not recognised,pending,47,False,False,False,"{53: 1, 16: 1}","[2313, 476]",419,2,4,False,2
+613,card payment not recognised,card accept,10,False,False,False,"{53: 1, 16: 1}","[2313, 476]",613,2,4,False,2
+192,top up by card charge,automatic,4,False,False,False,"{53: 1, 16: 1}","[2313, 476]",192,2,4,False,2
+667,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",667,2,4,False,2
+850,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",850,2,4,False,2
+1083,transfer not received by recipient,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1083,2,4,False,2
+1106,transfer not received by recipient,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1106,2,4,False,2
+916,terminate account,terminate,55,False,True,False,"{53: 1, 16: 1}","[2313, 476]",916,2,4,False,2
+503,card payment fee charged,card payment fee,15,False,True,False,"{53: 1, 16: 1}","[2313, 476]",503,2,4,False,2
+145,extra charge on statement,extra,34,False,True,False,"{53: 1, 16: 1}","[2313, 476]",145,2,4,False,2
+1307,card payment not recognised,c,20,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1307,2,4,False,2
+334,card payment not recognised,pin,49,False,False,False,"{53: 1, 16: 1}","[2313, 476]",334,2,4,False,2
+961,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",961,2,4,False,2
+1014,transfer timing,transfer timing,67,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1014,2,4,False,2
+1486,verify my identity,verify my,69,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1486,2,4,False,2
+391,contactless not working,contact,23,False,True,False,"{53: 1, 16: 1}","[2313, 476]",391,2,4,False,2
+1244,top up failed,top up failed,59,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1244,2,4,False,2
+69,exchange rate,exchange rate,32,False,True,False,"{53: 1, 16: 1}","[2313, 476]",69,2,4,False,2
+392,contactless not working,contact,23,False,True,False,"{53: 1, 16: 1}","[2313, 476]",392,2,4,False,2
+789,card payment not recognised,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",789,2,4,False,2
+1448,card payment not recognised,card about,9,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1448,2,4,False,2
+489,card payment fee charged,card payment fee,15,False,True,False,"{53: 1, 16: 1}","[2313, 476]",489,2,4,False,2
+676,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",676,2,4,False,2
+647,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",647,2,4,False,2
+815,lost or stolen phone,lost or stolen phone,42,False,True,False,"{53: 1, 16: 1}","[2313, 476]",815,2,4,False,2
+981,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",981,2,4,False,2
+972,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",972,2,4,False,2
+531,transfer not received by recipient,transfer not,66,False,True,False,"{53: 1, 16: 1}","[2313, 476]",531,2,4,False,2
+790,card payment not recognised,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",790,2,4,False,2
+259,card payment not recognised,exchange via,33,False,False,False,"{53: 1, 16: 1}","[2313, 476]",259,2,4,False,2
+429,pending top up,pending,47,False,True,False,"{53: 1, 16: 1}","[2313, 476]",429,2,4,False,2
+480,card payment not recognised,card payment fee,15,False,False,False,"{53: 1, 16: 1}","[2313, 476]",480,2,4,False,2
+566,card payment not recognised,getting,40,False,False,False,"{53: 1, 16: 1}","[2313, 476]",566,2,4,False,2
+72,exchange rate,exchange rate,32,False,True,False,"{53: 1, 16: 1}","[2313, 476]",72,2,4,False,2
+112,exchange rate,card payment wrong,17,False,False,False,"{53: 1, 16: 1}","[2313, 476]",112,2,4,False,2
+384,card payment not recognised,contact,23,False,False,False,"{53: 1, 16: 1}","[2313, 476]",384,2,4,False,2
+1053,card payment not recognised,revert,53,True,False,False,"{53: 1, 16: 1}","[2313, 476]",1053,2,4,False,2
+1401,activate my card,activ,0,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1401,2,4,False,2
+968,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",968,2,4,False,2
+312,card payment not recognised,lost or stolen card,41,False,False,False,"{53: 1, 16: 1}","[2313, 476]",312,2,4,False,2
+892,card payment not recognised,terminate,55,False,False,False,"{53: 1, 16: 1}","[2313, 476]",892,2,4,False,2
+453,card payment not recognised,top up limits,60,False,False,False,"{53: 1, 16: 1}","[2313, 476]",453,2,4,False,2
+478,top up limits,top up limits,60,False,True,False,"{53: 1, 16: 1}","[2313, 476]",478,2,4,False,2
+649,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",649,2,4,False,2
+23,card payment not recognised,card linking,13,False,False,False,"{53: 1, 16: 1}","[2313, 476]",23,2,4,False,2
+1213,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1213,2,4,False,2
+1215,get disposable virtual card,get dispos,37,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1215,2,4,False,2
+1349,exchange rate,exchange charge,31,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1349,2,4,False,2
+262,exchange rate,exchange via,33,False,False,False,"{53: 1, 16: 1}","[2313, 476]",262,2,4,False,2
+48,exchange rate,exchange rate,32,False,True,False,"{53: 1, 16: 1}","[2313, 476]",48,2,4,False,2
+285,lost or stolen card,lost or stolen card,41,False,True,False,"{53: 1, 16: 1}","[2313, 476]",285,2,4,False,2
+849,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",849,2,4,False,2
+1352,exchange rate,exchange charge,31,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1352,2,4,False,2
+327,pin blocked,pin,49,False,True,False,"{53: 1, 16: 1}","[2313, 476]",327,2,4,False,2
+1438,activate my card,activ,0,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1438,2,4,False,2
+29,card payment not recognised,card linking,13,False,False,False,"{53: 1, 16: 1}","[2313, 476]",29,2,4,False,2
+234,card payment not recognised,card not,14,False,False,False,"{53: 1, 16: 1}","[2313, 476]",234,2,4,False,2
+524,transfer not received by recipient,transfer not,66,False,True,False,"{53: 1, 16: 1}","[2313, 476]",524,2,4,False,2
+369,card payment not recognised,contact,23,False,False,False,"{53: 1, 16: 1}","[2313, 476]",369,2,4,False,2
+127,card payment not recognised,extra,34,False,False,False,"{53: 1, 16: 1}","[2313, 476]",127,2,4,False,2
+1151,card payment not recognised,receiving,50,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1151,2,4,False,2
+543,transfer not received by recipient,transfer not,66,False,True,False,"{53: 1, 16: 1}","[2313, 476]",543,2,4,False,2
+884,card payment not recognised,terminate,55,False,False,False,"{53: 1, 16: 1}","[2313, 476]",884,2,4,False,2
+592,get physical card,getting,40,False,False,False,"{53: 1, 16: 1}","[2313, 476]",592,2,4,False,2
+229,card payment not recognised,card not,14,False,False,False,"{53: 1, 16: 1}","[2313, 476]",229,2,4,False,2
+875,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",875,2,4,False,2
+628,card payment not recognised,card accept,10,False,False,False,"{53: 1, 16: 1}","[2313, 476]",628,2,4,False,2
+1419,activate my card,activ,0,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1419,2,4,False,2
+818,card payment not recognised,lost or stolen phone,42,False,False,False,"{53: 1, 16: 1}","[2313, 476]",818,2,4,False,2
+1285,card payment not recognised,c,20,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1285,2,4,False,2
+678,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",678,2,4,False,2
+204,card payment not recognised,card not,14,False,False,False,"{53: 1, 16: 1}","[2313, 476]",204,2,4,False,2
+870,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",870,2,4,False,2
+696,verify my identity,unable,68,False,False,False,"{53: 1, 16: 1}","[2313, 476]",696,2,4,False,2
+219,card payment not recognised,card not,14,False,False,False,"{53: 1, 16: 1}","[2313, 476]",219,2,4,False,2
+190,top up by card charge,automatic,4,False,False,False,"{53: 1, 16: 1}","[2313, 476]",190,2,4,False,2
+379,contactless not working,contact,23,False,True,False,"{53: 1, 16: 1}","[2313, 476]",379,2,4,False,2
+1340,exchange rate,exchange charge,31,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1340,2,4,False,2
+977,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",977,2,4,False,2
+644,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",644,2,4,False,2
+733,pin blocked,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",733,2,4,False,2
+847,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",847,2,4,False,2
+1353,exchange rate,exchange charge,31,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1353,2,4,False,2
+797,card not working,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",797,2,4,False,2
+1329,exchange charge,exchange charge,31,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1329,2,4,False,2
+114,exchange rate,card payment wrong,17,False,False,False,"{53: 1, 16: 1}","[2313, 476]",114,2,4,False,2
+1396,card payment fee charged,top up by,57,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1396,2,4,False,2
+34,card payment not recognised,card linking,13,False,False,False,"{53: 1, 16: 1}","[2313, 476]",34,2,4,False,2
+966,verify source of funds,verify source,70,False,True,False,"{53: 1, 16: 1}","[2313, 476]",966,2,4,False,2
+1512,card payment not recognised,verify my,69,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1512,2,4,False,2
+438,top up failed,pending,47,False,False,False,"{53: 1, 16: 1}","[2313, 476]",438,2,4,False,2
+1411,card payment not recognised,activ,0,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1411,2,4,False,2
+1218,get disposable virtual card,get dispos,37,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1218,2,4,False,2
+865,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",865,2,4,False,2
+704,verify my identity,unable,68,False,False,False,"{53: 1, 16: 1}","[2313, 476]",704,2,4,False,2
+1212,card payment not recognised,get dispos,37,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1212,2,4,False,2
+645,card payment not recognised,card payment not,16,True,True,False,"{53: 1, 16: 1}","[2313, 476]",645,2,4,False,2
+1165,transfer not received by recipient,failed,35,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1165,2,4,False,2
+796,card payment not recognised,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",796,2,4,False,2
+898,card payment not recognised,terminate,55,False,False,False,"{53: 1, 16: 1}","[2313, 476]",898,2,4,False,2
+36,card payment not recognised,card linking,13,False,False,False,"{53: 1, 16: 1}","[2313, 476]",36,2,4,False,2
+1278,top up failed,top up failed,59,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1278,2,4,False,2
+324,pin blocked,pin,49,False,True,False,"{53: 1, 16: 1}","[2313, 476]",324,2,4,False,2
+689,verify my identity,unable,68,False,False,False,"{53: 1, 16: 1}","[2313, 476]",689,2,4,False,2
+1508,card payment not recognised,verify my,69,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1508,2,4,False,2
+991,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",991,2,4,False,2
+314,card payment not recognised,lost or stolen card,41,False,False,False,"{53: 1, 16: 1}","[2313, 476]",314,2,4,False,2
+1082,transfer not received by recipient,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1082,2,4,False,2
+1096,transfer not received by recipient,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1096,2,4,False,2
+784,card payment not recognised,comprom,22,False,False,False,"{53: 1, 16: 1}","[2313, 476]",784,2,4,False,2
+839,lost or stolen phone,lost or stolen phone,42,False,True,False,"{53: 1, 16: 1}","[2313, 476]",839,2,4,False,2
+191,top up by card charge,automatic,4,False,False,False,"{53: 1, 16: 1}","[2313, 476]",191,2,4,False,2
+842,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",842,2,4,False,2
+1026,transfer timing,transfer timing,67,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1026,2,4,False,2
+99,exchange rate,card payment wrong,17,False,False,False,"{53: 1, 16: 1}","[2313, 476]",99,2,4,False,2
+551,transfer not received by recipient,transfer not,66,False,True,False,"{53: 1, 16: 1}","[2313, 476]",551,2,4,False,2
+1023,transfer timing,transfer timing,67,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1023,2,4,False,2
+140,card payment fee charged,extra,34,False,False,False,"{53: 1, 16: 1}","[2313, 476]",140,2,4,False,2
+624,card payment not recognised,card accept,10,False,False,False,"{53: 1, 16: 1}","[2313, 476]",624,2,4,False,2
+920,card payment not recognised,transaction,63,False,False,False,"{53: 1, 16: 1}","[2313, 476]",920,2,4,False,2
+976,verify my identity,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",976,2,4,False,2
+134,extra charge on statement,extra,34,False,True,False,"{53: 1, 16: 1}","[2313, 476]",134,2,4,False,2
+1109,exchange rate,benef,7,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1109,2,4,False,2
+405,pending top up,pending,47,False,True,False,"{53: 1, 16: 1}","[2313, 476]",405,2,4,False,2
+757,card payment not recognised,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",757,2,4,False,2
+1034,transfer timing,transfer timing,67,False,True,False,"{53: 1, 16: 1}","[2313, 476]",1034,2,4,False,2
+926,card payment not recognised,transaction,63,False,False,False,"{53: 1, 16: 1}","[2313, 476]",926,2,4,False,2
+975,verify source of funds,verify source,70,False,True,False,"{53: 1, 16: 1}","[2313, 476]",975,2,4,False,2
+962,card payment not recognised,verify source,70,False,False,False,"{53: 1, 16: 1}","[2313, 476]",962,2,4,False,2
+759,pin blocked,get physical,38,False,False,False,"{53: 1, 16: 1}","[2313, 476]",759,2,4,False,2
+510,card payment not recognised,card payment fee,15,False,False,False,"{53: 1, 16: 1}","[2313, 476]",510,2,4,False,2
+868,card payment not recognised,Ref,51,False,False,False,"{53: 1, 16: 1}","[2313, 476]",868,2,4,False,2
+1122,transfer not received by recipient,receiving,50,False,False,False,"{53: 1, 16: 1}","[2313, 476]",1122,2,4,False,2

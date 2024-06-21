@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+3945,cancel transfer,request,52,True,False,False,"{52: 1, 54: 1}","[3945, 8741]",3945,2,7,False,2
+8741,supported cards and currencies,supported,54,True,True,False,"{52: 1, 54: 1}","[3945, 8741]",8741,2,7,False,2
+3726,atm support,wrong amount,75,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3726,2,7,False,2
+8199,supported cards and currencies,fi,36,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8199,2,7,False,2
+4364,disposable card limits,get dispos,37,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4364,2,7,False,2
+7292,order physical card,card delivery,12,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7292,2,7,False,2
+468,supported cards and currencies,receiving,50,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",468,2,7,False,2
+1676,transfer into account,transfer into,65,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",1676,2,7,False,2
+2356,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2356,2,7,False,2
+8577,exchange rate,wrong exchange,76,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8577,2,7,False,2
+4988,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4988,2,7,False,2
+8843,lost or stolen card,lost or stolen phone,42,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8843,2,7,False,2
+2737,verify my identity,unable,68,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2737,2,7,False,2
+8399,change pin,edit,30,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8399,2,7,False,2
+865,supported cards and currencies,wrong exchange,76,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",865,2,7,False,2
+1122,transfer fee charged,transfer timing,67,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1122,2,7,False,2
+2040,change pin,change,21,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2040,2,7,False,2
+3570,why verify identity,cash withdrawal charge,19,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3570,2,7,False,2
+7774,card payment fee charged,top up by card,57,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7774,2,7,False,2
+2958,declined card payment,declined card,25,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2958,2,7,False,2
+3234,transfer into account,transfer into,65,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",3234,2,7,False,2
+1638,activate my card,activ,0,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",1638,2,7,False,2
+2995,supported cards and currencies,supported,54,True,True,False,"{52: 1, 54: 1}","[3945, 8741]",2995,2,7,False,2
+1039,verify source of funds,verify source,70,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",1039,2,7,False,2
+1036,why verify identity,extra,34,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1036,2,7,False,2
+4195,card not working,lost or stolen phone,42,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4195,2,7,False,2
+4613,top up by card charge,apple,2,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4613,2,7,False,2
+421,top up by card charge,apple,2,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",421,2,7,False,2
+4614,pin blocked,get physical,38,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4614,2,7,False,2
+8447,request refund,pass,44,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8447,2,7,False,2
+1878,age limit,age,1,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",1878,2,7,False,2
+6592,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6592,2,7,False,2
+6933,transfer fee charged,top up by bank,56,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6933,2,7,False,2
+109,request refund,Ref,51,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",109,2,7,False,2
+8177,transfer timing,transfer not,66,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8177,2,7,False,2
+5877,supported cards and currencies,top up by c,58,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5877,2,7,False,2
+3295,supported cards and currencies,top up by bank,56,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3295,2,7,False,2
+2467,card not working,top up failed,59,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2467,2,7,False,2
+6355,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6355,2,7,False,2
+3649,card delivery estimate,country,24,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3649,2,7,False,2
+3428,cancel transfer,pending card,45,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3428,2,7,False,2
+4955,cancel transfer,cash withdrawal charge,19,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4955,2,7,False,2
+2658,card linking,card linking,13,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2658,2,7,False,2
+6927,card payment fee charged,card payment fee,15,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",6927,2,7,False,2
+8135,pin blocked,pin,49,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8135,2,7,False,2
+8900,card acceptance,card accept,10,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8900,2,7,False,2
+2786,transfer fee charged,top up by bank,56,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2786,2,7,False,2
+6308,transfer fee charged,top up by bank,56,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6308,2,7,False,2
+4426,verify top up,verify top,71,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",4426,2,7,False,2
+9076,get physical card,apple,2,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9076,2,7,False,2
+3730,change pin,edit,30,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3730,2,7,False,2
+9118,supported cards and currencies,vis,73,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9118,2,7,False,2
+2362,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2362,2,7,False,2
+640,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",640,2,7,False,2
+3003,Refund not showing up,Ref,51,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",3003,2,7,False,2
+728,cancel transfer,terminate,55,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",728,2,7,False,2
+5426,card payment not recognised,age,1,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5426,2,7,False,2
+3736,activate my card,activ,0,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",3736,2,7,False,2
+4402,request refund,revert,53,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4402,2,7,False,2
+432,cancel transfer,transaction,63,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",432,2,7,False,2
+5560,topping up by card,top up limits,60,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5560,2,7,False,2
+9680,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9680,2,7,False,2
+6527,request refund,Ref,51,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6527,2,7,False,2
+860,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",860,2,7,False,2
+330,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",330,2,7,False,2
+398,exchange rate,exchange rate,32,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",398,2,7,False,2
+2619,transfer not received by recipient,pending transfer,48,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2619,2,7,False,2
+9892,card not working,card linking,13,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9892,2,7,False,2
+9048,cancel transfer,cancel,8,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",9048,2,7,False,2
+3533,request refund,Ref,51,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3533,2,7,False,2
+5991,verify my identity,why,74,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5991,2,7,False,2
+7219,card not working,lost or stolen card,41,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7219,2,7,False,2
+1433,cancel transfer,terminate,55,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1433,2,7,False,2
+7683,card payment not recognised,pending card,45,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7683,2,7,False,2
+65,request refund,transfer not,66,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",65,2,7,False,2
+4562,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",4562,2,7,False,2
+7740,card delivery estimate,country,24,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7740,2,7,False,2
+6438,declined transfer,declined transfer,27,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",6438,2,7,False,2
+5859,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5859,2,7,False,2
+7280,request refund,transaction,63,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7280,2,7,False,2
+4639,get physical card,Ref,51,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4639,2,7,False,2
+8568,declined card payment,declined card,25,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8568,2,7,False,2
+5393,atm support,at,3,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5393,2,7,False,2
+8766,exchange rate,exchange charge,31,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8766,2,7,False,2
+786,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",786,2,7,False,2
+2261,contactless not working,contact,23,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2261,2,7,False,2
+8103,request refund,transfer fee,64,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8103,2,7,False,2
+4102,change pin,pass,44,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4102,2,7,False,2
+9737,cancel transfer,direct,28,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9737,2,7,False,2
+9446,transaction charged twice,declined transfer,27,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9446,2,7,False,2
+1225,virtual card not working,getting virtual,40,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1225,2,7,False,2
+6994,cancel transfer,card payment fee,15,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6994,2,7,False,2
+7112,card payment not recognised,declined c,26,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7112,2,7,False,2
+3229,top up reverted,top up revert,61,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",3229,2,7,False,2
+6920,why verify identity,balance not updated after bank,5,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6920,2,7,False,2
+3035,transfer timing,balance not updated after bank,5,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3035,2,7,False,2
+2107,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2107,2,7,False,2
+2396,passcode forgotten,pass,44,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2396,2,7,False,2
+2979,transfer timing,pending transfer,48,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2979,2,7,False,2
+1448,card not working,extra,34,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1448,2,7,False,2
+8318,change pin,change,21,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8318,2,7,False,2
+6319,virtual card not working,getting virtual,40,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6319,2,7,False,2
+7153,cancel transfer,transaction,63,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7153,2,7,False,2
+6996,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",6996,2,7,False,2
+1573,verify my identity,unable,68,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1573,2,7,False,2
+5354,card delivery estimate,getting spare,39,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5354,2,7,False,2
+2753,card not working,card not,14,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2753,2,7,False,2
+2595,transfer fee charged,transfer fee,64,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2595,2,7,False,2
+4012,pin blocked,get physical,38,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4012,2,7,False,2
+5674,terminate account,terminate,55,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5674,2,7,False,2
+8032,failed transfer,failed,35,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8032,2,7,False,2
+3713,change pin,edit,30,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3713,2,7,False,2
+4835,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",4835,2,7,False,2
+1946,top up failed,apple,2,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1946,2,7,False,2
+8929,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8929,2,7,False,2
+1857,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1857,2,7,False,2
+4502,card not working,card about,9,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4502,2,7,False,2
+9673,card not working,card about,9,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9673,2,7,False,2
+2088,top up by bank transfer charge,top up by bank,56,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2088,2,7,False,2
+2736,top up by card charge,verify top,71,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2736,2,7,False,2
+3066,why verify identity,cash withdrawal charge,19,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3066,2,7,False,2
+4858,card delivery estimate,order,43,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4858,2,7,False,2
+8203,card not working,balance not updated after che,6,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8203,2,7,False,2
+9921,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9921,2,7,False,2
+6169,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6169,2,7,False,2
+4648,supported cards and currencies,fi,36,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4648,2,7,False,2
+4395,top up by card charge,automatic,4,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4395,2,7,False,2
+6004,transfer into account,transfer into,65,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",6004,2,7,False,2
+2561,request refund,Ref,51,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2561,2,7,False,2
+980,transfer not received by recipient,transfer not,66,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",980,2,7,False,2
+4745,transfer not received by recipient,transfer not,66,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",4745,2,7,False,2
+6674,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6674,2,7,False,2
+7299,card not working,declined card,25,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7299,2,7,False,2
+8185,change pin,change,21,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8185,2,7,False,2
+4028,card not working,comprom,22,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4028,2,7,False,2
+1636,why verify identity,extra,34,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1636,2,7,False,2
+6706,top up failed,verify top,71,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6706,2,7,False,2
+5437,card not working,card not,14,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5437,2,7,False,2
+9968,top up limits,automatic,4,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9968,2,7,False,2
+6646,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6646,2,7,False,2
+7252,cancel transfer,cash withdrawal not,20,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7252,2,7,False,2
+1938,card not working,extra,34,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1938,2,7,False,2
+9110,card not working,virtual,72,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9110,2,7,False,2
+6325,get disposable virtual card,get dispos,37,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",6325,2,7,False,2
+5027,change pin,change,21,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5027,2,7,False,2
+6689,transfer not received by recipient,pending transfer,48,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6689,2,7,False,2
+3266,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",3266,2,7,False,2
+2953,card delivery estimate,card delivery,12,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2953,2,7,False,2
+2565,card not working,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2565,2,7,False,2
+4693,supported cards and currencies,apple,2,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4693,2,7,False,2
+5157,cancel transfer,card payment fee,15,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5157,2,7,False,2
+5025,card payment not recognised,vis,73,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5025,2,7,False,2
+5929,change pin,change,21,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5929,2,7,False,2
+930,card not working,card payment fee,15,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",930,2,7,False,2
+2965,supported cards and currencies,country,24,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2965,2,7,False,2
+7656,pending card payment,pending card,45,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",7656,2,7,False,2
+6743,verify my identity,why,74,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",6743,2,7,False,2
+6235,passcode forgotten,pass,44,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",6235,2,7,False,2
+5467,supported cards and currencies,fi,36,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5467,2,7,False,2
+2694,supported cards and currencies,apple,2,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2694,2,7,False,2
+8265,virtual card not working,virtual,72,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8265,2,7,False,2
+7702,exchange rate,exchange via,33,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7702,2,7,False,2
+6182,pending card payment,pending card,45,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",6182,2,7,False,2
+4692,cancel transfer,cancel,8,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",4692,2,7,False,2
+5073,supported cards and currencies,top up by card,57,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5073,2,7,False,2
+7614,verify my identity,balance not updated after che,6,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7614,2,7,False,2
+4338,transaction charged twice,pending transfer,48,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4338,2,7,False,2
+8667,exchange rate,exchange rate,32,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8667,2,7,False,2
+8395,supported cards and currencies,verify source,70,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8395,2,7,False,2
+2130,transaction charged twice,extra,34,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2130,2,7,False,2
+344,card not working,activ,0,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",344,2,7,False,2
+8296,transfer timing,transfer timing,67,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8296,2,7,False,2
+1498,terminate account,terminate,55,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",1498,2,7,False,2
+5406,direct debit payment not recognised,direct,28,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5406,2,7,False,2
+1635,why verify identity,transfer fee,64,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1635,2,7,False,2
+1589,card not working,revert,53,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1589,2,7,False,2
+3761,card delivery estimate,card about,9,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3761,2,7,False,2
+812,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",812,2,7,False,2
+1947,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1947,2,7,False,2
+847,top up by card charge,pending top,47,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",847,2,7,False,2
+393,card not working,card about,9,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",393,2,7,False,2
+8473,top up failed,verify top,71,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8473,2,7,False,2
+8623,card delivery estimate,vis,73,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8623,2,7,False,2
+8546,cancel transfer,transaction,63,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8546,2,7,False,2
+949,top up by cash or cheque,top up by c,58,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",949,2,7,False,2
+9731,cancel transfer,revert,53,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9731,2,7,False,2
+6862,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",6862,2,7,False,2
+4959,cash withdrawal not recognised,declined c,26,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4959,2,7,False,2
+575,supported cards and currencies,vis,73,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",575,2,7,False,2
+617,card payment fee charged,card payment fee,15,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",617,2,7,False,2
+3929,change pin,change,21,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",3929,2,7,False,2
+8662,exchange rate,exchange rate,32,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8662,2,7,False,2
+9869,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9869,2,7,False,2
+9644,cash withdrawal not recognised,change,21,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9644,2,7,False,2
+2194,cancel transfer,card payment not,16,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2194,2,7,False,2
+3279,top up by card charge,automatic,4,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3279,2,7,False,2
+836,age limit,age,1,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",836,2,7,False,2
+2300,top up limits,top up limits,60,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2300,2,7,False,2
+5899,declined transfer,declined transfer,27,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5899,2,7,False,2
+8666,transfer not received by recipient,pending transfer,48,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8666,2,7,False,2
+7555,transfer timing,transfer timing,67,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",7555,2,7,False,2
+4811,transfer not received by recipient,benef,7,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4811,2,7,False,2
+2299,change pin,change,21,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2299,2,7,False,2
+3674,change pin,pass,44,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3674,2,7,False,2
+8536,card not working,to,62,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8536,2,7,False,2
+9183,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",9183,2,7,False,2
+8593,top up by card charge,verify top,71,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8593,2,7,False,2
+1969,card delivery estimate,dispos,29,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1969,2,7,False,2
+2572,verify my identity,verify my,69,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2572,2,7,False,2
+4881,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4881,2,7,False,2
+8826,transfer not received by recipient,transfer not,66,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",8826,2,7,False,2
+3288,automatic top up,automatic,4,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",3288,2,7,False,2
+4147,supported cards and currencies,card accept,10,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4147,2,7,False,2
+5524,apple pay or google pay,apple,2,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5524,2,7,False,2
+7844,top up failed,top up revert,61,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7844,2,7,False,2
+7440,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7440,2,7,False,2
+7611,age limit,age,1,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",7611,2,7,False,2
+4256,top up by card charge,pending top,47,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4256,2,7,False,2
+2028,apple pay or google pay,apple,2,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",2028,2,7,False,2
+1578,card not working,top up failed,59,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1578,2,7,False,2
+2751,top up by card charge,automatic,4,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2751,2,7,False,2
+3045,transfer fee charged,receiving,50,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3045,2,7,False,2
+3620,card payment not recognised,balance not updated after che,6,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3620,2,7,False,2
+3303,card delivery estimate,getting spare,39,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3303,2,7,False,2
+2613,top up failed,verify top,71,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2613,2,7,False,2
+9269,cancel transfer,cancel,8,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",9269,2,7,False,2
+3380,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3380,2,7,False,2
+3793,card not working,lost or stolen card,41,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3793,2,7,False,2
+2774,request refund,Ref,51,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2774,2,7,False,2
+4049,supported cards and currencies,country,24,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",4049,2,7,False,2
+9546,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9546,2,7,False,2
+8633,request refund,direct,28,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8633,2,7,False,2
+1440,why verify identity,declined c,26,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1440,2,7,False,2
+8388,get physical card,pass,44,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",8388,2,7,False,2
+2675,top up limits,top up by card,57,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",2675,2,7,False,2
+618,request refund,transfer fee,64,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",618,2,7,False,2
+998,transfer into account,transfer into,65,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",998,2,7,False,2
+9723,top up failed,to,62,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9723,2,7,False,2
+9396,virtual card not working,getting virtual,40,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9396,2,7,False,2
+4828,apple pay or google pay,apple,2,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",4828,2,7,False,2
+5731,card not working,pin,49,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",5731,2,7,False,2
+1384,request refund,request,52,True,True,False,"{52: 1, 54: 1}","[3945, 8741]",1384,2,7,False,2
+659,transaction charged twice,transaction,63,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",659,2,7,False,2
+5045,top up limits,top up limits,60,False,True,False,"{52: 1, 54: 1}","[3945, 8741]",5045,2,7,False,2
+3283,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3283,2,7,False,2
+3944,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",3944,2,7,False,2
+9462,cancel transfer,revert,53,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9462,2,7,False,2
+7285,card payment fee charged,getting spare,39,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",7285,2,7,False,2
+1141,transaction charged twice,dispos,29,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",1141,2,7,False,2
+9448,supported cards and currencies,at,3,False,False,False,"{52: 1, 54: 1}","[3945, 8741]",9448,2,7,False,2

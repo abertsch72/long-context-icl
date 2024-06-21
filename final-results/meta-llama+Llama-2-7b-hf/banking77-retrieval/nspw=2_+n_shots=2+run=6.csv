@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,supported cards and currencies,supported,54,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",903,2,6,False,2
+1003,top up failed,top up revert,61,True,False,False,"{61: 1, 13: 1}","[1906, 8137]",1003,2,6,False,2
+2953,card about to expire,card about,9,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2953,2,6,False,2
+2979,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2979,2,6,False,2
+1926,card swallowed,card sw,18,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1926,2,6,False,2
+2137,change pin,change,21,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2137,2,6,False,2
+2980,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2980,2,6,False,2
+702,cancel transfer,cancel,8,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",702,2,6,False,2
+2493,order physical card,order,43,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2493,2,6,False,2
+2210,transfer fee charged,transfer fee,64,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2210,2,6,False,2
+112,exchange rate,exchange rate,32,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",112,2,6,False,2
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2909,2,6,False,2
+1987,transaction charged twice,transaction,63,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1987,2,6,False,2
+1283,visa or mastercard,vis,73,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1283,2,6,False,2
+1539,passcode forgotten,pass,44,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1539,2,6,False,2
+2879,activate my card,activ,0,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2879,2,6,False,2
+1158,edit personal details,edit,30,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1158,2,6,False,2
+1376,disposable card limits,dispos,29,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1376,2,6,False,2
+1517,transaction charged twice,direct,28,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1517,2,6,False,2
+1171,why verify identity,why,74,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1171,2,6,False,2
+2242,receiving money,receiving,50,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2242,2,6,False,2
+1476,atm support,at,3,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1476,2,6,False,2
+237,balance not updated after bank transfer,pending c,46,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",237,2,6,False,2
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1650,2,6,False,2
+2484,getting spare card,order,43,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2484,2,6,False,2
+2105,card not working,revert,53,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2105,2,6,False,2
+2121,change pin,change,21,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2121,2,6,False,2
+1452,atm support,at,3,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1452,2,6,False,2
+274,fiat currency support,fi,36,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",274,2,6,False,2
+564,contactless not working,contact,23,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",564,2,6,False,2
+905,supported cards and currencies,supported,54,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",905,2,6,False,2
+1535,passcode forgotten,pass,44,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1535,2,6,False,2
+2113,reverted card payment?,revert,53,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2113,2,6,False,2
+2142,change pin,change,21,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2142,2,6,False,2
+2965,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2965,2,6,False,2
+1834,card payment not recognised,declined card,25,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1834,2,6,False,2
+1549,passcode forgotten,pass,44,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1549,2,6,False,2
+1320,top up by card charge,to,62,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1320,2,6,False,2
+2421,order physical card,getting spare,39,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2421,2,6,False,2
+2784,exchange charge,exchange charge,31,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2784,2,6,False,2
+768,wrong amount of cash received,wrong amount,75,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",768,2,6,False,2
+2472,top up by cash or cheque,top up by c,58,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2472,2,6,False,2
+2154,pin blocked,change,21,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2154,2,6,False,2
+795,wrong amount of cash received,wrong amount,75,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",795,2,6,False,2
+1278,pin blocked,get physical,38,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1278,2,6,False,2
+1494,direct debit payment not recognised,direct,28,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1494,2,6,False,2
+241,fiat currency support,fi,36,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",241,2,6,False,2
+3060,country support,country,24,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",3060,2,6,False,2
+494,age limit,age,1,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",494,2,6,False,2
+327,automatic top up,automatic,4,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",327,2,6,False,2
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",458,2,6,False,2
+428,exchange via app,exchange via,33,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",428,2,6,False,2
+2862,activate my card,activ,0,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2862,2,6,False,2
+2164,beneficiary not allowed,benef,7,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2164,2,6,False,2
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2897,2,6,False,2
+2440,top up by cash or cheque,top up by c,58,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2440,2,6,False,2
+1663,lost or stolen phone,lost or stolen phone,42,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1663,2,6,False,2
+2700,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2700,2,6,False,2
+2955,card about to expire,card about,9,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2955,2,6,False,2
+522,pin blocked,pin,49,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",522,2,6,False,2
+1788,Refund not showing up,Ref,51,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1788,2,6,False,2
+1055,balance not updated after cheque or cash deposit,balance not updated after che,6,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1055,2,6,False,2
+2992,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2992,2,6,False,2
+1093,card payment not recognised,card payment not,16,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1093,2,6,False,2
+791,wrong amount of cash received,wrong amount,75,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",791,2,6,False,2
+894,supported cards and currencies,supported,54,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",894,2,6,False,2
+897,supported cards and currencies,supported,54,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",897,2,6,False,2
+1175,verify my identity,why,74,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1175,2,6,False,2
+68,card linking,card linking,13,True,True,True,"{61: 1, 13: 1}","[1906, 8137]",68,2,6,False,2
+1551,passcode forgotten,pass,44,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1551,2,6,False,2
+1508,direct debit payment not recognised,direct,28,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1508,2,6,False,2
+2250,receiving money,receiving,50,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2250,2,6,False,2
+519,age limit,age,1,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",519,2,6,False,2
+1731,declined transfer,declined transfer,27,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1731,2,6,False,2
+1210,unable to verify identity,unable,68,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1210,2,6,False,2
+1750,declined transfer,declined transfer,27,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1750,2,6,False,2
+1687,request refund,request,52,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1687,2,6,False,2
+891,supported cards and currencies,supported,54,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",891,2,6,False,2
+1061,balance not updated after cheque or cash deposit,balance not updated after che,6,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1061,2,6,False,2
+2403,getting spare card,getting spare,39,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2403,2,6,False,2
+1898,terminate account,terminate,55,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1898,2,6,False,2
+2978,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2978,2,6,False,2
+1427,compromised card,comprom,22,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1427,2,6,False,2
+1526,passcode forgotten,pass,44,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1526,2,6,False,2
+824,extra charge on statement,card payment fee,15,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",824,2,6,False,2
+1983,transaction charged twice,transaction,63,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1983,2,6,False,2
+2132,change pin,change,21,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2132,2,6,False,2
+418,exchange via app,exchange via,33,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",418,2,6,False,2
+1345,topping up by card,to,62,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1345,2,6,False,2
+2829,top up by card charge,top up by card,57,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2829,2,6,False,2
+2489,order physical card,order,43,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2489,2,6,False,2
+598,contactless not working,contact,23,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",598,2,6,False,2
+804,card payment fee charged,card payment fee,15,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",804,2,6,False,2
+3017,verify my identity,verify my,69,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",3017,2,6,False,2
+2589,exchange rate,wrong exchange,76,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2589,2,6,False,2
+2540,virtual card not working,virtual,72,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2540,2,6,False,2
+2908,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2908,2,6,False,2
+2968,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2968,2,6,False,2
+2747,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2747,2,6,False,2
+1340,transfer fee charged,to,62,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1340,2,6,False,2
+1348,topping up by card,to,62,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1348,2,6,False,2
+1451,atm support,at,3,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1451,2,6,False,2
+2903,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2903,2,6,False,2
+1237,unable to verify identity,unable,68,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1237,2,6,False,2
+2119,reverted card payment?,revert,53,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2119,2,6,False,2
+652,pending top up,pending top,47,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",652,2,6,False,2
+131,card payment wrong exchange rate,card payment wrong,17,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",131,2,6,False,2
+949,getting virtual card,getting virtual,40,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",949,2,6,False,2
+2528,card arrival,virtual,72,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2528,2,6,False,2
+2158,change pin,change,21,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2158,2,6,False,2
+2705,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2705,2,6,False,2
+592,contactless not working,contact,23,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",592,2,6,False,2
+2511,card delivery estimate,order,43,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2511,2,6,False,2
+1080,card payment not recognised,card payment not,16,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1080,2,6,False,2
+1361,disposable card limits,dispos,29,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1361,2,6,False,2
+448,lost or stolen card,lost or stolen card,41,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",448,2,6,False,2
+18,card arrival,card arrival,11,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",18,2,6,False,2
+1168,why verify identity,why,74,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1168,2,6,False,2
+2396,verify top up,verify top,71,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2396,2,6,False,2
+362,card not working,card not,14,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",362,2,6,False,2
+1456,atm support,at,3,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1456,2,6,False,2
+1735,declined transfer,declined transfer,27,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1735,2,6,False,2
+2579,atm support,wrong exchange,76,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2579,2,6,False,2
+385,card not working,card not,14,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",385,2,6,False,2
+2555,virtual card not working,virtual,72,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2555,2,6,False,2
+2307,failed transfer,failed,35,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2307,2,6,False,2
+1779,Refund not showing up,Ref,51,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1779,2,6,False,2
+1119,card payment not recognised,card payment not,16,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1119,2,6,False,2
+2104,reverted card payment?,revert,53,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2104,2,6,False,2
+713,cancel transfer,cancel,8,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",713,2,6,False,2
+2077,transfer timing,transfer timing,67,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2077,2,6,False,2
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1671,2,6,False,2
+1150,edit personal details,edit,30,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1150,2,6,False,2
+1491,transaction charged twice,direct,28,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1491,2,6,False,2
+2610,get disposable virtual card,get dispos,37,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2610,2,6,False,2
+1729,declined transfer,declined transfer,27,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1729,2,6,False,2
+1360,get disposable virtual card,dispos,29,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1360,2,6,False,2
+1397,disposable card limits,dispos,29,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1397,2,6,False,2
+842,transfer not received by recipient,transfer not,66,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",842,2,6,False,2
+2504,getting spare card,order,43,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2504,2,6,False,2
+538,pin blocked,pin,49,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",538,2,6,False,2
+2020,verify source of funds,verify source,70,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2020,2,6,False,2
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",769,2,6,False,2
+945,get physical card,getting virtual,40,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",945,2,6,False,2
+1591,declined cash withdrawal,declined c,26,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1591,2,6,False,2
+1818,declined transfer,declined card,25,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1818,2,6,False,2
+1876,pending transfer,pending transfer,48,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1876,2,6,False,2
+3031,verify my identity,verify my,69,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",3031,2,6,False,2
+1992,transaction charged twice,transaction,63,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1992,2,6,False,2
+2997,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2997,2,6,False,2
+1228,unable to verify identity,unable,68,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1228,2,6,False,2
+1682,request refund,request,52,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1682,2,6,False,2
+469,card swallowed,lost or stolen card,41,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",469,2,6,False,2
+2325,transfer into account,transfer into,65,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2325,2,6,False,2
+732,top up limits,top up limits,60,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",732,2,6,False,2
+820,card payment fee charged,card payment fee,15,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",820,2,6,False,2
+2990,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2990,2,6,False,2
+1732,declined transfer,declined transfer,27,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1732,2,6,False,2
+1252,pin blocked,get physical,38,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1252,2,6,False,2
+227,pending cash withdrawal,pending c,46,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",227,2,6,False,2
+1962,transaction charged twice,transaction,63,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1962,2,6,False,2
+400,exchange via app,exchange via,33,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",400,2,6,False,2
+1134,edit personal details,edit,30,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1134,2,6,False,2
+59,card linking,card linking,13,True,True,True,"{61: 1, 13: 1}","[1906, 8137]",59,2,6,False,2
+2256,transfer into account,receiving,50,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2256,2,6,False,2
+853,transfer not received by recipient,transfer not,66,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",853,2,6,False,2
+2777,exchange charge,exchange charge,31,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2777,2,6,False,2
+1538,passcode forgotten,pass,44,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1538,2,6,False,2
+2109,cancel transfer,revert,53,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2109,2,6,False,2
+305,card about to expire,card delivery,12,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",305,2,6,False,2
+711,cancel transfer,cancel,8,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",711,2,6,False,2
+2927,card about to expire,card about,9,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2927,2,6,False,2
+2623,getting virtual card,get dispos,37,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2623,2,6,False,2
+271,exchange via app,fi,36,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",271,2,6,False,2
+1023,top up reverted,top up revert,61,True,True,False,"{61: 1, 13: 1}","[1906, 8137]",1023,2,6,False,2
+470,lost or stolen card,lost or stolen card,41,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",470,2,6,False,2
+2779,exchange charge,exchange charge,31,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2779,2,6,False,2
+1170,cancel transfer,why,74,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1170,2,6,False,2
+1886,terminate account,terminate,55,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1886,2,6,False,2
+2723,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2723,2,6,False,2
+915,card payment not recognised,supported,54,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",915,2,6,False,2
+2626,get disposable virtual card,get dispos,37,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2626,2,6,False,2
+2604,card not working,get dispos,37,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2604,2,6,False,2
+1510,direct debit payment not recognised,direct,28,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1510,2,6,False,2
+2303,failed transfer,failed,35,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2303,2,6,False,2
+64,card linking,card linking,13,True,True,True,"{61: 1, 13: 1}","[1906, 8137]",64,2,6,False,2
+2041,transfer timing,transfer timing,67,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2041,2,6,False,2
+1995,transaction charged twice,transaction,63,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1995,2,6,False,2
+1266,pin blocked,get physical,38,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1266,2,6,False,2
+2821,topping up by card,top up by card,57,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2821,2,6,False,2
+1945,card not working,card sw,18,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1945,2,6,False,2
+835,extra charge on statement,card payment fee,15,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",835,2,6,False,2
+2312,failed transfer,failed,35,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2312,2,6,False,2
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1053,2,6,False,2
+2800,top up by card charge,top up by card,57,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2800,2,6,False,2
+1835,declined card payment,declined card,25,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1835,2,6,False,2
+1434,card not working,comprom,22,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1434,2,6,False,2
+979,card not working,card accept,10,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",979,2,6,False,2
+2942,card about to expire,card about,9,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2942,2,6,False,2
+1900,terminate account,terminate,55,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1900,2,6,False,2
+2973,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2973,2,6,False,2
+2989,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2989,2,6,False,2
+2241,receiving money,receiving,50,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2241,2,6,False,2
+984,card acceptance,card accept,10,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",984,2,6,False,2
+2933,lost or stolen card,card about,9,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2933,2,6,False,2
+1265,get physical card,get physical,38,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1265,2,6,False,2
+1811,declined card payment,declined card,25,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1811,2,6,False,2
+1428,compromised card,comprom,22,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1428,2,6,False,2
+1568,verify source of funds,declined c,26,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1568,2,6,False,2
+2675,top up failed,top up failed,59,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2675,2,6,False,2
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1645,2,6,False,2
+2289,transfer not received by recipient,failed,35,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",2289,2,6,False,2
+2854,activate my card,activ,0,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2854,2,6,False,2
+1356,topping up by card,to,62,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1356,2,6,False,2
+982,card acceptance,card accept,10,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",982,2,6,False,2
+1518,direct debit payment not recognised,direct,28,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1518,2,6,False,2
+722,top up limits,top up limits,60,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",722,2,6,False,2
+2372,verify top up,verify top,71,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2372,2,6,False,2
+1917,terminate account,terminate,55,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1917,2,6,False,2
+1500,direct debit payment not recognised,direct,28,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1500,2,6,False,2
+1933,card swallowed,card sw,18,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1933,2,6,False,2
+2833,top up by card charge,top up by card,57,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2833,2,6,False,2
+1639,pending card payment,pending card,45,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1639,2,6,False,2
+1136,edit personal details,edit,30,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1136,2,6,False,2
+2124,change pin,change,21,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2124,2,6,False,2
+3008,verify my identity,verify my,69,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",3008,2,6,False,2
+1704,Refund not showing up,request,52,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1704,2,6,False,2
+2243,receiving money,receiving,50,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2243,2,6,False,2
+748,top up limits,top up limits,60,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",748,2,6,False,2
+2649,top up failed,top up failed,59,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2649,2,6,False,2
+1258,get physical card,get physical,38,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1258,2,6,False,2
+1318,visa or mastercard,vis,73,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1318,2,6,False,2
+1770,Refund not showing up,Ref,51,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1770,2,6,False,2
+217,pending cash withdrawal,pending c,46,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",217,2,6,False,2
+1141,edit personal details,edit,30,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1141,2,6,False,2
+2078,transfer timing,transfer timing,67,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2078,2,6,False,2
+402,exchange via app,exchange via,33,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",402,2,6,False,2
+1349,topping up by card,to,62,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1349,2,6,False,2
+80,exchange rate,exchange rate,32,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",80,2,6,False,2
+1355,top up by card charge,to,62,False,False,False,"{61: 1, 13: 1}","[1906, 8137]",1355,2,6,False,2
+2386,verify top up,verify top,71,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2386,2,6,False,2
+838,card payment fee charged,card payment fee,15,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",838,2,6,False,2
+2267,receiving money,receiving,50,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2267,2,6,False,2
+2881,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2881,2,6,False,2
+801,card payment fee charged,card payment fee,15,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",801,2,6,False,2
+73,card linking,card linking,13,True,True,True,"{61: 1, 13: 1}","[1906, 8137]",73,2,6,False,2
+1967,transaction charged twice,transaction,63,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",1967,2,6,False,2
+2982,apple pay or google pay,apple,2,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2982,2,6,False,2
+46,card linking,card linking,13,True,True,True,"{61: 1, 13: 1}","[1906, 8137]",46,2,6,False,2
+2916,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{61: 1, 13: 1}","[1906, 8137]",2916,2,6,False,2

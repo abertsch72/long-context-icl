@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+2619,human group,human group,28,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",2619,10,4,False,10
+5207,entity substance,entity subst,18,True,True,False,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",5207,10,4,False,10
+3891,entity vehicle,entity vehicle,22,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",3891,10,4,False,10
+541,human individual,human individual,29,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",541,10,4,False,10
+696,location city,location city,32,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",696,10,4,False,10
+2366,entity sport,entity sport,17,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",2366,10,4,False,10
+2410,human individual,human individual,29,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",2410,10,4,False,10
+3027,numeric count,numeric count,38,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",3027,10,4,False,10
+3101,numeric count,numeric count,38,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",3101,10,4,False,10
+529,description definition,description definition,24,True,True,True,"{28: 1, 18: 1, 22: 1, 29: 2, 32: 1, 17: 1, 38: 2, 24: 1}","[2619, 5207, 3891, 541, 696, 2366, 2410, 3027, 3101, 529]",529,10,4,False,10

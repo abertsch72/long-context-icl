@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,transfer timing,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1104,5,2,False,5
+472,card not working,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",472,5,2,False,5
+1345,exchange charge,exchange charge,31,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1345,5,2,False,5
+837,transfer timing,pending transfer,48,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",837,5,2,False,5
+940,wrong amount of cash received,transaction,63,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",940,5,2,False,5
+706,cancel transfer,request,52,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",706,5,2,False,5
+381,why verify identity,why,74,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",381,5,2,False,5
+1259,get physical card,get dispos,37,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1259,5,2,False,5
+451,card not working,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",451,5,2,False,5
+1467,order physical card,card about,9,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1467,5,2,False,5
+649,card not working,direct,28,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",649,5,2,False,5
+771,wrong amount of cash received,Ref,51,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",771,5,2,False,5
+1112,card payment not recognised,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1112,5,2,False,5
+657,direct debit payment not recognised,direct,28,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",657,5,2,False,5
+67,fiat currency support,fi,36,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",67,5,2,False,5
+770,get physical card,Ref,51,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",770,5,2,False,5
+678,direct debit payment not recognised,direct,28,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",678,5,2,False,5
+955,wrong amount of cash received,transaction,63,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",955,5,2,False,5
+917,card swallowed,card sw,18,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",917,5,2,False,5
+1222,get physical card,order,43,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1222,5,2,False,5
+601,atm support,at,3,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",601,5,2,False,5
+241,cancel transfer,cancel,8,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",241,5,2,False,5
+1069,cancel transfer,revert,53,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1069,5,2,False,5
+1229,card not working,order,43,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1229,5,2,False,5
+1005,transfer timing,transfer,67,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1005,5,2,False,5
+1308,transfer timing,balance,5,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1308,5,2,False,5
+106,card not working,card not,14,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",106,5,2,False,5
+1429,card not working,activ,0,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1429,5,2,False,5
+455,card not working,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",455,5,2,False,5
+1380,card payment not recognised,top,57,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1380,5,2,False,5
+327,card payment not recognised,card payment not,16,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",327,5,2,False,5
+742,declined transfer,decl,27,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",742,5,2,False,5
+1439,activate my card,activ,0,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1439,5,2,False,5
+939,card payment wrong exchange rate,transaction,63,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",939,5,2,False,5
+404,verify my identity,unable,68,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",404,5,2,False,5
+1191,verify top up,verify top,71,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1191,5,2,False,5
+756,card not working,decl,27,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",756,5,2,False,5
+1181,verify top up,verify top,71,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1181,5,2,False,5
+122,exchange via app,exchange via,33,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",122,5,2,False,5
+1517,verify my identity,verify my,69,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1517,5,2,False,5
+227,top up by card charge,pending top,47,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",227,5,2,False,5
+1321,exchange charge,exchange charge,31,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1321,5,2,False,5
+396,verify my identity,why,74,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",396,5,2,False,5
+998,get physical card,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",998,5,2,False,5
+925,wrong amount of cash received,transaction,63,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",925,5,2,False,5
+245,cancel transfer,cancel,8,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",245,5,2,False,5
+180,contactless not working,contact,23,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",180,5,2,False,5
+1171,top up by card charge,verify top,71,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1171,5,2,False,5
+665,wrong amount of cash received,direct,28,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",665,5,2,False,5
+1027,transfer timing,transfer,67,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1027,5,2,False,5
+769,why verify identity,Ref,51,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",769,5,2,False,5
+1224,get physical card,order,43,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1224,5,2,False,5
+422,verify my identity,unable,68,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",422,5,2,False,5
+131,exchange via app,exchange via,33,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",131,5,2,False,5
+154,exchange via app,exchange via,33,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",154,5,2,False,5
+459,card not working,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",459,5,2,False,5
+374,verify my identity,why,74,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",374,5,2,False,5
+15,wrong amount of cash received,card payment wrong,17,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",15,5,2,False,5
+1254,get disposable virtual card,get dispos,37,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1254,5,2,False,5
+196,contactless not working,contact,23,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",196,5,2,False,5
+523,get disposable virtual card,dispos,29,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",523,5,2,False,5
+527,card payment not recognised,dispos,29,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",527,5,2,False,5
+385,why verify identity,why,74,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",385,5,2,False,5
+616,get physical card,at,3,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",616,5,2,False,5
+870,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",870,5,2,False,5
+1095,get physical card,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1095,5,2,False,5
+1501,verify my identity,verify my,69,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1501,5,2,False,5
+1368,card payment not recognised,top,57,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1368,5,2,False,5
+347,transaction charged twice,card payment not,16,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",347,5,2,False,5
+430,verify my identity,unable,68,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",430,5,2,False,5
+293,wrong amount of cash received,wrong,75,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",293,5,2,False,5
+474,card not working,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",474,5,2,False,5
+136,transfer timing,exchange via,33,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",136,5,2,False,5
+781,Refund not showing up,Ref,51,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",781,5,2,False,5
+1020,transfer timing,transfer,67,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1020,5,2,False,5
+1414,activate my card,activ,0,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1414,5,2,False,5
+738,declined transfer,decl,27,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",738,5,2,False,5
+903,card swallowed,card sw,18,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",903,5,2,False,5
+723,transfer timing,decl,27,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",723,5,2,False,5
+87,card not working,card not,14,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",87,5,2,False,5
+1457,card about to expire,card about,9,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1457,5,2,False,5
+744,transfer timing,decl,27,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",744,5,2,False,5
+727,declined transfer,decl,27,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",727,5,2,False,5
+859,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",859,5,2,False,5
+358,wrong amount of cash received,card payment not,16,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",358,5,2,False,5
+1294,transfer timing,balance,5,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1294,5,2,False,5
+517,top up by card charge,to,62,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",517,5,2,False,5
+301,wrong amount of cash received,wrong,75,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",301,5,2,False,5
+806,transfer timing,pending transfer,48,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",806,5,2,False,5
+1367,top up by card charge,top,57,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1367,5,2,False,5
+552,card payment not recognised,dispos,29,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",552,5,2,False,5
+240,reverted card payment?,cancel,8,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",240,5,2,False,5
+1418,activate my card,activ,0,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1418,5,2,False,5
+202,top up by card charge,pending top,47,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",202,5,2,False,5
+1266,get disposable virtual card,get dispos,37,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1266,5,2,False,5
+1509,verify my identity,verify my,69,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1509,5,2,False,5
+286,wrong amount of cash received,wrong,75,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",286,5,2,False,5
+1335,exchange charge,exchange charge,31,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1335,5,2,False,5
+513,top up by card charge,to,62,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",513,5,2,False,5
+458,why verify identity,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",458,5,2,False,5
+807,transfer timing,pending transfer,48,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",807,5,2,False,5
+292,wrong amount of cash received,wrong,75,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",292,5,2,False,5
+580,card not working,comprom,22,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",580,5,2,False,5
+128,exchange via app,exchange via,33,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",128,5,2,False,5
+308,wrong amount of cash received,wrong,75,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",308,5,2,False,5
+457,card not working,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",457,5,2,False,5
+178,contactless not working,contact,23,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",178,5,2,False,5
+624,get physical card,at,3,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",624,5,2,False,5
+26,exchange charge,card payment wrong,17,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",26,5,2,False,5
+1276,get disposable virtual card,get dispos,37,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1276,5,2,False,5
+838,transfer timing,pending transfer,48,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",838,5,2,False,5
+1175,top up by card charge,verify top,71,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1175,5,2,False,5
+553,disposable card limits,dispos,29,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",553,5,2,False,5
+446,card not working,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",446,5,2,False,5
+1117,exchange via app,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1117,5,2,False,5
+214,top up by card charge,pending top,47,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",214,5,2,False,5
+965,get physical card,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",965,5,2,False,5
+421,wrong amount of cash received,unable,68,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",421,5,2,False,5
+610,atm support,at,3,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",610,5,2,False,5
+191,contactless not working,contact,23,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",191,5,2,False,5
+666,wrong amount of cash received,direct,28,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",666,5,2,False,5
+851,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",851,5,2,False,5
+1083,get physical card,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1083,5,2,False,5
+1106,transfer timing,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1106,5,2,False,5
+915,atm support,card sw,18,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",915,5,2,False,5
+504,card not working,to,62,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",504,5,2,False,5
+145,exchange charge,exchange via,33,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",145,5,2,False,5
+1307,transfer timing,balance,5,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1307,5,2,False,5
+337,card payment not recognised,card payment not,16,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",337,5,2,False,5
+961,get physical card,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",961,5,2,False,5
+1014,transfer timing,transfer,67,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1014,5,2,False,5
+1486,verify my identity,verify my,69,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1486,5,2,False,5
+394,verify my identity,why,74,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",394,5,2,False,5
+1244,card payment not recognised,get dispos,37,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1244,5,2,False,5
+69,exchange via app,fi,36,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",69,5,2,False,5
+395,verify my identity,why,74,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",395,5,2,False,5
+789,why verify identity,Ref,51,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",789,5,2,False,5
+1448,card about to expire,card about,9,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1448,5,2,False,5
+490,card payment not recognised,to,62,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",490,5,2,False,5
+675,direct debit payment not recognised,direct,28,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",675,5,2,False,5
+644,wrong amount of cash received,direct,28,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",644,5,2,False,5
+817,transfer timing,pending transfer,48,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",817,5,2,False,5
+981,transfer timing,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",981,5,2,False,5
+972,get physical card,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",972,5,2,False,5
+531,card payment not recognised,dispos,29,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",531,5,2,False,5
+790,wrong amount of cash received,Ref,51,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",790,5,2,False,5
+260,cancel transfer,cancel,8,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",260,5,2,False,5
+431,verify my identity,unable,68,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",431,5,2,False,5
+481,card not working,to,62,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",481,5,2,False,5
+563,card not working,comprom,22,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",563,5,2,False,5
+72,fiat currency support,fi,36,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",72,5,2,False,5
+112,card not working,card not,14,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",112,5,2,False,5
+387,declined transfer,why,74,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",387,5,2,False,5
+1053,card payment not recognised,revert,53,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1053,5,2,False,5
+1401,activate my card,activ,0,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1401,5,2,False,5
+968,why verify identity,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",968,5,2,False,5
+314,wrong amount of cash received,wrong,75,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",314,5,2,False,5
+891,card not working,card sw,18,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",891,5,2,False,5
+454,card payment not recognised,get physical,38,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",454,5,2,False,5
+479,get physical card,get physical,38,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",479,5,2,False,5
+647,direct debit payment not recognised,direct,28,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",647,5,2,False,5
+23,exchange charge,card payment wrong,17,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",23,5,2,False,5
+1213,get physical card,order,43,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1213,5,2,False,5
+1215,card not working,order,43,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1215,5,2,False,5
+1349,exchange charge,exchange charge,31,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1349,5,2,False,5
+263,cancel transfer,cancel,8,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",263,5,2,False,5
+48,fiat currency support,fi,36,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",48,5,2,False,5
+287,wrong amount of cash received,wrong,75,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",287,5,2,False,5
+850,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",850,5,2,False,5
+1352,exchange charge,exchange charge,31,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1352,5,2,False,5
+329,wrong amount of cash received,card payment not,16,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",329,5,2,False,5
+1438,activate my card,activ,0,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1438,5,2,False,5
+29,exchange charge,card payment wrong,17,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",29,5,2,False,5
+235,top up by card charge,pending top,47,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",235,5,2,False,5
+524,get disposable virtual card,dispos,29,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",524,5,2,False,5
+372,why verify identity,why,74,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",372,5,2,False,5
+127,exchange via app,exchange via,33,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",127,5,2,False,5
+1152,transfer timing,failed,35,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1152,5,2,False,5
+540,card not working,dispos,29,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",540,5,2,False,5
+883,card swallowed,card sw,18,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",883,5,2,False,5
+589,card not working,comprom,22,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",589,5,2,False,5
+229,pending top up,pending top,47,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",229,5,2,False,5
+875,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",875,5,2,False,5
+625,atm support,at,3,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",625,5,2,False,5
+1419,activate my card,activ,0,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1419,5,2,False,5
+820,pending transfer,pending transfer,48,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",820,5,2,False,5
+1285,transfer timing,balance,5,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1285,5,2,False,5
+677,wrong amount of cash received,direct,28,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",677,5,2,False,5
+203,top up by card charge,pending top,47,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",203,5,2,False,5
+871,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",871,5,2,False,5
+695,wrong amount of cash received,request,52,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",695,5,2,False,5
+219,card payment not recognised,pending top,47,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",219,5,2,False,5
+189,contactless not working,contact,23,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",189,5,2,False,5
+382,verify my identity,why,74,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",382,5,2,False,5
+1340,exchange charge,exchange charge,31,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1340,5,2,False,5
+977,verify source of funds,verify source,70,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",977,5,2,False,5
+641,direct debit payment not recognised,direct,28,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",641,5,2,False,5
+733,transfer timing,decl,27,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",733,5,2,False,5
+849,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",849,5,2,False,5
+1353,exchange charge,exchange charge,31,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1353,5,2,False,5
+799,wrong amount of cash received,Ref,51,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",799,5,2,False,5
+1329,exchange charge,exchange charge,31,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1329,5,2,False,5
+114,card not working,card not,14,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",114,5,2,False,5
+1396,card payment not recognised,top,57,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1396,5,2,False,5
+34,exchange charge,card payment wrong,17,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",34,5,2,False,5
+966,verify source of funds,verify source,70,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",966,5,2,False,5
+1512,verify my identity,verify my,69,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1512,5,2,False,5
+439,verify my identity,unable,68,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",439,5,2,False,5
+1411,card not working,activ,0,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1411,5,2,False,5
+1218,card payment not recognised,order,43,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1218,5,2,False,5
+866,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",866,5,2,False,5
+703,get physical card,request,52,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",703,5,2,False,5
+1212,card payment not recognised,order,43,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1212,5,2,False,5
+642,direct debit payment not recognised,direct,28,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",642,5,2,False,5
+1166,verify top up,verify top,71,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1166,5,2,False,5
+798,get physical card,Ref,51,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",798,5,2,False,5
+897,card not working,card sw,18,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",897,5,2,False,5
+36,exchange charge,card payment wrong,17,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",36,5,2,False,5
+1278,disposable card limits,get dispos,37,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1278,5,2,False,5
+326,card payment not recognised,card payment not,16,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",326,5,2,False,5
+688,get physical card,request,52,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",688,5,2,False,5
+1508,verify my identity,verify my,69,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1508,5,2,False,5
+991,get physical card,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",991,5,2,False,5
+316,wrong amount of cash received,wrong,75,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",316,5,2,False,5
+1082,transfer timing,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1082,5,2,False,5
+1096,transfer timing,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1096,5,2,False,5
+784,failed transfer,Ref,51,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",784,5,2,False,5
+841,cancel transfer,terminate,55,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",841,5,2,False,5
+190,contactless not working,contact,23,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",190,5,2,False,5
+844,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",844,5,2,False,5
+1026,transfer timing,transfer,67,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1026,5,2,False,5
+99,card not working,card not,14,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",99,5,2,False,5
+548,card not working,dispos,29,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",548,5,2,False,5
+1023,transfer timing,transfer,67,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1023,5,2,False,5
+140,exchange via app,exchange via,33,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",140,5,2,False,5
+621,atm support,at,3,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",621,5,2,False,5
+920,wrong amount of cash received,transaction,63,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",920,5,2,False,5
+976,verify my identity,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",976,5,2,False,5
+134,exchange via app,exchange via,33,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",134,5,2,False,5
+1109,get physical card,receiving,50,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1109,5,2,False,5
+408,wrong amount of cash received,unable,68,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",408,5,2,False,5
+757,transfer timing,decl,27,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",757,5,2,False,5
+1034,transfer timing,transfer,67,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1034,5,2,False,5
+926,wrong amount of cash received,transaction,63,True,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",926,5,2,False,5
+975,verify source of funds,verify source,70,False,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",975,5,2,False,5
+962,get physical card,verify source,70,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",962,5,2,False,5
+759,transfer timing,decl,27,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",759,5,2,False,5
+510,top up by card charge,to,62,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",510,5,2,False,5
+869,terminate account,terminate,55,True,True,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",869,5,2,False,5
+1122,transfer timing,failed,35,False,False,False,"{63: 1, 8: 1, 55: 1, 36: 1, 75: 1}","[1489, 508, 1607, 2324, 3767]",1122,5,2,False,5

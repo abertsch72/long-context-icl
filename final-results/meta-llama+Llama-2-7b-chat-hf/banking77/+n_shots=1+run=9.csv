@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+903,get disposable virtual card,supported,54,False,False,False,{74: 1},[4381],903,1,9,False
+1003,top up failed,top up revert,61,False,False,False,{74: 1},[4381],1003,1,9,False
+2953,verify my identity,card about,9,False,False,False,{74: 1},[4381],2953,1,9,False
+2979,why verify identity,apple,2,False,False,False,{74: 1},[4381],2979,1,9,False
+1926,get physical card,card sw,18,False,False,False,{74: 1},[4381],1926,1,9,False
+2137,change pin,change,21,False,True,False,{74: 1},[4381],2137,1,9,False
+2980,top up by card charge,apple,2,False,False,False,{74: 1},[4381],2980,1,9,False
+702,cancel transfer,cancel,8,False,True,False,{74: 1},[4381],702,1,9,False
+2493,get physical card,order,43,False,False,False,{74: 1},[4381],2493,1,9,False
+2210,transfer fee charged,transfer fee,64,False,True,False,{74: 1},[4381],2210,1,9,False
+112,exchange rate,exchange rate,32,False,True,False,{74: 1},[4381],112,1,9,False
+2909,why verify identity,cash withdrawal charge,19,False,False,False,{74: 1},[4381],2909,1,9,False
+1987,why verify identity,transaction,63,False,False,False,{74: 1},[4381],1987,1,9,False
+1283,verify my identity,vis,73,False,False,False,{74: 1},[4381],1283,1,9,False
+1539,why verify identity,pass,44,False,False,False,{74: 1},[4381],1539,1,9,False
+2879,activate my card,activ,0,False,True,False,{74: 1},[4381],2879,1,9,False
+1158,change pin,edit,30,False,False,False,{74: 1},[4381],1158,1,9,False
+1376,transaction charged twice,dispos,29,False,False,False,{74: 1},[4381],1376,1,9,False
+1517,why verify identity,direct,28,False,False,False,{74: 1},[4381],1517,1,9,False
+1171,why verify identity,why,74,True,True,False,{74: 1},[4381],1171,1,9,False
+2242,transfer into account,receiving,50,False,False,False,{74: 1},[4381],2242,1,9,False
+1476,get physical card,at,3,False,False,False,{74: 1},[4381],1476,1,9,False
+237,atm support,pending c,46,False,False,False,{74: 1},[4381],237,1,9,False
+1650,why verify identity,lost or stolen phone,42,False,False,False,{74: 1},[4381],1650,1,9,False
+2484,get physical card,order,43,False,False,False,{74: 1},[4381],2484,1,9,False
+2105,why verify identity,revert,53,False,False,False,{74: 1},[4381],2105,1,9,False
+2121,change pin,change,21,False,True,False,{74: 1},[4381],2121,1,9,False
+1452,atm support,at,3,False,True,False,{74: 1},[4381],1452,1,9,False
+274,balance not updated after bank transfer,fi,36,False,False,False,{74: 1},[4381],274,1,9,False
+564,get physical card,contact,23,False,False,False,{74: 1},[4381],564,1,9,False
+905,card payment not recognised,supported,54,False,False,False,{74: 1},[4381],905,1,9,False
+1535,passcode forgotten,pass,44,False,True,False,{74: 1},[4381],1535,1,9,False
+2113,why verify identity,revert,53,False,False,False,{74: 1},[4381],2113,1,9,False
+2142,change pin,change,21,False,True,False,{74: 1},[4381],2142,1,9,False
+2965,top up limits,apple,2,False,False,False,{74: 1},[4381],2965,1,9,False
+1834,why verify identity,declined card,25,False,False,False,{74: 1},[4381],1834,1,9,False
+1549,passcode forgotten,pass,44,False,True,False,{74: 1},[4381],1549,1,9,False
+1320,top up by card charge,to,62,False,False,False,{74: 1},[4381],1320,1,9,False
+2421,order physical card,getting spare,39,False,False,False,{74: 1},[4381],2421,1,9,False
+2784,exchange rate,exchange charge,31,False,False,False,{74: 1},[4381],2784,1,9,False
+768,verify my identity,wrong amount,75,False,False,False,{74: 1},[4381],768,1,9,False
+2472,top up by cash or cheque,top up by c,58,False,True,False,{74: 1},[4381],2472,1,9,False
+2154,request refund,change,21,False,False,False,{74: 1},[4381],2154,1,9,False
+795,why verify identity,wrong amount,75,False,False,False,{74: 1},[4381],795,1,9,False
+1278,get physical card,get physical,38,False,True,False,{74: 1},[4381],1278,1,9,False
+1494,why verify identity,direct,28,False,False,False,{74: 1},[4381],1494,1,9,False
+241,get physical card,fi,36,False,False,False,{74: 1},[4381],241,1,9,False
+3060,verify my identity,country,24,False,False,False,{74: 1},[4381],3060,1,9,False
+494,age limit,age,1,False,True,False,{74: 1},[4381],494,1,9,False
+327,why verify identity,automatic,4,False,False,False,{74: 1},[4381],327,1,9,False
+458,lost or stolen card,lost or stolen card,41,False,True,False,{74: 1},[4381],458,1,9,False
+428,exchange rate,exchange via,33,False,False,False,{74: 1},[4381],428,1,9,False
+2862,activate my card,activ,0,False,True,False,{74: 1},[4381],2862,1,9,False
+2164,why verify identity,benef,7,False,False,False,{74: 1},[4381],2164,1,9,False
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{74: 1},[4381],2897,1,9,False
+2440,top up by cash or cheque,top up by c,58,False,True,False,{74: 1},[4381],2440,1,9,False
+1663,lost or stolen card,lost or stolen phone,42,False,False,False,{74: 1},[4381],1663,1,9,False
+2700,transfer not received by recipient,balance not updated after bank,5,False,False,False,{74: 1},[4381],2700,1,9,False
+2955,get physical card,card about,9,False,False,False,{74: 1},[4381],2955,1,9,False
+522,request refund,pin,49,False,False,False,{74: 1},[4381],522,1,9,False
+1788,why verify identity,Ref,51,False,False,False,{74: 1},[4381],1788,1,9,False
+1055,why verify identity,balance not updated after che,6,False,False,False,{74: 1},[4381],1055,1,9,False
+2992,top up by card charge,apple,2,False,False,False,{74: 1},[4381],2992,1,9,False
+1093,why verify identity,card payment not,16,False,False,False,{74: 1},[4381],1093,1,9,False
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,{74: 1},[4381],791,1,9,False
+894,transfer fee charged,supported,54,False,False,False,{74: 1},[4381],894,1,9,False
+897,card payment not recognised,supported,54,False,False,False,{74: 1},[4381],897,1,9,False
+1175,why verify identity,why,74,True,True,False,{74: 1},[4381],1175,1,9,False
+68,card linking,card linking,13,False,True,False,{74: 1},[4381],68,1,9,False
+1551,change pin,pass,44,False,False,False,{74: 1},[4381],1551,1,9,False
+1508,cancel transfer,direct,28,False,False,False,{74: 1},[4381],1508,1,9,False
+2250,verify my identity,receiving,50,False,False,False,{74: 1},[4381],2250,1,9,False
+519,age limit,age,1,False,True,False,{74: 1},[4381],519,1,9,False
+1731,why verify identity,declined transfer,27,False,False,False,{74: 1},[4381],1731,1,9,False
+1210,why verify identity,unable,68,False,False,False,{74: 1},[4381],1210,1,9,False
+1750,why verify identity,declined transfer,27,False,False,False,{74: 1},[4381],1750,1,9,False
+1687,request refund,request,52,False,True,False,{74: 1},[4381],1687,1,9,False
+891,verify my identity,supported,54,False,False,False,{74: 1},[4381],891,1,9,False
+1061,verify my identity,balance not updated after che,6,False,False,False,{74: 1},[4381],1061,1,9,False
+2403,get physical card,getting spare,39,False,False,False,{74: 1},[4381],2403,1,9,False
+1898,cancel transfer,terminate,55,False,False,False,{74: 1},[4381],1898,1,9,False
+2978,apple pay or google pay,apple,2,False,True,False,{74: 1},[4381],2978,1,9,False
+1427,card payment fee charged,comprom,22,False,False,False,{74: 1},[4381],1427,1,9,False
+1526,change pin,pass,44,False,False,False,{74: 1},[4381],1526,1,9,False
+824,extra charge on statement,card payment fee,15,False,False,False,{74: 1},[4381],824,1,9,False
+1983,verify my identity,transaction,63,False,False,False,{74: 1},[4381],1983,1,9,False
+2132,change pin,change,21,False,True,False,{74: 1},[4381],2132,1,9,False
+418,change pin,exchange via,33,False,False,False,{74: 1},[4381],418,1,9,False
+1345,transfer fee charged,to,62,False,False,False,{74: 1},[4381],1345,1,9,False
+2829,top up by card charge,top up by card,57,False,True,False,{74: 1},[4381],2829,1,9,False
+2489,card payment fee charged,order,43,False,False,False,{74: 1},[4381],2489,1,9,False
+598,contactless not working,contact,23,False,True,False,{74: 1},[4381],598,1,9,False
+804,why verify identity,card payment fee,15,False,False,False,{74: 1},[4381],804,1,9,False
+3017,verify my identity,verify my,69,False,True,False,{74: 1},[4381],3017,1,9,False
+2589,get physical card,wrong exchange,76,False,False,False,{74: 1},[4381],2589,1,9,False
+2540,card not working,virtual,72,False,False,False,{74: 1},[4381],2540,1,9,False
+2908,get physical card,cash withdrawal charge,19,False,False,False,{74: 1},[4381],2908,1,9,False
+2968,apple pay or google pay,apple,2,False,True,False,{74: 1},[4381],2968,1,9,False
+2747,verify my identity,cash withdrawal not,20,False,False,False,{74: 1},[4381],2747,1,9,False
+1340,transfer fee charged,to,62,False,False,False,{74: 1},[4381],1340,1,9,False
+1348,verify my identity,to,62,False,False,False,{74: 1},[4381],1348,1,9,False
+1451,verify my identity,at,3,False,False,False,{74: 1},[4381],1451,1,9,False
+2903,why verify identity,cash withdrawal charge,19,False,False,False,{74: 1},[4381],2903,1,9,False
+1237,why verify identity,unable,68,False,False,False,{74: 1},[4381],1237,1,9,False
+2119,why verify identity,revert,53,False,False,False,{74: 1},[4381],2119,1,9,False
+652,top up failed,pending top,47,False,False,False,{74: 1},[4381],652,1,9,False
+131,why verify identity,card payment wrong,17,False,False,False,{74: 1},[4381],131,1,9,False
+949,verify my identity,getting virtual,40,False,False,False,{74: 1},[4381],949,1,9,False
+2528,card not working,virtual,72,False,False,False,{74: 1},[4381],2528,1,9,False
+2158,change pin,change,21,False,True,False,{74: 1},[4381],2158,1,9,False
+2705,why verify identity,balance not updated after bank,5,False,False,False,{74: 1},[4381],2705,1,9,False
+592,contactless not working,contact,23,False,True,False,{74: 1},[4381],592,1,9,False
+2511,card delivery estimate,order,43,False,False,False,{74: 1},[4381],2511,1,9,False
+1080,verify my identity,card payment not,16,False,False,False,{74: 1},[4381],1080,1,9,False
+1361,why verify identity,dispos,29,False,False,False,{74: 1},[4381],1361,1,9,False
+448,card not working,lost or stolen card,41,False,False,False,{74: 1},[4381],448,1,9,False
+18,card delivery estimate,card arrival,11,False,False,False,{74: 1},[4381],18,1,9,False
+1168,why verify identity,why,74,True,True,False,{74: 1},[4381],1168,1,9,False
+2396,top up by card charge,verify top,71,False,False,False,{74: 1},[4381],2396,1,9,False
+362,card not working,card not,14,False,True,False,{74: 1},[4381],362,1,9,False
+1456,get physical card,at,3,False,False,False,{74: 1},[4381],1456,1,9,False
+1735,why verify identity,declined transfer,27,False,False,False,{74: 1},[4381],1735,1,9,False
+2579,atm support,wrong exchange,76,False,False,False,{74: 1},[4381],2579,1,9,False
+385,verify my identity,card not,14,False,False,False,{74: 1},[4381],385,1,9,False
+2555,why verify identity,virtual,72,False,False,False,{74: 1},[4381],2555,1,9,False
+2307,why verify identity,failed,35,False,False,False,{74: 1},[4381],2307,1,9,False
+1779,why verify identity,Ref,51,False,False,False,{74: 1},[4381],1779,1,9,False
+1119,verify my identity,card payment not,16,False,False,False,{74: 1},[4381],1119,1,9,False
+2104,why verify identity,revert,53,False,False,False,{74: 1},[4381],2104,1,9,False
+713,request refund,cancel,8,False,False,False,{74: 1},[4381],713,1,9,False
+2077,transfer fee charged,transfer timing,67,False,False,False,{74: 1},[4381],2077,1,9,False
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,{74: 1},[4381],1671,1,9,False
+1150,change pin,edit,30,False,False,False,{74: 1},[4381],1150,1,9,False
+1491,verify my identity,direct,28,False,False,False,{74: 1},[4381],1491,1,9,False
+2610,why verify identity,get dispos,37,False,False,False,{74: 1},[4381],2610,1,9,False
+1729,why verify identity,declined transfer,27,False,False,False,{74: 1},[4381],1729,1,9,False
+1360,get disposable virtual card,dispos,29,False,False,False,{74: 1},[4381],1360,1,9,False
+1397,virtual card not working,dispos,29,False,False,False,{74: 1},[4381],1397,1,9,False
+842,cancel transfer,transfer not,66,False,False,False,{74: 1},[4381],842,1,9,False
+2504,get physical card,order,43,False,False,False,{74: 1},[4381],2504,1,9,False
+538,cancel transfer,pin,49,False,False,False,{74: 1},[4381],538,1,9,False
+2020,why verify identity,verify source,70,False,False,False,{74: 1},[4381],2020,1,9,False
+769,get physical card,wrong amount,75,False,False,False,{74: 1},[4381],769,1,9,False
+945,request refund,getting virtual,40,False,False,False,{74: 1},[4381],945,1,9,False
+1591,why verify identity,declined c,26,False,False,False,{74: 1},[4381],1591,1,9,False
+1818,why verify identity,declined card,25,False,False,False,{74: 1},[4381],1818,1,9,False
+1876,transfer not received by recipient,pending transfer,48,False,False,False,{74: 1},[4381],1876,1,9,False
+3031,verify my identity,verify my,69,False,True,False,{74: 1},[4381],3031,1,9,False
+1992,why verify identity,transaction,63,False,False,False,{74: 1},[4381],1992,1,9,False
+2997,why verify identity,apple,2,False,False,False,{74: 1},[4381],2997,1,9,False
+1228,verify my identity,unable,68,False,False,False,{74: 1},[4381],1228,1,9,False
+1682,request refund,request,52,False,True,False,{74: 1},[4381],1682,1,9,False
+469,verify my identity,lost or stolen card,41,False,False,False,{74: 1},[4381],469,1,9,False
+2325,transfer into account,transfer into,65,False,True,False,{74: 1},[4381],2325,1,9,False
+732,top up limits,top up limits,60,False,True,False,{74: 1},[4381],732,1,9,False
+820,why verify identity,card payment fee,15,False,False,False,{74: 1},[4381],820,1,9,False
+2990,apple pay or google pay,apple,2,False,True,False,{74: 1},[4381],2990,1,9,False
+1732,why verify identity,declined transfer,27,False,False,False,{74: 1},[4381],1732,1,9,False
+1252,why verify identity,get physical,38,False,False,False,{74: 1},[4381],1252,1,9,False
+227,why verify identity,pending c,46,False,False,False,{74: 1},[4381],227,1,9,False
+1962,why verify identity,transaction,63,False,False,False,{74: 1},[4381],1962,1,9,False
+400,exchange rate,exchange via,33,False,False,False,{74: 1},[4381],400,1,9,False
+1134,change pin,edit,30,False,False,False,{74: 1},[4381],1134,1,9,False
+59,card linking,card linking,13,False,True,False,{74: 1},[4381],59,1,9,False
+2256,transfer fee charged,receiving,50,False,False,False,{74: 1},[4381],2256,1,9,False
+853,why verify identity,transfer not,66,False,False,False,{74: 1},[4381],853,1,9,False
+2777,exchange rate,exchange charge,31,False,False,False,{74: 1},[4381],2777,1,9,False
+1538,passcode forgotten,pass,44,False,True,False,{74: 1},[4381],1538,1,9,False
+2109,why verify identity,revert,53,False,False,False,{74: 1},[4381],2109,1,9,False
+305,request refund,card delivery,12,False,False,False,{74: 1},[4381],305,1,9,False
+711,cancel transfer,cancel,8,False,True,False,{74: 1},[4381],711,1,9,False
+2927,get physical card,card about,9,False,False,False,{74: 1},[4381],2927,1,9,False
+2623,get disposable virtual card,get dispos,37,False,True,False,{74: 1},[4381],2623,1,9,False
+271,exchange rate,fi,36,False,False,False,{74: 1},[4381],271,1,9,False
+1023,why verify identity,top up revert,61,False,False,False,{74: 1},[4381],1023,1,9,False
+470,lost or stolen card,lost or stolen card,41,False,True,False,{74: 1},[4381],470,1,9,False
+2779,exchange rate,exchange charge,31,False,False,False,{74: 1},[4381],2779,1,9,False
+1170,cancel transfer,why,74,True,False,False,{74: 1},[4381],1170,1,9,False
+1886,cancel transfer,terminate,55,False,False,False,{74: 1},[4381],1886,1,9,False
+2723,verify my identity,cash withdrawal not,20,False,False,False,{74: 1},[4381],2723,1,9,False
+915,verify my identity,supported,54,False,False,False,{74: 1},[4381],915,1,9,False
+2626,get disposable virtual card,get dispos,37,False,True,False,{74: 1},[4381],2626,1,9,False
+2604,virtual card not working,get dispos,37,False,False,False,{74: 1},[4381],2604,1,9,False
+1510,why verify identity,direct,28,False,False,False,{74: 1},[4381],1510,1,9,False
+2303,why verify identity,failed,35,False,False,False,{74: 1},[4381],2303,1,9,False
+64,card not working,card linking,13,False,False,False,{74: 1},[4381],64,1,9,False
+2041,transfer fee charged,transfer timing,67,False,False,False,{74: 1},[4381],2041,1,9,False
+1995,cancel transfer,transaction,63,False,False,False,{74: 1},[4381],1995,1,9,False
+1266,unable to verify identity,get physical,38,False,False,False,{74: 1},[4381],1266,1,9,False
+2821,topping up by card,top up by card,57,False,False,False,{74: 1},[4381],2821,1,9,False
+1945,cancel transfer,card sw,18,False,False,False,{74: 1},[4381],1945,1,9,False
+835,why verify identity,card payment fee,15,False,False,False,{74: 1},[4381],835,1,9,False
+2312,get physical card,failed,35,False,False,False,{74: 1},[4381],2312,1,9,False
+1053,why verify identity,balance not updated after che,6,False,False,False,{74: 1},[4381],1053,1,9,False
+2800,top up limits,top up by card,57,False,False,False,{74: 1},[4381],2800,1,9,False
+1835,why verify identity,declined card,25,False,False,False,{74: 1},[4381],1835,1,9,False
+1434,verify my identity,comprom,22,False,False,False,{74: 1},[4381],1434,1,9,False
+979,verify my identity,card accept,10,False,False,False,{74: 1},[4381],979,1,9,False
+2942,card delivery estimate,card about,9,False,False,False,{74: 1},[4381],2942,1,9,False
+1900,cancel transfer,terminate,55,False,False,False,{74: 1},[4381],1900,1,9,False
+2973,top up by card charge,apple,2,False,False,False,{74: 1},[4381],2973,1,9,False
+2989,top up by card charge,apple,2,False,False,False,{74: 1},[4381],2989,1,9,False
+2241,get physical card,receiving,50,False,False,False,{74: 1},[4381],2241,1,9,False
+984,verify my identity,card accept,10,False,False,False,{74: 1},[4381],984,1,9,False
+2933,card about to expire,card about,9,False,True,False,{74: 1},[4381],2933,1,9,False
+1265,pin blocked,get physical,38,False,False,False,{74: 1},[4381],1265,1,9,False
+1811,why verify identity,declined card,25,False,False,False,{74: 1},[4381],1811,1,9,False
+1428,verify my identity,comprom,22,False,False,False,{74: 1},[4381],1428,1,9,False
+1568,why verify identity,declined c,26,False,False,False,{74: 1},[4381],1568,1,9,False
+2675,get disposable virtual card,top up failed,59,False,False,False,{74: 1},[4381],2675,1,9,False
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,{74: 1},[4381],1645,1,9,False
+2289,why verify identity,failed,35,False,False,False,{74: 1},[4381],2289,1,9,False
+2854,activate my card,activ,0,False,True,False,{74: 1},[4381],2854,1,9,False
+1356,card payment not recognised,to,62,False,False,False,{74: 1},[4381],1356,1,9,False
+982,card payment not recognised,card accept,10,False,False,False,{74: 1},[4381],982,1,9,False
+1518,cancel transfer,direct,28,False,False,False,{74: 1},[4381],1518,1,9,False
+722,top up limits,top up limits,60,False,True,False,{74: 1},[4381],722,1,9,False
+2372,verify top up,verify top,71,False,True,False,{74: 1},[4381],2372,1,9,False
+1917,cancel transfer,terminate,55,False,False,False,{74: 1},[4381],1917,1,9,False
+1500,verify my identity,direct,28,False,False,False,{74: 1},[4381],1500,1,9,False
+1933,get physical card,card sw,18,False,False,False,{74: 1},[4381],1933,1,9,False
+2833,top up by bank transfer charge,top up by card,57,False,False,False,{74: 1},[4381],2833,1,9,False
+1639,cancel transfer,pending card,45,False,False,False,{74: 1},[4381],1639,1,9,False
+1136,change pin,edit,30,False,False,False,{74: 1},[4381],1136,1,9,False
+2124,change pin,change,21,False,True,False,{74: 1},[4381],2124,1,9,False
+3008,verify my identity,verify my,69,False,True,False,{74: 1},[4381],3008,1,9,False
+1704,get disposable virtual card,request,52,False,False,False,{74: 1},[4381],1704,1,9,False
+2243,get physical card,receiving,50,False,False,False,{74: 1},[4381],2243,1,9,False
+748,top up limits,top up limits,60,False,True,False,{74: 1},[4381],748,1,9,False
+2649,why verify identity,top up failed,59,False,False,False,{74: 1},[4381],2649,1,9,False
+1258,why verify identity,get physical,38,False,False,False,{74: 1},[4381],1258,1,9,False
+1318,verify my identity,vis,73,False,False,False,{74: 1},[4381],1318,1,9,False
+1770,request refund,Ref,51,False,False,False,{74: 1},[4381],1770,1,9,False
+217,why verify identity,pending c,46,False,False,False,{74: 1},[4381],217,1,9,False
+1141,change pin,edit,30,False,False,False,{74: 1},[4381],1141,1,9,False
+2078,transfer timing,transfer timing,67,False,True,False,{74: 1},[4381],2078,1,9,False
+402,change pin,exchange via,33,False,False,False,{74: 1},[4381],402,1,9,False
+1349,transfer fee charged,to,62,False,False,False,{74: 1},[4381],1349,1,9,False
+80,get physical card,exchange rate,32,False,False,False,{74: 1},[4381],80,1,9,False
+1355,top up by card charge,to,62,False,False,False,{74: 1},[4381],1355,1,9,False
+2386,verify top up,verify top,71,False,True,False,{74: 1},[4381],2386,1,9,False
+838,why verify identity,card payment fee,15,False,False,False,{74: 1},[4381],838,1,9,False
+2267,verify my identity,receiving,50,False,False,False,{74: 1},[4381],2267,1,9,False
+2881,why verify identity,cash withdrawal charge,19,False,False,False,{74: 1},[4381],2881,1,9,False
+801,why verify identity,card payment fee,15,False,False,False,{74: 1},[4381],801,1,9,False
+73,card linking,card linking,13,False,True,False,{74: 1},[4381],73,1,9,False
+1967,cancel transfer,transaction,63,False,False,False,{74: 1},[4381],1967,1,9,False
+2982,top up by card charge,apple,2,False,False,False,{74: 1},[4381],2982,1,9,False
+46,card not working,card linking,13,False,False,False,{74: 1},[4381],46,1,9,False
+2916,get physical card,cash withdrawal charge,19,False,False,False,{74: 1},[4381],2916,1,9,False

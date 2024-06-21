@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+12355,calendar,calendar,60,True,True,True,"{60: 1, 130: 1, 108: 1, 3: 1, 65: 1}","[12355, 8860, 8941, 8367, 12543]",12355,5,7,False,5
+8860,sync device,sync,130,True,True,False,"{60: 1, 130: 1, 108: 1, 3: 1, 65: 1}","[12355, 8860, 8941, 8367, 12543]",8860,5,7,False,5
+8941,direct deposit,direct,108,True,True,False,"{60: 1, 130: 1, 108: 1, 3: 1, 65: 1}","[12355, 8860, 8941, 8367, 12543]",8941,5,7,False,5
+8367,oil change how,oil change how,3,True,True,True,"{60: 1, 130: 1, 108: 1, 3: 1, 65: 1}","[12355, 8860, 8941, 8367, 12543]",8367,5,7,False,5
+12543,todo list update,todo list update,65,True,True,True,"{60: 1, 130: 1, 108: 1, 3: 1, 65: 1}","[12355, 8860, 8941, 8367, 12543]",12543,5,7,False,5

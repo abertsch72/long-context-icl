@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1104,2,6,False,2
+472,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",472,2,6,False,2
+1345,card delivery estimate,order,43,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1345,2,6,False,2
+838,pending transfer,pending card,45,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",838,2,6,False,2
+942,declined card payment,decl,25,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",942,2,6,False,2
+707,atm support,at,3,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",707,2,6,False,2
+378,contactless not working,contact,23,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",378,2,6,False,2
+1258,transfer not received by recipient,failed,35,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1258,2,6,False,2
+451,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",451,2,6,False,2
+1467,top up limits,top up by card,57,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",1467,2,6,False,2
+652,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",652,2,6,False,2
+774,passcode forgotten,pass,44,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",774,2,6,False,2
+1112,transfer not received by recipient,verify,70,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1112,2,6,False,2
+659,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",659,2,6,False,2
+67,exchange rate,exchange,32,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",67,2,6,False,2
+773,passcode forgotten,pass,44,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",773,2,6,False,2
+679,disposable card limits,dispos,29,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",679,2,6,False,2
+956,card not working,decl,25,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",956,2,6,False,2
+919,order physical card,request,52,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",919,2,6,False,2
+1221,transfer not received by recipient,receiving,50,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1221,2,6,False,2
+605,transfer not received by recipient,to,62,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",605,2,6,False,2
+240,card not working,card not,14,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",240,2,6,False,2
+1069,card not working,card sw,18,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1069,2,6,False,2
+1228,transfer not received by recipient,receiving,50,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1228,2,6,False,2
+1006,terminate account,terminate,55,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1006,2,6,False,2
+1308,top up limits,top up by c,58,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",1308,2,6,False,2
+106,extra charge on statement,extra,34,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",106,2,6,False,2
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1429,2,6,False,2
+455,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",455,2,6,False,2
+1380,virtual card not working,virtual,72,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1380,2,6,False,2
+325,top up limits,pin,49,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",325,2,6,False,2
+745,direct debit payment not recognised,direct,28,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",745,2,6,False,2
+1439,transfer timing,balance,5,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1439,2,6,False,2
+941,card not working,decl,25,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",941,2,6,False,2
+401,top up limits,pending top,47,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",401,2,6,False,2
+1190,change pin,change,21,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1190,2,6,False,2
+759,top up limits,direct,28,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",759,2,6,False,2
+1180,change pin,change,21,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1180,2,6,False,2
+123,exchange rate,fi,36,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",123,2,6,False,2
+1517,activate my card,activ,0,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1517,2,6,False,2
+227,automatic top up,automatic,4,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",227,2,6,False,2
+1321,card delivery estimate,order,43,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1321,2,6,False,2
+393,contactless not working,contact,23,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",393,2,6,False,2
+999,transfer timing,pending transfer,48,True,False,False,"{48: 1, 60: 1}","[3462, 2798]",999,2,6,False,2
+927,declined card payment,decl,25,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",927,2,6,False,2
+244,card not working,card not,14,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",244,2,6,False,2
+181,order physical card,card delivery,12,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",181,2,6,False,2
+1170,pin blocked,change,21,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1170,2,6,False,2
+666,virtual card not working,dispos,29,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",666,2,6,False,2
+1028,terminate account,terminate,55,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1028,2,6,False,2
+772,lost or stolen phone,pass,44,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",772,2,6,False,2
+1223,change pin,receiving,50,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1223,2,6,False,2
+421,top up limits,pending top,47,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",421,2,6,False,2
+132,exchange rate,fi,36,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",132,2,6,False,2
+155,exchange rate,fi,36,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",155,2,6,False,2
+459,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",459,2,6,False,2
+371,contactless not working,contact,23,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",371,2,6,False,2
+15,card not working,card linking,13,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",15,2,6,False,2
+1253,failed transfer,failed,35,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1253,2,6,False,2
+197,top up by card charge,card delivery,12,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",197,2,6,False,2
+527,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",527,2,6,False,2
+531,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",531,2,6,False,2
+382,contactless not working,contact,23,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",382,2,6,False,2
+620,transfer not received by recipient,to,62,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",620,2,6,False,2
+871,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",871,2,6,False,2
+1095,verify source of funds,verify,70,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1095,2,6,False,2
+1501,card not working,activ,0,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1501,2,6,False,2
+1368,virtual card not working,virtual,72,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1368,2,6,False,2
+344,pin blocked,pin,49,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",344,2,6,False,2
+429,pending top up,pending top,47,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",429,2,6,False,2
+291,age limit,age,1,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",291,2,6,False,2
+474,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",474,2,6,False,2
+137,fiat currency support,fi,36,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",137,2,6,False,2
+784,passcode forgotten,pass,44,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",784,2,6,False,2
+1021,terminate account,terminate,55,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1021,2,6,False,2
+1414,transfer not received by recipient,balance,5,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1414,2,6,False,2
+741,card not working,direct,28,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",741,2,6,False,2
+904,request refund,request,52,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",904,2,6,False,2
+723,card not working,direct,28,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",723,2,6,False,2
+87,card not working,extra,34,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",87,2,6,False,2
+1457,top up limits,top up by card,57,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",1457,2,6,False,2
+747,direct debit payment not recognised,direct,28,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",747,2,6,False,2
+728,card not working,direct,28,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",728,2,6,False,2
+860,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",860,2,6,False,2
+355,card not working,pin,49,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",355,2,6,False,2
+1294,top up by cash or cheque,top up by c,58,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1294,2,6,False,2
+521,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",521,2,6,False,2
+299,age limit,age,1,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",299,2,6,False,2
+807,pending transfer,pending card,45,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",807,2,6,False,2
+1367,virtual card not working,virtual,72,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1367,2,6,False,2
+556,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",556,2,6,False,2
+239,top up limits,automatic,4,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",239,2,6,False,2
+1418,transfer not received by recipient,balance,5,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1418,2,6,False,2
+203,top up limits,automatic,4,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",203,2,6,False,2
+1265,transfer not received by recipient,failed,35,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1265,2,6,False,2
+1509,activate my card,activ,0,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1509,2,6,False,2
+284,age limit,age,1,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",284,2,6,False,2
+1335,card delivery estimate,order,43,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1335,2,6,False,2
+517,transfer not received by recipient,transfer not,66,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",517,2,6,False,2
+458,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",458,2,6,False,2
+808,pending transfer,pending card,45,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",808,2,6,False,2
+290,age limit,age,1,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",290,2,6,False,2
+584,top up limits,top up revert,61,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",584,2,6,False,2
+129,fiat currency support,fi,36,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",129,2,6,False,2
+306,age limit,age,1,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",306,2,6,False,2
+457,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",457,2,6,False,2
+179,card delivery estimate,card delivery,12,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",179,2,6,False,2
+628,transfer not received by recipient,to,62,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",628,2,6,False,2
+26,card not working,card linking,13,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",26,2,6,False,2
+1276,transfer not received by recipient,failed,35,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1276,2,6,False,2
+839,pending transfer,pending card,45,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",839,2,6,False,2
+1174,pin blocked,change,21,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1174,2,6,False,2
+557,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",557,2,6,False,2
+446,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",446,2,6,False,2
+1117,transfer not received by recipient,verify,70,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1117,2,6,False,2
+215,top up limits,automatic,4,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",215,2,6,False,2
+966,transfer timing,pending transfer,48,True,False,False,"{48: 1, 60: 1}","[3462, 2798]",966,2,6,False,2
+420,top up limits,pending top,47,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",420,2,6,False,2
+614,top up by card charge,to,62,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",614,2,6,False,2
+192,card delivery estimate,card delivery,12,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",192,2,6,False,2
+667,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",667,2,6,False,2
+852,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",852,2,6,False,2
+1083,verify source of funds,verify,70,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1083,2,6,False,2
+1106,verify source of funds,verify,70,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1106,2,6,False,2
+917,order physical card,request,52,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",917,2,6,False,2
+508,pending transfer,transfer not,66,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",508,2,6,False,2
+146,fiat currency support,fi,36,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",146,2,6,False,2
+1307,top up limits,top up by c,58,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",1307,2,6,False,2
+334,pin blocked,pin,49,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",334,2,6,False,2
+962,transfer not received by recipient,pending transfer,48,True,False,False,"{48: 1, 60: 1}","[3462, 2798]",962,2,6,False,2
+1015,terminate account,terminate,55,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1015,2,6,False,2
+1486,activate my card,activ,0,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1486,2,6,False,2
+391,contactless not working,contact,23,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",391,2,6,False,2
+1243,transfer not received by recipient,failed,35,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1243,2,6,False,2
+69,exchange rate,exchange,32,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",69,2,6,False,2
+392,contactless not working,contact,23,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",392,2,6,False,2
+792,passcode forgotten,pass,44,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",792,2,6,False,2
+1448,topping up by card,top up by card,57,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1448,2,6,False,2
+490,transfer not received by recipient,transfer not,66,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",490,2,6,False,2
+676,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",676,2,6,False,2
+648,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",648,2,6,False,2
+818,pending transfer,pending card,45,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",818,2,6,False,2
+982,transfer timing,pending transfer,48,True,False,False,"{48: 1, 60: 1}","[3462, 2798]",982,2,6,False,2
+973,transfer not received by recipient,pending transfer,48,True,False,False,"{48: 1, 60: 1}","[3462, 2798]",973,2,6,False,2
+535,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",535,2,6,False,2
+793,passcode forgotten,pass,44,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",793,2,6,False,2
+259,card not working,card not,14,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",259,2,6,False,2
+430,top up limits,pending top,47,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",430,2,6,False,2
+481,transfer not received by recipient,transfer not,66,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",481,2,6,False,2
+567,top up limits,top up revert,61,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",567,2,6,False,2
+72,exchange rate,exchange,32,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",72,2,6,False,2
+113,extra charge on statement,extra,34,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",113,2,6,False,2
+384,contactless not working,contact,23,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",384,2,6,False,2
+1053,lost or stolen phone,card sw,18,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1053,2,6,False,2
+1401,transfer not received by recipient,balance,5,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1401,2,6,False,2
+969,pending transfer,pending transfer,48,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",969,2,6,False,2
+312,age limit,age,1,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",312,2,6,False,2
+892,top up limits,request,52,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",892,2,6,False,2
+454,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",454,2,6,False,2
+479,top up limits,top up limits,60,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",479,2,6,False,2
+650,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",650,2,6,False,2
+23,card linking,card linking,13,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",23,2,6,False,2
+1212,top up limits,receiving,50,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",1212,2,6,False,2
+1214,top up limits,receiving,50,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",1214,2,6,False,2
+1349,card delivery estimate,order,43,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1349,2,6,False,2
+262,card not working,card not,14,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",262,2,6,False,2
+48,exchange rate,exchange,32,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",48,2,6,False,2
+285,transfer not received by recipient,age,1,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",285,2,6,False,2
+851,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",851,2,6,False,2
+1352,card delivery estimate,order,43,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1352,2,6,False,2
+327,pin blocked,pin,49,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",327,2,6,False,2
+1438,transfer not received by recipient,balance,5,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1438,2,6,False,2
+29,card linking,card linking,13,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",29,2,6,False,2
+234,top up limits,automatic,4,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",234,2,6,False,2
+528,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",528,2,6,False,2
+369,card not working,contact,23,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",369,2,6,False,2
+128,exchange rate,fi,36,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",128,2,6,False,2
+1151,transfer timing,transfer timing,67,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1151,2,6,False,2
+544,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",544,2,6,False,2
+884,top up limits,request,52,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",884,2,6,False,2
+593,top up limits,top up revert,61,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",593,2,6,False,2
+229,top up limits,automatic,4,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",229,2,6,False,2
+876,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",876,2,6,False,2
+629,transfer not received by recipient,to,62,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",629,2,6,False,2
+1419,transfer not received by recipient,balance,5,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1419,2,6,False,2
+821,pending top up,pending card,45,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",821,2,6,False,2
+1285,top up by cash or cheque,top up by c,58,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1285,2,6,False,2
+678,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",678,2,6,False,2
+204,top up limits,automatic,4,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",204,2,6,False,2
+872,card not working,lost,42,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",872,2,6,False,2
+696,top up limits,at,3,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",696,2,6,False,2
+219,balance not updated after bank transfer,automatic,4,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",219,2,6,False,2
+190,card delivery estimate,card delivery,12,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",190,2,6,False,2
+379,contactless not working,contact,23,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",379,2,6,False,2
+1340,card swallowed,order,43,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1340,2,6,False,2
+978,transfer not received by recipient,pending transfer,48,True,False,False,"{48: 1, 60: 1}","[3462, 2798]",978,2,6,False,2
+645,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",645,2,6,False,2
+735,direct debit payment not recognised,direct,28,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",735,2,6,False,2
+850,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",850,2,6,False,2
+1353,card delivery estimate,order,43,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1353,2,6,False,2
+800,card not working,pending card,45,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",800,2,6,False,2
+1329,card delivery estimate,order,43,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1329,2,6,False,2
+115,extra charge on statement,extra,34,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",115,2,6,False,2
+1396,virtual card not working,virtual,72,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1396,2,6,False,2
+34,card not working,card linking,13,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",34,2,6,False,2
+967,pending transfer,pending transfer,48,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",967,2,6,False,2
+1512,card not working,activ,0,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1512,2,6,False,2
+439,pending top up,pending top,47,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",439,2,6,False,2
+1411,transfer timing,balance,5,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1411,2,6,False,2
+1217,transfer not received by recipient,receiving,50,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1217,2,6,False,2
+867,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",867,2,6,False,2
+704,atm support,at,3,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",704,2,6,False,2
+1211,transfer not received by recipient,receiving,50,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1211,2,6,False,2
+646,top up limits,dispos,29,False,False,True,"{48: 1, 60: 1}","[3462, 2798]",646,2,6,False,2
+1165,change pin,change,21,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1165,2,6,False,2
+799,pin blocked,pass,44,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",799,2,6,False,2
+898,order physical card,request,52,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",898,2,6,False,2
+36,card not working,card linking,13,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",36,2,6,False,2
+1278,transfer not received by recipient,failed,35,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1278,2,6,False,2
+324,pin blocked,pin,49,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",324,2,6,False,2
+689,atm support,at,3,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",689,2,6,False,2
+1508,activate my card,activ,0,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1508,2,6,False,2
+992,pending transfer,pending transfer,48,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",992,2,6,False,2
+314,age limit,age,1,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",314,2,6,False,2
+1082,transfer not received by recipient,verify,70,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",1082,2,6,False,2
+1096,verify source of funds,verify,70,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1096,2,6,False,2
+787,change pin,pass,44,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",787,2,6,False,2
+842,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",842,2,6,False,2
+191,card delivery estimate,card delivery,12,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",191,2,6,False,2
+845,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",845,2,6,False,2
+1027,terminate account,terminate,55,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1027,2,6,False,2
+99,extra charge on statement,extra,34,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",99,2,6,False,2
+552,card acceptance,card accept,10,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",552,2,6,False,2
+1024,terminate account,terminate,55,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1024,2,6,False,2
+141,exchange rate,fi,36,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",141,2,6,False,2
+625,transfer not received by recipient,to,62,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",625,2,6,False,2
+922,declined card payment,decl,25,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",922,2,6,False,2
+977,transfer timing,pending transfer,48,True,False,False,"{48: 1, 60: 1}","[3462, 2798]",977,2,6,False,2
+135,change pin,fi,36,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",135,2,6,False,2
+1109,verify source of funds,verify,70,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1109,2,6,False,2
+405,pending top up,pending top,47,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",405,2,6,False,2
+760,passcode forgotten,pass,44,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",760,2,6,False,2
+1035,terminate account,terminate,55,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1035,2,6,False,2
+928,card not working,decl,25,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",928,2,6,False,2
+976,transfer timing,pending transfer,48,True,False,False,"{48: 1, 60: 1}","[3462, 2798]",976,2,6,False,2
+963,pending transfer,pending transfer,48,True,True,True,"{48: 1, 60: 1}","[3462, 2798]",963,2,6,False,2
+762,passcode forgotten,pass,44,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",762,2,6,False,2
+514,transfer timing,transfer not,66,False,False,False,"{48: 1, 60: 1}","[3462, 2798]",514,2,6,False,2
+870,lost or stolen phone,lost,42,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",870,2,6,False,2
+1122,transfer timing,transfer timing,67,False,True,False,"{48: 1, 60: 1}","[3462, 2798]",1122,2,6,False,2

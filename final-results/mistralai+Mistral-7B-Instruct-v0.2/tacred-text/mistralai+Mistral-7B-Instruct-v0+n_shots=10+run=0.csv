@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+12948,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12948,10,0,False
+186,person age,person age,person age,False,True,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",186,10,0,False
+7675,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7675,10,0,False
+12851,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12851,10,0,False
+12672,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12672,10,0,False
+8801,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8801,10,0,False
+9109,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9109,10,0,False
+6626,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6626,10,0,False
+6986,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6986,10,0,False
+10809,organization city of headquarters,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10809,10,0,False
+8743,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8743,10,0,False
+7015,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7015,10,0,False
+6534,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6534,10,0,False
+15099,na,organization country,organization country of headquarters,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",15099,10,0,False
+1784,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1784,10,0,False
+2675,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2675,10,0,False
+590,na,person countries,person countries of residence,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",590,10,0,False
+9253,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9253,10,0,False
+13398,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13398,10,0,False
+7279,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7279,10,0,False
+8839,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8839,10,0,False
+5483,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5483,10,0,False
+7806,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7806,10,0,False
+6757,organization founded in year,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6757,10,0,False
+6976,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6976,10,0,False
+2308,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2308,10,0,False
+14581,person title,person title,person title,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14581,10,0,False
+6442,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6442,10,0,False
+3088,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3088,10,0,False
+4642,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4642,10,0,False
+615,na,person countries,person countries of residence,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",615,10,0,False
+2493,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2493,10,0,False
+15021,na,person title,person title,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",15021,10,0,False
+2373,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2373,10,0,False
+6504,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6504,10,0,False
+5920,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5920,10,0,False
+4948,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4948,10,0,False
+8614,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8614,10,0,False
+10584,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10584,10,0,False
+8336,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8336,10,0,False
+14030,organization member of,organization members,organization members,False,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14030,10,0,False
+10737,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10737,10,0,False
+9336,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9336,10,0,False
+3225,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3225,10,0,False
+13668,organization member of,organization top,organization top members or employees,False,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13668,10,0,False
+7373,organization website,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7373,10,0,False
+8344,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8344,10,0,False
+5399,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5399,10,0,False
+3807,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3807,10,0,False
+5217,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5217,10,0,False
+3238,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3238,10,0,False
+7320,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7320,10,0,False
+5139,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5139,10,0,False
+11338,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11338,10,0,False
+14674,na,person title,person title,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14674,10,0,False
+3240,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3240,10,0,False
+10796,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10796,10,0,False
+14976,person title,person title,person title,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14976,10,0,False
+4031,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4031,10,0,False
+10686,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10686,10,0,False
+11772,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11772,10,0,False
+11681,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11681,10,0,False
+1566,person religion,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1566,10,0,False
+6451,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6451,10,0,False
+9680,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9680,10,0,False
+12777,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12777,10,0,False
+13784,person title,organization top,organization top members or employees,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13784,10,0,False
+8549,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8549,10,0,False
+5158,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5158,10,0,False
+3576,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3576,10,0,False
+6245,organization website,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6245,10,0,False
+13567,na,person country of death,person country of death,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13567,10,0,False
+9364,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9364,10,0,False
+14463,person title,person origin,person origin,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14463,10,0,False
+11035,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11035,10,0,False
+9781,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9781,10,0,False
+11419,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11419,10,0,False
+3844,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3844,10,0,False
+12743,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12743,10,0,False
+5486,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5486,10,0,False
+7377,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7377,10,0,False
+6028,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6028,10,0,False
+12521,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12521,10,0,False
+13356,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13356,10,0,False
+9574,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9574,10,0,False
+1862,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1862,10,0,False
+13069,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13069,10,0,False
+11983,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11983,10,0,False
+14940,person title,person title,person title,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14940,10,0,False
+14170,na,organization alternate,organization alternate names,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14170,10,0,False
+13410,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13410,10,0,False
+1658,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1658,10,0,False
+468,person title,person charges,person charges,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",468,10,0,False
+3318,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3318,10,0,False
+13125,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13125,10,0,False
+9488,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9488,10,0,False
+14303,person title,person religion,person religion,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14303,10,0,False
+13420,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13420,10,0,False
+7999,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7999,10,0,False
+15469,na,organization founded by,organization founded by,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",15469,10,0,False
+7621,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7621,10,0,False
+6529,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6529,10,0,False
+10852,organization founded in year,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10852,10,0,False
+4668,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4668,10,0,False
+9912,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9912,10,0,False
+7419,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7419,10,0,False
+5485,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5485,10,0,False
+10532,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10532,10,0,False
+5625,organization website,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5625,10,0,False
+8245,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8245,10,0,False
+8043,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8043,10,0,False
+10691,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10691,10,0,False
+234,person title,person age,person age,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",234,10,0,False
+13055,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13055,10,0,False
+5116,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5116,10,0,False
+2238,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2238,10,0,False
+9131,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9131,10,0,False
+3050,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3050,10,0,False
+10182,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10182,10,0,False
+10414,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10414,10,0,False
+1638,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1638,10,0,False
+9535,organization website,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9535,10,0,False
+14945,person title,person title,person title,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14945,10,0,False
+5729,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5729,10,0,False
+14664,person title,person title,person title,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14664,10,0,False
+4563,organization founded by,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4563,10,0,False
+1913,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1913,10,0,False
+2267,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2267,10,0,False
+13139,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13139,10,0,False
+6084,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6084,10,0,False
+2887,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2887,10,0,False
+2304,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2304,10,0,False
+9470,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9470,10,0,False
+6969,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6969,10,0,False
+9126,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9126,10,0,False
+3477,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3477,10,0,False
+12496,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12496,10,0,False
+343,person title,person age,person age,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",343,10,0,False
+13852,organization member of,organization top,organization top members or employees,False,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13852,10,0,False
+3653,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3653,10,0,False
+15,organization founded in year,organization founded in,organization founded in year,False,True,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",15,10,0,False
+11693,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11693,10,0,False
+697,person title,person state or provin,person state or provinces of residence,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",697,10,0,False
+1602,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1602,10,0,False
+1211,na,person employee,person employee of,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1211,10,0,False
+7249,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7249,10,0,False
+12761,organization city of headquarters,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12761,10,0,False
+10877,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10877,10,0,False
+4815,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4815,10,0,False
+7203,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7203,10,0,False
+14771,person title,person title,person title,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14771,10,0,False
+12740,organization website,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12740,10,0,False
+983,person title,person parents,person parents,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",983,10,0,False
+13034,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13034,10,0,False
+3267,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3267,10,0,False
+1552,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1552,10,0,False
+3467,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3467,10,0,False
+3546,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3546,10,0,False
+13714,na,organization top,organization top members or employees,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13714,10,0,False
+9661,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9661,10,0,False
+1954,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1954,10,0,False
+12429,organization website,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12429,10,0,False
+7461,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7461,10,0,False
+6526,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6526,10,0,False
+14563,person title,person title,person title,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14563,10,0,False
+4552,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4552,10,0,False
+12683,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12683,10,0,False
+15381,na,person other,person other family,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",15381,10,0,False
+2339,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2339,10,0,False
+1235,person title,person employee,person employee of,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1235,10,0,False
+94,na,organization city,organization city of headquarters,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",94,10,0,False
+4162,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4162,10,0,False
+15199,na,person siblings,person siblings,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",15199,10,0,False
+5086,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5086,10,0,False
+4615,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4615,10,0,False
+2669,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2669,10,0,False
+11780,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11780,10,0,False
+5820,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5820,10,0,False
+5446,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5446,10,0,False
+6837,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6837,10,0,False
+5735,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5735,10,0,False
+6913,organization city of headquarters,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",6913,10,0,False
+12853,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12853,10,0,False
+7224,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7224,10,0,False
+8501,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8501,10,0,False
+4330,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4330,10,0,False
+4275,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4275,10,0,False
+13264,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13264,10,0,False
+5340,organization founded by,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5340,10,0,False
+8237,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8237,10,0,False
+13362,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13362,10,0,False
+1727,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1727,10,0,False
+3571,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",3571,10,0,False
+12233,organization city of headquarters,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12233,10,0,False
+9826,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9826,10,0,False
+10256,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10256,10,0,False
+280,person title,person age,person age,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",280,10,0,False
+4382,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",4382,10,0,False
+791,na,person cities,person cities of residence,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",791,10,0,False
+12644,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12644,10,0,False
+2925,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2925,10,0,False
+7303,organization country of headquarters,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7303,10,0,False
+9860,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9860,10,0,False
+15044,na,organization number,organization number of employees or members,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",15044,10,0,False
+8666,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8666,10,0,False
+2874,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2874,10,0,False
+2590,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2590,10,0,False
+7554,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7554,10,0,False
+9481,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9481,10,0,False
+12389,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12389,10,0,False
+15207,person title,person siblings,person siblings,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",15207,10,0,False
+1559,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",1559,10,0,False
+12287,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12287,10,0,False
+7086,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7086,10,0,False
+10297,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10297,10,0,False
+5020,organization city of headquarters,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5020,10,0,False
+2078,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2078,10,0,False
+7984,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7984,10,0,False
+11425,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11425,10,0,False
+7508,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7508,10,0,False
+10488,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10488,10,0,False
+294,person age,person age,person age,False,True,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",294,10,0,False
+9262,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9262,10,0,False
+10121,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10121,10,0,False
+7467,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7467,10,0,False
+13186,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13186,10,0,False
+5046,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5046,10,0,False
+11848,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11848,10,0,False
+2456,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2456,10,0,False
+10793,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10793,10,0,False
+5191,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5191,10,0,False
+11195,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",11195,10,0,False
+2789,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2789,10,0,False
+14914,person title,person title,person title,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14914,10,0,False
+13209,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",13209,10,0,False
+5598,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5598,10,0,False
+5890,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5890,10,0,False
+5406,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5406,10,0,False
+8239,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",8239,10,0,False
+10834,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10834,10,0,False
+5050,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5050,10,0,False
+12299,person title,na,na,True,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12299,10,0,False
+7644,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",7644,10,0,False
+10255,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",10255,10,0,False
+2399,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",2399,10,0,False
+9541,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",9541,10,0,False
+14523,na,person state or province of birth,person state or province of birth,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",14523,10,0,False
+618,na,person countries,person countries of residence,False,False,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",618,10,0,False
+12758,organization member of,na,na,True,False,False,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",12758,10,0,False
+5115,na,na,na,True,True,True,"{'na': 9, 'person title': 1}","[46042, 48973, 51005, 9726, 49734, 40119, 41482, 51407, 63017, 19383]",5115,10,0,False

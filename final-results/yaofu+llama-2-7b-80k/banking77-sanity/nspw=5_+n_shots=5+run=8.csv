@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+9500,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9500,5,8,False,5
+8444,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8444,5,8,False,5
+5268,card payment fee charged,card payment fee,15,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5268,5,8,False,5
+9253,transaction charged twice,transaction,63,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9253,5,8,False,5
+1847,transfer not received by recipient,transfer not,66,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1847,5,8,False,5
+6623,atm support,declined c,26,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6623,5,8,False,5
+1163,change pin,change,21,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1163,5,8,False,5
+110,virtual card not working,virtual,72,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",110,5,8,False,5
+7622,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7622,5,8,False,5
+2852,transaction charged twice,transaction,63,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2852,5,8,False,5
+4591,top up failed,verify top,71,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4591,5,8,False,5
+4483,card delivery estimate,card delivery,12,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4483,5,8,False,5
+6415,transfer into account,to,62,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6415,5,8,False,5
+4232,get physical card,verify source,70,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4232,5,8,False,5
+2888,extra charge on statement,cash withdrawal charge,19,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2888,5,8,False,5
+1028,top up by card charge,top up by card,57,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1028,5,8,False,5
+6972,transfer not received by recipient,cancel,8,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6972,5,8,False,5
+1264,pin blocked,get physical,38,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1264,5,8,False,5
+8742,card not working,lost or stolen card,41,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8742,5,8,False,5
+3258,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3258,5,8,False,5
+6152,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6152,5,8,False,5
+2249,card linking,card linking,13,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2249,5,8,False,5
+1092,card not working,getting spare,39,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1092,5,8,False,5
+8207,supported cards and currencies,supported,54,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8207,5,8,False,5
+2485,card not working,wrong amount,75,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2485,5,8,False,5
+4129,exchange rate,exchange via,33,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4129,5,8,False,5
+8107,request refund,order,43,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8107,5,8,False,5
+3371,exchange rate,card payment wrong,17,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3371,5,8,False,5
+4045,get physical card,card about,9,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4045,5,8,False,5
+7562,card not working,pending top,47,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7562,5,8,False,5
+1134,card delivery estimate,card delivery,12,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1134,5,8,False,5
+4960,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4960,5,8,False,5
+1535,exchange rate,exchange charge,31,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1535,5,8,False,5
+7720,top up by card charge,verify top,71,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7720,5,8,False,5
+3144,pending transfer,pending transfer,48,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3144,5,8,False,5
+3097,card payment not recognised,top up failed,59,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3097,5,8,False,5
+3911,card payment not recognised,revert,53,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3911,5,8,False,5
+3451,card payment fee charged,declined card,25,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3451,5,8,False,5
+4633,virtual card not working,getting virtual,40,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4633,5,8,False,5
+5134,verify my identity,unable,68,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5134,5,8,False,5
+6532,top up failed,top up failed,59,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6532,5,8,False,5
+5124,transfer not received by recipient,wrong amount,75,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5124,5,8,False,5
+9644,change pin,change,21,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9644,5,8,False,5
+8109,declined card payment,declined card,25,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8109,5,8,False,5
+8435,transaction charged twice,pending card,45,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8435,5,8,False,5
+1139,direct debit payment not recognised,direct,28,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1139,5,8,False,5
+7932,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7932,5,8,False,5
+9210,get physical card,age,1,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9210,5,8,False,5
+2689,verify top up,verify top,71,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2689,5,8,False,5
+6418,lost or stolen phone,lost or stolen phone,42,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6418,5,8,False,5
+9376,top up reverted,top up revert,61,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9376,5,8,False,5
+242,top up by card charge,supported,54,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",242,5,8,False,5
+70,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",70,5,8,False,5
+5673,card delivery estimate,card about,9,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5673,5,8,False,5
+9202,card not working,supported,54,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9202,5,8,False,5
+2009,transfer not received by recipient,transfer not,66,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2009,5,8,False,5
+365,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",365,5,8,False,5
+4614,pin blocked,get physical,38,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4614,5,8,False,5
+8282,atm support,at,3,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8282,5,8,False,5
+6231,verify my identity,why,74,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6231,5,8,False,5
+6086,transfer not received by recipient,cancel,8,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6086,5,8,False,5
+8381,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8381,5,8,False,5
+8356,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8356,5,8,False,5
+2389,passcode forgotten,pass,44,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2389,5,8,False,5
+9163,verify my identity,unable,68,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9163,5,8,False,5
+9882,card not working,dispos,29,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9882,5,8,False,5
+7967,transfer not received by recipient,declined transfer,27,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7967,5,8,False,5
+2545,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2545,5,8,False,5
+2202,card payment fee charged,card payment fee,15,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2202,5,8,False,5
+4993,transaction charged twice,transaction,63,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4993,5,8,False,5
+7101,transfer not received by recipient,card arrival,11,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7101,5,8,False,5
+783,lost or stolen phone,lost or stolen phone,42,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",783,5,8,False,5
+8732,order physical card,order,43,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8732,5,8,False,5
+1224,atm support,wrong amount,75,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1224,5,8,False,5
+6828,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6828,5,8,False,5
+3213,transfer not received by recipient,declined transfer,27,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3213,5,8,False,5
+3291,get physical card,age,1,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3291,5,8,False,5
+2817,card payment fee charged,top up failed,59,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2817,5,8,False,5
+3959,card not working,activ,0,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3959,5,8,False,5
+2459,top up failed,apple,2,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2459,5,8,False,5
+2189,contactless not working,contact,23,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2189,5,8,False,5
+4913,transfer not received by recipient,transfer not,66,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4913,5,8,False,5
+6392,wrong amount of cash received,request,52,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6392,5,8,False,5
+975,top up limits,top up limits,60,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",975,5,8,False,5
+7989,virtual card not working,get dispos,37,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7989,5,8,False,5
+1813,exchange rate,exchange rate,32,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1813,5,8,False,5
+1907,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1907,5,8,False,5
+8507,cancel transfer,cancel,8,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8507,5,8,False,5
+6813,pending cash withdrawal,pending c,46,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6813,5,8,False,5
+1812,lost or stolen phone,lost or stolen phone,42,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1812,5,8,False,5
+8681,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8681,5,8,False,5
+7333,lost or stolen card,lost or stolen phone,42,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7333,5,8,False,5
+7596,top up by cash or cheque,top up by c,58,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7596,5,8,False,5
+6787,card not working,activ,0,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6787,5,8,False,5
+1306,top up failed,verify top,71,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1306,5,8,False,5
+7717,top up failed,top up failed,59,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7717,5,8,False,5
+8011,transfer not received by recipient,card delivery,12,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8011,5,8,False,5
+7374,transfer not received by recipient,transfer timing,67,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7374,5,8,False,5
+4487,card not working,dispos,29,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4487,5,8,False,5
+3701,contactless not working,contact,23,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3701,5,8,False,5
+764,transfer not received by recipient,benef,7,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",764,5,8,False,5
+8417,top up by card charge,apple,2,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8417,5,8,False,5
+9132,transfer not received by recipient,verify source,70,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9132,5,8,False,5
+2500,cancel transfer,cancel,8,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2500,5,8,False,5
+1434,card payment fee charged,top up by card,57,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1434,5,8,False,5
+7793,card payment not recognised,card payment not,16,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7793,5,8,False,5
+1911,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1911,5,8,False,5
+7186,pending card payment,pending card,45,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7186,5,8,False,5
+32,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",32,5,8,False,5
+9590,exchange rate,fi,36,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9590,5,8,False,5
+124,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",124,5,8,False,5
+3355,disposable card limits,get dispos,37,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3355,5,8,False,5
+1114,change pin,receiving,50,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1114,5,8,False,5
+8257,transfer not received by recipient,transfer timing,67,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8257,5,8,False,5
+7630,transfer not received by recipient,balance not updated after che,6,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7630,5,8,False,5
+8423,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8423,5,8,False,5
+6772,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6772,5,8,False,5
+5656,transaction charged twice,card payment not,16,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5656,5,8,False,5
+2061,card not working,lost or stolen card,41,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2061,5,8,False,5
+415,top up failed,top up revert,61,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",415,5,8,False,5
+1437,atm support,declined c,26,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1437,5,8,False,5
+6089,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6089,5,8,False,5
+8653,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8653,5,8,False,5
+2671,age limit,age,1,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2671,5,8,False,5
+9240,card not working,card linking,13,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9240,5,8,False,5
+6010,transaction charged twice,Ref,51,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6010,5,8,False,5
+3879,lost or stolen card,cash withdrawal not,20,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3879,5,8,False,5
+2011,top up failed,top up revert,61,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2011,5,8,False,5
+6807,card not working,card delivery,12,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6807,5,8,False,5
+7515,transfer not received by recipient,failed,35,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7515,5,8,False,5
+7600,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7600,5,8,False,5
+4953,verify my identity,verify my,69,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4953,5,8,False,5
+1752,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1752,5,8,False,5
+8888,get physical card,age,1,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8888,5,8,False,5
+808,transfer not received by recipient,revert,53,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",808,5,8,False,5
+3544,order physical card,card about,9,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3544,5,8,False,5
+1007,card not working,order,43,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1007,5,8,False,5
+5472,virtual card not working,getting virtual,40,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5472,5,8,False,5
+4816,transaction charged twice,direct,28,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4816,5,8,False,5
+8728,automatic top up,automatic,4,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8728,5,8,False,5
+7107,atm support,wrong amount,75,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7107,5,8,False,5
+5865,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5865,5,8,False,5
+46,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",46,5,8,False,5
+5566,exchange rate,exchange charge,31,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5566,5,8,False,5
+5474,card not working,declined c,26,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5474,5,8,False,5
+163,cancel transfer,pending c,46,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",163,5,8,False,5
+4351,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4351,5,8,False,5
+6919,passcode forgotten,pass,44,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6919,5,8,False,5
+7290,card payment not recognised,pending card,45,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7290,5,8,False,5
+4143,card payment fee charged,vis,73,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4143,5,8,False,5
+9440,top up by card charge,to,62,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9440,5,8,False,5
+8099,get physical card,getting spare,39,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8099,5,8,False,5
+1747,get physical card,direct,28,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1747,5,8,False,5
+9291,top up failed,top up failed,59,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9291,5,8,False,5
+2236,order physical card,order,43,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2236,5,8,False,5
+3964,top up by cash or cheque,top up by c,58,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3964,5,8,False,5
+9527,card payment fee charged,extra,34,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9527,5,8,False,5
+1440,declined card payment,declined c,26,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1440,5,8,False,5
+6832,wrong exchange rate for cash withdrawal,card payment wrong,17,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6832,5,8,False,5
+8974,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8974,5,8,False,5
+6466,declined card payment,declined card,25,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6466,5,8,False,5
+7199,card payment not recognised,declined card,25,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7199,5,8,False,5
+2382,get disposable virtual card,get dispos,37,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2382,5,8,False,5
+2472,virtual card not working,getting virtual,40,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2472,5,8,False,5
+7963,transfer not received by recipient,verify source,70,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7963,5,8,False,5
+3485,topping up by card,top up by bank,56,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3485,5,8,False,5
+6965,cancel transfer,request,52,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6965,5,8,False,5
+1507,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1507,5,8,False,5
+3597,card payment fee charged,top up by card,57,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3597,5,8,False,5
+8782,transaction charged twice,extra,34,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8782,5,8,False,5
+6839,card payment fee charged,top up by card,57,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6839,5,8,False,5
+4247,transfer not received by recipient,transfer not,66,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4247,5,8,False,5
+6601,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6601,5,8,False,5
+7782,transfer not received by recipient,transfer timing,67,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7782,5,8,False,5
+3502,transaction charged twice,revert,53,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3502,5,8,False,5
+5833,transfer not received by recipient,transfer timing,67,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5833,5,8,False,5
+341,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",341,5,8,False,5
+9480,exchange rate,card payment wrong,17,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9480,5,8,False,5
+9898,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9898,5,8,False,5
+7207,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7207,5,8,False,5
+5499,topping up by card,cash withdrawal charge,19,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5499,5,8,False,5
+2291,transaction charged twice,Ref,51,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2291,5,8,False,5
+202,top up failed,apple,2,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",202,5,8,False,5
+9403,transaction charged twice,extra,34,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9403,5,8,False,5
+8832,transaction charged twice,card payment not,16,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8832,5,8,False,5
+9810,direct debit payment not recognised,receiving,50,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9810,5,8,False,5
+9835,card not working,card not,14,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9835,5,8,False,5
+4443,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4443,5,8,False,5
+3776,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3776,5,8,False,5
+5948,atm support,wrong amount,75,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5948,5,8,False,5
+9357,wrong amount of cash received,card payment not,16,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9357,5,8,False,5
+8402,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8402,5,8,False,5
+1872,pin blocked,get physical,38,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1872,5,8,False,5
+990,exchange rate,exchange charge,31,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",990,5,8,False,5
+1866,transaction charged twice,revert,53,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1866,5,8,False,5
+6916,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6916,5,8,False,5
+4672,transfer into account,transfer into,65,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4672,5,8,False,5
+4735,transfer not received by recipient,fi,36,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4735,5,8,False,5
+800,card payment fee charged,contact,23,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",800,5,8,False,5
+2771,transaction charged twice,transfer not,66,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2771,5,8,False,5
+3511,exchange rate,card payment wrong,17,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3511,5,8,False,5
+1532,transfer into account,supported,54,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1532,5,8,False,5
+292,top up by card charge,automatic,4,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",292,5,8,False,5
+1989,cash withdrawal not recognised,top up by c,58,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1989,5,8,False,5
+8530,card not working,vis,73,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8530,5,8,False,5
+3250,transfer into account,top up by c,58,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3250,5,8,False,5
+5353,transfer not received by recipient,receiving,50,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5353,5,8,False,5
+4526,contactless not working,contact,23,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4526,5,8,False,5
+1716,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",1716,5,8,False,5
+3042,wrong amount of cash received,card payment not,16,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3042,5,8,False,5
+483,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",483,5,8,False,5
+2257,change pin,change,21,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2257,5,8,False,5
+3921,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3921,5,8,False,5
+409,extra charge on statement,card payment fee,15,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",409,5,8,False,5
+4574,extra charge on statement,card payment fee,15,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4574,5,8,False,5
+3288,balance not updated after bank transfer,automatic,4,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3288,5,8,False,5
+2243,card not working,card linking,13,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2243,5,8,False,5
+9211,wrong amount of cash received,wrong amount,75,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9211,5,8,False,5
+9648,cancel transfer,terminate,55,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9648,5,8,False,5
+8111,card not working,declined c,26,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8111,5,8,False,5
+5640,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5640,5,8,False,5
+5751,top up by card charge,automatic,4,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5751,5,8,False,5
+9467,transaction charged twice,transfer not,66,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9467,5,8,False,5
+6956,top up failed,top up revert,61,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6956,5,8,False,5
+2454,wrong amount of cash received,transaction,63,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",2454,5,8,False,5
+4448,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",4448,5,8,False,5
+6049,card delivery estimate,order,43,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6049,5,8,False,5
+9711,top up by cash or cheque,top up by c,58,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9711,5,8,False,5
+599,card not working,card sw,18,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",599,5,8,False,5
+304,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",304,5,8,False,5
+3385,wrong amount of cash received,wrong amount,75,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3385,5,8,False,5
+5925,transfer fee charged,transfer fee,64,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5925,5,8,False,5
+5880,atm support,pending c,46,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5880,5,8,False,5
+5237,card payment not recognised,declined card,25,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5237,5,8,False,5
+3432,exchange rate,exchange via,33,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3432,5,8,False,5
+833,card payment fee charged,vis,73,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",833,5,8,False,5
+3209,transfer not received by recipient,transfer not,66,True,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3209,5,8,False,5
+8133,transfer not received by recipient,verify source,70,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",8133,5,8,False,5
+5576,change pin,change,21,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",5576,5,8,False,5
+7978,card payment fee charged,transaction,63,True,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7978,5,8,False,5
+6646,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6646,5,8,False,5
+3813,card not working,getting spare,39,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3813,5,8,False,5
+6552,transfer not received by recipient,benef,7,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6552,5,8,False,5
+3170,card not working,dispos,29,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3170,5,8,False,5
+9116,card not working,lost or stolen card,41,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",9116,5,8,False,5
+6008,top up limits,top up limits,60,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6008,5,8,False,5
+350,transfer into account,transfer into,65,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",350,5,8,False,5
+3151,card not working,card not,14,False,True,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",3151,5,8,False,5
+7283,transfer not received by recipient,exchange via,33,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",7283,5,8,False,5
+6743,verify my identity,why,74,False,False,False,"{49: 1, 34: 1, 15: 1, 63: 1, 66: 1}","[9500, 8444, 5268, 9253, 1847]",6743,5,8,False,5

@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1104,5,2,False,5
+472,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",472,5,2,False,5
+1345,card delivery estimate,order,43,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1345,5,2,False,5
+838,pending top up,pending card,45,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",838,5,2,False,5
+942,card not working,decl,25,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",942,5,2,False,5
+707,atm support,at,3,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",707,5,2,False,5
+378,contactless not working,contact,23,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",378,5,2,False,5
+1258,transfer not received by recipient,failed,35,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1258,5,2,False,5
+451,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",451,5,2,False,5
+1467,top up by card charge,top up by card,57,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1467,5,2,False,5
+652,card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",652,5,2,False,5
+774,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",774,5,2,False,5
+1112,balance not updated after bank transfer,verify,70,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1112,5,2,False,5
+659,card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",659,5,2,False,5
+67,exchange rate,exchange,32,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",67,5,2,False,5
+773,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",773,5,2,False,5
+679,virtual card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",679,5,2,False,5
+956,card not working,decl,25,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",956,5,2,False,5
+919,order physical card,request,52,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",919,5,2,False,5
+1221,transfer not received by recipient,receiving,50,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1221,5,2,False,5
+605,top up by card charge,to,62,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",605,5,2,False,5
+240,card not working,card not,14,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",240,5,2,False,5
+1069,card not working,card sw,18,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1069,5,2,False,5
+1228,transfer not received by recipient,receiving,50,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1228,5,2,False,5
+1006,terminate account,terminate,55,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1006,5,2,False,5
+1308,top up by cash or cheque,top up by c,58,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1308,5,2,False,5
+106,extra charge on statement,extra,34,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",106,5,2,False,5
+1429,balance not updated after bank transfer,balance,5,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1429,5,2,False,5
+455,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",455,5,2,False,5
+1380,virtual card not working,virtual,72,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1380,5,2,False,5
+325,pin blocked,pin,49,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",325,5,2,False,5
+745,direct debit payment not recognised,direct,28,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",745,5,2,False,5
+1439,balance not updated after bank transfer,balance,5,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1439,5,2,False,5
+941,card not working,decl,25,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",941,5,2,False,5
+401,top up reverted,pending top,47,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",401,5,2,False,5
+1190,change pin,change,21,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1190,5,2,False,5
+759,failed transfer,direct,28,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",759,5,2,False,5
+1180,change pin,change,21,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1180,5,2,False,5
+123,exchange rate,fi,36,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",123,5,2,False,5
+1517,card not working,activ,0,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1517,5,2,False,5
+227,automatic top up,automatic,4,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",227,5,2,False,5
+1321,card not working,order,43,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1321,5,2,False,5
+393,contactless not working,contact,23,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",393,5,2,False,5
+999,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",999,5,2,False,5
+927,card not working,decl,25,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",927,5,2,False,5
+244,card not working,card not,14,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",244,5,2,False,5
+181,order physical card,card delivery,12,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",181,5,2,False,5
+1170,pin blocked,change,21,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1170,5,2,False,5
+666,virtual card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",666,5,2,False,5
+1028,terminate account,terminate,55,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1028,5,2,False,5
+772,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",772,5,2,False,5
+1223,change pin,receiving,50,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1223,5,2,False,5
+421,top up reverted,pending top,47,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",421,5,2,False,5
+132,exchange rate,fi,36,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",132,5,2,False,5
+155,exchange rate,fi,36,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",155,5,2,False,5
+459,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",459,5,2,False,5
+371,contactless not working,contact,23,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",371,5,2,False,5
+15,card not working,card linking,13,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",15,5,2,False,5
+1253,transfer not received by recipient,failed,35,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1253,5,2,False,5
+197,change pin,card delivery,12,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",197,5,2,False,5
+527,card not working,card accept,10,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",527,5,2,False,5
+531,card acceptance,card accept,10,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",531,5,2,False,5
+382,contactless not working,contact,23,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",382,5,2,False,5
+620,transfer not received by recipient,to,62,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",620,5,2,False,5
+871,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",871,5,2,False,5
+1095,verify source of funds,verify,70,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1095,5,2,False,5
+1501,card not working,activ,0,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1501,5,2,False,5
+1368,virtual card not working,virtual,72,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1368,5,2,False,5
+344,pin blocked,pin,49,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",344,5,2,False,5
+429,top up reverted,pending top,47,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",429,5,2,False,5
+291,age limit,age,1,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",291,5,2,False,5
+474,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",474,5,2,False,5
+137,exchange rate,fi,36,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",137,5,2,False,5
+784,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",784,5,2,False,5
+1021,request refund,terminate,55,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1021,5,2,False,5
+1414,transfer not received by recipient,balance,5,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1414,5,2,False,5
+741,card not working,direct,28,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",741,5,2,False,5
+904,request refund,request,52,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",904,5,2,False,5
+723,card not working,direct,28,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",723,5,2,False,5
+87,extra charge on statement,extra,34,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",87,5,2,False,5
+1457,top up by card charge,top up by card,57,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1457,5,2,False,5
+747,direct debit payment not recognised,direct,28,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",747,5,2,False,5
+728,extra charge on statement,direct,28,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",728,5,2,False,5
+860,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",860,5,2,False,5
+355,card not working,pin,49,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",355,5,2,False,5
+1294,top up by cash or cheque,top up by c,58,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1294,5,2,False,5
+521,card not working,card accept,10,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",521,5,2,False,5
+299,age limit,age,1,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",299,5,2,False,5
+807,pending top up,pending card,45,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",807,5,2,False,5
+1367,virtual card not working,virtual,72,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1367,5,2,False,5
+556,card not working,card accept,10,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",556,5,2,False,5
+239,top up by card charge,automatic,4,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",239,5,2,False,5
+1418,transfer not received by recipient,balance,5,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1418,5,2,False,5
+203,top up by card charge,automatic,4,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",203,5,2,False,5
+1265,transfer not received by recipient,failed,35,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1265,5,2,False,5
+1509,card not working,activ,0,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1509,5,2,False,5
+284,age limit,age,1,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",284,5,2,False,5
+1335,card delivery estimate,order,43,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1335,5,2,False,5
+517,transfer not received by recipient,transfer not,66,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",517,5,2,False,5
+458,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",458,5,2,False,5
+808,pending transfer,pending card,45,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",808,5,2,False,5
+290,age limit,age,1,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",290,5,2,False,5
+584,top up reverted,top up revert,61,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",584,5,2,False,5
+129,fiat currency support,fi,36,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",129,5,2,False,5
+306,age limit,age,1,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",306,5,2,False,5
+457,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",457,5,2,False,5
+179,card delivery estimate,card delivery,12,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",179,5,2,False,5
+628,transfer not received by recipient,to,62,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",628,5,2,False,5
+26,card not working,card linking,13,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",26,5,2,False,5
+1276,transfer not received by recipient,failed,35,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1276,5,2,False,5
+839,pending top up,pending card,45,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",839,5,2,False,5
+1174,pin blocked,change,21,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1174,5,2,False,5
+557,card not working,card accept,10,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",557,5,2,False,5
+446,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",446,5,2,False,5
+1117,transfer not received by recipient,verify,70,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1117,5,2,False,5
+215,top up reverted,automatic,4,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",215,5,2,False,5
+966,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",966,5,2,False,5
+420,top up reverted,pending top,47,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",420,5,2,False,5
+614,top up by card charge,to,62,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",614,5,2,False,5
+192,card not working,card delivery,12,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",192,5,2,False,5
+667,virtual card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",667,5,2,False,5
+852,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",852,5,2,False,5
+1083,verify source of funds,verify,70,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1083,5,2,False,5
+1106,verify source of funds,verify,70,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1106,5,2,False,5
+917,request refund,request,52,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",917,5,2,False,5
+508,pending transfer,transfer not,66,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",508,5,2,False,5
+146,fiat currency support,fi,36,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",146,5,2,False,5
+1307,top up by cash or cheque,top up by c,58,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1307,5,2,False,5
+334,pin blocked,pin,49,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",334,5,2,False,5
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",962,5,2,False,5
+1015,terminate account,terminate,55,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1015,5,2,False,5
+1486,card not working,activ,0,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1486,5,2,False,5
+391,contactless not working,contact,23,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",391,5,2,False,5
+1243,transfer not received by recipient,failed,35,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1243,5,2,False,5
+69,exchange rate,exchange,32,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",69,5,2,False,5
+392,contactless not working,contact,23,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",392,5,2,False,5
+792,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",792,5,2,False,5
+1448,topping up by card,top up by card,57,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1448,5,2,False,5
+490,transfer not received by recipient,transfer not,66,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",490,5,2,False,5
+676,virtual card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",676,5,2,False,5
+648,card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",648,5,2,False,5
+818,pending card payment,pending card,45,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",818,5,2,False,5
+982,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",982,5,2,False,5
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",973,5,2,False,5
+535,card not working,card accept,10,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",535,5,2,False,5
+793,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",793,5,2,False,5
+259,card not working,card not,14,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",259,5,2,False,5
+430,top up reverted,pending top,47,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",430,5,2,False,5
+481,transfer not received by recipient,transfer not,66,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",481,5,2,False,5
+567,top up reverted,top up revert,61,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",567,5,2,False,5
+72,exchange rate,exchange,32,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",72,5,2,False,5
+113,extra charge on statement,extra,34,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",113,5,2,False,5
+384,card not working,contact,23,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",384,5,2,False,5
+1053,card swallowed,card sw,18,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1053,5,2,False,5
+1401,transfer not received by recipient,balance,5,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1401,5,2,False,5
+969,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",969,5,2,False,5
+312,age limit,age,1,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",312,5,2,False,5
+892,request refund,request,52,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",892,5,2,False,5
+454,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",454,5,2,False,5
+479,top up limits,top up limits,60,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",479,5,2,False,5
+650,card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",650,5,2,False,5
+23,card not working,card linking,13,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",23,5,2,False,5
+1212,exchange rate,receiving,50,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1212,5,2,False,5
+1214,transfer not received by recipient,receiving,50,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1214,5,2,False,5
+1349,card delivery estimate,order,43,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1349,5,2,False,5
+262,card not working,card not,14,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",262,5,2,False,5
+48,exchange rate,exchange,32,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",48,5,2,False,5
+285,request refund,age,1,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",285,5,2,False,5
+851,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",851,5,2,False,5
+1352,card delivery estimate,order,43,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1352,5,2,False,5
+327,pin blocked,pin,49,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",327,5,2,False,5
+1438,balance not updated after bank transfer,balance,5,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1438,5,2,False,5
+29,card linking,card linking,13,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",29,5,2,False,5
+234,top up by card charge,automatic,4,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",234,5,2,False,5
+528,card not working,card accept,10,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",528,5,2,False,5
+369,card not working,contact,23,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",369,5,2,False,5
+128,exchange rate,fi,36,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",128,5,2,False,5
+1151,transfer timing,transfer timing,67,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1151,5,2,False,5
+544,card not working,card accept,10,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",544,5,2,False,5
+884,request refund,request,52,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",884,5,2,False,5
+593,top up reverted,top up revert,61,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",593,5,2,False,5
+229,top up reverted,automatic,4,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",229,5,2,False,5
+876,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",876,5,2,False,5
+629,transfer not received by recipient,to,62,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",629,5,2,False,5
+1419,transfer not received by recipient,balance,5,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1419,5,2,False,5
+821,pending top up,pending card,45,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",821,5,2,False,5
+1285,top up by cash or cheque,top up by c,58,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1285,5,2,False,5
+678,card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",678,5,2,False,5
+204,top up by card charge,automatic,4,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",204,5,2,False,5
+872,card not working,lost,42,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",872,5,2,False,5
+696,card not working,at,3,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",696,5,2,False,5
+219,card not working,automatic,4,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",219,5,2,False,5
+190,card delivery estimate,card delivery,12,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",190,5,2,False,5
+379,contactless not working,contact,23,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",379,5,2,False,5
+1340,card swallowed,order,43,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1340,5,2,False,5
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",978,5,2,False,5
+645,disposable card limits,dispos,29,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",645,5,2,False,5
+735,direct debit payment not recognised,direct,28,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",735,5,2,False,5
+850,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",850,5,2,False,5
+1353,card not working,order,43,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1353,5,2,False,5
+800,card not working,pending card,45,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",800,5,2,False,5
+1329,card delivery estimate,order,43,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1329,5,2,False,5
+115,extra charge on statement,extra,34,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",115,5,2,False,5
+1396,virtual card not working,virtual,72,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1396,5,2,False,5
+34,card not working,card linking,13,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",34,5,2,False,5
+967,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",967,5,2,False,5
+1512,card not working,activ,0,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1512,5,2,False,5
+439,top up reverted,pending top,47,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",439,5,2,False,5
+1411,transfer timing,balance,5,True,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1411,5,2,False,5
+1217,transfer not received by recipient,receiving,50,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1217,5,2,False,5
+867,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",867,5,2,False,5
+704,topping up by card,at,3,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",704,5,2,False,5
+1211,transfer not received by recipient,receiving,50,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1211,5,2,False,5
+646,card not working,dispos,29,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",646,5,2,False,5
+1165,change pin,change,21,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1165,5,2,False,5
+799,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",799,5,2,False,5
+898,order physical card,request,52,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",898,5,2,False,5
+36,card not working,card linking,13,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",36,5,2,False,5
+1278,transfer not received by recipient,failed,35,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1278,5,2,False,5
+324,pin blocked,pin,49,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",324,5,2,False,5
+689,atm support,at,3,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",689,5,2,False,5
+1508,activate my card,activ,0,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1508,5,2,False,5
+992,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",992,5,2,False,5
+314,age limit,age,1,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",314,5,2,False,5
+1082,transfer not received by recipient,verify,70,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1082,5,2,False,5
+1096,verify source of funds,verify,70,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1096,5,2,False,5
+787,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",787,5,2,False,5
+842,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",842,5,2,False,5
+191,card delivery estimate,card delivery,12,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",191,5,2,False,5
+845,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",845,5,2,False,5
+1027,request refund,terminate,55,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1027,5,2,False,5
+99,extra charge on statement,extra,34,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",99,5,2,False,5
+552,card acceptance,card accept,10,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",552,5,2,False,5
+1024,terminate account,terminate,55,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1024,5,2,False,5
+141,exchange rate,fi,36,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",141,5,2,False,5
+625,transfer not received by recipient,to,62,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",625,5,2,False,5
+922,card not working,decl,25,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",922,5,2,False,5
+977,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",977,5,2,False,5
+135,change pin,fi,36,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",135,5,2,False,5
+1109,verify source of funds,verify,70,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1109,5,2,False,5
+405,top up reverted,pending top,47,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",405,5,2,False,5
+760,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",760,5,2,False,5
+1035,terminate account,terminate,55,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1035,5,2,False,5
+928,card not working,decl,25,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",928,5,2,False,5
+976,transfer not received by recipient,pending transfer,48,False,False,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",976,5,2,False,5
+963,pending transfer,pending transfer,48,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",963,5,2,False,5
+762,passcode forgotten,pass,44,True,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",762,5,2,False,5
+514,transfer not received by recipient,transfer not,66,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",514,5,2,False,5
+870,lost or stolen phone,lost,42,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",870,5,2,False,5
+1122,transfer timing,transfer timing,67,False,True,False,"{5: 1, 34: 1, 28: 1, 61: 1, 44: 1}","[2045, 1588, 277, 3411, 2498]",1122,5,2,False,5

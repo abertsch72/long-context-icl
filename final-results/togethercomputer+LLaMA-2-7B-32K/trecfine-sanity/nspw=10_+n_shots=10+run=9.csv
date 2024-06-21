@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+15,numeric date,numeric date,39,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",15,10,9,False,10
+2726,description manner,description manner,26,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",2726,10,9,False,10
+4613,human individual,human individual,29,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",4613,10,9,False,10
+123,human individual,entity animal,2,True,False,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",123,10,9,False,10
+2305,entity sport,entity sport,17,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",2305,10,9,False,10
+4146,description description,description description,25,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",4146,10,9,False,10
+1594,description description,description description,25,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",1594,10,9,False,10
+755,entity creation,entity creation,5,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",755,10,9,False,10
+5303,location city,location city,32,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",5303,10,9,False,10
+4745,location other,location other,35,True,True,True,"{39: 1, 26: 1, 29: 1, 2: 1, 17: 1, 25: 2, 5: 1, 32: 1, 35: 1}","[15, 2726, 4613, 123, 2305, 4146, 1594, 755, 5303, 4745]",4745,10,9,False,10

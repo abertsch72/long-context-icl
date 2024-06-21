@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+8004,change speed,change speed,119,True,True,True,"{119: 1, 115: 1, 112: 1, 27: 1, 36: 1}","[8004, 13893, 13363, 6916, 12192]",8004,5,3,False
+13893,what can i ask you,what can,115,True,True,False,"{119: 1, 115: 1, 112: 1, 27: 1, 36: 1}","[8004, 13893, 13363, 6916, 12192]",13893,5,3,False
+13363,ingredients list,ingredients,112,True,True,False,"{119: 1, 115: 1, 112: 1, 27: 1, 36: 1}","[8004, 13893, 13363, 6916, 12192]",13363,5,3,False
+6916,bill balance,bill balance,27,True,True,True,"{119: 1, 115: 1, 112: 1, 27: 1, 36: 1}","[8004, 13893, 13363, 6916, 12192]",6916,5,3,False
+12192,tell joke,tell,36,True,True,False,"{119: 1, 115: 1, 112: 1, 27: 1, 36: 1}","[8004, 13893, 13363, 6916, 12192]",12192,5,3,False

@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+2450,alarm query,alarm query,0,True,True,True,{0: 1},[2450],2450,1,4,False
+6466,alarm query,recommendation mov,58,False,False,True,{0: 1},[2450],6466,1,4,False
+10332,alarm query,alarm remove,1,False,False,True,{0: 1},[2450],10332,1,4,False
+5983,alarm query,general repeat,28,False,False,True,{0: 1},[2450],5983,1,4,False
+17822,alarm query,calendar query,7,False,False,True,{0: 1},[2450],17822,1,4,False
+1208,weather query,weather,67,False,True,False,{0: 1},[2450],1208,1,4,False
+5599,weather query,qa fact,53,False,False,False,{0: 1},[2450],5599,1,4,False
+1563,alarm query,qa currency,51,False,False,True,{0: 1},[2450],1563,1,4,False
+7781,weather query,weather,67,False,True,False,{0: 1},[2450],7781,1,4,False
+8977,alarm query,calendar query,7,False,False,True,{0: 1},[2450],8977,1,4,False
+3997,alarm query,calendar query,7,False,False,True,{0: 1},[2450],3997,1,4,False
+8169,news query,social query,60,False,False,False,{0: 1},[2450],8169,1,4,False
+18602,alarm query,general neg,25,False,False,True,{0: 1},[2450],18602,1,4,False
+14788,news query,news,45,False,True,False,{0: 1},[2450],14788,1,4,False
+17142,alarm query,general qu,27,False,False,True,{0: 1},[2450],17142,1,4,False
+17790,email query,email s,17,False,False,False,{0: 1},[2450],17790,1,4,False
+3564,email query,email s,17,False,False,False,{0: 1},[2450],3564,1,4,False
+16887,alarm query,play music,48,False,False,True,{0: 1},[2450],16887,1,4,False
+18347,calendar query,datetime query,13,False,False,False,{0: 1},[2450],18347,1,4,False
+1299,alarm query,qa currency,51,False,False,True,{0: 1},[2450],1299,1,4,False
+12936,weather query,weather,67,False,True,False,{0: 1},[2450],12936,1,4,False
+9330,alarm query,general aff,18,False,False,True,{0: 1},[2450],9330,1,4,False
+541,alarm query,transport query,63,False,False,True,{0: 1},[2450],541,1,4,False
+637,alarm query,qa fact,53,False,False,True,{0: 1},[2450],637,1,4,False
+12174,alarm query,calendar set,9,False,False,True,{0: 1},[2450],12174,1,4,False
+16060,music query,play music,48,False,False,False,{0: 1},[2450],16060,1,4,False
+18362,alarm query,alarm query,0,True,True,True,{0: 1},[2450],18362,1,4,False
+5018,takeaway query,takeaway order,61,False,False,False,{0: 1},[2450],5018,1,4,False
+16832,alarm query,calendar query,7,False,False,True,{0: 1},[2450],16832,1,4,False
+16936,alarm query,general repeat,28,False,False,True,{0: 1},[2450],16936,1,4,False
+18442,music query,play music,48,False,False,False,{0: 1},[2450],18442,1,4,False
+18336,alarm query,news,45,False,False,True,{0: 1},[2450],18336,1,4,False
+17233,email query,email query,15,False,True,False,{0: 1},[2450],17233,1,4,False
+8372,alarm query,play pod,49,False,False,True,{0: 1},[2450],8372,1,4,False
+4538,weather query,weather,67,False,True,False,{0: 1},[2450],4538,1,4,False
+17943,alarm query,general command,19,False,False,True,{0: 1},[2450],17943,1,4,False
+10890,email query,email s,17,False,False,False,{0: 1},[2450],10890,1,4,False
+2861,alarm query,datetime query,13,False,False,True,{0: 1},[2450],2861,1,4,False
+18153,alarm query,general repeat,28,False,False,True,{0: 1},[2450],18153,1,4,False
+6665,alarm query,transport query,63,False,False,True,{0: 1},[2450],6665,1,4,False
+1323,alarm set,calendar set,9,False,False,False,{0: 1},[2450],1323,1,4,False
+4770,alarm query,audio volume up,6,False,False,True,{0: 1},[2450],4770,1,4,False
+8104,alarm query,weather,67,False,False,True,{0: 1},[2450],8104,1,4,False
+10752,alarm query,audio volume down,3,False,False,True,{0: 1},[2450],10752,1,4,False
+15412,alarm query,general neg,25,False,False,True,{0: 1},[2450],15412,1,4,False
+15137,alarm query,qa stock,55,False,False,True,{0: 1},[2450],15137,1,4,False
+94,weather query,weather,67,False,True,False,{0: 1},[2450],94,1,4,False
+16349,alarm query,qa stock,55,False,False,True,{0: 1},[2450],16349,1,4,False
+18869,alarm query,weather,67,False,False,True,{0: 1},[2450],18869,1,4,False
+10861,alarm query,general qu,27,False,False,True,{0: 1},[2450],10861,1,4,False
+10705,alarm query,audio volume up,6,False,False,True,{0: 1},[2450],10705,1,4,False
+12269,alarm query,calendar query,7,False,False,True,{0: 1},[2450],12269,1,4,False
+17587,alarm query,calendar set,9,False,False,True,{0: 1},[2450],17587,1,4,False
+12121,alarm query,iot hue light off,33,False,False,True,{0: 1},[2450],12121,1,4,False
+15440,alarm query,qa fact,53,False,False,True,{0: 1},[2450],15440,1,4,False
+9697,alarm query,general explain,22,False,False,True,{0: 1},[2450],9697,1,4,False
+8900,alarm query,social post,59,False,False,True,{0: 1},[2450],8900,1,4,False
+6815,alarm query,calendar query,7,False,False,True,{0: 1},[2450],6815,1,4,False
+19212,play music,play music,48,False,True,False,{0: 1},[2450],19212,1,4,False
+3605,alarm query,calendar query,7,False,False,True,{0: 1},[2450],3605,1,4,False
+1231,general command stop,qa fact,53,False,False,False,{0: 1},[2450],1231,1,4,False
+5833,alarm query,email s,17,False,False,True,{0: 1},[2450],5833,1,4,False
+17927,email query,email query,15,False,True,False,{0: 1},[2450],17927,1,4,False
+5746,alarm query,qa currency,51,False,False,True,{0: 1},[2450],5746,1,4,False
+3079,alarm query,calendar set,9,False,False,True,{0: 1},[2450],3079,1,4,False
+15863,iot hue light off,qa stock,55,False,False,False,{0: 1},[2450],15863,1,4,False
+16344,alarm query,general pra,26,False,False,True,{0: 1},[2450],16344,1,4,False
+8129,alarm query,general neg,25,False,False,True,{0: 1},[2450],8129,1,4,False
+8834,email query,email s,17,False,False,False,{0: 1},[2450],8834,1,4,False
+1470,alarm query,general explain,22,False,False,True,{0: 1},[2450],1470,1,4,False
+10439,alarm query,general neg,25,False,False,True,{0: 1},[2450],10439,1,4,False
+12332,alarm query,general explain,22,False,False,True,{0: 1},[2450],12332,1,4,False
+124,alarm query,calendar set,9,False,False,True,{0: 1},[2450],124,1,4,False
+3217,alarm query,email query contact,16,False,False,True,{0: 1},[2450],3217,1,4,False
+4614,play music,play music,48,False,True,False,{0: 1},[2450],4614,1,4,False
+15160,alarm query,email query contact,16,False,False,True,{0: 1},[2450],15160,1,4,False
+5806,play music,play radio,50,False,False,False,{0: 1},[2450],5806,1,4,False
+10464,alarm query,calendar set,9,False,False,True,{0: 1},[2450],10464,1,4,False
+15032,weather query,weather,67,False,True,False,{0: 1},[2450],15032,1,4,False
+5697,weather query,weather,67,False,True,False,{0: 1},[2450],5697,1,4,False
+15975,alarm query,play radio,50,False,False,True,{0: 1},[2450],15975,1,4,False
+19016,alarm query,iot clean,29,False,False,True,{0: 1},[2450],19016,1,4,False
+9129,alarm query,general explain,22,False,False,True,{0: 1},[2450],9129,1,4,False
+2649,email query,email s,17,False,False,False,{0: 1},[2450],2649,1,4,False
+18569,alarm query,calendar set,9,False,False,True,{0: 1},[2450],18569,1,4,False
+11027,alarm query,datetime query,13,False,False,True,{0: 1},[2450],11027,1,4,False
+4294,alarm query,recommendation events,56,False,False,True,{0: 1},[2450],4294,1,4,False
+13627,alarm query,general neg,25,False,False,True,{0: 1},[2450],13627,1,4,False
+1173,alarm query,qa currency,51,False,False,True,{0: 1},[2450],1173,1,4,False
+14790,alarm query,lists query,39,False,False,True,{0: 1},[2450],14790,1,4,False
+12398,weather query,weather,67,False,True,False,{0: 1},[2450],12398,1,4,False
+14038,alarm query,datetime convert,12,False,False,True,{0: 1},[2450],14038,1,4,False
+661,alarm query,alarm set,2,False,False,True,{0: 1},[2450],661,1,4,False
+126,email query,email s,17,False,False,False,{0: 1},[2450],126,1,4,False
+6362,alarm query,general explain,22,False,False,True,{0: 1},[2450],6362,1,4,False
+5013,email query,email query,15,False,True,False,{0: 1},[2450],5013,1,4,False
+10351,play music,play music,48,False,True,False,{0: 1},[2450],10351,1,4,False
+13289,play music,play pod,49,False,False,False,{0: 1},[2450],13289,1,4,False
+896,alarm query,general pra,26,False,False,True,{0: 1},[2450],896,1,4,False
+16699,social query,social post,59,False,False,False,{0: 1},[2450],16699,1,4,False
+510,alarm query,recommendation events,56,False,False,True,{0: 1},[2450],510,1,4,False
+1104,alarm query,qa definition,52,False,False,True,{0: 1},[2450],1104,1,4,False
+70,alarm query,iot wemo on,37,False,False,True,{0: 1},[2450],70,1,4,False
+1492,news query,social query,60,False,False,False,{0: 1},[2450],1492,1,4,False
+467,alarm query,calendar set,9,False,False,True,{0: 1},[2450],467,1,4,False
+6927,alarm query,play radio,50,False,False,True,{0: 1},[2450],6927,1,4,False
+15031,calendar query,calendar set,9,False,False,False,{0: 1},[2450],15031,1,4,False
+11594,alarm query,recommendation mov,58,False,False,True,{0: 1},[2450],11594,1,4,False
+2496,alarm query,calendar set,9,False,False,True,{0: 1},[2450],2496,1,4,False
+6467,alarm query,calendar remove,8,False,False,True,{0: 1},[2450],6467,1,4,False
+5973,play music,music li,42,False,False,False,{0: 1},[2450],5973,1,4,False
+2396,play music,play music,48,False,True,False,{0: 1},[2450],2396,1,4,False
+14565,alarm query,general repeat,28,False,False,True,{0: 1},[2450],14565,1,4,False
+7706,email query,email query,15,False,True,False,{0: 1},[2450],7706,1,4,False
+16491,email query,email query,15,False,True,False,{0: 1},[2450],16491,1,4,False
+9762,alarm query,play pod,49,False,False,True,{0: 1},[2450],9762,1,4,False
+14856,alarm query,qa math,54,False,False,True,{0: 1},[2450],14856,1,4,False
+14220,alarm query,general explain,22,False,False,True,{0: 1},[2450],14220,1,4,False
+7223,alarm query,iot wemo on,37,False,False,True,{0: 1},[2450],7223,1,4,False
+10079,news query,news,45,False,True,False,{0: 1},[2450],10079,1,4,False
+7738,alarm query,lists remove,40,False,False,True,{0: 1},[2450],7738,1,4,False
+11921,play music,play music,48,False,True,False,{0: 1},[2450],11921,1,4,False
+14752,weather query,qa fact,53,False,False,False,{0: 1},[2450],14752,1,4,False
+12129,weather query,qa fact,53,False,False,False,{0: 1},[2450],12129,1,4,False
+18579,takeaway order,takeaway order,61,False,True,False,{0: 1},[2450],18579,1,4,False
+3377,alarm query,calendar set,9,False,False,True,{0: 1},[2450],3377,1,4,False
+3794,music query,music query,43,False,True,False,{0: 1},[2450],3794,1,4,False
+18509,alarm query,general qu,27,False,False,True,{0: 1},[2450],18509,1,4,False
+15155,music query,play music,48,False,False,False,{0: 1},[2450],15155,1,4,False
+8629,alarm query,lists create,38,False,False,True,{0: 1},[2450],8629,1,4,False
+14056,alarm query,qa fact,53,False,False,True,{0: 1},[2450],14056,1,4,False
+15795,alarm query,general pra,26,False,False,True,{0: 1},[2450],15795,1,4,False
+18615,alarm query,general pra,26,False,False,True,{0: 1},[2450],18615,1,4,False
+9220,news query,news,45,False,True,False,{0: 1},[2450],9220,1,4,False
+885,alarm query,calendar set,9,False,False,True,{0: 1},[2450],885,1,4,False
+1190,alarm query,lists create,38,False,False,True,{0: 1},[2450],1190,1,4,False
+17975,alarm query,takeaway query,62,False,False,True,{0: 1},[2450],17975,1,4,False
+16856,alarm query,general repeat,28,False,False,True,{0: 1},[2450],16856,1,4,False
+9454,play music,play music,48,False,True,False,{0: 1},[2450],9454,1,4,False
+17539,alarm query,general dont,21,False,False,True,{0: 1},[2450],17539,1,4,False
+15115,alarm query,qa stock,55,False,False,True,{0: 1},[2450],15115,1,4,False
+18947,calendar query,calendar set,9,False,False,False,{0: 1},[2450],18947,1,4,False
+13073,play music,play music,48,False,True,False,{0: 1},[2450],13073,1,4,False
+4068,weather query,weather,67,False,True,False,{0: 1},[2450],4068,1,4,False
+1644,calendar query,calendar remove,8,False,False,False,{0: 1},[2450],1644,1,4,False
+12010,alarm query,general explain,22,False,False,True,{0: 1},[2450],12010,1,4,False
+2029,alarm query,calendar remove,8,False,False,True,{0: 1},[2450],2029,1,4,False
+13849,alarm query,transport query,63,False,False,True,{0: 1},[2450],13849,1,4,False
+1925,alarm query,general explain,22,False,False,True,{0: 1},[2450],1925,1,4,False
+6426,weather query,weather,67,False,True,False,{0: 1},[2450],6426,1,4,False
+17027,alarm query,music li,42,False,False,True,{0: 1},[2450],17027,1,4,False
+6339,general command stop,general qu,27,False,False,False,{0: 1},[2450],6339,1,4,False
+1236,alarm query,general pra,26,False,False,True,{0: 1},[2450],1236,1,4,False
+2923,alarm query,qa math,54,False,False,True,{0: 1},[2450],2923,1,4,False
+18384,alarm query,music li,42,False,False,True,{0: 1},[2450],18384,1,4,False
+1275,alarm query,calendar set,9,False,False,True,{0: 1},[2450],1275,1,4,False
+19266,alarm query,general dont,21,False,False,True,{0: 1},[2450],19266,1,4,False
+11064,alarm query,calendar remove,8,False,False,True,{0: 1},[2450],11064,1,4,False
+18235,alarm query,general dont,21,False,False,True,{0: 1},[2450],18235,1,4,False
+5861,alarm query,qa currency,51,False,False,True,{0: 1},[2450],5861,1,4,False
+802,alarm query,general neg,25,False,False,True,{0: 1},[2450],802,1,4,False
+2510,alarm query,calendar query,7,False,False,True,{0: 1},[2450],2510,1,4,False
+8310,alarm query,lists create,38,False,False,True,{0: 1},[2450],8310,1,4,False
+5179,email query,email query,15,False,True,False,{0: 1},[2450],5179,1,4,False
+14365,alarm query,general pra,26,False,False,True,{0: 1},[2450],14365,1,4,False
+10374,alarm remove,alarm remove,1,False,True,False,{0: 1},[2450],10374,1,4,False
+462,alarm query,general aff,18,False,False,True,{0: 1},[2450],462,1,4,False
+18139,alarm query,general neg,25,False,False,True,{0: 1},[2450],18139,1,4,False
+7093,alarm query,recommendation locations,57,False,False,True,{0: 1},[2450],7093,1,4,False
+853,alarm query,transport traffic,66,False,False,True,{0: 1},[2450],853,1,4,False
+8164,news query,news,45,False,True,False,{0: 1},[2450],8164,1,4,False
+7981,alarm query,general qu,27,False,False,True,{0: 1},[2450],7981,1,4,False
+15274,alarm query,general repeat,28,False,False,True,{0: 1},[2450],15274,1,4,False
+17798,alarm query,transport query,63,False,False,True,{0: 1},[2450],17798,1,4,False
+3308,alarm query,play pod,49,False,False,True,{0: 1},[2450],3308,1,4,False
+4605,alarm query,iot clean,29,False,False,True,{0: 1},[2450],4605,1,4,False
+13548,alarm query,music li,42,False,False,True,{0: 1},[2450],13548,1,4,False
+15792,transport query,transport tax,64,False,False,False,{0: 1},[2450],15792,1,4,False
+13260,weather query,weather,67,False,True,False,{0: 1},[2450],13260,1,4,False
+15356,transport query,transport query,63,False,True,False,{0: 1},[2450],15356,1,4,False
+15642,alarm query,recommendation mov,58,False,False,True,{0: 1},[2450],15642,1,4,False
+6809,iot hue light off,general qu,27,False,False,False,{0: 1},[2450],6809,1,4,False
+7724,music query,music query,43,False,True,False,{0: 1},[2450],7724,1,4,False
+14824,alarm query,iot hue light up,35,False,False,True,{0: 1},[2450],14824,1,4,False
+1280,alarm query,general explain,22,False,False,True,{0: 1},[2450],1280,1,4,False
+2203,news query,news,45,False,True,False,{0: 1},[2450],2203,1,4,False
+12900,alarm query,datetime query,13,False,False,True,{0: 1},[2450],12900,1,4,False
+16498,play music,play music,48,False,True,False,{0: 1},[2450],16498,1,4,False
+11350,alarm query,general explain,22,False,False,True,{0: 1},[2450],11350,1,4,False
+8572,music query,music query,43,False,True,False,{0: 1},[2450],8572,1,4,False
+2947,alarm query,qa definition,52,False,False,True,{0: 1},[2450],2947,1,4,False
+6812,music query,music query,43,False,True,False,{0: 1},[2450],6812,1,4,False
+14884,alarm query,social post,59,False,False,True,{0: 1},[2450],14884,1,4,False
+8265,alarm query,calendar remove,8,False,False,True,{0: 1},[2450],8265,1,4,False
+12342,alarm query,lists query,39,False,False,True,{0: 1},[2450],12342,1,4,False
+13982,email query,email query,15,False,True,False,{0: 1},[2450],13982,1,4,False
+883,alarm query,play radio,50,False,False,True,{0: 1},[2450],883,1,4,False
+12716,alarm query,general dont,21,False,False,True,{0: 1},[2450],12716,1,4,False
+11932,music query,play music,48,False,False,False,{0: 1},[2450],11932,1,4,False
+15773,alarm query,alarm remove,1,False,False,True,{0: 1},[2450],15773,1,4,False
+4531,alarm query,qa definition,52,False,False,True,{0: 1},[2450],4531,1,4,False
+13933,news query,news,45,False,True,False,{0: 1},[2450],13933,1,4,False
+13646,cooking query,cooking reci,11,False,False,False,{0: 1},[2450],13646,1,4,False
+11716,alarm query,qa fact,53,False,False,True,{0: 1},[2450],11716,1,4,False
+8633,alarm query,play pod,49,False,False,True,{0: 1},[2450],8633,1,4,False
+18735,alarm query,lists create,38,False,False,True,{0: 1},[2450],18735,1,4,False
+16551,alarm query,general aff,18,False,False,True,{0: 1},[2450],16551,1,4,False
+3409,general quirky,recommendation locations,57,False,False,False,{0: 1},[2450],3409,1,4,False
+19233,alarm query,iot clean,29,False,False,True,{0: 1},[2450],19233,1,4,False
+19173,alarm query,general confirm,20,False,False,True,{0: 1},[2450],19173,1,4,False
+1341,weather query,weather,67,False,True,False,{0: 1},[2450],1341,1,4,False
+2426,general command stop,recommendation locations,57,False,False,False,{0: 1},[2450],2426,1,4,False
+16555,alarm query,takeaway query,62,False,False,True,{0: 1},[2450],16555,1,4,False
+365,weather query,transport query,63,False,False,False,{0: 1},[2450],365,1,4,False
+12207,alarm query,general repeat,28,False,False,True,{0: 1},[2450],12207,1,4,False
+6901,email query,email query,15,False,True,False,{0: 1},[2450],6901,1,4,False
+8139,alarm query,calendar set,9,False,False,True,{0: 1},[2450],8139,1,4,False
+8850,alarm query,general neg,25,False,False,True,{0: 1},[2450],8850,1,4,False
+5010,alarm query,iot coffee,30,False,False,True,{0: 1},[2450],5010,1,4,False
+10580,alarm query,email query contact,16,False,False,True,{0: 1},[2450],10580,1,4,False
+1391,alarm query,calendar set,9,False,False,True,{0: 1},[2450],1391,1,4,False
+11708,alarm query,iot hue light off,33,False,False,True,{0: 1},[2450],11708,1,4,False
+17094,alarm set,calendar set,9,False,False,False,{0: 1},[2450],17094,1,4,False
+6548,alarm query,general explain,22,False,False,True,{0: 1},[2450],6548,1,4,False
+16732,alarm query,news,45,False,False,True,{0: 1},[2450],16732,1,4,False
+12749,alarm query,general pra,26,False,False,True,{0: 1},[2450],12749,1,4,False
+68,takeaway query,takeaway query,62,False,True,False,{0: 1},[2450],68,1,4,False
+15458,alarm query,iot hue light up,35,False,False,True,{0: 1},[2450],15458,1,4,False
+11191,alarm query,general confirm,20,False,False,True,{0: 1},[2450],11191,1,4,False
+1630,alarm query,calendar query,7,False,False,True,{0: 1},[2450],1630,1,4,False
+5779,alarm query,play music,48,False,False,True,{0: 1},[2450],5779,1,4,False
+15917,alarm query,calendar query,7,False,False,True,{0: 1},[2450],15917,1,4,False
+6724,alarm query,general qu,27,False,False,True,{0: 1},[2450],6724,1,4,False
+14706,alarm query,general neg,25,False,False,True,{0: 1},[2450],14706,1,4,False
+17333,iot hue light off,general pra,26,False,False,False,{0: 1},[2450],17333,1,4,False
+6719,music query,play music,48,False,False,False,{0: 1},[2450],6719,1,4,False
+5090,alarm query,general dont,21,False,False,True,{0: 1},[2450],5090,1,4,False
+2674,alarm query,general neg,25,False,False,True,{0: 1},[2450],2674,1,4,False
+12994,alarm query,iot hue light off,33,False,False,True,{0: 1},[2450],12994,1,4,False
+4534,email query,email s,17,False,False,False,{0: 1},[2450],4534,1,4,False
+14111,alarm query,social post,59,False,False,True,{0: 1},[2450],14111,1,4,False
+491,alarm query,news,45,False,False,True,{0: 1},[2450],491,1,4,False
+14610,music query,play music,48,False,False,False,{0: 1},[2450],14610,1,4,False
+19101,alarm query,qa fact,53,False,False,True,{0: 1},[2450],19101,1,4,False
+1427,alarm query,play radio,50,False,False,True,{0: 1},[2450],1427,1,4,False
+6698,alarm query,qa math,54,False,False,True,{0: 1},[2450],6698,1,4,False
+10162,alarm query,recommendation events,56,False,False,True,{0: 1},[2450],10162,1,4,False
+16841,email query,email s,17,False,False,False,{0: 1},[2450],16841,1,4,False
+11822,general command stop,qa definition,52,False,False,False,{0: 1},[2450],11822,1,4,False
+913,alarm query,email add,14,False,False,True,{0: 1},[2450],913,1,4,False

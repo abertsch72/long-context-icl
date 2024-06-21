@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,balance not updated after bank transfer,verify,70,False,False,False,{62: 1},[2934],1104,1,1,False
+472,card acceptance,top up limits,60,False,False,False,{62: 1},[2934],472,1,1,False
+1345,card delivery estimate,order,43,False,False,False,{62: 1},[2934],1345,1,1,False
+838,pending card payment,pending card,45,False,True,False,{62: 1},[2934],838,1,1,False
+942,card not working,declined,25,False,False,False,{62: 1},[2934],942,1,1,False
+707,card acceptance,atm,3,False,False,False,{62: 1},[2934],707,1,1,False
+378,contactless not working,contact,23,False,True,False,{62: 1},[2934],378,1,1,False
+1258,transfer not received by recipient,failed,35,False,False,False,{62: 1},[2934],1258,1,1,False
+451,top up limits,top up limits,60,False,True,False,{62: 1},[2934],451,1,1,False
+1467,top up by card charge,top up by card,57,False,True,False,{62: 1},[2934],1467,1,1,False
+652,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],652,1,1,False
+774,passcode forgotten,pass,44,False,True,False,{62: 1},[2934],774,1,1,False
+1112,balance not updated after bank transfer,verify,70,False,False,False,{62: 1},[2934],1112,1,1,False
+659,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],659,1,1,False
+67,exchange rate,exchange,32,False,True,False,{62: 1},[2934],67,1,1,False
+773,lost or stolen phone,pass,44,False,False,False,{62: 1},[2934],773,1,1,False
+679,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],679,1,1,False
+956,card not working,declined,25,False,False,False,{62: 1},[2934],956,1,1,False
+919,request refund,request,52,False,True,False,{62: 1},[2934],919,1,1,False
+1221,receiving money,receiving,50,False,True,False,{62: 1},[2934],1221,1,1,False
+605,top up by card charge,to,62,True,False,False,{62: 1},[2934],605,1,1,False
+240,card not working,card not,14,False,True,False,{62: 1},[2934],240,1,1,False
+1069,card not working,card swallowed,18,False,False,False,{62: 1},[2934],1069,1,1,False
+1228,transfer not received by recipient,receiving,50,False,False,False,{62: 1},[2934],1228,1,1,False
+1006,request refund,term,55,False,False,False,{62: 1},[2934],1006,1,1,False
+1308,topping up by card,top up by cash,58,False,False,False,{62: 1},[2934],1308,1,1,False
+106,extra charge on statement,extra,34,False,True,False,{62: 1},[2934],106,1,1,False
+1429,balance not updated after bank transfer,balance,5,False,True,False,{62: 1},[2934],1429,1,1,False
+455,top up limits,top up limits,60,False,True,False,{62: 1},[2934],455,1,1,False
+1380,virtual card not working,virtual,72,False,True,False,{62: 1},[2934],1380,1,1,False
+325,request refund,pin,49,False,False,False,{62: 1},[2934],325,1,1,False
+745,direct debit payment not recognised,direct,28,False,True,False,{62: 1},[2934],745,1,1,False
+1439,balance not updated after bank transfer,balance,5,False,True,False,{62: 1},[2934],1439,1,1,False
+941,card not working,declined,25,False,False,False,{62: 1},[2934],941,1,1,False
+401,top up reverted,pending top,47,False,False,False,{62: 1},[2934],401,1,1,False
+1190,change pin,change,21,False,True,False,{62: 1},[2934],1190,1,1,False
+759,declined card payment,direct,28,False,False,False,{62: 1},[2934],759,1,1,False
+1180,change pin,change,21,False,True,False,{62: 1},[2934],1180,1,1,False
+123,exchange rate,fi,36,False,False,False,{62: 1},[2934],123,1,1,False
+1517,activate my card,activate,0,False,True,False,{62: 1},[2934],1517,1,1,False
+227,automatic top up,automatic,4,False,True,False,{62: 1},[2934],227,1,1,False
+1321,request refund,order,43,False,False,False,{62: 1},[2934],1321,1,1,False
+393,contactless not working,contact,23,False,True,False,{62: 1},[2934],393,1,1,False
+999,transfer timing,pending transfer,48,False,False,False,{62: 1},[2934],999,1,1,False
+927,card not working,declined,25,False,False,False,{62: 1},[2934],927,1,1,False
+244,card not working,card not,14,False,True,False,{62: 1},[2934],244,1,1,False
+181,order physical card,card delivery,12,False,False,False,{62: 1},[2934],181,1,1,False
+1170,pin blocked,change,21,False,False,False,{62: 1},[2934],1170,1,1,False
+666,virtual card not working,dispos,29,False,False,False,{62: 1},[2934],666,1,1,False
+1028,request refund,term,55,False,False,False,{62: 1},[2934],1028,1,1,False
+772,lost or stolen phone,pass,44,False,False,False,{62: 1},[2934],772,1,1,False
+1223,change pin,receiving,50,False,False,False,{62: 1},[2934],1223,1,1,False
+421,topping up by card,pending top,47,False,False,False,{62: 1},[2934],421,1,1,False
+132,exchange rate,fi,36,False,False,False,{62: 1},[2934],132,1,1,False
+155,exchange rate,fi,36,False,False,False,{62: 1},[2934],155,1,1,False
+459,top up limits,top up limits,60,False,True,False,{62: 1},[2934],459,1,1,False
+371,contactless not working,contact,23,False,True,False,{62: 1},[2934],371,1,1,False
+15,activate my card,card link,13,False,False,False,{62: 1},[2934],15,1,1,False
+1253,transfer not received by recipient,failed,35,False,False,False,{62: 1},[2934],1253,1,1,False
+197,order physical card,card delivery,12,False,False,False,{62: 1},[2934],197,1,1,False
+527,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],527,1,1,False
+531,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],531,1,1,False
+382,contactless not working,contact,23,False,True,False,{62: 1},[2934],382,1,1,False
+620,transfer not received by recipient,to,62,True,False,False,{62: 1},[2934],620,1,1,False
+871,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],871,1,1,False
+1095,verify source of funds,verify,70,False,True,False,{62: 1},[2934],1095,1,1,False
+1501,card acceptance,activate,0,False,False,False,{62: 1},[2934],1501,1,1,False
+1368,virtual card not working,virtual,72,False,True,False,{62: 1},[2934],1368,1,1,False
+344,pin blocked,pin,49,False,True,False,{62: 1},[2934],344,1,1,False
+429,top up reverted,pending top,47,False,False,False,{62: 1},[2934],429,1,1,False
+291,age limit,age,1,False,True,False,{62: 1},[2934],291,1,1,False
+474,top up limits,top up limits,60,False,True,False,{62: 1},[2934],474,1,1,False
+137,fiat currency support,fi,36,False,True,False,{62: 1},[2934],137,1,1,False
+784,request refund,pass,44,False,False,False,{62: 1},[2934],784,1,1,False
+1021,request refund,term,55,False,False,False,{62: 1},[2934],1021,1,1,False
+1414,transfer not received by recipient,balance,5,False,False,False,{62: 1},[2934],1414,1,1,False
+741,request refund,direct,28,False,False,False,{62: 1},[2934],741,1,1,False
+904,request refund,request,52,False,True,False,{62: 1},[2934],904,1,1,False
+723,request refund,direct,28,False,False,False,{62: 1},[2934],723,1,1,False
+87,card not working,extra,34,False,False,False,{62: 1},[2934],87,1,1,False
+1457,card acceptance,top up by card,57,False,False,False,{62: 1},[2934],1457,1,1,False
+747,direct debit payment not recognised,direct,28,False,True,False,{62: 1},[2934],747,1,1,False
+728,balance not updated after bank transfer,direct,28,False,False,False,{62: 1},[2934],728,1,1,False
+860,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],860,1,1,False
+355,card not working,pin,49,False,False,False,{62: 1},[2934],355,1,1,False
+1294,topping up by card,top up by cash,58,False,False,False,{62: 1},[2934],1294,1,1,False
+521,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],521,1,1,False
+299,age limit,age,1,False,True,False,{62: 1},[2934],299,1,1,False
+807,pending transfer,pending card,45,False,False,False,{62: 1},[2934],807,1,1,False
+1367,virtual card not working,virtual,72,False,True,False,{62: 1},[2934],1367,1,1,False
+556,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],556,1,1,False
+239,top up by card charge,automatic,4,False,False,False,{62: 1},[2934],239,1,1,False
+1418,transfer not received by recipient,balance,5,False,False,False,{62: 1},[2934],1418,1,1,False
+203,automatic top up,automatic,4,False,True,False,{62: 1},[2934],203,1,1,False
+1265,transfer not received by recipient,failed,35,False,False,False,{62: 1},[2934],1265,1,1,False
+1509,card acceptance,activate,0,False,False,False,{62: 1},[2934],1509,1,1,False
+284,age limit,age,1,False,True,False,{62: 1},[2934],284,1,1,False
+1335,card delivery estimate,order,43,False,False,False,{62: 1},[2934],1335,1,1,False
+517,transfer not received by recipient,transfer not,66,False,True,False,{62: 1},[2934],517,1,1,False
+458,top up limits,top up limits,60,False,True,False,{62: 1},[2934],458,1,1,False
+808,pending card payment,pending card,45,False,True,False,{62: 1},[2934],808,1,1,False
+290,age limit,age,1,False,True,False,{62: 1},[2934],290,1,1,False
+584,top up reverted,top up re,61,False,True,False,{62: 1},[2934],584,1,1,False
+129,fiat currency support,fi,36,False,True,False,{62: 1},[2934],129,1,1,False
+306,age limit,age,1,False,True,False,{62: 1},[2934],306,1,1,False
+457,topping up by card,top up limits,60,False,False,False,{62: 1},[2934],457,1,1,False
+179,card delivery estimate,card delivery,12,False,True,False,{62: 1},[2934],179,1,1,False
+628,top up by card charge,to,62,True,False,False,{62: 1},[2934],628,1,1,False
+26,card not working,card link,13,False,False,False,{62: 1},[2934],26,1,1,False
+1276,transfer not received by recipient,failed,35,False,False,False,{62: 1},[2934],1276,1,1,False
+839,pending card payment,pending card,45,False,True,False,{62: 1},[2934],839,1,1,False
+1174,change pin,change,21,False,True,False,{62: 1},[2934],1174,1,1,False
+557,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],557,1,1,False
+446,top up limits,top up limits,60,False,True,False,{62: 1},[2934],446,1,1,False
+1117,balance not updated after bank transfer,verify,70,False,False,False,{62: 1},[2934],1117,1,1,False
+215,top up by card charge,automatic,4,False,False,False,{62: 1},[2934],215,1,1,False
+966,transfer timing,pending transfer,48,False,False,False,{62: 1},[2934],966,1,1,False
+420,top up reverted,pending top,47,False,False,False,{62: 1},[2934],420,1,1,False
+614,top up by card charge,to,62,True,False,False,{62: 1},[2934],614,1,1,False
+192,card delivery estimate,card delivery,12,False,True,False,{62: 1},[2934],192,1,1,False
+667,virtual card not working,dispos,29,False,False,False,{62: 1},[2934],667,1,1,False
+852,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],852,1,1,False
+1083,verify source of funds,verify,70,False,True,False,{62: 1},[2934],1083,1,1,False
+1106,verify source of funds,verify,70,False,True,False,{62: 1},[2934],1106,1,1,False
+917,request refund,request,52,False,True,False,{62: 1},[2934],917,1,1,False
+508,verify source of funds,transfer not,66,False,False,False,{62: 1},[2934],508,1,1,False
+146,fiat currency support,fi,36,False,True,False,{62: 1},[2934],146,1,1,False
+1307,topping up by card,top up by cash,58,False,False,False,{62: 1},[2934],1307,1,1,False
+334,pin blocked,pin,49,False,True,False,{62: 1},[2934],334,1,1,False
+962,transfer not received by recipient,pending transfer,48,False,False,False,{62: 1},[2934],962,1,1,False
+1015,request refund,term,55,False,False,False,{62: 1},[2934],1015,1,1,False
+1486,card acceptance,activate,0,False,False,False,{62: 1},[2934],1486,1,1,False
+391,topping up by card,contact,23,False,False,False,{62: 1},[2934],391,1,1,False
+1243,transfer not received by recipient,failed,35,False,False,False,{62: 1},[2934],1243,1,1,False
+69,exchange rate,exchange,32,False,True,False,{62: 1},[2934],69,1,1,False
+392,contactless not working,contact,23,False,True,False,{62: 1},[2934],392,1,1,False
+792,passcode forgotten,pass,44,False,True,False,{62: 1},[2934],792,1,1,False
+1448,topping up by card,top up by card,57,False,False,False,{62: 1},[2934],1448,1,1,False
+490,transfer not received by recipient,transfer not,66,False,True,False,{62: 1},[2934],490,1,1,False
+676,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],676,1,1,False
+648,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],648,1,1,False
+818,pending card payment,pending card,45,False,True,False,{62: 1},[2934],818,1,1,False
+982,transfer timing,pending transfer,48,False,False,False,{62: 1},[2934],982,1,1,False
+973,transfer not received by recipient,pending transfer,48,False,False,False,{62: 1},[2934],973,1,1,False
+535,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],535,1,1,False
+793,passcode forgotten,pass,44,False,True,False,{62: 1},[2934],793,1,1,False
+259,card not working,card not,14,False,True,False,{62: 1},[2934],259,1,1,False
+430,top up reverted,pending top,47,False,False,False,{62: 1},[2934],430,1,1,False
+481,transfer not received by recipient,transfer not,66,False,True,False,{62: 1},[2934],481,1,1,False
+567,top up reverted,top up re,61,False,True,False,{62: 1},[2934],567,1,1,False
+72,exchange rate,exchange,32,False,True,False,{62: 1},[2934],72,1,1,False
+113,extra charge on statement,extra,34,False,True,False,{62: 1},[2934],113,1,1,False
+384,contactless not working,contact,23,False,True,False,{62: 1},[2934],384,1,1,False
+1053,card swallowed,card swallowed,18,False,True,False,{62: 1},[2934],1053,1,1,False
+1401,transfer not received by recipient,balance,5,False,False,False,{62: 1},[2934],1401,1,1,False
+969,transfer not received by recipient,pending transfer,48,False,False,False,{62: 1},[2934],969,1,1,False
+312,age limit,age,1,False,True,False,{62: 1},[2934],312,1,1,False
+892,request refund,request,52,False,True,False,{62: 1},[2934],892,1,1,False
+454,topping up by card,top up limits,60,False,False,False,{62: 1},[2934],454,1,1,False
+479,top up limits,top up limits,60,False,True,False,{62: 1},[2934],479,1,1,False
+650,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],650,1,1,False
+23,card linking,card link,13,False,True,False,{62: 1},[2934],23,1,1,False
+1212,verify source of funds,receiving,50,False,False,False,{62: 1},[2934],1212,1,1,False
+1214,receiving money,receiving,50,False,True,False,{62: 1},[2934],1214,1,1,False
+1349,card delivery estimate,order,43,False,False,False,{62: 1},[2934],1349,1,1,False
+262,card not working,card not,14,False,True,False,{62: 1},[2934],262,1,1,False
+48,exchange rate,exchange,32,False,True,False,{62: 1},[2934],48,1,1,False
+285,activate my card,age,1,False,False,False,{62: 1},[2934],285,1,1,False
+851,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],851,1,1,False
+1352,order physical card,order,43,False,True,False,{62: 1},[2934],1352,1,1,False
+327,pin blocked,pin,49,False,True,False,{62: 1},[2934],327,1,1,False
+1438,top up by card charge,balance,5,False,False,False,{62: 1},[2934],1438,1,1,False
+29,card linking,card link,13,False,True,False,{62: 1},[2934],29,1,1,False
+234,top up by card charge,automatic,4,False,False,False,{62: 1},[2934],234,1,1,False
+528,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],528,1,1,False
+369,card not working,contact,23,False,False,False,{62: 1},[2934],369,1,1,False
+128,fiat currency support,fi,36,False,True,False,{62: 1},[2934],128,1,1,False
+1151,transfer timing,transfer timing,67,False,True,False,{62: 1},[2934],1151,1,1,False
+544,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],544,1,1,False
+884,request refund,request,52,False,True,False,{62: 1},[2934],884,1,1,False
+593,top up reverted,top up re,61,False,True,False,{62: 1},[2934],593,1,1,False
+229,top up by card charge,automatic,4,False,False,False,{62: 1},[2934],229,1,1,False
+876,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],876,1,1,False
+629,transfer not received by recipient,to,62,True,False,False,{62: 1},[2934],629,1,1,False
+1419,transfer not received by recipient,balance,5,False,False,False,{62: 1},[2934],1419,1,1,False
+821,pending transfer,pending card,45,False,False,False,{62: 1},[2934],821,1,1,False
+1285,topping up by card,top up by cash,58,False,False,False,{62: 1},[2934],1285,1,1,False
+678,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],678,1,1,False
+204,top up by card charge,automatic,4,False,False,False,{62: 1},[2934],204,1,1,False
+872,card not working,lost,42,False,False,False,{62: 1},[2934],872,1,1,False
+696,atm support,atm,3,False,True,False,{62: 1},[2934],696,1,1,False
+219,top up reverted,automatic,4,False,False,False,{62: 1},[2934],219,1,1,False
+190,request refund,card delivery,12,False,False,False,{62: 1},[2934],190,1,1,False
+379,contactless not working,contact,23,False,True,False,{62: 1},[2934],379,1,1,False
+1340,card acceptance,order,43,False,False,False,{62: 1},[2934],1340,1,1,False
+978,transfer not received by recipient,pending transfer,48,False,False,False,{62: 1},[2934],978,1,1,False
+645,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],645,1,1,False
+735,direct debit payment not recognised,direct,28,False,True,False,{62: 1},[2934],735,1,1,False
+850,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],850,1,1,False
+1353,card not working,order,43,False,False,False,{62: 1},[2934],1353,1,1,False
+800,card not working,pending card,45,False,False,False,{62: 1},[2934],800,1,1,False
+1329,card delivery estimate,order,43,False,False,False,{62: 1},[2934],1329,1,1,False
+115,card not working,extra,34,False,False,False,{62: 1},[2934],115,1,1,False
+1396,virtual card not working,virtual,72,False,True,False,{62: 1},[2934],1396,1,1,False
+34,card linking,card link,13,False,True,False,{62: 1},[2934],34,1,1,False
+967,pending transfer,pending transfer,48,False,True,False,{62: 1},[2934],967,1,1,False
+1512,card acceptance,activate,0,False,False,False,{62: 1},[2934],1512,1,1,False
+439,pending top up,pending top,47,False,True,False,{62: 1},[2934],439,1,1,False
+1411,transfer timing,balance,5,False,False,False,{62: 1},[2934],1411,1,1,False
+1217,receiving money,receiving,50,False,True,False,{62: 1},[2934],1217,1,1,False
+867,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],867,1,1,False
+704,atm support,atm,3,False,True,False,{62: 1},[2934],704,1,1,False
+1211,receiving money,receiving,50,False,True,False,{62: 1},[2934],1211,1,1,False
+646,disposable card limits,dispos,29,False,True,False,{62: 1},[2934],646,1,1,False
+1165,change pin,change,21,False,True,False,{62: 1},[2934],1165,1,1,False
+799,pin blocked,pass,44,False,False,False,{62: 1},[2934],799,1,1,False
+898,order physical card,request,52,False,False,False,{62: 1},[2934],898,1,1,False
+36,card not working,card link,13,False,False,False,{62: 1},[2934],36,1,1,False
+1278,transfer not received by recipient,failed,35,False,False,False,{62: 1},[2934],1278,1,1,False
+324,pin blocked,pin,49,False,True,False,{62: 1},[2934],324,1,1,False
+689,atm support,atm,3,False,True,False,{62: 1},[2934],689,1,1,False
+1508,activate my card,activate,0,False,True,False,{62: 1},[2934],1508,1,1,False
+992,transfer timing,pending transfer,48,False,False,False,{62: 1},[2934],992,1,1,False
+314,age limit,age,1,False,True,False,{62: 1},[2934],314,1,1,False
+1082,balance not updated after bank transfer,verify,70,False,False,False,{62: 1},[2934],1082,1,1,False
+1096,verify source of funds,verify,70,False,True,False,{62: 1},[2934],1096,1,1,False
+787,change pin,pass,44,False,False,False,{62: 1},[2934],787,1,1,False
+842,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],842,1,1,False
+191,card delivery estimate,card delivery,12,False,True,False,{62: 1},[2934],191,1,1,False
+845,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],845,1,1,False
+1027,request refund,term,55,False,False,False,{62: 1},[2934],1027,1,1,False
+99,extra charge on statement,extra,34,False,True,False,{62: 1},[2934],99,1,1,False
+552,card acceptance,card acceptance,10,False,True,False,{62: 1},[2934],552,1,1,False
+1024,terminate account,term,55,False,True,False,{62: 1},[2934],1024,1,1,False
+141,exchange rate,fi,36,False,False,False,{62: 1},[2934],141,1,1,False
+625,top up by card charge,to,62,True,False,False,{62: 1},[2934],625,1,1,False
+922,card not working,declined,25,False,False,False,{62: 1},[2934],922,1,1,False
+977,transfer timing,pending transfer,48,False,False,False,{62: 1},[2934],977,1,1,False
+135,change pin,fi,36,False,False,False,{62: 1},[2934],135,1,1,False
+1109,top up by card charge,verify,70,False,False,False,{62: 1},[2934],1109,1,1,False
+405,top up by card charge,pending top,47,False,False,False,{62: 1},[2934],405,1,1,False
+760,passcode forgotten,pass,44,False,True,False,{62: 1},[2934],760,1,1,False
+1035,request refund,term,55,False,False,False,{62: 1},[2934],1035,1,1,False
+928,card not working,declined,25,False,False,False,{62: 1},[2934],928,1,1,False
+976,transfer timing,pending transfer,48,False,False,False,{62: 1},[2934],976,1,1,False
+963,pending transfer,pending transfer,48,False,True,False,{62: 1},[2934],963,1,1,False
+762,passcode forgotten,pass,44,False,True,False,{62: 1},[2934],762,1,1,False
+514,transfer not received by recipient,transfer not,66,False,True,False,{62: 1},[2934],514,1,1,False
+870,lost or stolen phone,lost,42,False,True,False,{62: 1},[2934],870,1,1,False
+1122,transfer timing,transfer timing,67,False,True,False,{62: 1},[2934],1122,1,1,False

@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+2424,description reason,description reason,27,True,True,True,"{27: 1, 13: 2, 26: 1, 29: 1}","[2424, 3589, 4933, 5224, 440]",2424,5,3,False,5
+3589,entity other,entity other,13,True,True,True,"{27: 1, 13: 2, 26: 1, 29: 1}","[2424, 3589, 4933, 5224, 440]",3589,5,3,False,5
+4933,entity other,entity other,13,True,True,True,"{27: 1, 13: 2, 26: 1, 29: 1}","[2424, 3589, 4933, 5224, 440]",4933,5,3,False,5
+5224,description manner,description manner,26,True,True,True,"{27: 1, 13: 2, 26: 1, 29: 1}","[2424, 3589, 4933, 5224, 440]",5224,5,3,False,5
+440,human individual,human individual,29,True,True,True,"{27: 1, 13: 2, 26: 1, 29: 1}","[2424, 3589, 4933, 5224, 440]",440,5,3,False,5

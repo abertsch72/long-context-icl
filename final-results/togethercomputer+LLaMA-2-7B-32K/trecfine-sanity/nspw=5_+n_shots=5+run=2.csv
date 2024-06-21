@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+443,entity event,entity event,8,True,True,True,"{8: 1, 35: 2, 39: 2}","[443, 2795, 3466, 502, 4110]",443,5,2,False,5
+2795,location other,location other,35,True,True,True,"{8: 1, 35: 2, 39: 2}","[443, 2795, 3466, 502, 4110]",2795,5,2,False,5
+3466,numeric date,numeric date,39,True,True,True,"{8: 1, 35: 2, 39: 2}","[443, 2795, 3466, 502, 4110]",3466,5,2,False,5
+502,numeric date,numeric date,39,True,True,True,"{8: 1, 35: 2, 39: 2}","[443, 2795, 3466, 502, 4110]",502,5,2,False,5
+4110,location other,location other,35,True,True,True,"{8: 1, 35: 2, 39: 2}","[443, 2795, 3466, 502, 4110]",4110,5,2,False,5

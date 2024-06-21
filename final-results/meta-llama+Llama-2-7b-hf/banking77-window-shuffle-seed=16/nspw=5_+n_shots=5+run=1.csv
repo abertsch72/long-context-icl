@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,get physical card,supported,54,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",903,5,1,False,5
+1003,top up failed,top up revert,61,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1003,5,1,False,5
+2953,card about to expire,card about,9,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2953,5,1,False,5
+2979,top up failed,apple,2,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2979,5,1,False,5
+1926,atm support,card sw,18,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1926,5,1,False,5
+2137,pin blocked,change,21,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2137,5,1,False,5
+2980,top up by card charge,apple,2,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2980,5,1,False,5
+702,cancel transfer,cancel,8,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",702,5,1,False,5
+2493,get physical card,order,43,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2493,5,1,False,5
+2210,transfer fee charged,transfer fee,64,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2210,5,1,False,5
+112,exchange rate,exchange rate,32,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",112,5,1,False,5
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2909,5,1,False,5
+1987,card payment not recognised,transaction,63,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1987,5,1,False,5
+1283,card payment not recognised,vis,73,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1283,5,1,False,5
+1539,passcode forgotten,pass,44,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1539,5,1,False,5
+2879,activate my card,activ,0,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2879,5,1,False,5
+1158,change pin,edit,30,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1158,5,1,False,5
+1376,card payment not recognised,dispos,29,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1376,5,1,False,5
+1517,wrong amount of cash received,direct,28,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1517,5,1,False,5
+1171,verify my identity,why,74,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1171,5,1,False,5
+2242,get physical card,receiving,50,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2242,5,1,False,5
+1476,atm support,at,3,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1476,5,1,False,5
+237,atm support,pending c,46,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",237,5,1,False,5
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1650,5,1,False,5
+2484,card payment fee charged,order,43,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2484,5,1,False,5
+2105,card not working,revert,53,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2105,5,1,False,5
+2121,change pin,change,21,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2121,5,1,False,5
+1452,atm support,at,3,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1452,5,1,False,5
+274,balance not updated after bank transfer,fi,36,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",274,5,1,False,5
+564,contactless not working,contact,23,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",564,5,1,False,5
+905,supported cards and currencies,supported,54,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",905,5,1,False,5
+1535,passcode forgotten,pass,44,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1535,5,1,False,5
+2113,failed transfer,revert,53,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2113,5,1,False,5
+2142,change pin,change,21,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2142,5,1,False,5
+2965,top up by card charge,apple,2,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2965,5,1,False,5
+1834,card payment not recognised,declined card,25,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1834,5,1,False,5
+1549,passcode forgotten,pass,44,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1549,5,1,False,5
+1320,top up by card charge,to,62,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1320,5,1,False,5
+2421,get physical card,getting spare,39,True,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2421,5,1,False,5
+2784,exchange rate,exchange charge,31,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2784,5,1,False,5
+768,cash withdrawal not recognised,wrong amount,75,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",768,5,1,False,5
+2472,top up by bank transfer charge,top up by c,58,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2472,5,1,False,5
+2154,pin blocked,change,21,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2154,5,1,False,5
+795,atm support,wrong amount,75,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",795,5,1,False,5
+1278,pin blocked,get physical,38,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1278,5,1,False,5
+1494,direct debit payment not recognised,direct,28,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1494,5,1,False,5
+241,get physical card,fi,36,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",241,5,1,False,5
+3060,country support,country,24,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",3060,5,1,False,5
+494,age limit,age,1,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",494,5,1,False,5
+327,top up by card charge,automatic,4,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",327,5,1,False,5
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",458,5,1,False,5
+428,exchange rate,exchange via,33,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",428,5,1,False,5
+2862,activate my card,activ,0,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2862,5,1,False,5
+2164,transfer not received by recipient,benef,7,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2164,5,1,False,5
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2897,5,1,False,5
+2440,top up by cash or cheque,top up by c,58,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2440,5,1,False,5
+1663,lost or stolen card,lost or stolen phone,42,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1663,5,1,False,5
+2700,transfer not received by recipient,balance not updated after bank,5,True,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2700,5,1,False,5
+2955,card not working,card about,9,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2955,5,1,False,5
+522,pin blocked,pin,49,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",522,5,1,False,5
+1788,card not working,Ref,51,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1788,5,1,False,5
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1055,5,1,False,5
+2992,top up by card charge,apple,2,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2992,5,1,False,5
+1093,card payment not recognised,card payment not,16,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1093,5,1,False,5
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",791,5,1,False,5
+894,card payment not recognised,supported,54,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",894,5,1,False,5
+897,card payment not recognised,supported,54,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",897,5,1,False,5
+1175,card not working,why,74,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1175,5,1,False,5
+68,card linking,card linking,13,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",68,5,1,False,5
+1551,passcode forgotten,pass,44,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1551,5,1,False,5
+1508,direct debit payment not recognised,direct,28,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1508,5,1,False,5
+2250,card payment not recognised,receiving,50,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2250,5,1,False,5
+519,age limit,age,1,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",519,5,1,False,5
+1731,transfer not received by recipient,declined transfer,27,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1731,5,1,False,5
+1210,failed transfer,unable,68,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1210,5,1,False,5
+1750,transfer not received by recipient,declined transfer,27,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1750,5,1,False,5
+1687,cancel transfer,request,52,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1687,5,1,False,5
+891,card not working,supported,54,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",891,5,1,False,5
+1061,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1061,5,1,False,5
+2403,get physical card,getting spare,39,True,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2403,5,1,False,5
+1898,cancel transfer,terminate,55,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1898,5,1,False,5
+2978,apple pay or google pay,apple,2,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2978,5,1,False,5
+1427,card not working,comprom,22,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1427,5,1,False,5
+1526,wrong amount of cash received,pass,44,True,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1526,5,1,False,5
+824,extra charge on statement,card payment fee,15,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",824,5,1,False,5
+1983,card payment not recognised,transaction,63,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1983,5,1,False,5
+2132,change pin,change,21,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2132,5,1,False,5
+418,change pin,exchange via,33,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",418,5,1,False,5
+1345,transfer not received by recipient,to,62,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1345,5,1,False,5
+2829,top up by bank transfer charge,top up by card,57,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2829,5,1,False,5
+2489,card delivery estimate,order,43,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2489,5,1,False,5
+598,contactless not working,contact,23,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",598,5,1,False,5
+804,why verify identity,card payment fee,15,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",804,5,1,False,5
+3017,verify my identity,verify my,69,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",3017,5,1,False,5
+2589,exchange rate,wrong exchange,76,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2589,5,1,False,5
+2540,virtual card not working,virtual,72,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2540,5,1,False,5
+2908,card payment fee charged,cash withdrawal charge,19,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2908,5,1,False,5
+2968,apple pay or google pay,apple,2,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2968,5,1,False,5
+2747,atm support,cash withdrawal not,20,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2747,5,1,False,5
+1340,transfer not received by recipient,to,62,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1340,5,1,False,5
+1348,transfer into account,to,62,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1348,5,1,False,5
+1451,atm support,at,3,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1451,5,1,False,5
+2903,cash withdrawal not recognised,cash withdrawal charge,19,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2903,5,1,False,5
+1237,verify my identity,unable,68,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1237,5,1,False,5
+2119,failed transfer,revert,53,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2119,5,1,False,5
+652,pending top up,pending top,47,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",652,5,1,False,5
+131,exchange rate,card payment wrong,17,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",131,5,1,False,5
+949,virtual card not working,getting virtual,40,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",949,5,1,False,5
+2528,virtual card not working,virtual,72,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2528,5,1,False,5
+2158,change pin,change,21,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2158,5,1,False,5
+2705,balance not updated after bank transfer,balance not updated after bank,5,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2705,5,1,False,5
+592,contactless not working,contact,23,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",592,5,1,False,5
+2511,card delivery estimate,order,43,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2511,5,1,False,5
+1080,card payment not recognised,card payment not,16,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1080,5,1,False,5
+1361,card not working,dispos,29,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1361,5,1,False,5
+448,card not working,lost or stolen card,41,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",448,5,1,False,5
+18,card not working,card arrival,11,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",18,5,1,False,5
+1168,verify my identity,why,74,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1168,5,1,False,5
+2396,top up failed,verify top,71,True,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2396,5,1,False,5
+362,card not working,card not,14,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",362,5,1,False,5
+1456,get physical card,at,3,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1456,5,1,False,5
+1735,card payment not recognised,declined transfer,27,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1735,5,1,False,5
+2579,atm support,wrong exchange,76,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2579,5,1,False,5
+385,card not working,card not,14,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",385,5,1,False,5
+2555,virtual card not working,virtual,72,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2555,5,1,False,5
+2307,failed transfer,failed,35,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2307,5,1,False,5
+1779,balance not updated after bank transfer,Ref,51,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1779,5,1,False,5
+1119,transaction charged twice,card payment not,16,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1119,5,1,False,5
+2104,card payment not recognised,revert,53,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2104,5,1,False,5
+713,cancel transfer,cancel,8,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",713,5,1,False,5
+2077,transfer fee charged,transfer timing,67,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2077,5,1,False,5
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1671,5,1,False,5
+1150,change pin,edit,30,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1150,5,1,False,5
+1491,card not working,direct,28,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1491,5,1,False,5
+2610,card not working,get dispos,37,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2610,5,1,False,5
+1729,transfer not received by recipient,declined transfer,27,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1729,5,1,False,5
+1360,get disposable virtual card,dispos,29,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1360,5,1,False,5
+1397,virtual card not working,dispos,29,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1397,5,1,False,5
+842,pending card payment,transfer not,66,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",842,5,1,False,5
+2504,get physical card,order,43,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2504,5,1,False,5
+538,card not working,pin,49,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",538,5,1,False,5
+2020,get physical card,verify source,70,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2020,5,1,False,5
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",769,5,1,False,5
+945,get physical card,getting virtual,40,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",945,5,1,False,5
+1591,atm support,declined c,26,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1591,5,1,False,5
+1818,declined card payment,declined card,25,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1818,5,1,False,5
+1876,transfer not received by recipient,pending transfer,48,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1876,5,1,False,5
+3031,verify my identity,verify my,69,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",3031,5,1,False,5
+1992,transaction charged twice,transaction,63,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1992,5,1,False,5
+2997,top up failed,apple,2,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2997,5,1,False,5
+1228,verify my identity,unable,68,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1228,5,1,False,5
+1682,get physical card,request,52,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1682,5,1,False,5
+469,card not working,lost or stolen card,41,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",469,5,1,False,5
+2325,transfer into account,transfer into,65,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2325,5,1,False,5
+732,top up limits,top up limits,60,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",732,5,1,False,5
+820,card payment fee charged,card payment fee,15,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",820,5,1,False,5
+2990,apple pay or google pay,apple,2,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2990,5,1,False,5
+1732,transfer not received by recipient,declined transfer,27,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1732,5,1,False,5
+1252,pin blocked,get physical,38,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1252,5,1,False,5
+227,pending card payment,pending c,46,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",227,5,1,False,5
+1962,wrong amount of cash received,transaction,63,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1962,5,1,False,5
+400,exchange rate,exchange via,33,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",400,5,1,False,5
+1134,change pin,edit,30,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1134,5,1,False,5
+59,card not working,card linking,13,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",59,5,1,False,5
+2256,transfer into account,receiving,50,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2256,5,1,False,5
+853,transfer not received by recipient,transfer not,66,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",853,5,1,False,5
+2777,exchange rate,exchange charge,31,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2777,5,1,False,5
+1538,passcode forgotten,pass,44,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1538,5,1,False,5
+2109,card payment not recognised,revert,53,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2109,5,1,False,5
+305,card delivery estimate,card delivery,12,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",305,5,1,False,5
+711,cancel transfer,cancel,8,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",711,5,1,False,5
+2927,card delivery estimate,card about,9,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2927,5,1,False,5
+2623,get disposable virtual card,get dispos,37,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2623,5,1,False,5
+271,exchange rate,fi,36,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",271,5,1,False,5
+1023,top up failed,top up revert,61,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1023,5,1,False,5
+470,card not working,lost or stolen card,41,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",470,5,1,False,5
+2779,exchange rate,exchange charge,31,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2779,5,1,False,5
+1170,verify my identity,why,74,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1170,5,1,False,5
+1886,cancel transfer,terminate,55,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1886,5,1,False,5
+2723,atm support,cash withdrawal not,20,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2723,5,1,False,5
+915,card not working,supported,54,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",915,5,1,False,5
+2626,get disposable virtual card,get dispos,37,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2626,5,1,False,5
+2604,virtual card not working,get dispos,37,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2604,5,1,False,5
+1510,card payment not recognised,direct,28,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1510,5,1,False,5
+2303,transfer not received by recipient,failed,35,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2303,5,1,False,5
+64,lost or stolen card,card linking,13,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",64,5,1,False,5
+2041,transfer fee charged,transfer timing,67,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2041,5,1,False,5
+1995,cancel transfer,transaction,63,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1995,5,1,False,5
+1266,pin blocked,get physical,38,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1266,5,1,False,5
+2821,card payment fee charged,top up by card,57,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2821,5,1,False,5
+1945,card not working,card sw,18,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1945,5,1,False,5
+835,card payment fee charged,card payment fee,15,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",835,5,1,False,5
+2312,transfer not received by recipient,failed,35,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2312,5,1,False,5
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1053,5,1,False,5
+2800,card payment fee charged,top up by card,57,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2800,5,1,False,5
+1835,card not working,declined card,25,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1835,5,1,False,5
+1434,card not working,comprom,22,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1434,5,1,False,5
+979,card not working,card accept,10,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",979,5,1,False,5
+2942,card delivery estimate,card about,9,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2942,5,1,False,5
+1900,cancel transfer,terminate,55,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1900,5,1,False,5
+2973,apple pay or google pay,apple,2,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2973,5,1,False,5
+2989,top up by card charge,apple,2,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2989,5,1,False,5
+2241,get physical card,receiving,50,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2241,5,1,False,5
+984,card acceptance,card accept,10,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",984,5,1,False,5
+2933,card about to expire,card about,9,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2933,5,1,False,5
+1265,pin blocked,get physical,38,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1265,5,1,False,5
+1811,card payment not recognised,declined card,25,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1811,5,1,False,5
+1428,card not working,comprom,22,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1428,5,1,False,5
+1568,failed transfer,declined c,26,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1568,5,1,False,5
+2675,card payment not recognised,top up failed,59,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2675,5,1,False,5
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1645,5,1,False,5
+2289,transfer not received by recipient,failed,35,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2289,5,1,False,5
+2854,activate my card,activ,0,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2854,5,1,False,5
+1356,top up failed,to,62,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1356,5,1,False,5
+982,card not working,card accept,10,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",982,5,1,False,5
+1518,direct debit payment not recognised,direct,28,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1518,5,1,False,5
+722,top up limits,top up limits,60,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",722,5,1,False,5
+2372,verify top up,verify top,71,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2372,5,1,False,5
+1917,cancel transfer,terminate,55,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1917,5,1,False,5
+1500,direct debit payment not recognised,direct,28,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1500,5,1,False,5
+1933,lost or stolen card,card sw,18,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1933,5,1,False,5
+2833,top up by bank transfer charge,top up by card,57,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2833,5,1,False,5
+1639,pending card payment,pending card,45,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1639,5,1,False,5
+1136,change pin,edit,30,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1136,5,1,False,5
+2124,change pin,change,21,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2124,5,1,False,5
+3008,verify my identity,verify my,69,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",3008,5,1,False,5
+1704,get physical card,request,52,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1704,5,1,False,5
+2243,get physical card,receiving,50,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2243,5,1,False,5
+748,top up limits,top up limits,60,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",748,5,1,False,5
+2649,top up failed,top up failed,59,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2649,5,1,False,5
+1258,pin blocked,get physical,38,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1258,5,1,False,5
+1318,card payment not recognised,vis,73,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1318,5,1,False,5
+1770,get physical card,Ref,51,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1770,5,1,False,5
+217,pending cash withdrawal,pending c,46,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",217,5,1,False,5
+1141,change pin,edit,30,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1141,5,1,False,5
+2078,transfer timing,transfer timing,67,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2078,5,1,False,5
+402,change pin,exchange via,33,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",402,5,1,False,5
+1349,transfer into account,to,62,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1349,5,1,False,5
+80,exchange rate,exchange rate,32,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",80,5,1,False,5
+1355,top up by card charge,to,62,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1355,5,1,False,5
+2386,verify top up,verify top,71,True,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2386,5,1,False,5
+838,card payment fee charged,card payment fee,15,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",838,5,1,False,5
+2267,receiving money,receiving,50,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2267,5,1,False,5
+2881,extra charge on statement,cash withdrawal charge,19,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2881,5,1,False,5
+801,card payment fee charged,card payment fee,15,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",801,5,1,False,5
+73,card linking,card linking,13,False,True,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",73,5,1,False,5
+1967,cancel transfer,transaction,63,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",1967,5,1,False,5
+2982,top up by card charge,apple,2,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2982,5,1,False,5
+46,card not working,card linking,13,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",46,5,1,False,5
+2916,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{45: 1, 5: 1, 44: 1, 39: 1, 71: 1}","[2407, 6275, 968, 9353, 3927]",2916,5,1,False,5

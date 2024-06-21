@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,card linking,supported,54,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",903,5,9,False,5
+1003,top up failed,top up revert,61,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1003,5,9,False,5
+2953,card linking,card about,9,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2953,5,9,False,5
+2979,apple pay or google pay,apple,2,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2979,5,9,False,5
+1926,card not working,card sw,18,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1926,5,9,False,5
+2137,pin blocked,change,21,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2137,5,9,False,5
+2980,apple pay or google pay,apple,2,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2980,5,9,False,5
+702,cancel transfer,cancel,8,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",702,5,9,False,5
+2493,get physical card,order,43,True,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2493,5,9,False,5
+2210,transfer fee charged,transfer fee,64,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2210,5,9,False,5
+112,exchange rate,exchange rate,32,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",112,5,9,False,5
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2909,5,9,False,5
+1987,card linking,transaction,63,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1987,5,9,False,5
+1283,card payment not recognised,vis,73,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1283,5,9,False,5
+1539,passcode forgotten,pass,44,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1539,5,9,False,5
+2879,activate my card,activ,0,True,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2879,5,9,False,5
+1158,change pin,edit,30,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1158,5,9,False,5
+1376,card linking,dispos,29,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1376,5,9,False,5
+1517,card payment fee charged,direct,28,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1517,5,9,False,5
+1171,verify my identity,why,74,True,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1171,5,9,False,5
+2242,card linking,receiving,50,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2242,5,9,False,5
+1476,atm support,at,3,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1476,5,9,False,5
+237,atm support,pending c,46,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",237,5,9,False,5
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1650,5,9,False,5
+2484,card payment fee charged,order,43,True,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2484,5,9,False,5
+2105,cancel transfer,revert,53,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2105,5,9,False,5
+2121,change pin,change,21,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2121,5,9,False,5
+1452,atm support,at,3,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1452,5,9,False,5
+274,card linking,fi,36,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",274,5,9,False,5
+564,contactless not working,contact,23,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",564,5,9,False,5
+905,card linking,supported,54,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",905,5,9,False,5
+1535,passcode forgotten,pass,44,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1535,5,9,False,5
+2113,cancel transfer,revert,53,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2113,5,9,False,5
+2142,change pin,change,21,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2142,5,9,False,5
+2965,top up by card charge,apple,2,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2965,5,9,False,5
+1834,card payment not recognised,declined card,25,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1834,5,9,False,5
+1549,passcode forgotten,pass,44,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1549,5,9,False,5
+1320,card linking,to,62,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1320,5,9,False,5
+2421,order physical card,getting spare,39,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2421,5,9,False,5
+2784,exchange rate,exchange charge,31,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2784,5,9,False,5
+768,cash withdrawal not recognised,wrong amount,75,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",768,5,9,False,5
+2472,top up by cash or cheque,top up by c,58,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2472,5,9,False,5
+2154,change pin,change,21,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2154,5,9,False,5
+795,atm support,wrong amount,75,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",795,5,9,False,5
+1278,card linking,get physical,38,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1278,5,9,False,5
+1494,direct debit payment not recognised,direct,28,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1494,5,9,False,5
+241,card linking,fi,36,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",241,5,9,False,5
+3060,card linking,country,24,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",3060,5,9,False,5
+494,age limit,age,1,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",494,5,9,False,5
+327,top up by card charge,automatic,4,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",327,5,9,False,5
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",458,5,9,False,5
+428,exchange rate,exchange via,33,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",428,5,9,False,5
+2862,activate my card,activ,0,True,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2862,5,9,False,5
+2164,transfer not received by recipient,benef,7,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2164,5,9,False,5
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2897,5,9,False,5
+2440,top up by cash or cheque,top up by c,58,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2440,5,9,False,5
+1663,lost or stolen card,lost or stolen phone,42,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1663,5,9,False,5
+2700,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2700,5,9,False,5
+2955,card delivery estimate,card about,9,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2955,5,9,False,5
+522,pin blocked,pin,49,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",522,5,9,False,5
+1788,card payment not recognised,Ref,51,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1788,5,9,False,5
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1055,5,9,False,5
+2992,top up by card charge,apple,2,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2992,5,9,False,5
+1093,card payment not recognised,card payment not,16,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1093,5,9,False,5
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",791,5,9,False,5
+894,card linking,supported,54,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",894,5,9,False,5
+897,card linking,supported,54,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",897,5,9,False,5
+1175,card linking,why,74,True,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1175,5,9,False,5
+68,card linking,card linking,13,True,True,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",68,5,9,False,5
+1551,change pin,pass,44,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1551,5,9,False,5
+1508,card not working,direct,28,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1508,5,9,False,5
+2250,card linking,receiving,50,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2250,5,9,False,5
+519,age limit,age,1,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",519,5,9,False,5
+1731,transfer not received by recipient,declined transfer,27,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1731,5,9,False,5
+1210,verify my identity,unable,68,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1210,5,9,False,5
+1750,transfer not received by recipient,declined transfer,27,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1750,5,9,False,5
+1687,cancel transfer,request,52,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1687,5,9,False,5
+891,card linking,supported,54,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",891,5,9,False,5
+1061,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1061,5,9,False,5
+2403,get physical card,getting spare,39,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2403,5,9,False,5
+1898,cancel transfer,terminate,55,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1898,5,9,False,5
+2978,apple pay or google pay,apple,2,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2978,5,9,False,5
+1427,card linking,comprom,22,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1427,5,9,False,5
+1526,change pin,pass,44,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1526,5,9,False,5
+824,card linking,card payment fee,15,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",824,5,9,False,5
+1983,card payment fee charged,transaction,63,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1983,5,9,False,5
+2132,change pin,change,21,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2132,5,9,False,5
+418,change pin,exchange via,33,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",418,5,9,False,5
+1345,transfer fee charged,to,62,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1345,5,9,False,5
+2829,card linking,top up by card,57,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2829,5,9,False,5
+2489,card linking,order,43,True,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2489,5,9,False,5
+598,contactless not working,contact,23,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",598,5,9,False,5
+804,card payment fee charged,card payment fee,15,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",804,5,9,False,5
+3017,verify my identity,verify my,69,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",3017,5,9,False,5
+2589,exchange rate,wrong exchange,76,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2589,5,9,False,5
+2540,virtual card not working,virtual,72,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2540,5,9,False,5
+2908,card linking,cash withdrawal charge,19,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2908,5,9,False,5
+2968,apple pay or google pay,apple,2,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2968,5,9,False,5
+2747,card not working,cash withdrawal not,20,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2747,5,9,False,5
+1340,transfer fee charged,to,62,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1340,5,9,False,5
+1348,card linking,to,62,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1348,5,9,False,5
+1451,card linking,at,3,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1451,5,9,False,5
+2903,cash withdrawal not recognised,cash withdrawal charge,19,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2903,5,9,False,5
+1237,verify my identity,unable,68,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1237,5,9,False,5
+2119,card payment not recognised,revert,53,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2119,5,9,False,5
+652,pending top up,pending top,47,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",652,5,9,False,5
+131,exchange rate,card payment wrong,17,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",131,5,9,False,5
+949,virtual card not working,getting virtual,40,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",949,5,9,False,5
+2528,virtual card not working,virtual,72,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2528,5,9,False,5
+2158,change pin,change,21,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2158,5,9,False,5
+2705,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2705,5,9,False,5
+592,contactless not working,contact,23,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",592,5,9,False,5
+2511,card delivery estimate,order,43,True,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2511,5,9,False,5
+1080,card payment not recognised,card payment not,16,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1080,5,9,False,5
+1361,card linking,dispos,29,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1361,5,9,False,5
+448,card not working,lost or stolen card,41,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",448,5,9,False,5
+18,card delivery estimate,card arrival,11,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",18,5,9,False,5
+1168,why verify identity,why,74,True,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1168,5,9,False,5
+2396,top up by card charge,verify top,71,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2396,5,9,False,5
+362,card not working,card not,14,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",362,5,9,False,5
+1456,card linking,at,3,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1456,5,9,False,5
+1735,card linking,declined transfer,27,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1735,5,9,False,5
+2579,atm support,wrong exchange,76,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2579,5,9,False,5
+385,card not working,card not,14,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",385,5,9,False,5
+2555,card not working,virtual,72,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2555,5,9,False,5
+2307,failed transfer,failed,35,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2307,5,9,False,5
+1779,card payment not recognised,Ref,51,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1779,5,9,False,5
+1119,card payment not recognised,card payment not,16,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1119,5,9,False,5
+2104,card payment not recognised,revert,53,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2104,5,9,False,5
+713,card linking,cancel,8,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",713,5,9,False,5
+2077,transfer fee charged,transfer timing,67,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2077,5,9,False,5
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1671,5,9,False,5
+1150,change pin,edit,30,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1150,5,9,False,5
+1491,card linking,direct,28,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1491,5,9,False,5
+2610,disposable card limits,get dispos,37,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2610,5,9,False,5
+1729,transfer not received by recipient,declined transfer,27,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1729,5,9,False,5
+1360,get disposable virtual card,dispos,29,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1360,5,9,False,5
+1397,virtual card not working,dispos,29,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1397,5,9,False,5
+842,transaction charged twice,transfer not,66,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",842,5,9,False,5
+2504,order physical card,order,43,True,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2504,5,9,False,5
+538,card linking,pin,49,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",538,5,9,False,5
+2020,balance not updated after bank transfer,verify source,70,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2020,5,9,False,5
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",769,5,9,False,5
+945,card delivery estimate,getting virtual,40,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",945,5,9,False,5
+1591,atm support,declined c,26,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1591,5,9,False,5
+1818,card payment not recognised,declined card,25,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1818,5,9,False,5
+1876,transfer not received by recipient,pending transfer,48,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1876,5,9,False,5
+3031,verify my identity,verify my,69,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",3031,5,9,False,5
+1992,transaction charged twice,transaction,63,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1992,5,9,False,5
+2997,card linking,apple,2,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2997,5,9,False,5
+1228,verify my identity,unable,68,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1228,5,9,False,5
+1682,get physical card,request,52,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1682,5,9,False,5
+469,card not working,lost or stolen card,41,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",469,5,9,False,5
+2325,transfer into account,transfer into,65,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2325,5,9,False,5
+732,top up limits,top up limits,60,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",732,5,9,False,5
+820,card payment fee charged,card payment fee,15,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",820,5,9,False,5
+2990,apple pay or google pay,apple,2,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2990,5,9,False,5
+1732,transfer not received by recipient,declined transfer,27,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1732,5,9,False,5
+1252,pin blocked,get physical,38,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1252,5,9,False,5
+227,pending card payment,pending c,46,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",227,5,9,False,5
+1962,card linking,transaction,63,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1962,5,9,False,5
+400,exchange rate,exchange via,33,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",400,5,9,False,5
+1134,change pin,edit,30,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1134,5,9,False,5
+59,card linking,card linking,13,True,True,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",59,5,9,False,5
+2256,transfer fee charged,receiving,50,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2256,5,9,False,5
+853,transfer not received by recipient,transfer not,66,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",853,5,9,False,5
+2777,exchange rate,exchange charge,31,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2777,5,9,False,5
+1538,passcode forgotten,pass,44,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1538,5,9,False,5
+2109,cancel transfer,revert,53,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2109,5,9,False,5
+305,card delivery estimate,card delivery,12,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",305,5,9,False,5
+711,cancel transfer,cancel,8,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",711,5,9,False,5
+2927,card linking,card about,9,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2927,5,9,False,5
+2623,virtual card not working,get dispos,37,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2623,5,9,False,5
+271,exchange rate,fi,36,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",271,5,9,False,5
+1023,card linking,top up revert,61,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1023,5,9,False,5
+470,card linking,lost or stolen card,41,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",470,5,9,False,5
+2779,exchange rate,exchange charge,31,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2779,5,9,False,5
+1170,verify my identity,why,74,True,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1170,5,9,False,5
+1886,cancel transfer,terminate,55,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1886,5,9,False,5
+2723,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2723,5,9,False,5
+915,card linking,supported,54,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",915,5,9,False,5
+2626,virtual card not working,get dispos,37,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2626,5,9,False,5
+2604,virtual card not working,get dispos,37,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2604,5,9,False,5
+1510,card payment fee charged,direct,28,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1510,5,9,False,5
+2303,transfer not received by recipient,failed,35,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2303,5,9,False,5
+64,card linking,card linking,13,True,True,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",64,5,9,False,5
+2041,transfer fee charged,transfer timing,67,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2041,5,9,False,5
+1995,cancel transfer,transaction,63,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1995,5,9,False,5
+1266,pin blocked,get physical,38,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1266,5,9,False,5
+2821,card linking,top up by card,57,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2821,5,9,False,5
+1945,card not working,card sw,18,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1945,5,9,False,5
+835,card payment fee charged,card payment fee,15,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",835,5,9,False,5
+2312,transfer not received by recipient,failed,35,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2312,5,9,False,5
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1053,5,9,False,5
+2800,card linking,top up by card,57,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2800,5,9,False,5
+1835,card not working,declined card,25,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1835,5,9,False,5
+1434,card not working,comprom,22,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1434,5,9,False,5
+979,card not working,card accept,10,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",979,5,9,False,5
+2942,card linking,card about,9,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2942,5,9,False,5
+1900,cancel transfer,terminate,55,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1900,5,9,False,5
+2973,apple pay or google pay,apple,2,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2973,5,9,False,5
+2989,top up by card charge,apple,2,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2989,5,9,False,5
+2241,get physical card,receiving,50,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2241,5,9,False,5
+984,card acceptance,card accept,10,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",984,5,9,False,5
+2933,card linking,card about,9,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2933,5,9,False,5
+1265,pin blocked,get physical,38,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1265,5,9,False,5
+1811,card linking,declined card,25,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1811,5,9,False,5
+1428,card not working,comprom,22,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1428,5,9,False,5
+1568,card linking,declined c,26,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1568,5,9,False,5
+2675,card payment not recognised,top up failed,59,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2675,5,9,False,5
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1645,5,9,False,5
+2289,transfer not received by recipient,failed,35,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2289,5,9,False,5
+2854,activate my card,activ,0,True,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2854,5,9,False,5
+1356,card linking,to,62,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1356,5,9,False,5
+982,card linking,card accept,10,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",982,5,9,False,5
+1518,direct debit payment not recognised,direct,28,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1518,5,9,False,5
+722,top up limits,top up limits,60,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",722,5,9,False,5
+2372,verify top up,verify top,71,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2372,5,9,False,5
+1917,cancel transfer,terminate,55,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1917,5,9,False,5
+1500,direct debit payment not recognised,direct,28,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1500,5,9,False,5
+1933,lost or stolen card,card sw,18,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1933,5,9,False,5
+2833,top up by card charge,top up by card,57,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2833,5,9,False,5
+1639,pending card payment,pending card,45,True,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1639,5,9,False,5
+1136,change pin,edit,30,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1136,5,9,False,5
+2124,change pin,change,21,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2124,5,9,False,5
+3008,verify my identity,verify my,69,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",3008,5,9,False,5
+1704,card payment fee charged,request,52,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1704,5,9,False,5
+2243,get physical card,receiving,50,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2243,5,9,False,5
+748,top up limits,top up limits,60,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",748,5,9,False,5
+2649,top up failed,top up failed,59,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2649,5,9,False,5
+1258,pin blocked,get physical,38,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1258,5,9,False,5
+1318,card payment fee charged,vis,73,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1318,5,9,False,5
+1770,card payment not recognised,Ref,51,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1770,5,9,False,5
+217,pending card payment,pending c,46,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",217,5,9,False,5
+1141,change pin,edit,30,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1141,5,9,False,5
+2078,transfer fee charged,transfer timing,67,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2078,5,9,False,5
+402,change pin,exchange via,33,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",402,5,9,False,5
+1349,transfer into account,to,62,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1349,5,9,False,5
+80,exchange rate,exchange rate,32,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",80,5,9,False,5
+1355,top up by card charge,to,62,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1355,5,9,False,5
+2386,top up by card charge,verify top,71,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2386,5,9,False,5
+838,card payment fee charged,card payment fee,15,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",838,5,9,False,5
+2267,card linking,receiving,50,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2267,5,9,False,5
+2881,card linking,cash withdrawal charge,19,False,False,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2881,5,9,False,5
+801,card payment fee charged,card payment fee,15,False,True,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",801,5,9,False,5
+73,card linking,card linking,13,True,True,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",73,5,9,False,5
+1967,cancel transfer,transaction,63,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",1967,5,9,False,5
+2982,top up by card charge,apple,2,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2982,5,9,False,5
+46,card linking,card linking,13,True,True,True,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",46,5,9,False,5
+2916,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{74: 1, 45: 1, 13: 1, 43: 1, 0: 1}","[4381, 10001, 2486, 8479, 7943]",2916,5,9,False,5

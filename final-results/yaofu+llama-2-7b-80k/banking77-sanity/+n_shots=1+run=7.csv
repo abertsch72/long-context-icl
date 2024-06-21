@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+3945,cancel transfer,request,52,True,False,False,{52: 1},[3945],3945,1,7,False
+8741,request refund,supported,54,False,False,False,{52: 1},[3945],8741,1,7,False
+3726,request refund,wrong amount,75,False,False,False,{52: 1},[3945],3726,1,7,False
+8199,exchange rate,fi,36,False,False,False,{52: 1},[3945],8199,1,7,False
+4364,request refund,get dispos,37,False,False,False,{52: 1},[3945],4364,1,7,False
+7292,get physical card,card delivery,12,False,False,False,{52: 1},[3945],7292,1,7,False
+468,request refund,receiving,50,False,False,False,{52: 1},[3945],468,1,7,False
+1676,transfer fee charged,transfer into,65,False,False,False,{52: 1},[3945],1676,1,7,False
+2356,request refund,card payment wrong,17,False,False,False,{52: 1},[3945],2356,1,7,False
+8577,request refund,wrong exchange,76,False,False,False,{52: 1},[3945],8577,1,7,False
+4988,request refund,card arrival,11,False,False,False,{52: 1},[3945],4988,1,7,False
+8843,request refund,lost or stolen phone,42,False,False,False,{52: 1},[3945],8843,1,7,False
+2737,request refund,unable,68,False,False,False,{52: 1},[3945],2737,1,7,False
+8399,change pin,edit,30,False,False,False,{52: 1},[3945],8399,1,7,False
+865,get physical card,wrong exchange,76,False,False,False,{52: 1},[3945],865,1,7,False
+1122,transfer fee charged,transfer timing,67,False,False,False,{52: 1},[3945],1122,1,7,False
+2040,change pin,change,21,False,True,False,{52: 1},[3945],2040,1,7,False
+3570,request refund,cash withdrawal charge,19,False,False,False,{52: 1},[3945],3570,1,7,False
+7774,get physical card,top up by card,57,False,False,False,{52: 1},[3945],7774,1,7,False
+2958,request refund,declined card,25,False,False,False,{52: 1},[3945],2958,1,7,False
+3234,transfer into account,transfer into,65,False,True,False,{52: 1},[3945],3234,1,7,False
+1638,request refund,activ,0,False,False,False,{52: 1},[3945],1638,1,7,False
+2995,top up by card charge,supported,54,False,False,False,{52: 1},[3945],2995,1,7,False
+1039,verify source of funds,verify source,70,False,True,False,{52: 1},[3945],1039,1,7,False
+1036,request refund,extra,34,False,False,False,{52: 1},[3945],1036,1,7,False
+4195,request refund,lost or stolen phone,42,False,False,False,{52: 1},[3945],4195,1,7,False
+4613,request refund,apple,2,False,False,False,{52: 1},[3945],4613,1,7,False
+421,request refund,apple,2,False,False,False,{52: 1},[3945],421,1,7,False
+4614,request refund,get physical,38,False,False,False,{52: 1},[3945],4614,1,7,False
+8447,request refund,pass,44,False,False,False,{52: 1},[3945],8447,1,7,False
+1878,age limit,age,1,False,True,False,{52: 1},[3945],1878,1,7,False
+6592,request refund,card arrival,11,False,False,False,{52: 1},[3945],6592,1,7,False
+6933,get physical card,top up by bank,56,False,False,False,{52: 1},[3945],6933,1,7,False
+109,cancel transfer,Ref,51,False,False,False,{52: 1},[3945],109,1,7,False
+8177,request refund,transfer not,66,False,False,False,{52: 1},[3945],8177,1,7,False
+5877,top up by card charge,top up by c,58,False,False,False,{52: 1},[3945],5877,1,7,False
+3295,request refund,top up by bank,56,False,False,False,{52: 1},[3945],3295,1,7,False
+2467,request refund,top up failed,59,False,False,False,{52: 1},[3945],2467,1,7,False
+6355,request refund,card payment wrong,17,False,False,False,{52: 1},[3945],6355,1,7,False
+3649,request refund,country,24,False,False,False,{52: 1},[3945],3649,1,7,False
+3428,request refund,pending card,45,False,False,False,{52: 1},[3945],3428,1,7,False
+4955,cancel transfer,cash withdrawal charge,19,False,False,False,{52: 1},[3945],4955,1,7,False
+2658,request refund,card linking,13,False,False,False,{52: 1},[3945],2658,1,7,False
+6927,get physical card,card payment fee,15,False,False,False,{52: 1},[3945],6927,1,7,False
+8135,request refund,pin,49,False,False,False,{52: 1},[3945],8135,1,7,False
+8900,get physical card,card accept,10,False,False,False,{52: 1},[3945],8900,1,7,False
+2786,transfer fee charged,top up by bank,56,False,False,False,{52: 1},[3945],2786,1,7,False
+6308,request refund,top up by bank,56,False,False,False,{52: 1},[3945],6308,1,7,False
+4426,verify top up,verify top,71,False,True,False,{52: 1},[3945],4426,1,7,False
+9076,request refund,apple,2,False,False,False,{52: 1},[3945],9076,1,7,False
+3730,change pin,edit,30,False,False,False,{52: 1},[3945],3730,1,7,False
+9118,request refund,vis,73,False,False,False,{52: 1},[3945],9118,1,7,False
+2362,request refund,card arrival,11,False,False,False,{52: 1},[3945],2362,1,7,False
+640,request refund,card payment wrong,17,False,False,False,{52: 1},[3945],640,1,7,False
+3003,request refund,Ref,51,False,False,False,{52: 1},[3945],3003,1,7,False
+728,cancel transfer,terminate,55,False,False,False,{52: 1},[3945],728,1,7,False
+5426,request refund,age,1,False,False,False,{52: 1},[3945],5426,1,7,False
+3736,request refund,activ,0,False,False,False,{52: 1},[3945],3736,1,7,False
+4402,request refund,revert,53,False,False,False,{52: 1},[3945],4402,1,7,False
+432,cancel transfer,transaction,63,False,False,False,{52: 1},[3945],432,1,7,False
+5560,request refund,top up limits,60,False,False,False,{52: 1},[3945],5560,1,7,False
+9680,request refund,card payment wrong,17,False,False,False,{52: 1},[3945],9680,1,7,False
+6527,request refund,Ref,51,False,False,False,{52: 1},[3945],6527,1,7,False
+860,request refund,pending c,46,False,False,False,{52: 1},[3945],860,1,7,False
+330,request refund,pending c,46,False,False,False,{52: 1},[3945],330,1,7,False
+398,get physical card,exchange rate,32,False,False,False,{52: 1},[3945],398,1,7,False
+2619,request refund,pending transfer,48,False,False,False,{52: 1},[3945],2619,1,7,False
+9892,request refund,card linking,13,False,False,False,{52: 1},[3945],9892,1,7,False
+9048,request refund,cancel,8,False,False,False,{52: 1},[3945],9048,1,7,False
+3533,request refund,Ref,51,False,False,False,{52: 1},[3945],3533,1,7,False
+5991,request refund,why,74,False,False,False,{52: 1},[3945],5991,1,7,False
+7219,request refund,lost or stolen card,41,False,False,False,{52: 1},[3945],7219,1,7,False
+1433,cancel transfer,terminate,55,False,False,False,{52: 1},[3945],1433,1,7,False
+7683,request refund,pending card,45,False,False,False,{52: 1},[3945],7683,1,7,False
+65,request refund,transfer not,66,False,False,False,{52: 1},[3945],65,1,7,False
+4562,request refund,cash withdrawal charge,19,False,False,False,{52: 1},[3945],4562,1,7,False
+7740,request refund,country,24,False,False,False,{52: 1},[3945],7740,1,7,False
+6438,request refund,declined transfer,27,False,False,False,{52: 1},[3945],6438,1,7,False
+5859,request refund,pending top,47,False,False,False,{52: 1},[3945],5859,1,7,False
+7280,request refund,transaction,63,False,False,False,{52: 1},[3945],7280,1,7,False
+4639,request refund,Ref,51,False,False,False,{52: 1},[3945],4639,1,7,False
+8568,request refund,declined card,25,False,False,False,{52: 1},[3945],8568,1,7,False
+5393,get physical card,at,3,False,False,False,{52: 1},[3945],5393,1,7,False
+8766,get physical card,exchange charge,31,False,False,False,{52: 1},[3945],8766,1,7,False
+786,request refund,pending c,46,False,False,False,{52: 1},[3945],786,1,7,False
+2261,contactless not working,contact,23,False,True,False,{52: 1},[3945],2261,1,7,False
+8103,request refund,transfer fee,64,False,False,False,{52: 1},[3945],8103,1,7,False
+4102,change pin,pass,44,False,False,False,{52: 1},[3945],4102,1,7,False
+9737,cancel transfer,direct,28,False,False,False,{52: 1},[3945],9737,1,7,False
+9446,request refund,declined transfer,27,False,False,False,{52: 1},[3945],9446,1,7,False
+1225,order physical card,getting virtual,40,False,False,False,{52: 1},[3945],1225,1,7,False
+6994,request refund,card payment fee,15,False,False,False,{52: 1},[3945],6994,1,7,False
+7112,request refund,declined c,26,False,False,False,{52: 1},[3945],7112,1,7,False
+3229,request refund,top up revert,61,False,False,False,{52: 1},[3945],3229,1,7,False
+6920,request refund,balance not updated after bank,5,False,False,False,{52: 1},[3945],6920,1,7,False
+3035,request refund,balance not updated after bank,5,False,False,False,{52: 1},[3945],3035,1,7,False
+2107,request refund,top up failed,59,False,False,False,{52: 1},[3945],2107,1,7,False
+2396,request refund,pass,44,False,False,False,{52: 1},[3945],2396,1,7,False
+2979,request refund,pending transfer,48,False,False,False,{52: 1},[3945],2979,1,7,False
+1448,request refund,extra,34,False,False,False,{52: 1},[3945],1448,1,7,False
+8318,change pin,change,21,False,True,False,{52: 1},[3945],8318,1,7,False
+6319,request refund,getting virtual,40,False,False,False,{52: 1},[3945],6319,1,7,False
+7153,request refund,transaction,63,False,False,False,{52: 1},[3945],7153,1,7,False
+6996,cancel transfer,cash withdrawal not,20,False,False,False,{52: 1},[3945],6996,1,7,False
+1573,request refund,unable,68,False,False,False,{52: 1},[3945],1573,1,7,False
+5354,request refund,getting spare,39,False,False,False,{52: 1},[3945],5354,1,7,False
+2753,request refund,card not,14,False,False,False,{52: 1},[3945],2753,1,7,False
+2595,request refund,transfer fee,64,False,False,False,{52: 1},[3945],2595,1,7,False
+4012,request refund,get physical,38,False,False,False,{52: 1},[3945],4012,1,7,False
+5674,terminate account,terminate,55,False,True,False,{52: 1},[3945],5674,1,7,False
+8032,request refund,failed,35,False,False,False,{52: 1},[3945],8032,1,7,False
+3713,change pin,edit,30,False,False,False,{52: 1},[3945],3713,1,7,False
+4835,request refund,top up failed,59,False,False,False,{52: 1},[3945],4835,1,7,False
+1946,request refund,apple,2,False,False,False,{52: 1},[3945],1946,1,7,False
+8929,request refund,balance not updated after bank,5,False,False,False,{52: 1},[3945],8929,1,7,False
+1857,request refund,card arrival,11,False,False,False,{52: 1},[3945],1857,1,7,False
+4502,get physical card,card about,9,False,False,False,{52: 1},[3945],4502,1,7,False
+9673,request refund,card about,9,False,False,False,{52: 1},[3945],9673,1,7,False
+2088,request refund,top up by bank,56,False,False,False,{52: 1},[3945],2088,1,7,False
+2736,request refund,verify top,71,False,False,False,{52: 1},[3945],2736,1,7,False
+3066,request refund,cash withdrawal charge,19,False,False,False,{52: 1},[3945],3066,1,7,False
+4858,request refund,order,43,False,False,False,{52: 1},[3945],4858,1,7,False
+8203,request refund,balance not updated after che,6,False,False,False,{52: 1},[3945],8203,1,7,False
+9921,request refund,pending top,47,False,False,False,{52: 1},[3945],9921,1,7,False
+6169,exchange rate,card payment wrong,17,False,False,False,{52: 1},[3945],6169,1,7,False
+4648,request refund,fi,36,False,False,False,{52: 1},[3945],4648,1,7,False
+4395,request refund,automatic,4,False,False,False,{52: 1},[3945],4395,1,7,False
+6004,transfer into account,transfer into,65,False,True,False,{52: 1},[3945],6004,1,7,False
+2561,request refund,Ref,51,False,False,False,{52: 1},[3945],2561,1,7,False
+980,request refund,transfer not,66,False,False,False,{52: 1},[3945],980,1,7,False
+4745,request refund,transfer not,66,False,False,False,{52: 1},[3945],4745,1,7,False
+6674,request refund,pending top,47,False,False,False,{52: 1},[3945],6674,1,7,False
+7299,request refund,declined card,25,False,False,False,{52: 1},[3945],7299,1,7,False
+8185,change pin,change,21,False,True,False,{52: 1},[3945],8185,1,7,False
+4028,request refund,comprom,22,False,False,False,{52: 1},[3945],4028,1,7,False
+1636,request refund,extra,34,False,False,False,{52: 1},[3945],1636,1,7,False
+6706,request refund,verify top,71,False,False,False,{52: 1},[3945],6706,1,7,False
+5437,request refund,card not,14,False,False,False,{52: 1},[3945],5437,1,7,False
+9968,request refund,automatic,4,False,False,False,{52: 1},[3945],9968,1,7,False
+6646,request refund,pending top,47,False,False,False,{52: 1},[3945],6646,1,7,False
+7252,request refund,cash withdrawal not,20,False,False,False,{52: 1},[3945],7252,1,7,False
+1938,request refund,extra,34,False,False,False,{52: 1},[3945],1938,1,7,False
+9110,cancel transfer,virtual,72,False,False,False,{52: 1},[3945],9110,1,7,False
+6325,request refund,get dispos,37,False,False,False,{52: 1},[3945],6325,1,7,False
+5027,change pin,change,21,False,True,False,{52: 1},[3945],5027,1,7,False
+6689,cancel transfer,pending transfer,48,False,False,False,{52: 1},[3945],6689,1,7,False
+3266,request refund,top up failed,59,False,False,False,{52: 1},[3945],3266,1,7,False
+2953,request refund,card delivery,12,False,False,False,{52: 1},[3945],2953,1,7,False
+2565,request refund,card arrival,11,False,False,False,{52: 1},[3945],2565,1,7,False
+4693,request refund,apple,2,False,False,False,{52: 1},[3945],4693,1,7,False
+5157,request refund,card payment fee,15,False,False,False,{52: 1},[3945],5157,1,7,False
+5025,request refund,vis,73,False,False,False,{52: 1},[3945],5025,1,7,False
+5929,change pin,change,21,False,True,False,{52: 1},[3945],5929,1,7,False
+930,request refund,card payment fee,15,False,False,False,{52: 1},[3945],930,1,7,False
+2965,request refund,country,24,False,False,False,{52: 1},[3945],2965,1,7,False
+7656,get disposable virtual card,pending card,45,False,False,False,{52: 1},[3945],7656,1,7,False
+6743,verify my identity,why,74,False,False,False,{52: 1},[3945],6743,1,7,False
+6235,request refund,pass,44,False,False,False,{52: 1},[3945],6235,1,7,False
+5467,request refund,fi,36,False,False,False,{52: 1},[3945],5467,1,7,False
+2694,top up by card charge,apple,2,False,False,False,{52: 1},[3945],2694,1,7,False
+8265,request refund,virtual,72,False,False,False,{52: 1},[3945],8265,1,7,False
+7702,exchange rate,exchange via,33,False,False,False,{52: 1},[3945],7702,1,7,False
+6182,request refund,pending card,45,False,False,False,{52: 1},[3945],6182,1,7,False
+4692,cancel transfer,cancel,8,False,True,False,{52: 1},[3945],4692,1,7,False
+5073,get physical card,top up by card,57,False,False,False,{52: 1},[3945],5073,1,7,False
+7614,request refund,balance not updated after che,6,False,False,False,{52: 1},[3945],7614,1,7,False
+4338,request refund,pending transfer,48,False,False,False,{52: 1},[3945],4338,1,7,False
+8667,exchange rate,exchange rate,32,False,True,False,{52: 1},[3945],8667,1,7,False
+8395,request refund,verify source,70,False,False,False,{52: 1},[3945],8395,1,7,False
+2130,request refund,extra,34,False,False,False,{52: 1},[3945],2130,1,7,False
+344,card not working,activ,0,False,False,False,{52: 1},[3945],344,1,7,False
+8296,request refund,transfer timing,67,False,False,False,{52: 1},[3945],8296,1,7,False
+1498,terminate account,terminate,55,False,True,False,{52: 1},[3945],1498,1,7,False
+5406,request refund,direct,28,False,False,False,{52: 1},[3945],5406,1,7,False
+1635,request refund,transfer fee,64,False,False,False,{52: 1},[3945],1635,1,7,False
+1589,request refund,revert,53,False,False,False,{52: 1},[3945],1589,1,7,False
+3761,request refund,card about,9,False,False,False,{52: 1},[3945],3761,1,7,False
+812,request refund,pending c,46,False,False,False,{52: 1},[3945],812,1,7,False
+1947,request refund,pending top,47,False,False,False,{52: 1},[3945],1947,1,7,False
+847,top up by card charge,pending top,47,False,False,False,{52: 1},[3945],847,1,7,False
+393,request refund,card about,9,False,False,False,{52: 1},[3945],393,1,7,False
+8473,request refund,verify top,71,False,False,False,{52: 1},[3945],8473,1,7,False
+8623,request refund,vis,73,False,False,False,{52: 1},[3945],8623,1,7,False
+8546,request refund,transaction,63,False,False,False,{52: 1},[3945],8546,1,7,False
+949,top up by cash or cheque,top up by c,58,False,True,False,{52: 1},[3945],949,1,7,False
+9731,request refund,revert,53,False,False,False,{52: 1},[3945],9731,1,7,False
+6862,request refund,cash withdrawal not,20,False,False,False,{52: 1},[3945],6862,1,7,False
+4959,request refund,declined c,26,False,False,False,{52: 1},[3945],4959,1,7,False
+575,request refund,vis,73,False,False,False,{52: 1},[3945],575,1,7,False
+617,request refund,card payment fee,15,False,False,False,{52: 1},[3945],617,1,7,False
+3929,change pin,change,21,False,True,False,{52: 1},[3945],3929,1,7,False
+8662,get physical card,exchange rate,32,False,False,False,{52: 1},[3945],8662,1,7,False
+9869,request refund,pending c,46,False,False,False,{52: 1},[3945],9869,1,7,False
+9644,change pin,change,21,False,True,False,{52: 1},[3945],9644,1,7,False
+2194,request refund,card payment not,16,False,False,False,{52: 1},[3945],2194,1,7,False
+3279,request refund,automatic,4,False,False,False,{52: 1},[3945],3279,1,7,False
+836,age limit,age,1,False,True,False,{52: 1},[3945],836,1,7,False
+2300,get physical card,top up limits,60,False,False,False,{52: 1},[3945],2300,1,7,False
+5899,request refund,declined transfer,27,False,False,False,{52: 1},[3945],5899,1,7,False
+8666,request refund,pending transfer,48,False,False,False,{52: 1},[3945],8666,1,7,False
+7555,request refund,transfer timing,67,False,False,False,{52: 1},[3945],7555,1,7,False
+4811,transfer not received by recipient,benef,7,False,False,False,{52: 1},[3945],4811,1,7,False
+2299,change pin,change,21,False,True,False,{52: 1},[3945],2299,1,7,False
+3674,request refund,pass,44,False,False,False,{52: 1},[3945],3674,1,7,False
+8536,request refund,to,62,False,False,False,{52: 1},[3945],8536,1,7,False
+9183,request refund,top up failed,59,False,False,False,{52: 1},[3945],9183,1,7,False
+8593,request refund,verify top,71,False,False,False,{52: 1},[3945],8593,1,7,False
+1969,get disposable virtual card,dispos,29,False,False,False,{52: 1},[3945],1969,1,7,False
+2572,verify my identity,verify my,69,False,True,False,{52: 1},[3945],2572,1,7,False
+4881,request refund,card arrival,11,False,False,False,{52: 1},[3945],4881,1,7,False
+8826,request refund,transfer not,66,False,False,False,{52: 1},[3945],8826,1,7,False
+3288,request refund,automatic,4,False,False,False,{52: 1},[3945],3288,1,7,False
+4147,get physical card,card accept,10,False,False,False,{52: 1},[3945],4147,1,7,False
+5524,request refund,apple,2,False,False,False,{52: 1},[3945],5524,1,7,False
+7844,request refund,top up revert,61,False,False,False,{52: 1},[3945],7844,1,7,False
+7440,request refund,card payment wrong,17,False,False,False,{52: 1},[3945],7440,1,7,False
+7611,get physical card,age,1,False,False,False,{52: 1},[3945],7611,1,7,False
+4256,request refund,pending top,47,False,False,False,{52: 1},[3945],4256,1,7,False
+2028,request refund,apple,2,False,False,False,{52: 1},[3945],2028,1,7,False
+1578,request refund,top up failed,59,False,False,False,{52: 1},[3945],1578,1,7,False
+2751,request refund,automatic,4,False,False,False,{52: 1},[3945],2751,1,7,False
+3045,transfer fee charged,receiving,50,False,False,False,{52: 1},[3945],3045,1,7,False
+3620,request refund,balance not updated after che,6,False,False,False,{52: 1},[3945],3620,1,7,False
+3303,request refund,getting spare,39,False,False,False,{52: 1},[3945],3303,1,7,False
+2613,request refund,verify top,71,False,False,False,{52: 1},[3945],2613,1,7,False
+9269,cancel transfer,cancel,8,False,True,False,{52: 1},[3945],9269,1,7,False
+3380,request refund,card arrival,11,False,False,False,{52: 1},[3945],3380,1,7,False
+3793,request refund,lost or stolen card,41,False,False,False,{52: 1},[3945],3793,1,7,False
+2774,request refund,Ref,51,False,False,False,{52: 1},[3945],2774,1,7,False
+4049,get physical card,country,24,False,False,False,{52: 1},[3945],4049,1,7,False
+9546,request refund,card arrival,11,False,False,False,{52: 1},[3945],9546,1,7,False
+8633,cancel transfer,direct,28,False,False,False,{52: 1},[3945],8633,1,7,False
+1440,request refund,declined c,26,False,False,False,{52: 1},[3945],1440,1,7,False
+8388,request refund,pass,44,False,False,False,{52: 1},[3945],8388,1,7,False
+2675,request refund,top up by card,57,False,False,False,{52: 1},[3945],2675,1,7,False
+618,request refund,transfer fee,64,False,False,False,{52: 1},[3945],618,1,7,False
+998,transfer into account,transfer into,65,False,True,False,{52: 1},[3945],998,1,7,False
+9723,request refund,to,62,False,False,False,{52: 1},[3945],9723,1,7,False
+9396,request refund,getting virtual,40,False,False,False,{52: 1},[3945],9396,1,7,False
+4828,request refund,apple,2,False,False,False,{52: 1},[3945],4828,1,7,False
+5731,get physical card,pin,49,False,False,False,{52: 1},[3945],5731,1,7,False
+1384,request refund,request,52,True,True,False,{52: 1},[3945],1384,1,7,False
+659,cancel transfer,transaction,63,False,False,False,{52: 1},[3945],659,1,7,False
+5045,top up limits,top up limits,60,False,True,False,{52: 1},[3945],5045,1,7,False
+3283,request refund,pending top,47,False,False,False,{52: 1},[3945],3283,1,7,False
+3944,get physical card,card arrival,11,False,False,False,{52: 1},[3945],3944,1,7,False
+9462,request refund,revert,53,False,False,False,{52: 1},[3945],9462,1,7,False
+7285,request refund,getting spare,39,False,False,False,{52: 1},[3945],7285,1,7,False
+1141,get disposable virtual card,dispos,29,False,False,False,{52: 1},[3945],1141,1,7,False
+9448,get physical card,at,3,False,False,False,{52: 1},[3945],9448,1,7,False

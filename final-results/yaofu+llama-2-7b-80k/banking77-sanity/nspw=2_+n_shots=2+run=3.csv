@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+6736,extra charge on statement,extra,34,True,True,False,"{34: 1, 49: 1}","[6736, 7616]",6736,2,3,False,2
+7616,pin blocked,pin,49,True,True,False,"{34: 1, 49: 1}","[6736, 7616]",7616,2,3,False,2
+3187,disposable card limits,get dispos,37,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3187,2,3,False,2
+3549,pending card payment,pending card,45,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3549,2,3,False,2
+4496,transfer fee charged,transfer timing,67,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4496,2,3,False,2
+9525,card payment not recognised,card accept,10,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9525,2,3,False,2
+4920,top up by card charge,top up by card,57,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",4920,2,3,False,2
+855,change pin,change,21,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",855,2,3,False,2
+6972,wrong amount of cash received,cancel,8,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6972,2,3,False,2
+2546,card linking,card linking,13,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2546,2,3,False,2
+4483,order physical card,card delivery,12,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4483,2,3,False,2
+7279,atm support,at,3,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",7279,2,3,False,2
+6090,card acceptance,card accept,10,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6090,2,3,False,2
+6141,card not working,activ,0,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6141,2,3,False,2
+9248,card delivery estimate,order,43,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9248,2,3,False,2
+8412,card not working,card about,9,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8412,2,3,False,2
+9796,card not working,direct,28,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9796,2,3,False,2
+9942,transfer into account,transfer into,65,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",9942,2,3,False,2
+7699,top up failed,pending top,47,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7699,2,3,False,2
+626,wrong amount of cash received,transaction,63,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",626,2,3,False,2
+9921,top up failed,pending top,47,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9921,2,3,False,2
+8926,wrong amount of cash received,receiving,50,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8926,2,3,False,2
+4581,extra charge on statement,card payment fee,15,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4581,2,3,False,2
+5787,card delivery estimate,getting spare,39,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5787,2,3,False,2
+7282,pending cash withdrawal,pending c,46,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",7282,2,3,False,2
+150,card payment not recognised,declined card,25,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",150,2,3,False,2
+2934,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2934,2,3,False,2
+7958,transfer fee charged,top up by bank,56,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7958,2,3,False,2
+3893,extra charge on statement,getting spare,39,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3893,2,3,False,2
+3417,card not working,card payment not,16,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3417,2,3,False,2
+6847,card not working,card not,14,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6847,2,3,False,2
+5519,get physical card,vis,73,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5519,2,3,False,2
+4752,transfer not received by recipient,declined transfer,27,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4752,2,3,False,2
+8499,card about to expire,card about,9,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8499,2,3,False,2
+7531,contactless not working,contact,23,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",7531,2,3,False,2
+8818,card not working,card sw,18,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8818,2,3,False,2
+3585,card not working,why,74,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3585,2,3,False,2
+272,card linking,card linking,13,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",272,2,3,False,2
+3235,card payment fee charged,card payment fee,15,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3235,2,3,False,2
+6813,pending cash withdrawal,pending c,46,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6813,2,3,False,2
+1472,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1472,2,3,False,2
+781,pin blocked,pin,49,True,True,False,"{34: 1, 49: 1}","[6736, 7616]",781,2,3,False,2
+5339,transfer into account,transfer into,65,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",5339,2,3,False,2
+7268,wrong amount of cash received,cancel,8,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7268,2,3,False,2
+7404,transfer not received by recipient,failed,35,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7404,2,3,False,2
+5393,atm support,at,3,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",5393,2,3,False,2
+1477,exchange rate,wrong exchange,76,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1477,2,3,False,2
+1740,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1740,2,3,False,2
+1128,top up by cash or cheque,top up by c,58,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",1128,2,3,False,2
+5571,exchange rate,wrong exchange,76,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5571,2,3,False,2
+8584,card delivery estimate,getting spare,39,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8584,2,3,False,2
+8467,card about to expire,card about,9,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8467,2,3,False,2
+3182,atm support,at,3,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3182,2,3,False,2
+5355,card not working,dispos,29,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5355,2,3,False,2
+2730,card not working,card arrival,11,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2730,2,3,False,2
+7743,pin blocked,pass,44,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7743,2,3,False,2
+3671,pending card payment,pending card,45,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3671,2,3,False,2
+7755,direct debit payment not recognised,direct,28,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",7755,2,3,False,2
+6792,top up by card charge,verify source,70,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6792,2,3,False,2
+6313,supported cards and currencies,fi,36,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6313,2,3,False,2
+8441,card not working,country,24,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8441,2,3,False,2
+3556,card linking,card linking,13,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3556,2,3,False,2
+7075,transaction charged twice,direct,28,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7075,2,3,False,2
+1025,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1025,2,3,False,2
+1253,card payment not recognised,declined card,25,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1253,2,3,False,2
+2640,passcode forgotten,pass,44,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2640,2,3,False,2
+4127,lost or stolen phone,lost or stolen phone,42,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",4127,2,3,False,2
+5214,card not working,comprom,22,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5214,2,3,False,2
+9861,transfer fee charged,transfer timing,67,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9861,2,3,False,2
+981,card delivery estimate,dispos,29,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",981,2,3,False,2
+3232,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3232,2,3,False,2
+9319,top up by card charge,supported,54,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9319,2,3,False,2
+5217,transfer not received by recipient,failed,35,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5217,2,3,False,2
+3832,pending transfer,pending c,46,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3832,2,3,False,2
+6073,card payment fee charged,top up by card,57,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6073,2,3,False,2
+3368,top up by card charge,apple,2,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3368,2,3,False,2
+8796,exchange rate,wrong exchange,76,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8796,2,3,False,2
+5399,card delivery estimate,card arrival,11,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5399,2,3,False,2
+3059,card not working,card about,9,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3059,2,3,False,2
+5280,exchange rate,exchange via,33,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5280,2,3,False,2
+3101,exchange rate,exchange charge,31,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3101,2,3,False,2
+7900,transfer not received by recipient,failed,35,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7900,2,3,False,2
+1246,transfer fee charged,transfer fee,64,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",1246,2,3,False,2
+3541,card linking,card linking,13,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3541,2,3,False,2
+1610,transfer not received by recipient,declined transfer,27,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1610,2,3,False,2
+2428,card not working,vis,73,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2428,2,3,False,2
+2030,pending cash withdrawal,pending c,46,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2030,2,3,False,2
+3789,change pin,change,21,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3789,2,3,False,2
+2528,transfer fee charged,transfer fee,64,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2528,2,3,False,2
+5609,passcode forgotten,pass,44,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",5609,2,3,False,2
+7934,pending transfer,transfer not,66,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7934,2,3,False,2
+9350,card not working,card linking,13,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9350,2,3,False,2
+9425,card not working,activ,0,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9425,2,3,False,2
+8894,change pin,edit,30,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8894,2,3,False,2
+324,card acceptance,card accept,10,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",324,2,3,False,2
+6887,transfer fee charged,transfer timing,67,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6887,2,3,False,2
+659,transaction charged twice,transaction,63,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",659,2,3,False,2
+9769,transfer fee charged,supported,54,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9769,2,3,False,2
+1597,cash withdrawal not recognised,wrong amount,75,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1597,2,3,False,2
+5155,virtual card not working,getting virtual,40,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5155,2,3,False,2
+8886,top up failed,pending top,47,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8886,2,3,False,2
+9981,card payment not recognised,vis,73,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9981,2,3,False,2
+7911,card arrival,activ,0,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7911,2,3,False,2
+6668,pin blocked,change,21,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6668,2,3,False,2
+7042,country support,country,24,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",7042,2,3,False,2
+2323,card not working,getting spare,39,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2323,2,3,False,2
+4430,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4430,2,3,False,2
+9047,transfer into account,receiving,50,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9047,2,3,False,2
+3479,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3479,2,3,False,2
+1562,change pin,edit,30,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1562,2,3,False,2
+403,get physical card,verify source,70,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",403,2,3,False,2
+1596,virtual card not working,virtual,72,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",1596,2,3,False,2
+8901,exchange rate,fi,36,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8901,2,3,False,2
+2275,transfer not received by recipient,cancel,8,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2275,2,3,False,2
+5072,transfer not received by recipient,failed,35,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5072,2,3,False,2
+6612,transfer not received by recipient,pending transfer,48,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6612,2,3,False,2
+2732,virtual card not working,dispos,29,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2732,2,3,False,2
+6721,card about to expire,card about,9,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6721,2,3,False,2
+8541,cash withdrawal not recognised,top up by c,58,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8541,2,3,False,2
+6055,card payment fee charged,card payment fee,15,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6055,2,3,False,2
+5230,top up failed,top up revert,61,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5230,2,3,False,2
+3317,get physical card,verify source,70,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3317,2,3,False,2
+4613,top up by card charge,apple,2,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4613,2,3,False,2
+127,card not working,card about,9,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",127,2,3,False,2
+8131,card not working,card not,14,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8131,2,3,False,2
+3715,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3715,2,3,False,2
+66,top up by card charge,automatic,4,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",66,2,3,False,2
+6430,passcode forgotten,pass,44,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6430,2,3,False,2
+5870,virtual card not working,get dispos,37,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5870,2,3,False,2
+4693,apple pay or google pay,apple,2,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",4693,2,3,False,2
+7503,card not working,vis,73,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7503,2,3,False,2
+1439,transfer timing,balance not updated after bank,5,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1439,2,3,False,2
+6178,automatic top up,automatic,4,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6178,2,3,False,2
+1569,failed transfer,Ref,51,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1569,2,3,False,2
+7420,top up limits,top up limits,60,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",7420,2,3,False,2
+1714,wrong amount of cash received,wrong amount,75,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",1714,2,3,False,2
+4382,verify my identity,unable,68,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4382,2,3,False,2
+191,card not working,dispos,29,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",191,2,3,False,2
+1013,pin blocked,pin,49,True,True,False,"{34: 1, 49: 1}","[6736, 7616]",1013,2,3,False,2
+7250,transfer not received by recipient,benef,7,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7250,2,3,False,2
+8547,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8547,2,3,False,2
+8167,why verify identity,why,74,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8167,2,3,False,2
+7359,change pin,edit,30,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7359,2,3,False,2
+8147,lost or stolen phone,pass,44,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8147,2,3,False,2
+2750,card not working,card about,9,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2750,2,3,False,2
+6241,card not working,card arrival,11,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6241,2,3,False,2
+2614,virtual card not working,get dispos,37,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2614,2,3,False,2
+9015,disposable card limits,get dispos,37,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9015,2,3,False,2
+3490,apple pay or google pay,apple,2,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3490,2,3,False,2
+1380,transaction charged twice,top up revert,61,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1380,2,3,False,2
+619,lost or stolen phone,lost or stolen phone,42,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",619,2,3,False,2
+1830,extra charge on statement,extra,34,True,True,False,"{34: 1, 49: 1}","[6736, 7616]",1830,2,3,False,2
+2539,cash withdrawal not recognised,top up revert,61,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2539,2,3,False,2
+1664,transfer not received by recipient,declined transfer,27,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1664,2,3,False,2
+5834,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",5834,2,3,False,2
+3720,transfer into account,transfer into,65,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3720,2,3,False,2
+6305,direct debit payment not recognised,direct,28,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6305,2,3,False,2
+852,wrong amount of cash received,card payment not,16,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",852,2,3,False,2
+9245,get physical card,order,43,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9245,2,3,False,2
+8321,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8321,2,3,False,2
+9898,pin blocked,pin,49,True,True,False,"{34: 1, 49: 1}","[6736, 7616]",9898,2,3,False,2
+6858,exchange rate,wrong exchange,76,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6858,2,3,False,2
+6766,card swallowed,card sw,18,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6766,2,3,False,2
+4785,receiving money,top up by bank,56,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4785,2,3,False,2
+7095,exchange rate,exchange charge,31,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7095,2,3,False,2
+9746,pending card payment,pending card,45,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",9746,2,3,False,2
+6702,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6702,2,3,False,2
+5846,card payment fee charged,top up by card,57,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5846,2,3,False,2
+8073,wrong amount of cash received,transaction,63,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8073,2,3,False,2
+4499,extra charge on statement,transfer fee,64,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4499,2,3,False,2
+561,card not working,country,24,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",561,2,3,False,2
+8326,top up limits,top up limits,60,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8326,2,3,False,2
+7026,transaction charged twice,transfer not,66,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7026,2,3,False,2
+7068,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7068,2,3,False,2
+7593,card not working,card payment fee,15,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7593,2,3,False,2
+9550,card not working,to,62,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9550,2,3,False,2
+2683,lost or stolen card,pass,44,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2683,2,3,False,2
+6724,declined transfer,declined transfer,27,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6724,2,3,False,2
+1369,transaction charged twice,transfer not,66,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1369,2,3,False,2
+4611,card payment not recognised,declined card,25,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4611,2,3,False,2
+4420,lost or stolen card,pass,44,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4420,2,3,False,2
+1651,pin blocked,pass,44,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1651,2,3,False,2
+2437,pin blocked,get physical,38,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2437,2,3,False,2
+9287,declined card payment,declined transfer,27,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9287,2,3,False,2
+7646,cancel transfer,terminate,55,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7646,2,3,False,2
+8254,card delivery estimate,order,43,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8254,2,3,False,2
+3569,card not working,pending c,46,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3569,2,3,False,2
+1734,transfer not received by recipient,transfer not,66,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",1734,2,3,False,2
+1504,get disposable virtual card,get dispos,37,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",1504,2,3,False,2
+8892,transfer timing,transfer timing,67,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8892,2,3,False,2
+8996,transaction charged twice,verify source,70,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8996,2,3,False,2
+2345,card not working,declined card,25,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2345,2,3,False,2
+2765,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2765,2,3,False,2
+2631,transfer fee charged,transfer timing,67,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2631,2,3,False,2
+655,card not working,cash withdrawal not,20,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",655,2,3,False,2
+7201,atm support,cash withdrawal charge,19,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7201,2,3,False,2
+1955,wrong exchange rate for cash withdrawal,card payment wrong,17,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1955,2,3,False,2
+3550,extra charge on statement,transfer fee,64,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3550,2,3,False,2
+1221,transfer fee charged,transfer into,65,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1221,2,3,False,2
+52,supported cards and currencies,supported,54,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",52,2,3,False,2
+3932,change pin,change,21,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3932,2,3,False,2
+7844,top up failed,top up revert,61,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7844,2,3,False,2
+1574,wrong amount of cash received,card payment not,16,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1574,2,3,False,2
+4149,card about to expire,card about,9,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",4149,2,3,False,2
+5593,top up by card charge,supported,54,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5593,2,3,False,2
+1796,wrong exchange rate for cash withdrawal,card payment wrong,17,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1796,2,3,False,2
+7948,exchange rate,card payment wrong,17,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7948,2,3,False,2
+9240,card not working,card linking,13,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9240,2,3,False,2
+7952,change pin,exchange via,33,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7952,2,3,False,2
+774,pending card payment,pending transfer,48,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",774,2,3,False,2
+1008,card not working,card sw,18,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1008,2,3,False,2
+2486,card not working,card linking,13,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2486,2,3,False,2
+2059,fiat currency support,fi,36,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2059,2,3,False,2
+9864,exchange rate,exchange rate,32,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",9864,2,3,False,2
+783,lost or stolen phone,lost or stolen phone,42,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",783,2,3,False,2
+5720,card payment not recognised,pending card,45,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5720,2,3,False,2
+6381,transfer timing,transfer timing,67,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6381,2,3,False,2
+6714,card payment not recognised,get dispos,37,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6714,2,3,False,2
+5823,pin blocked,get physical,38,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5823,2,3,False,2
+4603,top up failed,top up revert,61,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4603,2,3,False,2
+9782,card not working,order,43,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9782,2,3,False,2
+6367,atm support,at,3,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6367,2,3,False,2
+7692,verify my identity,verify source,70,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7692,2,3,False,2
+5018,card not working,card linking,13,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",5018,2,3,False,2
+3022,virtual card not working,getting virtual,40,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3022,2,3,False,2
+6187,top up by card charge,apple,2,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6187,2,3,False,2
+1229,exchange rate,exchange charge,31,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",1229,2,3,False,2
+2332,card not working,order,43,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2332,2,3,False,2
+3125,verify my identity,unable,68,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3125,2,3,False,2
+1433,terminate account,terminate,55,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",1433,2,3,False,2
+3448,disposable card limits,dispos,29,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3448,2,3,False,2
+7611,age limit,age,1,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",7611,2,3,False,2
+4999,exchange rate,exchange via,33,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4999,2,3,False,2
+8879,atm support,cash withdrawal not,20,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",8879,2,3,False,2
+6002,terminate account,terminate,55,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",6002,2,3,False,2
+2039,top up limits,top up limits,60,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2039,2,3,False,2
+8056,supported cards and currencies,supported,54,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",8056,2,3,False,2
+3248,virtual card not working,virtual,72,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3248,2,3,False,2
+9114,cancel transfer,cancel,8,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",9114,2,3,False,2
+2064,lost or stolen phone,lost or stolen phone,42,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2064,2,3,False,2
+4392,verify my identity,unable,68,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",4392,2,3,False,2
+4169,transfer fee charged,transfer fee,64,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",4169,2,3,False,2
+3969,card payment not recognised,pending card,45,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",3969,2,3,False,2
+3712,pending card payment,pending card,45,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",3712,2,3,False,2
+6109,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",6109,2,3,False,2
+5685,country support,country,24,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",5685,2,3,False,2
+9108,card not working,card linking,13,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",9108,2,3,False,2
+2475,virtual card not working,get dispos,37,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",2475,2,3,False,2
+7681,exchange rate,wrong exchange,76,False,False,False,"{34: 1, 49: 1}","[6736, 7616]",7681,2,3,False,2
+2748,balance not updated after cheque or cash deposit,balance not updated after che,6,False,True,False,"{34: 1, 49: 1}","[6736, 7616]",2748,2,3,False,2

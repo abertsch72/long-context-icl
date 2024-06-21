@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,transfer timing,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1104,5,9,False,5
+472,card not working,get physical,38,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",472,5,9,False,5
+1345,exchange charge,exchange charge,31,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1345,5,9,False,5
+837,transfer timing,pending transfer,48,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",837,5,9,False,5
+940,get physical card,transaction,63,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",940,5,9,False,5
+706,cancel transfer,request,52,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",706,5,9,False,5
+381,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",381,5,9,False,5
+1259,get physical card,get dispos,37,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1259,5,9,False,5
+451,card not working,get physical,38,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",451,5,9,False,5
+1467,order physical card,card about,9,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1467,5,9,False,5
+649,verify my identity,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",649,5,9,False,5
+771,verify my identity,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",771,5,9,False,5
+1112,transfer timing,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1112,5,9,False,5
+657,verify source of funds,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",657,5,9,False,5
+67,exchange charge,fi,36,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",67,5,9,False,5
+770,request refund,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",770,5,9,False,5
+678,cancel transfer,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",678,5,9,False,5
+955,cancel transfer,transaction,63,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",955,5,9,False,5
+917,atm support,card sw,18,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",917,5,9,False,5
+1222,get physical card,order,43,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1222,5,9,False,5
+601,atm support,at,3,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",601,5,9,False,5
+241,cancel transfer,cancel,8,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",241,5,9,False,5
+1069,cancel transfer,revert,53,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1069,5,9,False,5
+1229,card not working,order,43,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1229,5,9,False,5
+1005,transfer timing,transfer,67,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1005,5,9,False,5
+1308,transfer timing,balance,5,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1308,5,9,False,5
+106,card not working,card not,14,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",106,5,9,False,5
+1429,activate my card,activ,0,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1429,5,9,False,5
+455,card not working,get physical,38,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",455,5,9,False,5
+1380,top up by card charge,top,57,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1380,5,9,False,5
+327,verify source of funds,card payment not,16,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",327,5,9,False,5
+742,transfer timing,decl,27,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",742,5,9,False,5
+1439,activate my card,activ,0,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1439,5,9,False,5
+939,get physical card,transaction,63,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",939,5,9,False,5
+404,verify my identity,unable,68,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",404,5,9,False,5
+1191,verify top up,verify top,71,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1191,5,9,False,5
+756,card not working,decl,27,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",756,5,9,False,5
+1181,verify top up,verify top,71,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1181,5,9,False,5
+122,exchange charge,exchange via,33,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",122,5,9,False,5
+1517,verify my identity,verify my,69,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1517,5,9,False,5
+227,top up by card charge,pending top,47,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",227,5,9,False,5
+1321,exchange charge,exchange charge,31,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1321,5,9,False,5
+396,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",396,5,9,False,5
+998,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",998,5,9,False,5
+925,wrong amount of cash received,transaction,63,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",925,5,9,False,5
+245,cancel transfer,cancel,8,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",245,5,9,False,5
+180,contactless not working,contact,23,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",180,5,9,False,5
+1171,verify top up,verify top,71,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1171,5,9,False,5
+665,verify source of funds,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",665,5,9,False,5
+1027,transfer timing,transfer,67,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1027,5,9,False,5
+769,verify source of funds,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",769,5,9,False,5
+1224,get physical card,order,43,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1224,5,9,False,5
+422,verify my identity,unable,68,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",422,5,9,False,5
+131,exchange via app,exchange via,33,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",131,5,9,False,5
+154,exchange charge,exchange via,33,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",154,5,9,False,5
+459,get physical card,get physical,38,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",459,5,9,False,5
+374,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",374,5,9,False,5
+15,exchange charge,card payment wrong,17,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",15,5,9,False,5
+1254,get disposable virtual card,get dispos,37,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1254,5,9,False,5
+196,contactless not working,contact,23,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",196,5,9,False,5
+523,get disposable virtual card,dispos,29,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",523,5,9,False,5
+527,card payment not recognised,dispos,29,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",527,5,9,False,5
+385,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",385,5,9,False,5
+616,atm support,at,3,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",616,5,9,False,5
+870,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",870,5,9,False,5
+1095,get physical card,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1095,5,9,False,5
+1501,verify my identity,verify my,69,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1501,5,9,False,5
+1368,topping up by card,top,57,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1368,5,9,False,5
+347,transaction charged twice,card payment not,16,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",347,5,9,False,5
+430,verify my identity,unable,68,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",430,5,9,False,5
+293,wrong amount of cash received,wrong,75,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",293,5,9,False,5
+474,card not working,get physical,38,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",474,5,9,False,5
+136,exchange charge,exchange via,33,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",136,5,9,False,5
+781,verify source of funds,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",781,5,9,False,5
+1020,transfer timing,transfer,67,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1020,5,9,False,5
+1414,activate my card,activ,0,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1414,5,9,False,5
+738,transfer timing,decl,27,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",738,5,9,False,5
+903,atm support,card sw,18,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",903,5,9,False,5
+723,transfer timing,decl,27,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",723,5,9,False,5
+87,card not working,card not,14,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",87,5,9,False,5
+1457,order physical card,card about,9,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1457,5,9,False,5
+744,transfer timing,decl,27,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",744,5,9,False,5
+727,declined transfer,decl,27,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",727,5,9,False,5
+859,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",859,5,9,False,5
+358,verify source of funds,card payment not,16,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",358,5,9,False,5
+1294,transfer timing,balance,5,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1294,5,9,False,5
+517,top up by card charge,to,62,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",517,5,9,False,5
+301,wrong amount of cash received,wrong,75,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",301,5,9,False,5
+806,transfer timing,pending transfer,48,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",806,5,9,False,5
+1367,top up by card charge,top,57,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1367,5,9,False,5
+552,card payment not recognised,dispos,29,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",552,5,9,False,5
+240,reverted card payment?,cancel,8,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",240,5,9,False,5
+1418,activate my card,activ,0,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1418,5,9,False,5
+202,pending top up,pending top,47,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",202,5,9,False,5
+1266,get disposable virtual card,get dispos,37,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1266,5,9,False,5
+1509,verify my identity,verify my,69,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1509,5,9,False,5
+286,wrong amount of cash received,wrong,75,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",286,5,9,False,5
+1335,exchange charge,exchange charge,31,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1335,5,9,False,5
+513,top up by card charge,to,62,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",513,5,9,False,5
+458,unable to verify identity,get physical,38,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",458,5,9,False,5
+807,transfer timing,pending transfer,48,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",807,5,9,False,5
+292,wrong amount of cash received,wrong,75,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",292,5,9,False,5
+580,card not working,comprom,22,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",580,5,9,False,5
+128,exchange charge,exchange via,33,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",128,5,9,False,5
+308,wrong amount of cash received,wrong,75,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",308,5,9,False,5
+457,card not working,get physical,38,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",457,5,9,False,5
+178,contactless not working,contact,23,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",178,5,9,False,5
+624,atm support,at,3,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",624,5,9,False,5
+26,exchange charge,card payment wrong,17,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",26,5,9,False,5
+1276,get disposable virtual card,get dispos,37,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1276,5,9,False,5
+838,pending transfer,pending transfer,48,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",838,5,9,False,5
+1175,verify top up,verify top,71,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1175,5,9,False,5
+553,card not working,dispos,29,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",553,5,9,False,5
+446,card not working,get physical,38,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",446,5,9,False,5
+1117,exchange via app,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1117,5,9,False,5
+214,top up by card charge,pending top,47,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",214,5,9,False,5
+965,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",965,5,9,False,5
+421,verify my identity,unable,68,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",421,5,9,False,5
+610,atm support,at,3,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",610,5,9,False,5
+191,contactless not working,contact,23,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",191,5,9,False,5
+666,wrong amount of cash received,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",666,5,9,False,5
+851,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",851,5,9,False,5
+1083,get physical card,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1083,5,9,False,5
+1106,transfer timing,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1106,5,9,False,5
+915,atm support,card sw,18,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",915,5,9,False,5
+504,card not working,to,62,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",504,5,9,False,5
+145,exchange charge,exchange via,33,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",145,5,9,False,5
+1307,transfer timing,balance,5,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1307,5,9,False,5
+337,verify source of funds,card payment not,16,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",337,5,9,False,5
+961,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",961,5,9,False,5
+1014,transfer timing,transfer,67,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1014,5,9,False,5
+1486,verify my identity,verify my,69,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1486,5,9,False,5
+394,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",394,5,9,False,5
+1244,verify my identity,get dispos,37,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1244,5,9,False,5
+69,exchange via app,fi,36,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",69,5,9,False,5
+395,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",395,5,9,False,5
+789,verify source of funds,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",789,5,9,False,5
+1448,card not working,card about,9,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1448,5,9,False,5
+490,transfer timing,to,62,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",490,5,9,False,5
+675,cancel transfer,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",675,5,9,False,5
+644,verify source of funds,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",644,5,9,False,5
+817,transfer timing,pending transfer,48,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",817,5,9,False,5
+981,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",981,5,9,False,5
+972,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",972,5,9,False,5
+531,card payment not recognised,dispos,29,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",531,5,9,False,5
+790,request refund,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",790,5,9,False,5
+260,cancel transfer,cancel,8,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",260,5,9,False,5
+431,verify my identity,unable,68,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",431,5,9,False,5
+481,card not working,to,62,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",481,5,9,False,5
+563,card not working,comprom,22,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",563,5,9,False,5
+72,fiat currency support,fi,36,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",72,5,9,False,5
+112,card not working,card not,14,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",112,5,9,False,5
+387,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",387,5,9,False,5
+1053,reverted card payment?,revert,53,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1053,5,9,False,5
+1401,activate my card,activ,0,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1401,5,9,False,5
+968,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",968,5,9,False,5
+314,wrong amount of cash received,wrong,75,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",314,5,9,False,5
+891,get physical card,card sw,18,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",891,5,9,False,5
+454,card not working,get physical,38,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",454,5,9,False,5
+479,get physical card,get physical,38,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",479,5,9,False,5
+647,verify source of funds,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",647,5,9,False,5
+23,exchange charge,card payment wrong,17,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",23,5,9,False,5
+1213,get physical card,order,43,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1213,5,9,False,5
+1215,card not working,order,43,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1215,5,9,False,5
+1349,exchange charge,exchange charge,31,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1349,5,9,False,5
+263,cancel transfer,cancel,8,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",263,5,9,False,5
+48,exchange charge,fi,36,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",48,5,9,False,5
+287,wrong amount of cash received,wrong,75,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",287,5,9,False,5
+850,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",850,5,9,False,5
+1352,exchange charge,exchange charge,31,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1352,5,9,False,5
+329,verify source of funds,card payment not,16,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",329,5,9,False,5
+1438,activate my card,activ,0,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1438,5,9,False,5
+29,exchange charge,card payment wrong,17,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",29,5,9,False,5
+235,pending top up,pending top,47,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",235,5,9,False,5
+524,get disposable virtual card,dispos,29,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",524,5,9,False,5
+372,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",372,5,9,False,5
+127,exchange via app,exchange via,33,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",127,5,9,False,5
+1152,transfer timing,failed,35,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1152,5,9,False,5
+540,card not working,dispos,29,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",540,5,9,False,5
+883,card swallowed,card sw,18,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",883,5,9,False,5
+589,card not working,comprom,22,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",589,5,9,False,5
+229,pending top up,pending top,47,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",229,5,9,False,5
+875,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",875,5,9,False,5
+625,atm support,at,3,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",625,5,9,False,5
+1419,activate my card,activ,0,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1419,5,9,False,5
+820,pending transfer,pending transfer,48,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",820,5,9,False,5
+1285,transfer timing,balance,5,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1285,5,9,False,5
+677,wrong amount of cash received,direct,28,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",677,5,9,False,5
+203,top up by card charge,pending top,47,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",203,5,9,False,5
+871,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",871,5,9,False,5
+695,cancel transfer,request,52,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",695,5,9,False,5
+219,pending top up,pending top,47,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",219,5,9,False,5
+189,contactless not working,contact,23,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",189,5,9,False,5
+382,verify my identity,why,74,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",382,5,9,False,5
+1340,exchange charge,exchange charge,31,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1340,5,9,False,5
+977,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",977,5,9,False,5
+641,direct debit payment not recognised,direct,28,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",641,5,9,False,5
+733,transfer timing,decl,27,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",733,5,9,False,5
+849,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",849,5,9,False,5
+1353,exchange charge,exchange charge,31,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1353,5,9,False,5
+799,verify source of funds,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",799,5,9,False,5
+1329,exchange charge,exchange charge,31,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1329,5,9,False,5
+114,card not working,card not,14,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",114,5,9,False,5
+1396,transfer timing,top,57,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1396,5,9,False,5
+34,exchange charge,card payment wrong,17,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",34,5,9,False,5
+966,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",966,5,9,False,5
+1512,verify my identity,verify my,69,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1512,5,9,False,5
+439,verify my identity,unable,68,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",439,5,9,False,5
+1411,activate my card,activ,0,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1411,5,9,False,5
+1218,card payment not recognised,order,43,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1218,5,9,False,5
+866,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",866,5,9,False,5
+703,request refund,request,52,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",703,5,9,False,5
+1212,card payment not recognised,order,43,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1212,5,9,False,5
+642,direct debit payment not recognised,direct,28,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",642,5,9,False,5
+1166,verify top up,verify top,71,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1166,5,9,False,5
+798,request refund,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",798,5,9,False,5
+897,atm support,card sw,18,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",897,5,9,False,5
+36,exchange charge,card payment wrong,17,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",36,5,9,False,5
+1278,card not working,get dispos,37,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1278,5,9,False,5
+326,verify source of funds,card payment not,16,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",326,5,9,False,5
+688,request refund,request,52,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",688,5,9,False,5
+1508,verify my identity,verify my,69,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1508,5,9,False,5
+991,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",991,5,9,False,5
+316,wrong amount of cash received,wrong,75,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",316,5,9,False,5
+1082,transfer timing,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1082,5,9,False,5
+1096,transfer timing,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1096,5,9,False,5
+784,request refund,Ref,51,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",784,5,9,False,5
+841,transfer timing,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",841,5,9,False,5
+190,contactless not working,contact,23,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",190,5,9,False,5
+844,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",844,5,9,False,5
+1026,transfer timing,transfer,67,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1026,5,9,False,5
+99,card not working,card not,14,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",99,5,9,False,5
+548,card not working,dispos,29,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",548,5,9,False,5
+1023,transfer timing,transfer,67,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1023,5,9,False,5
+140,exchange charge,exchange via,33,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",140,5,9,False,5
+621,atm support,at,3,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",621,5,9,False,5
+920,cancel transfer,transaction,63,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",920,5,9,False,5
+976,verify my identity,verify source,70,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",976,5,9,False,5
+134,exchange charge,exchange via,33,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",134,5,9,False,5
+1109,get physical card,receiving,50,True,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1109,5,9,False,5
+408,verify my identity,unable,68,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",408,5,9,False,5
+757,transfer timing,decl,27,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",757,5,9,False,5
+1034,transfer timing,transfer,67,False,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1034,5,9,False,5
+926,wrong amount of cash received,transaction,63,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",926,5,9,False,5
+975,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",975,5,9,False,5
+962,verify source of funds,verify source,70,True,True,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",962,5,9,False,5
+759,transfer timing,decl,27,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",759,5,9,False,5
+510,top up by card charge,to,62,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",510,5,9,False,5
+869,cancel transfer,terminate,55,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",869,5,9,False,5
+1122,transfer timing,failed,35,False,False,False,"{50: 1, 70: 1, 53: 1, 52: 1, 75: 1}","[2021, 2216, 524, 2436, 3050]",1122,5,9,False,5

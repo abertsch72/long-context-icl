@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+5298,top up limits,top up limits,60,True,True,True,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",5298,10,6,False,10
+8789,transfer fee charged,transfer fee,64,True,True,False,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",8789,10,6,False,10
+879,card arrival,card arrival,11,True,True,True,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",879,10,6,False,10
+2718,wrong amount of cash received,wrong amount,75,True,True,False,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",2718,10,6,False,10
+2458,card payment wrong exchange rate,card payment wrong,17,True,True,False,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",2458,10,6,False,10
+820,transfer timing,transfer timing,67,True,True,True,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",820,10,6,False,10
+1585,failed transfer,failed,35,True,True,False,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",1585,10,6,False,10
+8453,cancel transfer,request,52,True,False,False,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",8453,10,6,False,10
+4880,pending cash withdrawal,pending c,46,True,True,False,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",4880,10,6,False,10
+1967,cash withdrawal charge,cash withdrawal charge,19,True,True,True,"{60: 1, 64: 1, 11: 1, 75: 1, 17: 1, 67: 1, 35: 1, 52: 1, 46: 1, 19: 1}","[5298, 8789, 879, 2718, 2458, 820, 1585, 8453, 4880, 1967]",1967,10,6,False,10

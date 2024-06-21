@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4527,cash withdrawal not recognised,cash withdrawal not,20,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4527,5,4,False,5
+8353,verify source of funds,verify source,70,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8353,5,4,False,5
+330,pending cash withdrawal,pending c,46,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",330,5,4,False,5
+3105,card acceptance,card accept,10,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3105,5,4,False,5
+2732,virtual card not working,dispos,29,True,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2732,5,4,False,5
+250,direct debit payment not recognised,direct,28,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",250,5,4,False,5
+7043,cancel transfer,cancel,8,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7043,5,4,False,5
+1239,top up failed,pending top,47,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1239,5,4,False,5
+8330,card acceptance,age,1,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8330,5,4,False,5
+4585,top up failed,apple,2,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4585,5,4,False,5
+8006,transfer timing,balance not updated after bank,5,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8006,5,4,False,5
+8396,lost or stolen card,lost or stolen phone,42,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8396,5,4,False,5
+7590,top up limits,top up by card,57,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7590,5,4,False,5
+8944,pin blocked,pin,49,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8944,5,4,False,5
+2046,transaction charged twice,direct,28,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2046,5,4,False,5
+7701,atm support,cash withdrawal charge,19,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7701,5,4,False,5
+4434,virtual card not working,virtual,72,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4434,5,4,False,5
+2555,verify my identity,why,74,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2555,5,4,False,5
+4821,top up failed,pending top,47,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4821,5,4,False,5
+5385,transfer fee charged,top up by bank,56,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5385,5,4,False,5
+4603,top up failed,top up revert,61,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4603,5,4,False,5
+3317,card acceptance,verify source,70,True,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3317,5,4,False,5
+5044,virtual card not working,getting virtual,40,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5044,5,4,False,5
+2878,card acceptance,age,1,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2878,5,4,False,5
+3944,card delivery estimate,card arrival,11,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3944,5,4,False,5
+6507,transfer not received by recipient,failed,35,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6507,5,4,False,5
+9296,age limit,age,1,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9296,5,4,False,5
+2164,card about to expire,card about,9,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2164,5,4,False,5
+5771,verify my identity,verify my,69,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5771,5,4,False,5
+3965,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3965,5,4,False,5
+4517,transfer fee charged,top up by bank,56,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4517,5,4,False,5
+4474,top up limits,top up by card,57,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4474,5,4,False,5
+3345,top up limits,top up by card,57,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3345,5,4,False,5
+8389,transfer not received by recipient,benef,7,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8389,5,4,False,5
+9280,card payment fee charged,card payment fee,15,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9280,5,4,False,5
+1886,wrong amount of cash received,cancel,8,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1886,5,4,False,5
+3401,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3401,5,4,False,5
+5734,pending cash withdrawal,pending c,46,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5734,5,4,False,5
+1748,card not working,card arrival,11,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1748,5,4,False,5
+3224,card not working,vis,73,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3224,5,4,False,5
+499,card not working,Ref,51,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",499,5,4,False,5
+8500,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8500,5,4,False,5
+9095,transaction charged twice,cancel,8,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9095,5,4,False,5
+8587,transaction charged twice,pending c,46,True,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8587,5,4,False,5
+3800,top up limits,pending top,47,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3800,5,4,False,5
+2814,transfer not received by recipient,failed,35,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2814,5,4,False,5
+954,transaction charged twice,transaction,63,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",954,5,4,False,5
+2743,top up limits,top up limits,60,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2743,5,4,False,5
+479,card payment not recognised,declined card,25,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",479,5,4,False,5
+7548,card not working,card not,14,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7548,5,4,False,5
+409,extra charge on statement,card payment fee,15,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",409,5,4,False,5
+955,cash withdrawal not recognised,wrong amount,75,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",955,5,4,False,5
+3653,fiat currency support,fi,36,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3653,5,4,False,5
+2660,card delivery estimate,card arrival,11,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2660,5,4,False,5
+6368,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6368,5,4,False,5
+7463,transfer not received by recipient,cancel,8,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7463,5,4,False,5
+1100,disposable card limits,dispos,29,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1100,5,4,False,5
+2380,exchange rate,exchange via,33,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2380,5,4,False,5
+5152,top up failed,top up revert,61,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5152,5,4,False,5
+211,transfer not received by recipient,transfer not,66,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",211,5,4,False,5
+1567,card delivery estimate,card arrival,11,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1567,5,4,False,5
+4635,virtual card not working,get dispos,37,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4635,5,4,False,5
+9356,card not working,activ,0,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9356,5,4,False,5
+6302,transfer fee charged,transfer fee,64,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6302,5,4,False,5
+2875,verify my identity,why,74,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2875,5,4,False,5
+9034,transaction charged twice,benef,7,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9034,5,4,False,5
+1043,exchange rate,wrong exchange,76,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1043,5,4,False,5
+6615,exchange rate,wrong exchange,76,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6615,5,4,False,5
+5502,top up failed,apple,2,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5502,5,4,False,5
+1584,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1584,5,4,False,5
+4836,exchange rate,exchange charge,31,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4836,5,4,False,5
+2841,card acceptance,order,43,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2841,5,4,False,5
+932,cash withdrawal not recognised,top up revert,61,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",932,5,4,False,5
+3502,transaction charged twice,revert,53,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3502,5,4,False,5
+5713,verify source of funds,direct,28,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5713,5,4,False,5
+7177,transfer fee charged,receiving,50,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7177,5,4,False,5
+9038,pin blocked,change,21,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9038,5,4,False,5
+7777,transaction charged twice,top up revert,61,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7777,5,4,False,5
+8732,card delivery estimate,order,43,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8732,5,4,False,5
+4532,verify my identity,why,74,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4532,5,4,False,5
+9227,card not working,cash withdrawal not,20,True,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9227,5,4,False,5
+5549,card acceptance,fi,36,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5549,5,4,False,5
+3755,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3755,5,4,False,5
+6751,top up failed,to,62,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6751,5,4,False,5
+6142,top up failed,pending top,47,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6142,5,4,False,5
+2208,top up limits,top up by card,57,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2208,5,4,False,5
+3038,transfer not received by recipient,benef,7,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3038,5,4,False,5
+1021,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1021,5,4,False,5
+8147,get disposable virtual card,pass,44,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8147,5,4,False,5
+9393,exchange rate,exchange via,33,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9393,5,4,False,5
+9066,transfer fee charged,top up by bank,56,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9066,5,4,False,5
+9484,card not working,card not,14,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9484,5,4,False,5
+7393,lost or stolen card,pass,44,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7393,5,4,False,5
+6679,card not working,balance not updated after che,6,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6679,5,4,False,5
+5909,pending cash withdrawal,pending c,46,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5909,5,4,False,5
+2646,automatic top up,automatic,4,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2646,5,4,False,5
+6071,card payment not recognised,Ref,51,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6071,5,4,False,5
+4302,pin blocked,pin,49,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4302,5,4,False,5
+2277,transfer fee charged,transfer fee,64,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2277,5,4,False,5
+8,direct debit payment not recognised,direct,28,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8,5,4,False,5
+6011,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6011,5,4,False,5
+3174,disposable card limits,dispos,29,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3174,5,4,False,5
+1050,card payment not recognised,Ref,51,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1050,5,4,False,5
+8013,card not working,card about,9,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8013,5,4,False,5
+3695,transaction charged twice,extra,34,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3695,5,4,False,5
+1523,verify top up,verify top,71,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1523,5,4,False,5
+4351,pending transfer,pending transfer,48,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4351,5,4,False,5
+1656,card not working,comprom,22,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1656,5,4,False,5
+4507,card delivery estimate,order,43,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4507,5,4,False,5
+8512,exchange rate,exchange rate,32,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8512,5,4,False,5
+8143,card acceptance,receiving,50,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8143,5,4,False,5
+5896,verify my identity,unable,68,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5896,5,4,False,5
+9586,card payment not recognised,revert,53,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9586,5,4,False,5
+7063,verify my identity,verify my,69,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7063,5,4,False,5
+9650,card delivery estimate,card arrival,11,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9650,5,4,False,5
+6897,card not working,request,52,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6897,5,4,False,5
+685,card delivery estimate,card about,9,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",685,5,4,False,5
+114,card not working,lost or stolen card,41,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",114,5,4,False,5
+6032,card payment not recognised,card payment not,16,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6032,5,4,False,5
+1829,transfer not received by recipient,benef,7,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1829,5,4,False,5
+4447,top up by bank transfer charge,transfer into,65,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4447,5,4,False,5
+8441,card acceptance,country,24,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8441,5,4,False,5
+4684,card payment not recognised,transaction,63,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4684,5,4,False,5
+3561,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3561,5,4,False,5
+4138,extra charge on statement,extra,34,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4138,5,4,False,5
+7361,card acceptance,why,74,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7361,5,4,False,5
+9406,cash withdrawal not recognised,wrong amount,75,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9406,5,4,False,5
+4298,transfer fee charged,transfer fee,64,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4298,5,4,False,5
+2386,top up limits,automatic,4,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2386,5,4,False,5
+7782,transfer timing,transfer timing,67,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7782,5,4,False,5
+4288,change pin,change,21,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4288,5,4,False,5
+4,why verify identity,revert,53,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4,5,4,False,5
+5435,cash withdrawal not recognised,cash withdrawal not,20,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5435,5,4,False,5
+5724,top up limits,supported,54,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5724,5,4,False,5
+276,exchange rate,exchange rate,32,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",276,5,4,False,5
+60,receiving money,top up by bank,56,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",60,5,4,False,5
+6045,top up limits,apple,2,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6045,5,4,False,5
+6033,card not working,card payment not,16,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6033,5,4,False,5
+7786,pending card payment,pending card,45,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7786,5,4,False,5
+9767,card payment not recognised,card payment fee,15,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9767,5,4,False,5
+2921,card acceptance,vis,73,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2921,5,4,False,5
+4219,verify my identity,why,74,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4219,5,4,False,5
+1261,pin blocked,pin,49,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1261,5,4,False,5
+7135,card acceptance,vis,73,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7135,5,4,False,5
+8058,card not working,lost or stolen card,41,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8058,5,4,False,5
+6192,card delivery estimate,country,24,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6192,5,4,False,5
+4910,balance not updated after cheque or cash deposit,balance not updated after che,6,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4910,5,4,False,5
+9306,card acceptance,verify source,70,True,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9306,5,4,False,5
+2125,card payment not recognised,declined card,25,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2125,5,4,False,5
+6750,card acceptance,vis,73,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6750,5,4,False,5
+8403,disposable card limits,dispos,29,True,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8403,5,4,False,5
+948,exchange rate,wrong exchange,76,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",948,5,4,False,5
+2643,card acceptance,vis,73,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2643,5,4,False,5
+7341,card acceptance,vis,73,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7341,5,4,False,5
+901,order physical card,request,52,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",901,5,4,False,5
+9192,pending cash withdrawal,balance not updated after che,6,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9192,5,4,False,5
+8634,card acceptance,vis,73,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8634,5,4,False,5
+2859,top up failed,top up failed,59,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2859,5,4,False,5
+1016,card not working,activ,0,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1016,5,4,False,5
+3485,topping up by card,top up by bank,56,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3485,5,4,False,5
+1483,card acceptance,verify source,70,True,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1483,5,4,False,5
+7752,top up failed,apple,2,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7752,5,4,False,5
+2009,transfer not received by recipient,transfer not,66,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2009,5,4,False,5
+6687,card delivery estimate,getting spare,39,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6687,5,4,False,5
+7383,card linking,card linking,13,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7383,5,4,False,5
+574,lost or stolen card,lost or stolen phone,42,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",574,5,4,False,5
+2811,declined transfer,declined transfer,27,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2811,5,4,False,5
+7504,card payment fee charged,card payment fee,15,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7504,5,4,False,5
+1744,card delivery estimate,card delivery,12,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1744,5,4,False,5
+4564,card not working,card not,14,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4564,5,4,False,5
+4485,verify my identity,unable,68,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4485,5,4,False,5
+7267,card acceptance,card payment fee,15,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7267,5,4,False,5
+3307,pending cash withdrawal,balance not updated after che,6,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3307,5,4,False,5
+1933,transfer fee charged,top up by bank,56,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1933,5,4,False,5
+3645,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3645,5,4,False,5
+8457,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8457,5,4,False,5
+6496,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6496,5,4,False,5
+8994,exchange rate,wrong exchange,76,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8994,5,4,False,5
+2160,card delivery estimate,card about,9,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2160,5,4,False,5
+3950,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3950,5,4,False,5
+6257,visa or mastercard,vis,73,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6257,5,4,False,5
+9032,card not working,Ref,51,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9032,5,4,False,5
+745,card not working,card about,9,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",745,5,4,False,5
+6398,pending card payment,pending card,45,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6398,5,4,False,5
+7646,cancel transfer,terminate,55,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7646,5,4,False,5
+1343,reverted card payment?,revert,53,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1343,5,4,False,5
+7589,exchange rate,exchange via,33,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7589,5,4,False,5
+9727,pending card payment,pending card,45,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9727,5,4,False,5
+267,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",267,5,4,False,5
+560,exchange rate,exchange rate,32,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",560,5,4,False,5
+8737,card not working,declined card,25,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8737,5,4,False,5
+3392,card not working,get physical,38,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3392,5,4,False,5
+5787,card delivery estimate,getting spare,39,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5787,5,4,False,5
+7875,card delivery estimate,card arrival,11,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7875,5,4,False,5
+7274,cancel transfer,request,52,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7274,5,4,False,5
+4556,card not working,declined card,25,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4556,5,4,False,5
+6869,transfer into account,supported,54,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6869,5,4,False,5
+1398,card delivery estimate,card delivery,12,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1398,5,4,False,5
+9030,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9030,5,4,False,5
+2883,transfer not received by recipient,failed,35,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2883,5,4,False,5
+3498,pending card payment,pending transfer,48,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3498,5,4,False,5
+4936,card payment not recognised,extra,34,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4936,5,4,False,5
+6986,top up failed,verify top,71,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6986,5,4,False,5
+4855,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4855,5,4,False,5
+6077,atm support,wrong exchange,76,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6077,5,4,False,5
+6617,transfer fee charged,transfer into,65,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6617,5,4,False,5
+6564,card payment not recognised,revert,53,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6564,5,4,False,5
+4008,transfer into account,receiving,50,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4008,5,4,False,5
+1444,card not working,vis,73,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1444,5,4,False,5
+4346,transaction charged twice,transfer not,66,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4346,5,4,False,5
+8505,transaction charged twice,pending transfer,48,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8505,5,4,False,5
+8225,card not working,declined card,25,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8225,5,4,False,5
+1931,lost or stolen card,lost or stolen phone,42,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1931,5,4,False,5
+9448,card acceptance,at,3,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9448,5,4,False,5
+3764,verify my identity,verify my,69,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3764,5,4,False,5
+5251,card payment not recognised,card payment not,16,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5251,5,4,False,5
+8773,pending card payment,pending card,45,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8773,5,4,False,5
+4104,card acceptance,top up by c,58,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4104,5,4,False,5
+8430,verify my identity,unable,68,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8430,5,4,False,5
+8535,contactless not working,contact,23,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8535,5,4,False,5
+3850,transfer not received by recipient,pending transfer,48,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3850,5,4,False,5
+1299,change pin,edit,30,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1299,5,4,False,5
+139,exchange rate,exchange charge,31,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",139,5,4,False,5
+3942,Refund not showing up,Ref,51,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3942,5,4,False,5
+7700,lost or stolen card,card sw,18,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7700,5,4,False,5
+6967,transfer not received by recipient,failed,35,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6967,5,4,False,5
+465,order physical card,request,52,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",465,5,4,False,5
+5765,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5765,5,4,False,5
+1342,terminate account,terminate,55,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1342,5,4,False,5
+3021,card acceptance,age,1,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3021,5,4,False,5
+6789,exchange rate,exchange charge,31,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6789,5,4,False,5
+7853,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7853,5,4,False,5
+2015,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",2015,5,4,False,5
+541,verify my identity,unable,68,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",541,5,4,False,5
+5230,top up failed,top up revert,61,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5230,5,4,False,5
+1082,verify top up,verify top,71,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1082,5,4,False,5
+571,transfer timing,transfer timing,67,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",571,5,4,False,5
+5675,lost or stolen card,cash withdrawal not,20,True,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",5675,5,4,False,5
+9116,card not working,lost or stolen card,41,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",9116,5,4,False,5
+4305,transfer not received by recipient,declined transfer,27,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4305,5,4,False,5
+3287,card payment not recognised,transaction,63,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",3287,5,4,False,5
+1232,exchange rate,exchange rate,32,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1232,5,4,False,5
+8781,card acceptance,verify source,70,True,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8781,5,4,False,5
+226,card not working,card sw,18,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",226,5,4,False,5
+4522,lost or stolen card,card linking,13,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4522,5,4,False,5
+1977,atm support,wrong exchange,76,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",1977,5,4,False,5
+4317,exchange rate,card payment wrong,17,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",4317,5,4,False,5
+7593,card not working,card payment fee,15,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",7593,5,4,False,5
+6458,age limit,age,1,False,True,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",6458,5,4,False,5
+8027,exchange rate,exchange charge,31,False,False,False,"{20: 1, 70: 1, 46: 1, 10: 1, 29: 1}","[4527, 8353, 330, 3105, 2732]",8027,5,4,False,5

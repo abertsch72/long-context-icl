@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1039,report lost card,report lost,12,True,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1039,5,5,False,5
+820,no,no,30,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",820,5,5,False,5
+2303,mpg,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2303,5,5,False,5
+2500,oos,o,42,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2500,5,5,False,5
+2642,what are your hobbies,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2642,5,5,False,5
+2249,current location,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2249,5,5,False,5
+1894,shopping list,sho,43,True,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1894,5,5,False,5
+1667,whisper mode,whisper,14,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1667,5,5,False,5
+1927,tell joke,text,26,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1927,5,5,False,5
+1341,exchange rate,exchange,38,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1341,5,5,False,5
+1625,current location,current,136,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1625,5,5,False,5
+361,freeze account,free,20,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",361,5,5,False,5
+914,travel notification,travel,146,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",914,5,5,False,5
+2632,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2632,5,5,False,5
+2193,traffic,traffic,24,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2193,5,5,False,5
+827,no,no,30,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",827,5,5,False,5
+131,payday,payday,79,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",131,5,5,False,5
+1515,account blocked,account,2,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1515,5,5,False,5
+427,how old are you,user,11,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",427,5,5,False,5
+849,date,date,95,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",849,5,5,False,5
+2580,where are you from,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2580,5,5,False,5
+247,maybe,maybe,121,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",247,5,5,False,5
+2361,new card,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2361,5,5,False,5
+1380,who do you work for,who,57,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1380,5,5,False,5
+776,reminder,rem,76,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",776,5,5,False,5
+630,repeat,repeat,13,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",630,5,5,False,5
+311,restaurant reservation,restaurant res,23,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",311,5,5,False,5
+1993,play music,play,106,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1993,5,5,False,5
+18,timer,timer,32,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",18,5,5,False,5
+2959,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2959,5,5,False,5
+1269,new card,schedule,18,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1269,5,5,False,5
+2158,date,how,99,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2158,5,5,False,5
+2020,calendar update,calendar,105,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2020,5,5,False,5
+2275,current location,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2275,5,5,False,5
+2015,calendar update,calendar,105,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2015,5,5,False,5
+214,what can i ask you,what can,115,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",214,5,5,False,5
+2319,update playlist,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2319,5,5,False,5
+2849,new card,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2849,5,5,False,5
+1697,travel notification,v,52,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1697,5,5,False,5
+446,what are your hobbies,user,11,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",446,5,5,False,5
+72,report lost card,find,81,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",72,5,5,False,5
+1074,cook time,ing,134,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1074,5,5,False,5
+2856,current location,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2856,5,5,False,5
+2777,vaccines,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2777,5,5,False,5
+2611,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2611,5,5,False,5
+1376,change volume,change volume,150,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1376,5,5,False,5
+2560,date,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2560,5,5,False,5
+1533,international fees,international,137,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1533,5,5,False,5
+2441,travel notification,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2441,5,5,False,5
+2506,date,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2506,5,5,False,5
+1853,freeze account,what are,15,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1853,5,5,False,5
+519,pay bill,pay bill,111,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",519,5,5,False,5
+1656,whisper mode,whisper,14,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1656,5,5,False,5
+2232,who do you work for,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2232,5,5,False,5
+890,carry on,carry,62,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",890,5,5,False,5
+2996,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2996,5,5,False,5
+797,change speed,change speed,119,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",797,5,5,False,5
+1926,cancel reservation,text,26,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1926,5,5,False,5
+2043,play music,update,141,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2043,5,5,False,5
+2277,current location,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2277,5,5,False,5
+59,change accent,insurance change,64,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",59,5,5,False,5
+3054,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3054,5,5,False,5
+1257,pto request,do,34,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1257,5,5,False,5
+551,travel notification,pto request status,101,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",551,5,5,False,5
+3156,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3156,5,5,False,5
+572,credit score,credit score,69,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",572,5,5,False,5
+2507,freeze account,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2507,5,5,False,5
+2419,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2419,5,5,False,5
+852,date,date,95,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",852,5,5,False,5
+1542,no,international,137,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1542,5,5,False,5
+859,calendar update,date,95,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",859,5,5,False,5
+2183,what is your name,me,46,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2183,5,5,False,5
+112,pto request,pto request,97,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",112,5,5,False,5
+2036,cancel reservation,calendar,105,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2036,5,5,False,5
+3044,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3044,5,5,False,5
+1969,bill balance,bill balance,27,True,True,True,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1969,5,5,False,5
+468,timezone,timezone,66,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",468,5,5,False,5
+765,reminder,rem,76,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",765,5,5,False,5
+580,credit score,credit score,69,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",580,5,5,False,5
+746,todo list,todo list update,65,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",746,5,5,False,5
+518,pay bill,pay bill,111,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",518,5,5,False,5
+535,pay bill,pay bill,111,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",535,5,5,False,5
+1101,alarm,alarm,83,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1101,5,5,False,5
+2613,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2613,5,5,False,5
+2823,vaccines,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2823,5,5,False,5
+1688,vaccines,v,52,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1688,5,5,False,5
+615,new card,new,91,True,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",615,5,5,False,5
+2886,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2886,5,5,False,5
+1071,exchange rate,ing,134,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1071,5,5,False,5
+3165,where are you from,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3165,5,5,False,5
+2235,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2235,5,5,False,5
+2085,cancel reservation,cancel,67,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2085,5,5,False,5
+994,cook time,cook,86,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",994,5,5,False,5
+2626,date,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2626,5,5,False,5
+186,where are you from,where,77,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",186,5,5,False,5
+1715,how old are you,gre,82,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1715,5,5,False,5
+17,timer,timer,32,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",17,5,5,False,5
+3050,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3050,5,5,False,5
+2355,new card,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2355,5,5,False,5
+710,current location,insurance,74,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",710,5,5,False,5
+3081,what can i ask you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3081,5,5,False,5
+1850,what is your name,what are,15,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1850,5,5,False,5
+3045,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3045,5,5,False,5
+2610,what are your hobbies,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2610,5,5,False,5
+2691,update playlist,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2691,5,5,False,5
+2636,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2636,5,5,False,5
+1443,order status,order,84,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1443,5,5,False,5
+780,change speed,change speed,119,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",780,5,5,False,5
+2759,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2759,5,5,False,5
+817,no,no,30,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",817,5,5,False,5
+2475,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2475,5,5,False,5
+1917,shopping list,sho,43,True,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1917,5,5,False,5
+977,roll dice,roll,92,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",977,5,5,False,5
+1471,thank you,good,114,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1471,5,5,False,5
+1441,order status,order,84,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1441,5,5,False,5
+1286,no,schedule,18,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1286,5,5,False,5
+1319,gas type,gas,8,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1319,5,5,False,5
+2872,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2872,5,5,False,5
+2052,play music,update,141,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2052,5,5,False,5
+1212,new card,dam,87,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1212,5,5,False,5
+896,carry on,carry,62,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",896,5,5,False,5
+2077,cancel reservation,cancel,67,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2077,5,5,False,5
+2955,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2955,5,5,False,5
+1215,new card,dam,87,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1215,5,5,False,5
+1670,whisper mode,whisper,14,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1670,5,5,False,5
+3116,who do you work for,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3116,5,5,False,5
+1714,how old are you,gre,82,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1714,5,5,False,5
+2243,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2243,5,5,False,5
+2714,no,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2714,5,5,False,5
+1799,direct deposit,direct,108,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1799,5,5,False,5
+2954,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2954,5,5,False,5
+2943,text,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2943,5,5,False,5
+1648,current location,current,136,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1648,5,5,False,5
+1446,order status,order,84,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1446,5,5,False,5
+1708,travel notification,v,52,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1708,5,5,False,5
+2233,current location,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2233,5,5,False,5
+1792,direct deposit,direct,108,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1792,5,5,False,5
+2738,current location,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2738,5,5,False,5
+2163,meal suggestion,me,46,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2163,5,5,False,5
+2410,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2410,5,5,False,5
+1962,bill balance,bill balance,27,True,True,True,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1962,5,5,False,5
+732,todo list,todo list update,65,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",732,5,5,False,5
+2826,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2826,5,5,False,5
+301,restaurant reservation,restaurant res,23,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",301,5,5,False,5
+3137,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3137,5,5,False,5
+1953,bill balance,bill balance,27,True,True,True,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1953,5,5,False,5
+1740,what is your name,what is,75,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1740,5,5,False,5
+1012,cook time,cook,86,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1012,5,5,False,5
+399,rollover 401k,rol,100,True,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",399,5,5,False,5
+338,account blocked,balance,35,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",338,5,5,False,5
+2541,book flight,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2541,5,5,False,5
+607,new card,new,91,True,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",607,5,5,False,5
+2981,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2981,5,5,False,5
+1819,credit limit,credit limit change,109,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1819,5,5,False,5
+939,thank you,thank,124,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",939,5,5,False,5
+2126,find phone,tell,36,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2126,5,5,False,5
+1465,order status,order,84,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1465,5,5,False,5
+2591,new card,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2591,5,5,False,5
+2804,current location,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2804,5,5,False,5
+2026,calendar update,calendar,105,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2026,5,5,False,5
+2961,what are your hobbies,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2961,5,5,False,5
+1426,credit limit,credit limit,41,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1426,5,5,False,5
+2047,play music,update,141,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2047,5,5,False,5
+294,change speed,oil,3,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",294,5,5,False,5
+1420,credit limit,credit limit,41,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1420,5,5,False,5
+1613,change volume,smart,10,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1613,5,5,False,5
+2270,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2270,5,5,False,5
+2266,cook time,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2266,5,5,False,5
+2348,goodbye,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2348,5,5,False,5
+670,mpg,m,142,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",670,5,5,False,5
+1369,change volume,change volume,150,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1369,5,5,False,5
+2937,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2937,5,5,False,5
+1587,mpg,report fra,70,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1587,5,5,False,5
+3183,play music,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3183,5,5,False,5
+2363,update playlist,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2363,5,5,False,5
+1580,mpg,report fra,70,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1580,5,5,False,5
+3143,current location,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3143,5,5,False,5
+2683,shopping list,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2683,5,5,False,5
+3086,text,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3086,5,5,False,5
+2772,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2772,5,5,False,5
+751,reminder,rem,76,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",751,5,5,False,5
+305,oos,restaurant res,23,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",305,5,5,False,5
+1887,flight status,book,63,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1887,5,5,False,5
+1009,cook time,cook,86,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1009,5,5,False,5
+2000,play music,play,106,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2000,5,5,False,5
+1915,shopping list,sho,43,True,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1915,5,5,False,5
+1143,change accent,change acc,51,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1143,5,5,False,5
+1778,direct deposit,direct,108,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1778,5,5,False,5
+2545,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2545,5,5,False,5
+2540,insurance,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2540,5,5,False,5
+976,roll dice,roll,92,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",976,5,5,False,5
+1758,who do you work for,what is,75,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1758,5,5,False,5
+2345,credit limit,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2345,5,5,False,5
+1260,book flight,schedule,18,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1260,5,5,False,5
+1152,new card,change acc,51,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1152,5,5,False,5
+2614,find phone,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2614,5,5,False,5
+2300,tell joke,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2300,5,5,False,5
+2870,reminder,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2870,5,5,False,5
+3150,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3150,5,5,False,5
+2956,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2956,5,5,False,5
+489,find phone,restaurant suggestion,145,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",489,5,5,False,5
+2470,vaccines,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2470,5,5,False,5
+2492,vaccines,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2492,5,5,False,5
+537,pay bill,pay bill,111,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",537,5,5,False,5
+374,account blocked,free,20,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",374,5,5,False,5
+1666,whisper mode,whisper,14,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1666,5,5,False,5
+1984,play music,play,106,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1984,5,5,False,5
+1985,play music,play,106,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1985,5,5,False,5
+2122,goodbye,tell,36,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2122,5,5,False,5
+2813,no,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2813,5,5,False,5
+1308,gas type,gas,8,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1308,5,5,False,5
+68,find phone,find,81,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",68,5,5,False,5
+1202,report lost card,dam,87,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1202,5,5,False,5
+1301,gas type,gas,8,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1301,5,5,False,5
+1315,gas type,gas,8,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1315,5,5,False,5
+1384,who do you work for,who,57,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1384,5,5,False,5
+691,insurance,insurance,74,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",691,5,5,False,5
+2792,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2792,5,5,False,5
+1466,where are you from,order,84,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1466,5,5,False,5
+894,carry on,carry,62,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",894,5,5,False,5
+324,oos,restaurant res,23,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",324,5,5,False,5
+2834,new card,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2834,5,5,False,5
+1154,change accent,change acc,51,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1154,5,5,False,5
+1794,direct deposit,direct,108,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1794,5,5,False,5
+3131,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3131,5,5,False,5
+1082,alarm,alarm,83,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1082,5,5,False,5
+3104,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3104,5,5,False,5
+1178,bill due,bill due,56,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1178,5,5,False,5
+2732,play music,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2732,5,5,False,5
+61,find phone,find,81,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",61,5,5,False,5
+3147,what is your name,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",3147,5,5,False,5
+1394,who do you work for,who,57,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1394,5,5,False,5
+1866,flight status,book,63,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1866,5,5,False,5
+1594,change volume,smart,10,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1594,5,5,False,5
+639,repeat,repeat,13,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",639,5,5,False,5
+2086,cancel reservation,cancel,67,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2086,5,5,False,5
+2365,international fees,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2365,5,5,False,5
+267,maybe,maybe,121,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",267,5,5,False,5
+982,roll dice,roll,92,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",982,5,5,False,5
+1119,todo list,todo list,48,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1119,5,5,False,5
+1326,exchange rate,exchange,38,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1326,5,5,False,5
+1787,direct deposit,direct,108,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1787,5,5,False,5
+233,what can i ask you,what can,115,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",233,5,5,False,5
+379,freeze account,free,20,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",379,5,5,False,5
+1503,account blocked,account,2,False,True,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1503,5,5,False,5
+2668,who do you work for,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2668,5,5,False,5
+1814,credit limit,credit limit change,109,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1814,5,5,False,5
+2532,how old are you,o,42,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",2532,5,5,False,5
+1568,bill balance,report fra,70,False,False,True,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1568,5,5,False,5
+1885,flight status,book,63,False,False,False,"{100: 1, 12: 1, 43: 1, 27: 1, 91: 1}","[22, 2280, 6263, 3154, 6711]",1885,5,5,False,5

@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+9689,get disposable virtual card,dispos,29,True,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9689,5,6,False,5
+8043,transfer not received by recipient,transfer not,66,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8043,5,6,False,5
+3454,age limit,age,1,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3454,5,6,False,5
+417,request refund,request,52,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",417,5,6,False,5
+1728,get disposable virtual card,get dispos,37,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1728,5,6,False,5
+2460,top up by card charge,apple,2,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2460,5,6,False,5
+3410,request refund,transaction,63,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3410,5,6,False,5
+8930,get disposable virtual card,unable,68,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8930,5,6,False,5
+8798,transfer fee charged,transfer fee,64,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8798,5,6,False,5
+9956,top up failed,apple,2,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9956,5,6,False,5
+4658,exchange rate,exchange rate,32,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4658,5,6,False,5
+3828,get disposable virtual card,country,24,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3828,5,6,False,5
+4470,card not working,lost or stolen card,41,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4470,5,6,False,5
+4522,lost or stolen card,card linking,13,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4522,5,6,False,5
+7822,lost or stolen phone,lost or stolen phone,42,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7822,5,6,False,5
+917,top up by card charge,to,62,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",917,5,6,False,5
+4576,change pin,edit,30,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4576,5,6,False,5
+2922,card delivery estimate,card delivery,12,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2922,5,6,False,5
+952,atm support,at,3,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",952,5,6,False,5
+7520,why verify identity,card payment fee,15,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7520,5,6,False,5
+1509,card not working,get physical,38,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1509,5,6,False,5
+4866,card not working,lost or stolen card,41,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4866,5,6,False,5
+779,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",779,5,6,False,5
+9181,get physical card,order,43,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9181,5,6,False,5
+2011,cancel transfer,top up revert,61,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2011,5,6,False,5
+6671,transfer not received by recipient,pending transfer,48,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6671,5,6,False,5
+9165,cancel transfer,request,52,True,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9165,5,6,False,5
+9743,extra charge on statement,card payment fee,15,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9743,5,6,False,5
+17,transfer not received by recipient,transfer not,66,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",17,5,6,False,5
+2252,cash withdrawal not recognised,top up by c,58,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2252,5,6,False,5
+4901,card not working,card payment not,16,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4901,5,6,False,5
+7851,cash withdrawal not recognised,wrong amount,75,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7851,5,6,False,5
+4645,exchange rate,wrong exchange,76,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4645,5,6,False,5
+2595,transfer fee charged,transfer fee,64,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2595,5,6,False,5
+5195,get disposable virtual card,receiving,50,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5195,5,6,False,5
+905,card not working,card payment fee,15,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",905,5,6,False,5
+5554,top up limits,top up limits,60,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5554,5,6,False,5
+4717,card not working,card not,14,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4717,5,6,False,5
+3004,request refund,Ref,51,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3004,5,6,False,5
+6270,passcode forgotten,pass,44,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6270,5,6,False,5
+3409,atm support,wrong amount,75,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3409,5,6,False,5
+5089,atm support,wrong amount,75,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5089,5,6,False,5
+3341,supported cards and currencies,fi,36,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3341,5,6,False,5
+5533,verify my identity,why,74,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5533,5,6,False,5
+5163,transfer not received by recipient,benef,7,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5163,5,6,False,5
+2622,card not working,country,24,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2622,5,6,False,5
+7220,card acceptance,supported,54,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7220,5,6,False,5
+8679,top up by card charge,supported,54,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8679,5,6,False,5
+5009,transfer not received by recipient,pending transfer,48,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5009,5,6,False,5
+1075,top up by card charge,apple,2,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1075,5,6,False,5
+1836,transaction charged twice,transaction,63,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1836,5,6,False,5
+5380,exchange rate,benef,7,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5380,5,6,False,5
+3122,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3122,5,6,False,5
+4918,transfer not received by recipient,transfer not,66,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4918,5,6,False,5
+5281,exchange rate,exchange rate,32,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5281,5,6,False,5
+9640,card payment not recognised,vis,73,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9640,5,6,False,5
+2962,transfer not received by recipient,pending card,45,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2962,5,6,False,5
+9775,exchange rate,exchange rate,32,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9775,5,6,False,5
+6678,cancel transfer,cancel,8,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6678,5,6,False,5
+8638,transfer not received by recipient,pending transfer,48,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8638,5,6,False,5
+6805,get disposable virtual card,verify source,70,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6805,5,6,False,5
+5171,extra charge on statement,card payment fee,15,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5171,5,6,False,5
+5232,transaction charged twice,top up revert,61,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5232,5,6,False,5
+429,get disposable virtual card,getting virtual,40,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",429,5,6,False,5
+3851,virtual card not working,getting virtual,40,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3851,5,6,False,5
+3119,card not working,lost or stolen card,41,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3119,5,6,False,5
+6003,supported cards and currencies,fi,36,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6003,5,6,False,5
+4749,get disposable virtual card,verify source,70,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4749,5,6,False,5
+2638,lost or stolen card,lost or stolen phone,42,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2638,5,6,False,5
+3338,card delivery estimate,card about,9,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3338,5,6,False,5
+1185,card not working,declined card,25,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1185,5,6,False,5
+7049,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7049,5,6,False,5
+9704,transfer fee charged,transfer fee,64,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9704,5,6,False,5
+9475,transaction charged twice,pending transfer,48,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9475,5,6,False,5
+442,order physical card,card delivery,12,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",442,5,6,False,5
+2005,get disposable virtual card,fi,36,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2005,5,6,False,5
+3557,pending transfer,pending transfer,48,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3557,5,6,False,5
+5416,card not working,card not,14,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5416,5,6,False,5
+7996,atm support,declined c,26,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7996,5,6,False,5
+1845,change pin,edit,30,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1845,5,6,False,5
+3893,get physical card,getting spare,39,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3893,5,6,False,5
+3247,card linking,card linking,13,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3247,5,6,False,5
+4541,verify my identity,verify my,69,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4541,5,6,False,5
+4976,card linking,card linking,13,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4976,5,6,False,5
+6286,exchange rate,exchange via,33,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6286,5,6,False,5
+3932,change pin,change,21,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3932,5,6,False,5
+8321,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8321,5,6,False,5
+3087,get disposable virtual card,apple,2,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3087,5,6,False,5
+6745,card linking,card linking,13,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6745,5,6,False,5
+6699,card not working,card payment fee,15,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6699,5,6,False,5
+1868,lost or stolen phone,lost or stolen phone,42,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1868,5,6,False,5
+339,get disposable virtual card,receiving,50,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",339,5,6,False,5
+1497,verify my identity,unable,68,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1497,5,6,False,5
+58,virtual card not working,getting virtual,40,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",58,5,6,False,5
+8654,card not working,comprom,22,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8654,5,6,False,5
+1472,exchange rate,card payment wrong,17,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1472,5,6,False,5
+6136,cancel transfer,cancel,8,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6136,5,6,False,5
+5154,cash withdrawal not recognised,wrong amount,75,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5154,5,6,False,5
+3424,card not working,card not,14,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3424,5,6,False,5
+4370,get disposable virtual card,get dispos,37,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4370,5,6,False,5
+6025,extra charge on statement,extra,34,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6025,5,6,False,5
+7260,topping up by card,top up by card,57,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7260,5,6,False,5
+4657,change pin,edit,30,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4657,5,6,False,5
+9381,top up failed,pending top,47,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9381,5,6,False,5
+1659,cancel transfer,cancel,8,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1659,5,6,False,5
+8345,exchange rate,exchange via,33,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8345,5,6,False,5
+6465,supported cards and currencies,fi,36,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6465,5,6,False,5
+7249,age limit,age,1,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7249,5,6,False,5
+7637,virtual card not working,virtual,72,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7637,5,6,False,5
+3117,order physical card,card delivery,12,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3117,5,6,False,5
+7379,top up by card charge,top up by card,57,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7379,5,6,False,5
+7284,verify top up,verify top,71,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7284,5,6,False,5
+3762,verify my identity,card payment not,16,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3762,5,6,False,5
+8661,request refund,card payment not,16,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8661,5,6,False,5
+1693,get physical card,getting spare,39,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1693,5,6,False,5
+8557,transfer fee charged,transfer fee,64,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8557,5,6,False,5
+1630,transaction charged twice,top up revert,61,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1630,5,6,False,5
+1564,change pin,change,21,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1564,5,6,False,5
+4655,card not working,declined card,25,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4655,5,6,False,5
+9189,card not working,card linking,13,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9189,5,6,False,5
+6432,card payment not recognised,revert,53,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6432,5,6,False,5
+1686,card not working,lost or stolen card,41,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1686,5,6,False,5
+1192,top up failed,pending top,47,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1192,5,6,False,5
+1268,transaction charged twice,card payment not,16,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1268,5,6,False,5
+658,exchange rate,fi,36,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",658,5,6,False,5
+5658,top up by card charge,automatic,4,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5658,5,6,False,5
+1863,age limit,age,1,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1863,5,6,False,5
+5384,transfer not received by recipient,transfer not,66,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5384,5,6,False,5
+4109,get disposable virtual card,unable,68,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4109,5,6,False,5
+6045,top up by card charge,apple,2,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6045,5,6,False,5
+29,request refund,Ref,51,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",29,5,6,False,5
+1672,top up by card charge,apple,2,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1672,5,6,False,5
+5083,get disposable virtual card,dispos,29,True,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5083,5,6,False,5
+8360,exchange rate,card payment wrong,17,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8360,5,6,False,5
+9375,lost or stolen card,lost or stolen card,41,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9375,5,6,False,5
+3663,card linking,card linking,13,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3663,5,6,False,5
+3650,top up failed,pending top,47,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3650,5,6,False,5
+231,change pin,change,21,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",231,5,6,False,5
+8990,get disposable virtual card,pass,44,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8990,5,6,False,5
+8601,get disposable virtual card,getting spare,39,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8601,5,6,False,5
+7572,atm support,declined c,26,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7572,5,6,False,5
+8123,cash withdrawal not recognised,wrong amount,75,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8123,5,6,False,5
+2462,transfer not received by recipient,failed,35,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2462,5,6,False,5
+2741,contactless not working,contact,23,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2741,5,6,False,5
+9798,why verify identity,declined card,25,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9798,5,6,False,5
+6163,transfer fee charged,top up by bank,56,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6163,5,6,False,5
+6196,cancel transfer,request,52,True,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6196,5,6,False,5
+5286,get disposable virtual card,card about,9,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5286,5,6,False,5
+9942,transfer into account,transfer into,65,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9942,5,6,False,5
+6069,cancel transfer,cancel,8,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6069,5,6,False,5
+3555,transfer not received by recipient,transfer not,66,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3555,5,6,False,5
+5404,get disposable virtual card,virtual,72,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5404,5,6,False,5
+6070,pin blocked,pin,49,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6070,5,6,False,5
+9353,order physical card,getting spare,39,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9353,5,6,False,5
+7250,transfer not received by recipient,benef,7,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7250,5,6,False,5
+5318,virtual card not working,getting virtual,40,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5318,5,6,False,5
+4521,transfer not received by recipient,transfer not,66,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4521,5,6,False,5
+699,card not working,card not,14,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",699,5,6,False,5
+423,transaction charged twice,transfer not,66,True,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",423,5,6,False,5
+194,activate my card,activ,0,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",194,5,6,False,5
+1921,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1921,5,6,False,5
+3759,card not working,lost or stolen card,41,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3759,5,6,False,5
+4606,order physical card,order,43,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4606,5,6,False,5
+7887,get physical card,getting spare,39,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7887,5,6,False,5
+7350,request refund,request,52,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7350,5,6,False,5
+1172,atm support,at,3,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1172,5,6,False,5
+6545,get disposable virtual card,get dispos,37,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6545,5,6,False,5
+3417,card not working,card payment not,16,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3417,5,6,False,5
+4339,card delivery estimate,card arrival,11,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4339,5,6,False,5
+496,request refund,Ref,51,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",496,5,6,False,5
+2444,get disposable virtual card,transaction,63,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2444,5,6,False,5
+5504,card not working,comprom,22,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5504,5,6,False,5
+9720,get physical card,card about,9,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9720,5,6,False,5
+9838,exchange rate,wrong exchange,76,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9838,5,6,False,5
+2132,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2132,5,6,False,5
+2878,get disposable virtual card,age,1,True,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2878,5,6,False,5
+7264,card not working,card linking,13,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7264,5,6,False,5
+415,cancel transfer,top up revert,61,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",415,5,6,False,5
+116,card not working,country,24,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",116,5,6,False,5
+7581,order physical card,card delivery,12,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7581,5,6,False,5
+5442,get physical card,getting spare,39,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5442,5,6,False,5
+2827,get disposable virtual card,get dispos,37,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2827,5,6,False,5
+5130,get disposable virtual card,extra,34,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5130,5,6,False,5
+1114,change pin,receiving,50,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1114,5,6,False,5
+8731,transaction charged twice,Ref,51,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8731,5,6,False,5
+9862,exchange rate,card payment wrong,17,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9862,5,6,False,5
+5321,card swallowed,card sw,18,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5321,5,6,False,5
+2687,card payment not recognised,card accept,10,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2687,5,6,False,5
+9080,exchange rate,card payment wrong,17,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9080,5,6,False,5
+7218,activate my card,activ,0,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7218,5,6,False,5
+212,get disposable virtual card,revert,53,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",212,5,6,False,5
+985,transfer not received by recipient,pending transfer,48,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",985,5,6,False,5
+6803,top up limits,automatic,4,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6803,5,6,False,5
+356,order physical card,card delivery,12,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",356,5,6,False,5
+368,lost or stolen phone,lost or stolen phone,42,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",368,5,6,False,5
+3437,get disposable virtual card,failed,35,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3437,5,6,False,5
+6232,get disposable virtual card,verify source,70,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6232,5,6,False,5
+8845,get disposable virtual card,virtual,72,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8845,5,6,False,5
+1676,transfer not received by recipient,transfer into,65,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1676,5,6,False,5
+195,transfer not received by recipient,failed,35,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",195,5,6,False,5
+9875,card not working,comprom,22,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9875,5,6,False,5
+711,cancel transfer,terminate,55,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",711,5,6,False,5
+1829,transfer not received by recipient,benef,7,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1829,5,6,False,5
+2725,get disposable virtual card,get dispos,37,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2725,5,6,False,5
+7474,top up failed,top up revert,61,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7474,5,6,False,5
+3395,card payment not recognised,revert,53,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3395,5,6,False,5
+8368,get disposable virtual card,dispos,29,True,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8368,5,6,False,5
+1613,verify my identity,card payment not,16,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1613,5,6,False,5
+1700,change pin,change,21,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1700,5,6,False,5
+3935,exchange rate,card payment wrong,17,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3935,5,6,False,5
+9152,card not working,card arrival,11,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9152,5,6,False,5
+6171,card delivery estimate,card delivery,12,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6171,5,6,False,5
+4168,transfer not received by recipient,failed,35,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4168,5,6,False,5
+6684,pin blocked,pin,49,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6684,5,6,False,5
+6155,top up failed,top up revert,61,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6155,5,6,False,5
+4871,top up failed,top up failed,59,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4871,5,6,False,5
+6856,activate my card,activ,0,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6856,5,6,False,5
+3937,direct debit payment not recognised,direct,28,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3937,5,6,False,5
+1896,top up limits,verify top,71,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1896,5,6,False,5
+1440,declined transfer,declined c,26,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1440,5,6,False,5
+7176,exchange rate,card payment wrong,17,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7176,5,6,False,5
+3897,transfer not received by recipient,pending transfer,48,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3897,5,6,False,5
+7608,get physical card,vis,73,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7608,5,6,False,5
+4972,wrong amount of cash received,cancel,8,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4972,5,6,False,5
+8979,exchange rate,exchange charge,31,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8979,5,6,False,5
+8950,exchange rate,wrong exchange,76,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8950,5,6,False,5
+1463,why verify identity,cash withdrawal charge,19,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1463,5,6,False,5
+606,get disposable virtual card,dispos,29,True,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",606,5,6,False,5
+2711,age limit,age,1,True,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2711,5,6,False,5
+2159,request refund,Ref,51,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2159,5,6,False,5
+5771,verify my identity,verify my,69,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5771,5,6,False,5
+9758,get physical card,at,3,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9758,5,6,False,5
+8795,change pin,edit,30,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8795,5,6,False,5
+9444,pending transfer,pending card,45,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9444,5,6,False,5
+9918,request refund,Ref,51,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",9918,5,6,False,5
+1403,extra charge on statement,extra,34,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1403,5,6,False,5
+8947,request refund,cancel,8,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8947,5,6,False,5
+1535,exchange rate,exchange charge,31,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1535,5,6,False,5
+4081,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4081,5,6,False,5
+90,cash withdrawal not recognised,wrong amount,75,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",90,5,6,False,5
+5985,card not working,card about,9,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",5985,5,6,False,5
+7780,transfer not received by recipient,declined transfer,27,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",7780,5,6,False,5
+1937,transfer fee charged,transfer fee,64,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1937,5,6,False,5
+3115,get disposable virtual card,card sw,18,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",3115,5,6,False,5
+2001,exchange rate,card payment wrong,17,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",2001,5,6,False,5
+4065,get disposable virtual card,extra,34,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",4065,5,6,False,5
+6177,cancel transfer,cancel,8,False,True,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6177,5,6,False,5
+6979,get disposable virtual card,failed,35,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",6979,5,6,False,5
+8677,get disposable virtual card,verify source,70,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",8677,5,6,False,5
+1239,top up failed,pending top,47,False,False,False,"{29: 1, 66: 1, 1: 1, 52: 1, 37: 1}","[9689, 8043, 3454, 417, 1728]",1239,5,6,False,5

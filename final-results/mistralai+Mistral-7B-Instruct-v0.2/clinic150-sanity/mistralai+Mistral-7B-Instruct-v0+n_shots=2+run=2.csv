@@ -1,0 +1,3 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+5251,report lost card,damaged,87,True,False,False,"{87: 1, 124: 1}","[5251, 9125]",5251,2,2,False
+9125,thank you,thank,124,True,True,False,"{87: 1, 124: 1}","[5251, 9125]",9125,2,2,False

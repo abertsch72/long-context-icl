@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4846,terminate account,terminate,55,True,True,False,"{55: 1, 5: 1, 48: 1, 8: 1, 3: 1}","[4846, 7068, 8998, 4022, 6197]",4846,5,8,False,5
+7068,balance not updated after bank transfer,balance not updated after bank,5,True,True,False,"{55: 1, 5: 1, 48: 1, 8: 1, 3: 1}","[4846, 7068, 8998, 4022, 6197]",7068,5,8,False,5
+8998,pending transfer,pending transfer,48,True,True,True,"{55: 1, 5: 1, 48: 1, 8: 1, 3: 1}","[4846, 7068, 8998, 4022, 6197]",8998,5,8,False,5
+4022,cancel transfer,cancel,8,True,True,False,"{55: 1, 5: 1, 48: 1, 8: 1, 3: 1}","[4846, 7068, 8998, 4022, 6197]",4022,5,8,False,5
+6197,atm support,at,3,True,True,False,"{55: 1, 5: 1, 48: 1, 8: 1, 3: 1}","[4846, 7068, 8998, 4022, 6197]",6197,5,8,False,5

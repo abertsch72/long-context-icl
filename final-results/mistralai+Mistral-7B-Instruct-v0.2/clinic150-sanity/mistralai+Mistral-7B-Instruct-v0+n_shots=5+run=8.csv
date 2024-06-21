@@ -1,0 +1,6 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+2944,spelling,sp,73,True,True,False,"{73: 1, 5: 1, 80: 1, 18: 1, 22: 1}","[2944, 8066, 9845, 4853, 2624]",2944,5,8,False
+8066,weather,weather,5,True,True,True,"{73: 1, 5: 1, 80: 1, 18: 1, 22: 1}","[2944, 8066, 9845, 4853, 2624]",8066,5,8,False
+9845,flight status,flight,80,True,True,False,"{73: 1, 5: 1, 80: 1, 18: 1, 22: 1}","[2944, 8066, 9845, 4853, 2624]",9845,5,8,False
+4853,schedule meeting,schedule meeting,18,True,True,True,"{73: 1, 5: 1, 80: 1, 18: 1, 22: 1}","[2944, 8066, 9845, 4853, 2624]",4853,5,8,False
+2624,meaning of life,meaning,22,True,True,False,"{73: 1, 5: 1, 80: 1, 18: 1, 22: 1}","[2944, 8066, 9845, 4853, 2624]",2624,5,8,False

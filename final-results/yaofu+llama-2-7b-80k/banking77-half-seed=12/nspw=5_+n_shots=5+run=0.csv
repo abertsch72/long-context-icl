@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1104,5,0,False,5
+472,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",472,5,0,False,5
+1345,card delivery estimate,order,43,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1345,5,0,False,5
+838,pending transfer,pending card,45,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",838,5,0,False,5
+942,declined card payment,decl,25,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",942,5,0,False,5
+707,atm support,at,3,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",707,5,0,False,5
+378,contactless not working,contact,23,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",378,5,0,False,5
+1258,failed transfer,failed,35,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1258,5,0,False,5
+451,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",451,5,0,False,5
+1467,top up by card charge,top up by card,57,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1467,5,0,False,5
+652,card linking,dispos,29,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",652,5,0,False,5
+774,passcode forgotten,pass,44,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",774,5,0,False,5
+1112,transfer not received by recipient,verify,70,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1112,5,0,False,5
+659,card linking,dispos,29,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",659,5,0,False,5
+67,exchange rate,exchange,32,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",67,5,0,False,5
+773,lost or stolen phone,pass,44,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",773,5,0,False,5
+679,disposable card limits,dispos,29,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",679,5,0,False,5
+956,card not working,decl,25,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",956,5,0,False,5
+919,failed transfer,request,52,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",919,5,0,False,5
+1221,card linking,receiving,50,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1221,5,0,False,5
+605,transfer not received by recipient,to,62,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",605,5,0,False,5
+240,card not working,card not,14,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",240,5,0,False,5
+1069,atm support,card sw,18,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1069,5,0,False,5
+1228,transfer not received by recipient,receiving,50,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1228,5,0,False,5
+1006,terminate account,terminate,55,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1006,5,0,False,5
+1308,card not working,top up by c,58,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1308,5,0,False,5
+106,extra charge on statement,extra,34,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",106,5,0,False,5
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1429,5,0,False,5
+455,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",455,5,0,False,5
+1380,virtual card not working,virtual,72,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1380,5,0,False,5
+325,pin blocked,pin,49,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",325,5,0,False,5
+745,direct debit payment not recognised,direct,28,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",745,5,0,False,5
+1439,balance not updated after bank transfer,balance,5,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1439,5,0,False,5
+941,failed transfer,decl,25,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",941,5,0,False,5
+401,failed transfer,pending top,47,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",401,5,0,False,5
+1190,change pin,change,21,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1190,5,0,False,5
+759,failed transfer,direct,28,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",759,5,0,False,5
+1180,change pin,change,21,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1180,5,0,False,5
+123,exchange rate,fi,36,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",123,5,0,False,5
+1517,activate my card,activ,0,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1517,5,0,False,5
+227,automatic top up,automatic,4,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",227,5,0,False,5
+1321,card linking,order,43,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1321,5,0,False,5
+393,contactless not working,contact,23,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",393,5,0,False,5
+999,transfer timing,pending transfer,48,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",999,5,0,False,5
+927,declined card payment,decl,25,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",927,5,0,False,5
+244,card not working,card not,14,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",244,5,0,False,5
+181,order physical card,card delivery,12,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",181,5,0,False,5
+1170,pin blocked,change,21,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1170,5,0,False,5
+666,virtual card not working,dispos,29,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",666,5,0,False,5
+1028,terminate account,terminate,55,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1028,5,0,False,5
+772,lost or stolen phone,pass,44,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",772,5,0,False,5
+1223,change pin,receiving,50,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1223,5,0,False,5
+421,failed transfer,pending top,47,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",421,5,0,False,5
+132,exchange rate,fi,36,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",132,5,0,False,5
+155,exchange rate,fi,36,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",155,5,0,False,5
+459,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",459,5,0,False,5
+371,contactless not working,contact,23,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",371,5,0,False,5
+15,card linking,card linking,13,True,True,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",15,5,0,False,5
+1253,failed transfer,failed,35,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1253,5,0,False,5
+197,change pin,card delivery,12,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",197,5,0,False,5
+527,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",527,5,0,False,5
+531,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",531,5,0,False,5
+382,failed transfer,contact,23,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",382,5,0,False,5
+620,transfer not received by recipient,to,62,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",620,5,0,False,5
+871,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",871,5,0,False,5
+1095,verify source of funds,verify,70,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1095,5,0,False,5
+1501,card linking,activ,0,True,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1501,5,0,False,5
+1368,virtual card not working,virtual,72,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1368,5,0,False,5
+344,pin blocked,pin,49,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",344,5,0,False,5
+429,pending top up,pending top,47,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",429,5,0,False,5
+291,age limit,age,1,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",291,5,0,False,5
+474,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",474,5,0,False,5
+137,fiat currency support,fi,36,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",137,5,0,False,5
+784,passcode forgotten,pass,44,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",784,5,0,False,5
+1021,terminate account,terminate,55,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1021,5,0,False,5
+1414,failed transfer,balance,5,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1414,5,0,False,5
+741,failed transfer,direct,28,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",741,5,0,False,5
+904,failed transfer,request,52,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",904,5,0,False,5
+723,failed transfer,direct,28,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",723,5,0,False,5
+87,failed transfer,extra,34,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",87,5,0,False,5
+1457,top up by card charge,top up by card,57,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1457,5,0,False,5
+747,direct debit payment not recognised,direct,28,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",747,5,0,False,5
+728,card not working,direct,28,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",728,5,0,False,5
+860,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",860,5,0,False,5
+355,card not working,pin,49,True,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",355,5,0,False,5
+1294,top up by cash or cheque,top up by c,58,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1294,5,0,False,5
+521,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",521,5,0,False,5
+299,age limit,age,1,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",299,5,0,False,5
+807,pending transfer,pending card,45,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",807,5,0,False,5
+1367,virtual card not working,virtual,72,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1367,5,0,False,5
+556,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",556,5,0,False,5
+239,top up by card charge,automatic,4,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",239,5,0,False,5
+1418,transfer not received by recipient,balance,5,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1418,5,0,False,5
+203,top up by card charge,automatic,4,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",203,5,0,False,5
+1265,failed transfer,failed,35,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1265,5,0,False,5
+1509,activate my card,activ,0,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1509,5,0,False,5
+284,age limit,age,1,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",284,5,0,False,5
+1335,card delivery estimate,order,43,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1335,5,0,False,5
+517,failed transfer,transfer not,66,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",517,5,0,False,5
+458,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",458,5,0,False,5
+808,pending transfer,pending card,45,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",808,5,0,False,5
+290,age limit,age,1,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",290,5,0,False,5
+584,failed transfer,top up revert,61,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",584,5,0,False,5
+129,fiat currency support,fi,36,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",129,5,0,False,5
+306,age limit,age,1,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",306,5,0,False,5
+457,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",457,5,0,False,5
+179,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",179,5,0,False,5
+628,transfer not received by recipient,to,62,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",628,5,0,False,5
+26,card not working,card linking,13,True,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",26,5,0,False,5
+1276,failed transfer,failed,35,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1276,5,0,False,5
+839,pending transfer,pending card,45,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",839,5,0,False,5
+1174,pin blocked,change,21,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1174,5,0,False,5
+557,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",557,5,0,False,5
+446,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",446,5,0,False,5
+1117,transfer not received by recipient,verify,70,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1117,5,0,False,5
+215,top up by card charge,automatic,4,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",215,5,0,False,5
+966,pending transfer,pending transfer,48,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",966,5,0,False,5
+420,failed transfer,pending top,47,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",420,5,0,False,5
+614,top up by card charge,to,62,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",614,5,0,False,5
+192,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",192,5,0,False,5
+667,virtual card not working,dispos,29,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",667,5,0,False,5
+852,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",852,5,0,False,5
+1083,verify source of funds,verify,70,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1083,5,0,False,5
+1106,verify source of funds,verify,70,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1106,5,0,False,5
+917,request refund,request,52,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",917,5,0,False,5
+508,failed transfer,transfer not,66,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",508,5,0,False,5
+146,fiat currency support,fi,36,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",146,5,0,False,5
+1307,top up by cash or cheque,top up by c,58,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1307,5,0,False,5
+334,pin blocked,pin,49,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",334,5,0,False,5
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",962,5,0,False,5
+1015,terminate account,terminate,55,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1015,5,0,False,5
+1486,activate my card,activ,0,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1486,5,0,False,5
+391,contactless not working,contact,23,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",391,5,0,False,5
+1243,failed transfer,failed,35,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1243,5,0,False,5
+69,exchange rate,exchange,32,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",69,5,0,False,5
+392,contactless not working,contact,23,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",392,5,0,False,5
+792,passcode forgotten,pass,44,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",792,5,0,False,5
+1448,card linking,top up by card,57,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1448,5,0,False,5
+490,failed transfer,transfer not,66,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",490,5,0,False,5
+676,virtual card not working,dispos,29,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",676,5,0,False,5
+648,card linking,dispos,29,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",648,5,0,False,5
+818,pending transfer,pending card,45,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",818,5,0,False,5
+982,transfer timing,pending transfer,48,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",982,5,0,False,5
+973,failed transfer,pending transfer,48,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",973,5,0,False,5
+535,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",535,5,0,False,5
+793,passcode forgotten,pass,44,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",793,5,0,False,5
+259,card not working,card not,14,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",259,5,0,False,5
+430,failed transfer,pending top,47,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",430,5,0,False,5
+481,failed transfer,transfer not,66,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",481,5,0,False,5
+567,failed transfer,top up revert,61,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",567,5,0,False,5
+72,exchange rate,exchange,32,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",72,5,0,False,5
+113,extra charge on statement,extra,34,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",113,5,0,False,5
+384,card not working,contact,23,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",384,5,0,False,5
+1053,lost or stolen phone,card sw,18,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1053,5,0,False,5
+1401,failed transfer,balance,5,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1401,5,0,False,5
+969,pending transfer,pending transfer,48,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",969,5,0,False,5
+312,age limit,age,1,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",312,5,0,False,5
+892,failed transfer,request,52,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",892,5,0,False,5
+454,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",454,5,0,False,5
+479,top up limits,top up limits,60,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",479,5,0,False,5
+650,card linking,dispos,29,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",650,5,0,False,5
+23,card linking,card linking,13,True,True,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",23,5,0,False,5
+1212,card not working,receiving,50,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1212,5,0,False,5
+1214,transfer not received by recipient,receiving,50,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1214,5,0,False,5
+1349,card delivery estimate,order,43,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1349,5,0,False,5
+262,card not working,card not,14,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",262,5,0,False,5
+48,exchange rate,exchange,32,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",48,5,0,False,5
+285,activate my card,age,1,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",285,5,0,False,5
+851,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",851,5,0,False,5
+1352,card delivery estimate,order,43,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1352,5,0,False,5
+327,pin blocked,pin,49,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",327,5,0,False,5
+1438,balance not updated after bank transfer,balance,5,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1438,5,0,False,5
+29,card linking,card linking,13,True,True,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",29,5,0,False,5
+234,top up by card charge,automatic,4,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",234,5,0,False,5
+528,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",528,5,0,False,5
+369,card not working,contact,23,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",369,5,0,False,5
+128,exchange rate,fi,36,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",128,5,0,False,5
+1151,transfer timing,transfer timing,67,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1151,5,0,False,5
+544,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",544,5,0,False,5
+884,failed transfer,request,52,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",884,5,0,False,5
+593,top up by card charge,top up revert,61,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",593,5,0,False,5
+229,top up by card charge,automatic,4,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",229,5,0,False,5
+876,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",876,5,0,False,5
+629,transfer not received by recipient,to,62,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",629,5,0,False,5
+1419,failed transfer,balance,5,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1419,5,0,False,5
+821,pending transfer,pending card,45,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",821,5,0,False,5
+1285,top up by cash or cheque,top up by c,58,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1285,5,0,False,5
+678,card linking,dispos,29,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",678,5,0,False,5
+204,top up by card charge,automatic,4,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",204,5,0,False,5
+872,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",872,5,0,False,5
+696,transfer not received by recipient,at,3,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",696,5,0,False,5
+219,balance not updated after bank transfer,automatic,4,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",219,5,0,False,5
+190,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",190,5,0,False,5
+379,contactless not working,contact,23,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",379,5,0,False,5
+1340,card linking,order,43,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1340,5,0,False,5
+978,failed transfer,pending transfer,48,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",978,5,0,False,5
+645,card linking,dispos,29,False,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",645,5,0,False,5
+735,direct debit payment not recognised,direct,28,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",735,5,0,False,5
+850,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",850,5,0,False,5
+1353,card not working,order,43,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1353,5,0,False,5
+800,card not working,pending card,45,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",800,5,0,False,5
+1329,card delivery estimate,order,43,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1329,5,0,False,5
+115,extra charge on statement,extra,34,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",115,5,0,False,5
+1396,virtual card not working,virtual,72,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1396,5,0,False,5
+34,card linking,card linking,13,True,True,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",34,5,0,False,5
+967,failed transfer,pending transfer,48,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",967,5,0,False,5
+1512,card linking,activ,0,True,False,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1512,5,0,False,5
+439,pending top up,pending top,47,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",439,5,0,False,5
+1411,transfer timing,balance,5,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1411,5,0,False,5
+1217,transfer not received by recipient,receiving,50,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1217,5,0,False,5
+867,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",867,5,0,False,5
+704,atm support,at,3,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",704,5,0,False,5
+1211,transfer not received by recipient,receiving,50,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1211,5,0,False,5
+646,disposable card limits,dispos,29,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",646,5,0,False,5
+1165,change pin,change,21,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1165,5,0,False,5
+799,verify source of funds,pass,44,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",799,5,0,False,5
+898,order physical card,request,52,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",898,5,0,False,5
+36,card linking,card linking,13,True,True,True,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",36,5,0,False,5
+1278,failed transfer,failed,35,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1278,5,0,False,5
+324,pin blocked,pin,49,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",324,5,0,False,5
+689,atm support,at,3,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",689,5,0,False,5
+1508,activate my card,activ,0,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1508,5,0,False,5
+992,pending transfer,pending transfer,48,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",992,5,0,False,5
+314,age limit,age,1,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",314,5,0,False,5
+1082,transfer not received by recipient,verify,70,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1082,5,0,False,5
+1096,verify source of funds,verify,70,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1096,5,0,False,5
+787,lost or stolen phone,pass,44,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",787,5,0,False,5
+842,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",842,5,0,False,5
+191,card delivery estimate,card delivery,12,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",191,5,0,False,5
+845,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",845,5,0,False,5
+1027,terminate account,terminate,55,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1027,5,0,False,5
+99,extra charge on statement,extra,34,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",99,5,0,False,5
+552,card acceptance,card accept,10,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",552,5,0,False,5
+1024,terminate account,terminate,55,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1024,5,0,False,5
+141,exchange rate,fi,36,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",141,5,0,False,5
+625,transfer not received by recipient,to,62,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",625,5,0,False,5
+922,declined card payment,decl,25,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",922,5,0,False,5
+977,transfer timing,pending transfer,48,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",977,5,0,False,5
+135,change pin,fi,36,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",135,5,0,False,5
+1109,verify source of funds,verify,70,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1109,5,0,False,5
+405,pending top up,pending top,47,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",405,5,0,False,5
+760,passcode forgotten,pass,44,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",760,5,0,False,5
+1035,terminate account,terminate,55,True,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1035,5,0,False,5
+928,declined card payment,decl,25,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",928,5,0,False,5
+976,transfer timing,pending transfer,48,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",976,5,0,False,5
+963,pending transfer,pending transfer,48,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",963,5,0,False,5
+762,passcode forgotten,pass,44,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",762,5,0,False,5
+514,transfer timing,transfer not,66,False,False,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",514,5,0,False,5
+870,lost or stolen phone,lost,42,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",870,5,0,False,5
+1122,transfer timing,transfer timing,67,False,True,False,"{13: 1, 49: 1, 55: 1, 0: 1, 35: 1}","[924, 1396, 3494, 3961, 23]",1122,5,0,False,5

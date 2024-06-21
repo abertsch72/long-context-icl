@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+152,numeric other,numeric other,43,False,True,False,{35: 1},[185],152,1,5,False
+94,entity currency,description,24,False,False,False,{35: 1},[185],94,1,5,False
+337,entity creation,human individual,29,False,False,False,{35: 1},[185],337,1,5,False
+78,numeric distance,numeric distance,40,False,True,False,{35: 1},[185],78,1,5,False
+323,location other,entity currency,6,False,False,True,{35: 1},[185],323,1,5,False
+143,entity creation,human individual,29,False,False,False,{35: 1},[185],143,1,5,False
+59,entity creation,human individual,29,False,False,False,{35: 1},[185],59,1,5,False
+17,location other,location other,35,True,True,True,{35: 1},[185],17,1,5,False
+161,location other,description,24,False,False,True,{35: 1},[185],161,1,5,False
+220,entity substance,description,24,False,False,False,{35: 1},[185],220,1,5,False
+290,entity creation,description,24,False,False,False,{35: 1},[185],290,1,5,False
+224,entity food,description,24,False,False,False,{35: 1},[185],224,1,5,False
+15,entity instrument,human individual,29,False,False,False,{35: 1},[185],15,1,5,False
+162,entity food,description,24,False,False,False,{35: 1},[185],162,1,5,False
+272,location other,location city,32,False,False,True,{35: 1},[185],272,1,5,False
+193,entity food,description,24,False,False,False,{35: 1},[185],193,1,5,False
+325,location city,location city,32,False,True,False,{35: 1},[185],325,1,5,False
+30,entity substance,description,24,False,False,False,{35: 1},[185],30,1,5,False
+331,entity food,description,24,False,False,False,{35: 1},[185],331,1,5,False
+219,location other,description,24,False,False,True,{35: 1},[185],219,1,5,False
+286,location other,location other,35,True,True,True,{35: 1},[185],286,1,5,False
+246,entity food,description,24,False,False,False,{35: 1},[185],246,1,5,False
+68,location other,location other,35,True,True,True,{35: 1},[185],68,1,5,False
+205,location other,location other,35,True,True,True,{35: 1},[185],205,1,5,False
+232,location other,location other,35,True,True,True,{35: 1},[185],232,1,5,False
+64,location country,location country,33,False,True,False,{35: 1},[185],64,1,5,False
+121,location other,location other,35,True,True,True,{35: 1},[185],121,1,5,False
+201,abbreviation expansion,abbreviation expansion,1,False,True,False,{35: 1},[185],201,1,5,False
+315,entity instrument,description,24,False,False,False,{35: 1},[185],315,1,5,False
+145,location other,location other,35,True,True,True,{35: 1},[185],145,1,5,False
+72,entity creation,human individual,29,False,False,False,{35: 1},[185],72,1,5,False
+184,description definition,description,24,False,True,False,{35: 1},[185],184,1,5,False
+141,numeric temperature,numeric other,43,False,False,False,{35: 1},[185],141,1,5,False
+95,location other,location other,35,True,True,True,{35: 1},[185],95,1,5,False
+213,location other,location other,35,True,True,True,{35: 1},[185],213,1,5,False
+38,entity food,description,24,False,False,False,{35: 1},[185],38,1,5,False
+256,entity vehicle,human individual,29,False,False,False,{35: 1},[185],256,1,5,False
+29,location other,entity plant,14,False,False,True,{35: 1},[185],29,1,5,False
+45,entity food,entity food,9,False,True,False,{35: 1},[185],45,1,5,False
+151,entity substance,entity substance,18,False,True,False,{35: 1},[185],151,1,5,False
+262,entity substance,description,24,False,False,False,{35: 1},[185],262,1,5,False
+115,location other,location other,35,True,True,True,{35: 1},[185],115,1,5,False
+269,numeric other,entity substance,18,False,False,False,{35: 1},[185],269,1,5,False
+69,description definition,description,24,False,True,False,{35: 1},[185],69,1,5,False
+106,entity instrument,human individual,29,False,False,False,{35: 1},[185],106,1,5,False
+123,location other,location other,35,True,True,True,{35: 1},[185],123,1,5,False
+233,entity food,entity plant,14,False,False,False,{35: 1},[185],233,1,5,False
+41,location city,location city,32,False,True,False,{35: 1},[185],41,1,5,False
+236,numeric distance,numeric distance,40,False,True,False,{35: 1},[185],236,1,5,False
+55,numeric other,numeric distance,40,False,False,False,{35: 1},[185],55,1,5,False
+289,location other,location other,35,True,True,True,{35: 1},[185],289,1,5,False
+149,location other,description,24,False,False,True,{35: 1},[185],149,1,5,False
+239,numeric other,numeric other,43,False,True,False,{35: 1},[185],239,1,5,False
+103,entity vehicle,entity vehicle,22,False,True,False,{35: 1},[185],103,1,5,False
+35,entity plant,description,24,False,False,False,{35: 1},[185],35,1,5,False
+132,entity food,entity substance,18,False,False,False,{35: 1},[185],132,1,5,False
+172,numeric other,numeric distance,40,False,False,False,{35: 1},[185],172,1,5,False
+74,numeric size,description,24,False,False,False,{35: 1},[185],74,1,5,False
+180,location other,location city,32,False,False,True,{35: 1},[185],180,1,5,False
+241,location other,numeric distance,40,False,False,True,{35: 1},[185],241,1,5,False
+140,entity creation,human individual,29,False,False,False,{35: 1},[185],140,1,5,False
+245,location other,entity currency,6,False,False,True,{35: 1},[185],245,1,5,False
+320,entity substance,description,24,False,False,False,{35: 1},[185],320,1,5,False
+1,location other,location city,32,False,False,True,{35: 1},[185],1,1,5,False
+67,location other,human group,28,False,False,True,{35: 1},[185],67,1,5,False
+138,entity food,entity substance,18,False,False,False,{35: 1},[185],138,1,5,False
+298,entity word,description,24,False,False,False,{35: 1},[185],298,1,5,False
+271,numeric other,numeric distance,40,False,False,False,{35: 1},[185],271,1,5,False
+13,entity instrument,human individual,29,False,False,False,{35: 1},[185],13,1,5,False
+235,entity word,human individual,29,False,False,False,{35: 1},[185],235,1,5,False
+3,numeric other,numeric distance,40,False,False,False,{35: 1},[185],3,1,5,False
+56,numeric other,numeric weight,49,False,False,False,{35: 1},[185],56,1,5,False
+258,entity instrument,human individual,29,False,False,False,{35: 1},[185],258,1,5,False
+223,location other,location other,35,True,True,True,{35: 1},[185],223,1,5,False
+65,description definition,description,24,False,True,False,{35: 1},[185],65,1,5,False
+104,abbreviation expansion,description,24,False,False,False,{35: 1},[185],104,1,5,False
+308,entity food,entity food,9,False,True,False,{35: 1},[185],308,1,5,False
+82,entity food,entity substance,18,False,False,False,{35: 1},[185],82,1,5,False
+11,numeric other,numeric other,43,False,True,False,{35: 1},[185],11,1,5,False
+324,entity instrument,description,24,False,False,False,{35: 1},[185],324,1,5,False
+36,entity instrument,human individual,29,False,False,False,{35: 1},[185],36,1,5,False
+318,numeric money,description,24,False,False,False,{35: 1},[185],318,1,5,False
+192,entity food,description,24,False,False,False,{35: 1},[185],192,1,5,False
+130,entity food,description,24,False,False,False,{35: 1},[185],130,1,5,False
+128,entity instrument,human individual,29,False,False,False,{35: 1},[185],128,1,5,False
+197,location city,location city,32,False,True,False,{35: 1},[185],197,1,5,False
+27,location other,location other,35,True,True,True,{35: 1},[185],27,1,5,False
+295,location other,location other,35,True,True,True,{35: 1},[185],295,1,5,False
+47,location other,location other,35,True,True,True,{35: 1},[185],47,1,5,False
+10,entity vehicle,human individual,29,False,False,False,{35: 1},[185],10,1,5,False
+268,entity word,human individual,29,False,False,False,{35: 1},[185],268,1,5,False
+316,entity food,human group,28,False,False,False,{35: 1},[185],316,1,5,False
+243,location other,location other,35,True,True,True,{35: 1},[185],243,1,5,False
+299,location other,description,24,False,False,True,{35: 1},[185],299,1,5,False
+127,location other,entity substance,18,False,False,True,{35: 1},[185],127,1,5,False
+75,numeric temperature,numeric temperature,47,False,True,False,{35: 1},[185],75,1,5,False
+76,numeric other,location other,35,True,False,False,{35: 1},[185],76,1,5,False
+251,abbreviation expansion,abbreviation expansion,1,False,True,False,{35: 1},[185],251,1,5,False
+263,numeric other,numeric other,43,False,True,False,{35: 1},[185],263,1,5,False
+142,location other,location other,35,True,True,True,{35: 1},[185],142,1,5,False
+37,entity food,human individual,29,False,False,False,{35: 1},[185],37,1,5,False
+292,entity substance,description,24,False,False,False,{35: 1},[185],292,1,5,False
+329,entity food,description,24,False,False,False,{35: 1},[185],329,1,5,False
+48,numeric other,numeric other,43,False,True,False,{35: 1},[185],48,1,5,False
+2,entity substance,description,24,False,False,False,{35: 1},[185],2,1,5,False
+237,entity food,description,24,False,False,False,{35: 1},[185],237,1,5,False
+102,entity instrument,human individual,29,False,False,False,{35: 1},[185],102,1,5,False
+273,entity substance,description,24,False,False,False,{35: 1},[185],273,1,5,False
+117,entity food,description,24,False,False,False,{35: 1},[185],117,1,5,False
+62,entity creation,human individual,29,False,False,False,{35: 1},[185],62,1,5,False
+195,entity food,description,24,False,False,False,{35: 1},[185],195,1,5,False
+57,entity instrument,human individual,29,False,False,False,{35: 1},[185],57,1,5,False
+327,location other,entity substance,18,False,False,True,{35: 1},[185],327,1,5,False
+135,location other,location city,32,False,False,True,{35: 1},[185],135,1,5,False
+255,entity food,entity substance,18,False,False,False,{35: 1},[185],255,1,5,False
+53,numeric other,description,24,False,False,False,{35: 1},[185],53,1,5,False
+98,entity food,description,24,False,False,False,{35: 1},[185],98,1,5,False
+310,location other,location other,35,True,True,True,{35: 1},[185],310,1,5,False
+111,description definition,description,24,False,True,False,{35: 1},[185],111,1,5,False
+217,abbreviation abbreviation,abbreviation expansion,1,False,False,False,{35: 1},[185],217,1,5,False
+238,description definition,description,24,False,True,False,{35: 1},[185],238,1,5,False
+278,location other,location city,32,False,False,True,{35: 1},[185],278,1,5,False
+280,location other,entity plant,14,False,False,True,{35: 1},[185],280,1,5,False
+230,entity creation,human individual,29,False,False,False,{35: 1},[185],230,1,5,False
+88,entity creation,human individual,29,False,False,False,{35: 1},[185],88,1,5,False
+90,location other,description,24,False,False,True,{35: 1},[185],90,1,5,False
+8,location other,human individual,29,False,False,True,{35: 1},[185],8,1,5,False
+0,numeric distance,numeric distance,40,False,True,False,{35: 1},[185],0,1,5,False
+284,entity instrument,human individual,29,False,False,False,{35: 1},[185],284,1,5,False
+144,numeric other,numeric temperature,47,False,False,False,{35: 1},[185],144,1,5,False
+191,location other,location other,35,True,True,True,{35: 1},[185],191,1,5,False
+244,numeric other,numeric weight,49,False,False,False,{35: 1},[185],244,1,5,False
+93,numeric other,description,24,False,False,False,{35: 1},[185],93,1,5,False
+212,entity creation,human individual,29,False,False,False,{35: 1},[185],212,1,5,False
+54,location other,entity currency,6,False,False,True,{35: 1},[185],54,1,5,False
+66,numeric temperature,numeric temperature,47,False,True,False,{35: 1},[185],66,1,5,False
+126,description definition,description,24,False,True,False,{35: 1},[185],126,1,5,False
+335,entity food,description,24,False,False,False,{35: 1},[185],335,1,5,False
+185,abbreviation abbreviation,abbreviation ab,0,False,True,False,{35: 1},[185],185,1,5,False
+178,description definition,description,24,False,True,False,{35: 1},[185],178,1,5,False
+250,entity word,description,24,False,False,False,{35: 1},[185],250,1,5,False
+101,entity food,description,24,False,False,False,{35: 1},[185],101,1,5,False
+283,entity word,description,24,False,False,False,{35: 1},[185],283,1,5,False
+165,entity food,description,24,False,False,False,{35: 1},[185],165,1,5,False
+169,location other,entity substance,18,False,False,True,{35: 1},[185],169,1,5,False
+277,entity food,entity substance,18,False,False,False,{35: 1},[185],277,1,5,False
+167,human individual,human individual,29,False,True,False,{35: 1},[185],167,1,5,False
+332,location other,location city,32,False,False,True,{35: 1},[185],332,1,5,False
+97,entity sport,human title,30,False,False,False,{35: 1},[185],97,1,5,False
+168,location other,location city,32,False,False,True,{35: 1},[185],168,1,5,False
+287,location other,entity vehicle,22,False,False,True,{35: 1},[185],287,1,5,False
+9,numeric other,numeric weight,49,False,False,False,{35: 1},[185],9,1,5,False
+39,abbreviation abbreviation,description,24,False,False,False,{35: 1},[185],39,1,5,False
+136,location other,entity currency,6,False,False,True,{35: 1},[185],136,1,5,False
+159,entity substance,description,24,False,False,False,{35: 1},[185],159,1,5,False
+60,numeric other,numeric other,43,False,True,False,{35: 1},[185],60,1,5,False
+276,entity creation,human individual,29,False,False,False,{35: 1},[185],276,1,5,False
+228,entity word,human individual,29,False,False,False,{35: 1},[185],228,1,5,False
+157,location other,description,24,False,False,True,{35: 1},[185],157,1,5,False
+31,entity food,description,24,False,False,False,{35: 1},[185],31,1,5,False
+99,description definition,description,24,False,True,False,{35: 1},[185],99,1,5,False
+312,entity food,description,24,False,False,False,{35: 1},[185],312,1,5,False
+179,entity word,description,24,False,False,False,{35: 1},[185],179,1,5,False
+296,entity food,human individual,29,False,False,False,{35: 1},[185],296,1,5,False
+210,location other,location other,35,True,True,True,{35: 1},[185],210,1,5,False
+108,entity sport,human group,28,False,False,False,{35: 1},[185],108,1,5,False
+80,location other,entity plant,14,False,False,True,{35: 1},[185],80,1,5,False
+19,entity food,description,24,False,False,False,{35: 1},[185],19,1,5,False
+265,description definition,description,24,False,True,False,{35: 1},[185],265,1,5,False
+129,entity vehicle,human individual,29,False,False,False,{35: 1},[185],129,1,5,False
+187,location other,location other,35,True,True,True,{35: 1},[185],187,1,5,False
+304,entity creation,human individual,29,False,False,False,{35: 1},[185],304,1,5,False
+118,entity creation,human individual,29,False,False,False,{35: 1},[185],118,1,5,False
+155,entity vehicle,human individual,29,False,False,False,{35: 1},[185],155,1,5,False
+209,entity food,description,24,False,False,False,{35: 1},[185],209,1,5,False
+139,location other,location city,32,False,False,True,{35: 1},[185],139,1,5,False
+131,location other,location other,35,True,True,True,{35: 1},[185],131,1,5,False
+207,location other,location city,32,False,False,True,{35: 1},[185],207,1,5,False
+249,location other,location other,35,True,True,True,{35: 1},[185],249,1,5,False
+110,location other,location city,32,False,False,True,{35: 1},[185],110,1,5,False
+122,numeric distance,numeric distance,40,False,True,False,{35: 1},[185],122,1,5,False
+71,entity word,description,24,False,False,False,{35: 1},[185],71,1,5,False
+221,location other,entity vehicle,22,False,False,True,{35: 1},[185],221,1,5,False
+225,entity food,entity food,9,False,True,False,{35: 1},[185],225,1,5,False
+6,entity word,description,24,False,False,False,{35: 1},[185],6,1,5,False
+186,entity substance,entity substance,18,False,True,False,{35: 1},[185],186,1,5,False
+175,entity sport,human individual,29,False,False,False,{35: 1},[185],175,1,5,False
+288,entity word,description,24,False,False,False,{35: 1},[185],288,1,5,False
+321,location other,entity currency,6,False,False,True,{35: 1},[185],321,1,5,False
+114,entity substance,description,24,False,False,False,{35: 1},[185],114,1,5,False
+248,entity food,entity food,9,False,True,False,{35: 1},[185],248,1,5,False
+226,location other,description,24,False,False,True,{35: 1},[185],226,1,5,False
+302,location other,entity substance,18,False,False,True,{35: 1},[185],302,1,5,False
+77,entity food,description,24,False,False,False,{35: 1},[185],77,1,5,False
+12,numeric other,entity substance,18,False,False,False,{35: 1},[185],12,1,5,False
+267,numeric money,numeric other,43,False,False,False,{35: 1},[185],267,1,5,False
+240,entity substance,description,24,False,False,False,{35: 1},[185],240,1,5,False
+119,entity creation,description,24,False,False,False,{35: 1},[185],119,1,5,False
+22,location other,location other,35,True,True,True,{35: 1},[185],22,1,5,False
+181,entity food,description,24,False,False,False,{35: 1},[185],181,1,5,False
+124,entity word,description,24,False,False,False,{35: 1},[185],124,1,5,False
+46,entity food,description,24,False,False,False,{35: 1},[185],46,1,5,False
+133,numeric distance,numeric distance,40,False,True,False,{35: 1},[185],133,1,5,False
+247,entity food,description,24,False,False,False,{35: 1},[185],247,1,5,False
+79,entity instrument,human individual,29,False,False,False,{35: 1},[185],79,1,5,False
+259,entity food,description,24,False,False,False,{35: 1},[185],259,1,5,False
+164,location other,location other,35,True,True,True,{35: 1},[185],164,1,5,False
+43,entity word,human individual,29,False,False,False,{35: 1},[185],43,1,5,False
+163,description definition,description,24,False,True,False,{35: 1},[185],163,1,5,False
+253,entity instrument,human individual,29,False,False,False,{35: 1},[185],253,1,5,False
+113,numeric other,description,24,False,False,False,{35: 1},[185],113,1,5,False
+44,location other,location other,35,True,True,True,{35: 1},[185],44,1,5,False
+26,numeric temperature,numeric temperature,47,False,True,False,{35: 1},[185],26,1,5,False
+20,entity instrument,human individual,29,False,False,False,{35: 1},[185],20,1,5,False
+231,description definition,description,24,False,True,False,{35: 1},[185],231,1,5,False
+333,numeric distance,numeric distance,40,False,True,False,{35: 1},[185],333,1,5,False
+270,abbreviation expansion,abbreviation expansion,1,False,True,False,{35: 1},[185],270,1,5,False
+301,entity creation,human individual,29,False,False,False,{35: 1},[185],301,1,5,False
+150,entity word,description,24,False,False,False,{35: 1},[185],150,1,5,False
+160,location other,location other,35,True,True,True,{35: 1},[185],160,1,5,False
+297,entity food,description,24,False,False,False,{35: 1},[185],297,1,5,False
+33,entity food,description,24,False,False,False,{35: 1},[185],33,1,5,False
+116,location other,location other,35,True,True,True,{35: 1},[185],116,1,5,False
+96,entity creation,human individual,29,False,False,False,{35: 1},[185],96,1,5,False
+190,location other,description,24,False,False,True,{35: 1},[185],190,1,5,False
+156,entity food,description,24,False,False,False,{35: 1},[185],156,1,5,False
+50,location city,location city,32,False,True,False,{35: 1},[185],50,1,5,False
+182,entity creation,human individual,29,False,False,False,{35: 1},[185],182,1,5,False
+81,entity creation,human individual,29,False,False,False,{35: 1},[185],81,1,5,False
+328,location other,entity substance,18,False,False,True,{35: 1},[185],328,1,5,False
+222,numeric temperature,numeric other,43,False,False,False,{35: 1},[185],222,1,5,False
+340,entity food,description,24,False,False,False,{35: 1},[185],340,1,5,False
+42,location other,location city,32,False,False,True,{35: 1},[185],42,1,5,False
+198,numeric other,numeric other,43,False,True,False,{35: 1},[185],198,1,5,False
+51,entity creation,human individual,29,False,False,False,{35: 1},[185],51,1,5,False
+24,location other,location other,35,True,True,True,{35: 1},[185],24,1,5,False
+86,entity instrument,human individual,29,False,False,False,{35: 1},[185],86,1,5,False
+154,entity creation,human individual,29,False,False,False,{35: 1},[185],154,1,5,False
+291,location other,location other,35,True,True,True,{35: 1},[185],291,1,5,False
+336,description definition,description,24,False,True,False,{35: 1},[185],336,1,5,False
+260,entity food,description,24,False,False,False,{35: 1},[185],260,1,5,False
+199,entity word,description,24,False,False,False,{35: 1},[185],199,1,5,False
+317,entity instrument,description,24,False,False,False,{35: 1},[185],317,1,5,False
+275,entity word,description,24,False,False,False,{35: 1},[185],275,1,5,False
+330,location other,location other,35,True,True,True,{35: 1},[185],330,1,5,False
+203,location other,location other,35,True,True,True,{35: 1},[185],203,1,5,False
+202,location other,description,24,False,False,True,{35: 1},[185],202,1,5,False
+227,numeric other,numeric weight,49,False,False,False,{35: 1},[185],227,1,5,False
+319,entity food,description,24,False,False,False,{35: 1},[185],319,1,5,False
+125,location other,location other,35,True,True,True,{35: 1},[185],125,1,5,False

@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,card payment not recognised,supported,54,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",903,5,0,False,5
+1003,top up failed,top up revert,61,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1003,5,0,False,5
+2953,card about to expire,card about,9,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2953,5,0,False,5
+2979,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2979,5,0,False,5
+1926,card not working,card sw,18,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1926,5,0,False,5
+2137,pin blocked,change,21,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2137,5,0,False,5
+2980,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2980,5,0,False,5
+702,cancel transfer,cancel,8,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",702,5,0,False,5
+2493,card delivery estimate,order,43,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2493,5,0,False,5
+2210,transfer fee charged,transfer fee,64,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2210,5,0,False,5
+112,exchange rate,exchange rate,32,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",112,5,0,False,5
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2909,5,0,False,5
+1987,card payment not recognised,transaction,63,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1987,5,0,False,5
+1283,card payment not recognised,vis,73,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1283,5,0,False,5
+1539,passcode forgotten,pass,44,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1539,5,0,False,5
+2879,card not working,activ,0,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2879,5,0,False,5
+1158,change pin,edit,30,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1158,5,0,False,5
+1376,card payment fee charged,dispos,29,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1376,5,0,False,5
+1517,wrong amount of cash received,direct,28,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1517,5,0,False,5
+1171,verify my identity,why,74,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1171,5,0,False,5
+2242,transfer into account,receiving,50,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2242,5,0,False,5
+1476,atm support,at,3,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1476,5,0,False,5
+237,atm support,pending c,46,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",237,5,0,False,5
+1650,lost or stolen phone,lost or stolen phone,42,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1650,5,0,False,5
+2484,card delivery estimate,order,43,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2484,5,0,False,5
+2105,card delivery estimate,revert,53,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2105,5,0,False,5
+2121,change pin,change,21,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2121,5,0,False,5
+1452,atm support,at,3,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1452,5,0,False,5
+274,card payment not recognised,fi,36,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",274,5,0,False,5
+564,contactless not working,contact,23,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",564,5,0,False,5
+905,card acceptance,supported,54,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",905,5,0,False,5
+1535,passcode forgotten,pass,44,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1535,5,0,False,5
+2113,cancel transfer,revert,53,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2113,5,0,False,5
+2142,change pin,change,21,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2142,5,0,False,5
+2965,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2965,5,0,False,5
+1834,card payment not recognised,declined card,25,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1834,5,0,False,5
+1549,passcode forgotten,pass,44,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1549,5,0,False,5
+1320,top up by card charge,to,62,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1320,5,0,False,5
+2421,extra charge on statement,getting spare,39,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2421,5,0,False,5
+2784,exchange rate,exchange charge,31,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2784,5,0,False,5
+768,cash withdrawal not recognised,wrong amount,75,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",768,5,0,False,5
+2472,top up by bank transfer charge,top up by c,58,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2472,5,0,False,5
+2154,pin blocked,change,21,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2154,5,0,False,5
+795,atm support,wrong amount,75,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",795,5,0,False,5
+1278,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1278,5,0,False,5
+1494,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1494,5,0,False,5
+241,exchange rate,fi,36,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",241,5,0,False,5
+3060,topping up by card,country,24,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",3060,5,0,False,5
+494,age limit,age,1,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",494,5,0,False,5
+327,top up by card charge,automatic,4,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",327,5,0,False,5
+458,card not working,lost or stolen card,41,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",458,5,0,False,5
+428,exchange rate,exchange via,33,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",428,5,0,False,5
+2862,card not working,activ,0,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2862,5,0,False,5
+2164,transfer not received by recipient,benef,7,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2164,5,0,False,5
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2897,5,0,False,5
+2440,top up by cash or cheque,top up by c,58,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2440,5,0,False,5
+1663,card not working,lost or stolen phone,42,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1663,5,0,False,5
+2700,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2700,5,0,False,5
+2955,card delivery estimate,card about,9,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2955,5,0,False,5
+522,pin blocked,pin,49,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",522,5,0,False,5
+1788,Refund not showing up,Ref,51,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1788,5,0,False,5
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1055,5,0,False,5
+2992,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2992,5,0,False,5
+1093,card payment not recognised,card payment not,16,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1093,5,0,False,5
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",791,5,0,False,5
+894,topping up by card,supported,54,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",894,5,0,False,5
+897,card payment not recognised,supported,54,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",897,5,0,False,5
+1175,card delivery estimate,why,74,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1175,5,0,False,5
+68,card linking,card linking,13,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",68,5,0,False,5
+1551,change pin,pass,44,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1551,5,0,False,5
+1508,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1508,5,0,False,5
+2250,topping up by card,receiving,50,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2250,5,0,False,5
+519,age limit,age,1,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",519,5,0,False,5
+1731,transfer not received by recipient,declined transfer,27,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1731,5,0,False,5
+1210,verify my identity,unable,68,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1210,5,0,False,5
+1750,transfer not received by recipient,declined transfer,27,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1750,5,0,False,5
+1687,topping up by card,request,52,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1687,5,0,False,5
+891,card acceptance,supported,54,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",891,5,0,False,5
+1061,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1061,5,0,False,5
+2403,card delivery estimate,getting spare,39,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2403,5,0,False,5
+1898,terminate account,terminate,55,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1898,5,0,False,5
+2978,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2978,5,0,False,5
+1427,card delivery estimate,comprom,22,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1427,5,0,False,5
+1526,wrong amount of cash received,pass,44,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1526,5,0,False,5
+824,extra charge on statement,card payment fee,15,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",824,5,0,False,5
+1983,card payment not recognised,transaction,63,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1983,5,0,False,5
+2132,pin blocked,change,21,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2132,5,0,False,5
+418,change pin,exchange via,33,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",418,5,0,False,5
+1345,transfer into account,to,62,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1345,5,0,False,5
+2829,card payment not recognised,top up by card,57,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2829,5,0,False,5
+2489,card delivery estimate,order,43,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2489,5,0,False,5
+598,contactless not working,contact,23,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",598,5,0,False,5
+804,why verify identity,card payment fee,15,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",804,5,0,False,5
+3017,verify my identity,verify my,69,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",3017,5,0,False,5
+2589,exchange rate,wrong exchange,76,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2589,5,0,False,5
+2540,virtual card not working,virtual,72,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2540,5,0,False,5
+2908,card payment fee charged,cash withdrawal charge,19,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2908,5,0,False,5
+2968,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2968,5,0,False,5
+2747,atm support,cash withdrawal not,20,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2747,5,0,False,5
+1340,transfer into account,to,62,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1340,5,0,False,5
+1348,topping up by card,to,62,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1348,5,0,False,5
+1451,card acceptance,at,3,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1451,5,0,False,5
+2903,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2903,5,0,False,5
+1237,verify my identity,unable,68,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1237,5,0,False,5
+2119,card payment not recognised,revert,53,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2119,5,0,False,5
+652,pending top up,pending top,47,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",652,5,0,False,5
+131,exchange rate,card payment wrong,17,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",131,5,0,False,5
+949,virtual card not working,getting virtual,40,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",949,5,0,False,5
+2528,card not working,virtual,72,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2528,5,0,False,5
+2158,change pin,change,21,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2158,5,0,False,5
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2705,5,0,False,5
+592,contactless not working,contact,23,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",592,5,0,False,5
+2511,card delivery estimate,order,43,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2511,5,0,False,5
+1080,card payment not recognised,card payment not,16,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1080,5,0,False,5
+1361,card delivery estimate,dispos,29,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1361,5,0,False,5
+448,card not working,lost or stolen card,41,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",448,5,0,False,5
+18,card delivery estimate,card arrival,11,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",18,5,0,False,5
+1168,why verify identity,why,74,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1168,5,0,False,5
+2396,top up by card charge,verify top,71,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2396,5,0,False,5
+362,card not working,card not,14,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",362,5,0,False,5
+1456,card delivery estimate,at,3,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1456,5,0,False,5
+1735,card not working,declined transfer,27,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1735,5,0,False,5
+2579,atm support,wrong exchange,76,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2579,5,0,False,5
+385,card not working,card not,14,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",385,5,0,False,5
+2555,virtual card not working,virtual,72,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2555,5,0,False,5
+2307,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2307,5,0,False,5
+1779,balance not updated after bank transfer,Ref,51,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1779,5,0,False,5
+1119,card payment not recognised,card payment not,16,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1119,5,0,False,5
+2104,card payment not recognised,revert,53,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2104,5,0,False,5
+713,cancel transfer,cancel,8,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",713,5,0,False,5
+2077,transfer fee charged,transfer timing,67,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2077,5,0,False,5
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1671,5,0,False,5
+1150,change pin,edit,30,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1150,5,0,False,5
+1491,card not working,direct,28,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1491,5,0,False,5
+2610,disposable card limits,get dispos,37,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2610,5,0,False,5
+1729,transfer not received by recipient,declined transfer,27,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1729,5,0,False,5
+1360,get disposable virtual card,dispos,29,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1360,5,0,False,5
+1397,virtual card not working,dispos,29,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1397,5,0,False,5
+842,transaction charged twice,transfer not,66,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",842,5,0,False,5
+2504,card delivery estimate,order,43,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2504,5,0,False,5
+538,card delivery estimate,pin,49,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",538,5,0,False,5
+2020,balance not updated after bank transfer,verify source,70,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2020,5,0,False,5
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",769,5,0,False,5
+945,card delivery estimate,getting virtual,40,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",945,5,0,False,5
+1591,atm support,declined c,26,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1591,5,0,False,5
+1818,card payment not recognised,declined card,25,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1818,5,0,False,5
+1876,transfer not received by recipient,pending transfer,48,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1876,5,0,False,5
+3031,verify my identity,verify my,69,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",3031,5,0,False,5
+1992,transaction charged twice,transaction,63,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1992,5,0,False,5
+2997,card not working,apple,2,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2997,5,0,False,5
+1228,unable to verify identity,unable,68,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1228,5,0,False,5
+1682,get physical card,request,52,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1682,5,0,False,5
+469,card not working,lost or stolen card,41,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",469,5,0,False,5
+2325,transfer into account,transfer into,65,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2325,5,0,False,5
+732,top up limits,top up limits,60,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",732,5,0,False,5
+820,card payment fee charged,card payment fee,15,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",820,5,0,False,5
+2990,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2990,5,0,False,5
+1732,transfer not received by recipient,declined transfer,27,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1732,5,0,False,5
+1252,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1252,5,0,False,5
+227,pending card payment,pending c,46,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",227,5,0,False,5
+1962,wrong amount of cash received,transaction,63,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1962,5,0,False,5
+400,exchange rate,exchange via,33,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",400,5,0,False,5
+1134,change pin,edit,30,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1134,5,0,False,5
+59,card not working,card linking,13,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",59,5,0,False,5
+2256,transfer into account,receiving,50,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2256,5,0,False,5
+853,transfer not received by recipient,transfer not,66,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",853,5,0,False,5
+2777,exchange rate,exchange charge,31,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2777,5,0,False,5
+1538,passcode forgotten,pass,44,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1538,5,0,False,5
+2109,card payment not recognised,revert,53,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2109,5,0,False,5
+305,card delivery estimate,card delivery,12,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",305,5,0,False,5
+711,cancel transfer,cancel,8,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",711,5,0,False,5
+2927,card delivery estimate,card about,9,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2927,5,0,False,5
+2623,virtual card not working,get dispos,37,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2623,5,0,False,5
+271,exchange rate,fi,36,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",271,5,0,False,5
+1023,topping up by card,top up revert,61,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1023,5,0,False,5
+470,card not working,lost or stolen card,41,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",470,5,0,False,5
+2779,exchange rate,exchange charge,31,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2779,5,0,False,5
+1170,verify my identity,why,74,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1170,5,0,False,5
+1886,terminate account,terminate,55,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1886,5,0,False,5
+2723,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2723,5,0,False,5
+915,card payment not recognised,supported,54,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",915,5,0,False,5
+2626,virtual card not working,get dispos,37,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2626,5,0,False,5
+2604,virtual card not working,get dispos,37,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2604,5,0,False,5
+1510,card not working,direct,28,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1510,5,0,False,5
+2303,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2303,5,0,False,5
+64,card delivery estimate,card linking,13,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",64,5,0,False,5
+2041,transfer timing,transfer timing,67,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2041,5,0,False,5
+1995,cancel transfer,transaction,63,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1995,5,0,False,5
+1266,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1266,5,0,False,5
+2821,card payment fee charged,top up by card,57,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2821,5,0,False,5
+1945,card not working,card sw,18,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1945,5,0,False,5
+835,card payment fee charged,card payment fee,15,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",835,5,0,False,5
+2312,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2312,5,0,False,5
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1053,5,0,False,5
+2800,card delivery estimate,top up by card,57,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2800,5,0,False,5
+1835,card not working,declined card,25,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1835,5,0,False,5
+1434,card not working,comprom,22,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1434,5,0,False,5
+979,card acceptance,card accept,10,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",979,5,0,False,5
+2942,card delivery estimate,card about,9,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2942,5,0,False,5
+1900,terminate account,terminate,55,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1900,5,0,False,5
+2973,apple pay or google pay,apple,2,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2973,5,0,False,5
+2989,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2989,5,0,False,5
+2241,get physical card,receiving,50,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2241,5,0,False,5
+984,card acceptance,card accept,10,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",984,5,0,False,5
+2933,card about to expire,card about,9,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2933,5,0,False,5
+1265,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1265,5,0,False,5
+1811,card not working,declined card,25,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1811,5,0,False,5
+1428,card not working,comprom,22,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1428,5,0,False,5
+1568,card not working,declined c,26,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1568,5,0,False,5
+2675,card not working,top up failed,59,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2675,5,0,False,5
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1645,5,0,False,5
+2289,transfer not received by recipient,failed,35,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2289,5,0,False,5
+2854,card not working,activ,0,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2854,5,0,False,5
+1356,card not working,to,62,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1356,5,0,False,5
+982,card acceptance,card accept,10,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",982,5,0,False,5
+1518,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1518,5,0,False,5
+722,top up limits,top up limits,60,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",722,5,0,False,5
+2372,verify top up,verify top,71,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2372,5,0,False,5
+1917,terminate account,terminate,55,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1917,5,0,False,5
+1500,direct debit payment not recognised,direct,28,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1500,5,0,False,5
+1933,card swallowed,card sw,18,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1933,5,0,False,5
+2833,top up by card charge,top up by card,57,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2833,5,0,False,5
+1639,pending card payment,pending card,45,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1639,5,0,False,5
+1136,change pin,edit,30,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1136,5,0,False,5
+2124,change pin,change,21,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2124,5,0,False,5
+3008,verify my identity,verify my,69,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",3008,5,0,False,5
+1704,Refund not showing up,request,52,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1704,5,0,False,5
+2243,card payment not recognised,receiving,50,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2243,5,0,False,5
+748,top up limits,top up limits,60,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",748,5,0,False,5
+2649,top up failed,top up failed,59,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2649,5,0,False,5
+1258,pin blocked,get physical,38,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1258,5,0,False,5
+1318,card payment not recognised,vis,73,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1318,5,0,False,5
+1770,Refund not showing up,Ref,51,True,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1770,5,0,False,5
+217,pending cash withdrawal,pending c,46,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",217,5,0,False,5
+1141,change pin,edit,30,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1141,5,0,False,5
+2078,transfer timing,transfer timing,67,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2078,5,0,False,5
+402,change pin,exchange via,33,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",402,5,0,False,5
+1349,transfer into account,to,62,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1349,5,0,False,5
+80,exchange rate,exchange rate,32,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",80,5,0,False,5
+1355,top up by card charge,to,62,True,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1355,5,0,False,5
+2386,card delivery estimate,verify top,71,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2386,5,0,False,5
+838,card payment fee charged,card payment fee,15,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",838,5,0,False,5
+2267,card payment not recognised,receiving,50,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2267,5,0,False,5
+2881,extra charge on statement,cash withdrawal charge,19,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2881,5,0,False,5
+801,card not working,card payment fee,15,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",801,5,0,False,5
+73,card linking,card linking,13,False,True,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",73,5,0,False,5
+1967,cancel transfer,transaction,63,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",1967,5,0,False,5
+2982,top up by card charge,apple,2,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2982,5,0,False,5
+46,card not working,card linking,13,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",46,5,0,False,5
+2916,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{44: 1, 51: 1, 55: 1, 62: 1, 11: 1}","[8990, 5890, 5954, 3194, 8063]",2916,5,0,False,5

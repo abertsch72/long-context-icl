@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+903,transfer into account,supported,54,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",903,2,4,False,2
+1003,top up failed,top up revert,61,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1003,2,4,False,2
+2953,order physical card,card about,9,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2953,2,4,False,2
+2979,top up failed,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2979,2,4,False,2
+1926,get physical card,card sw,18,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1926,2,4,False,2
+2137,change pin,change,21,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2137,2,4,False,2
+2980,top up by card charge,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2980,2,4,False,2
+702,cancel transfer,cancel,8,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",702,2,4,False,2
+2493,order physical card,order,43,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2493,2,4,False,2
+2210,transfer fee charged,transfer fee,64,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2210,2,4,False,2
+112,exchange rate,exchange rate,32,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",112,2,4,False,2
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2909,2,4,False,2
+1987,cancel transfer,transaction,63,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1987,2,4,False,2
+1283,order physical card,vis,73,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1283,2,4,False,2
+1539,change pin,pass,44,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1539,2,4,False,2
+2879,activate my card,activ,0,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2879,2,4,False,2
+1158,change pin,edit,30,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1158,2,4,False,2
+1376,get disposable virtual card,dispos,29,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1376,2,4,False,2
+1517,cancel transfer,direct,28,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1517,2,4,False,2
+1171,verify my identity,why,74,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1171,2,4,False,2
+2242,transfer into account,receiving,50,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2242,2,4,False,2
+1476,atm support,at,3,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",1476,2,4,False,2
+237,atm support,pending c,46,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",237,2,4,False,2
+1650,cancel transfer,lost or stolen phone,42,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1650,2,4,False,2
+2484,card delivery estimate,order,43,True,False,False,"{43: 1, 21: 1}","[1231, 8174]",2484,2,4,False,2
+2105,cancel transfer,revert,53,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2105,2,4,False,2
+2121,change pin,change,21,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2121,2,4,False,2
+1452,atm support,at,3,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",1452,2,4,False,2
+274,get physical card,fi,36,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",274,2,4,False,2
+564,contactless not working,contact,23,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",564,2,4,False,2
+905,card payment fee charged,supported,54,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",905,2,4,False,2
+1535,change pin,pass,44,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1535,2,4,False,2
+2113,cancel transfer,revert,53,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2113,2,4,False,2
+2142,change pin,change,21,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2142,2,4,False,2
+2965,top up by card charge,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2965,2,4,False,2
+1834,card payment not recognised,declined card,25,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1834,2,4,False,2
+1549,change pin,pass,44,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1549,2,4,False,2
+1320,top up by card charge,to,62,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1320,2,4,False,2
+2421,order physical card,getting spare,39,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2421,2,4,False,2
+2784,exchange rate,exchange charge,31,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2784,2,4,False,2
+768,cancel transfer,wrong amount,75,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",768,2,4,False,2
+2472,top up by card charge,top up by c,58,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2472,2,4,False,2
+2154,change pin,change,21,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2154,2,4,False,2
+795,get physical card,wrong amount,75,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",795,2,4,False,2
+1278,pin blocked,get physical,38,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1278,2,4,False,2
+1494,cancel transfer,direct,28,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1494,2,4,False,2
+241,get physical card,fi,36,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",241,2,4,False,2
+3060,verify my identity,country,24,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",3060,2,4,False,2
+494,age limit,age,1,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",494,2,4,False,2
+327,top up by card charge,automatic,4,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",327,2,4,False,2
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",458,2,4,False,2
+428,exchange rate,exchange via,33,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",428,2,4,False,2
+2862,activate my card,activ,0,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2862,2,4,False,2
+2164,transfer not received by recipient,benef,7,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2164,2,4,False,2
+2897,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2897,2,4,False,2
+2440,top up by cash or cheque,top up by c,58,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2440,2,4,False,2
+1663,change pin,lost or stolen phone,42,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1663,2,4,False,2
+2700,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2700,2,4,False,2
+2955,order physical card,card about,9,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2955,2,4,False,2
+522,pin blocked,pin,49,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",522,2,4,False,2
+1788,get physical card,Ref,51,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1788,2,4,False,2
+1055,balance not updated after bank transfer,balance not updated after che,6,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1055,2,4,False,2
+2992,top up by card charge,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2992,2,4,False,2
+1093,verify my identity,card payment not,16,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1093,2,4,False,2
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",791,2,4,False,2
+894,transfer into account,supported,54,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",894,2,4,False,2
+897,card payment fee charged,supported,54,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",897,2,4,False,2
+1175,order physical card,why,74,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1175,2,4,False,2
+68,card linking,card linking,13,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",68,2,4,False,2
+1551,change pin,pass,44,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1551,2,4,False,2
+1508,cancel transfer,direct,28,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1508,2,4,False,2
+2250,change pin,receiving,50,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2250,2,4,False,2
+519,age limit,age,1,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",519,2,4,False,2
+1731,transfer not received by recipient,declined transfer,27,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1731,2,4,False,2
+1210,verify my identity,unable,68,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1210,2,4,False,2
+1750,transfer not received by recipient,declined transfer,27,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1750,2,4,False,2
+1687,cancel transfer,request,52,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1687,2,4,False,2
+891,order physical card,supported,54,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",891,2,4,False,2
+1061,verify my identity,balance not updated after che,6,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1061,2,4,False,2
+2403,order physical card,getting spare,39,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2403,2,4,False,2
+1898,cancel transfer,terminate,55,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1898,2,4,False,2
+2978,top up by card charge,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2978,2,4,False,2
+1427,card not working,comprom,22,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1427,2,4,False,2
+1526,change pin,pass,44,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1526,2,4,False,2
+824,order physical card,card payment fee,15,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",824,2,4,False,2
+1983,verify my identity,transaction,63,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1983,2,4,False,2
+2132,change pin,change,21,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2132,2,4,False,2
+418,change pin,exchange via,33,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",418,2,4,False,2
+1345,transfer fee charged,to,62,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1345,2,4,False,2
+2829,top up by card charge,top up by card,57,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2829,2,4,False,2
+2489,order physical card,order,43,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2489,2,4,False,2
+598,contactless not working,contact,23,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",598,2,4,False,2
+804,get physical card,card payment fee,15,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",804,2,4,False,2
+3017,verify my identity,verify my,69,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",3017,2,4,False,2
+2589,exchange rate,wrong exchange,76,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2589,2,4,False,2
+2540,virtual card not working,virtual,72,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2540,2,4,False,2
+2908,get physical card,cash withdrawal charge,19,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2908,2,4,False,2
+2968,get physical card,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2968,2,4,False,2
+2747,atm support,cash withdrawal not,20,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2747,2,4,False,2
+1340,transfer fee charged,to,62,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1340,2,4,False,2
+1348,transfer into account,to,62,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1348,2,4,False,2
+1451,atm support,at,3,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",1451,2,4,False,2
+2903,cash withdrawal not recognised,cash withdrawal charge,19,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2903,2,4,False,2
+1237,verify my identity,unable,68,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1237,2,4,False,2
+2119,verify my identity,revert,53,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2119,2,4,False,2
+652,top up failed,pending top,47,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",652,2,4,False,2
+131,exchange rate,card payment wrong,17,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",131,2,4,False,2
+949,order physical card,getting virtual,40,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",949,2,4,False,2
+2528,virtual card not working,virtual,72,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2528,2,4,False,2
+2158,change pin,change,21,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2158,2,4,False,2
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2705,2,4,False,2
+592,contactless not working,contact,23,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",592,2,4,False,2
+2511,order physical card,order,43,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2511,2,4,False,2
+1080,get physical card,card payment not,16,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1080,2,4,False,2
+1361,order physical card,dispos,29,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1361,2,4,False,2
+448,card not working,lost or stolen card,41,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",448,2,4,False,2
+18,order physical card,card arrival,11,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",18,2,4,False,2
+1168,verify my identity,why,74,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1168,2,4,False,2
+2396,top up by card charge,verify top,71,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2396,2,4,False,2
+362,card not working,card not,14,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",362,2,4,False,2
+1456,get physical card,at,3,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1456,2,4,False,2
+1735,transfer not received by recipient,declined transfer,27,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1735,2,4,False,2
+2579,atm support,wrong exchange,76,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2579,2,4,False,2
+385,card not working,card not,14,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",385,2,4,False,2
+2555,virtual card not working,virtual,72,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2555,2,4,False,2
+2307,transfer not received by recipient,failed,35,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2307,2,4,False,2
+1779,balance not updated after bank transfer,Ref,51,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1779,2,4,False,2
+1119,get physical card,card payment not,16,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1119,2,4,False,2
+2104,card payment not recognised,revert,53,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2104,2,4,False,2
+713,cancel transfer,cancel,8,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",713,2,4,False,2
+2077,transfer fee charged,transfer timing,67,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2077,2,4,False,2
+1671,cancel transfer,lost or stolen phone,42,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1671,2,4,False,2
+1150,change pin,edit,30,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1150,2,4,False,2
+1491,get physical card,direct,28,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1491,2,4,False,2
+2610,get disposable virtual card,get dispos,37,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2610,2,4,False,2
+1729,transfer not received by recipient,declined transfer,27,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1729,2,4,False,2
+1360,order physical card,dispos,29,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1360,2,4,False,2
+1397,virtual card not working,dispos,29,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1397,2,4,False,2
+842,transaction charged twice,transfer not,66,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",842,2,4,False,2
+2504,order physical card,order,43,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2504,2,4,False,2
+538,card not working,pin,49,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",538,2,4,False,2
+2020,get physical card,verify source,70,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2020,2,4,False,2
+769,get physical card,wrong amount,75,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",769,2,4,False,2
+945,order physical card,getting virtual,40,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",945,2,4,False,2
+1591,get physical card,declined c,26,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1591,2,4,False,2
+1818,contactless not working,declined card,25,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1818,2,4,False,2
+1876,transfer not received by recipient,pending transfer,48,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1876,2,4,False,2
+3031,verify my identity,verify my,69,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",3031,2,4,False,2
+1992,get physical card,transaction,63,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1992,2,4,False,2
+2997,top up by card charge,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2997,2,4,False,2
+1228,verify my identity,unable,68,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1228,2,4,False,2
+1682,get physical card,request,52,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1682,2,4,False,2
+469,cancel transfer,lost or stolen card,41,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",469,2,4,False,2
+2325,transfer into account,transfer into,65,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2325,2,4,False,2
+732,top up limits,top up limits,60,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",732,2,4,False,2
+820,card payment fee charged,card payment fee,15,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",820,2,4,False,2
+2990,transfer into account,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2990,2,4,False,2
+1732,transfer fee charged,declined transfer,27,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1732,2,4,False,2
+1252,change pin,get physical,38,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1252,2,4,False,2
+227,get physical card,pending c,46,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",227,2,4,False,2
+1962,cancel transfer,transaction,63,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1962,2,4,False,2
+400,exchange rate,exchange via,33,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",400,2,4,False,2
+1134,change pin,edit,30,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1134,2,4,False,2
+59,card not working,card linking,13,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",59,2,4,False,2
+2256,transfer fee charged,receiving,50,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2256,2,4,False,2
+853,transfer not received by recipient,transfer not,66,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",853,2,4,False,2
+2777,exchange rate,exchange charge,31,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2777,2,4,False,2
+1538,change pin,pass,44,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1538,2,4,False,2
+2109,cancel transfer,revert,53,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2109,2,4,False,2
+305,order physical card,card delivery,12,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",305,2,4,False,2
+711,cancel transfer,cancel,8,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",711,2,4,False,2
+2927,order physical card,card about,9,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2927,2,4,False,2
+2623,virtual card not working,get dispos,37,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2623,2,4,False,2
+271,exchange rate,fi,36,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",271,2,4,False,2
+1023,transfer into account,top up revert,61,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1023,2,4,False,2
+470,lost or stolen card,lost or stolen card,41,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",470,2,4,False,2
+2779,exchange rate,exchange charge,31,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2779,2,4,False,2
+1170,verify my identity,why,74,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1170,2,4,False,2
+1886,cancel transfer,terminate,55,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1886,2,4,False,2
+2723,get physical card,cash withdrawal not,20,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2723,2,4,False,2
+915,card payment not recognised,supported,54,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",915,2,4,False,2
+2626,virtual card not working,get dispos,37,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2626,2,4,False,2
+2604,virtual card not working,get dispos,37,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2604,2,4,False,2
+1510,cancel transfer,direct,28,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1510,2,4,False,2
+2303,transfer not received by recipient,failed,35,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2303,2,4,False,2
+64,activate my card,card linking,13,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",64,2,4,False,2
+2041,transfer fee charged,transfer timing,67,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2041,2,4,False,2
+1995,cancel transfer,transaction,63,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1995,2,4,False,2
+1266,change pin,get physical,38,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1266,2,4,False,2
+2821,topping up by card,top up by card,57,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2821,2,4,False,2
+1945,cancel transfer,card sw,18,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1945,2,4,False,2
+835,get physical card,card payment fee,15,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",835,2,4,False,2
+2312,transfer fee charged,failed,35,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2312,2,4,False,2
+1053,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1053,2,4,False,2
+2800,top up by card charge,top up by card,57,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2800,2,4,False,2
+1835,card not working,declined card,25,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1835,2,4,False,2
+1434,cancel transfer,comprom,22,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1434,2,4,False,2
+979,card not working,card accept,10,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",979,2,4,False,2
+2942,card delivery estimate,card about,9,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2942,2,4,False,2
+1900,cancel transfer,terminate,55,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1900,2,4,False,2
+2973,top up by card charge,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2973,2,4,False,2
+2989,top up by card charge,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2989,2,4,False,2
+2241,get physical card,receiving,50,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2241,2,4,False,2
+984,card acceptance,card accept,10,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",984,2,4,False,2
+2933,card payment not recognised,card about,9,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2933,2,4,False,2
+1265,pin blocked,get physical,38,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1265,2,4,False,2
+1811,card not working,declined card,25,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1811,2,4,False,2
+1428,card not working,comprom,22,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1428,2,4,False,2
+1568,get physical card,declined c,26,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1568,2,4,False,2
+2675,get physical card,top up failed,59,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2675,2,4,False,2
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",1645,2,4,False,2
+2289,transfer not received by recipient,failed,35,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2289,2,4,False,2
+2854,activate my card,activ,0,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2854,2,4,False,2
+1356,top up failed,to,62,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1356,2,4,False,2
+982,card payment not recognised,card accept,10,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",982,2,4,False,2
+1518,cancel transfer,direct,28,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1518,2,4,False,2
+722,top up limits,top up limits,60,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",722,2,4,False,2
+2372,verify top up,verify top,71,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2372,2,4,False,2
+1917,cancel transfer,terminate,55,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1917,2,4,False,2
+1500,cancel transfer,direct,28,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1500,2,4,False,2
+1933,get physical card,card sw,18,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1933,2,4,False,2
+2833,top up by card charge,top up by card,57,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2833,2,4,False,2
+1639,cancel transfer,pending card,45,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1639,2,4,False,2
+1136,change pin,edit,30,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1136,2,4,False,2
+2124,change pin,change,21,True,True,False,"{43: 1, 21: 1}","[1231, 8174]",2124,2,4,False,2
+3008,verify my identity,verify my,69,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",3008,2,4,False,2
+1704,get physical card,request,52,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1704,2,4,False,2
+2243,get physical card,receiving,50,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2243,2,4,False,2
+748,top up limits,top up limits,60,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",748,2,4,False,2
+2649,top up failed,top up failed,59,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",2649,2,4,False,2
+1258,pin blocked,get physical,38,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1258,2,4,False,2
+1318,order physical card,vis,73,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1318,2,4,False,2
+1770,get physical card,Ref,51,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1770,2,4,False,2
+217,atm support,pending c,46,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",217,2,4,False,2
+1141,change pin,edit,30,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1141,2,4,False,2
+2078,transfer fee charged,transfer timing,67,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2078,2,4,False,2
+402,change pin,exchange via,33,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",402,2,4,False,2
+1349,transfer into account,to,62,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1349,2,4,False,2
+80,exchange rate,exchange rate,32,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",80,2,4,False,2
+1355,top up by card charge,to,62,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1355,2,4,False,2
+2386,top up by card charge,verify top,71,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2386,2,4,False,2
+838,card payment fee charged,card payment fee,15,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",838,2,4,False,2
+2267,transfer into account,receiving,50,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2267,2,4,False,2
+2881,get physical card,cash withdrawal charge,19,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2881,2,4,False,2
+801,card not working,card payment fee,15,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",801,2,4,False,2
+73,card linking,card linking,13,False,True,False,"{43: 1, 21: 1}","[1231, 8174]",73,2,4,False,2
+1967,cancel transfer,transaction,63,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",1967,2,4,False,2
+2982,top up by card charge,apple,2,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2982,2,4,False,2
+46,card not working,card linking,13,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",46,2,4,False,2
+2916,get physical card,cash withdrawal charge,19,False,False,False,"{43: 1, 21: 1}","[1231, 8174]",2916,2,4,False,2

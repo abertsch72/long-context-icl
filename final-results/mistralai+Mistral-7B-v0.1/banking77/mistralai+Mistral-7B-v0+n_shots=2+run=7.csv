@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+905,supported cards and currencies,supported,54,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",905,2,7,False
+1982,transaction charged twice,transaction,63,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1982,2,7,False
+2766,exchange rate,exchange charge,31,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2766,2,7,False
+2416,get physical card,getting spare,39,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2416,2,7,False
+2895,atm support,cash withdrawal charge,19,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2895,2,7,False
+2137,pin blocked,change,21,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2137,2,7,False
+732,top up limits,top up limits,60,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",732,2,7,False
+1927,lost or stolen card,card swallowed,18,False,False,True,"{65: 1, 41: 1}","[3234, 3759]",1927,2,7,False
+945,card delivery estimate,getting virtual,40,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",945,2,7,False
+1942,card not working,card swallowed,18,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1942,2,7,False
+112,exchange rate,exchange rate,32,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",112,2,7,False
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2909,2,7,False
+965,card acceptance,card acceptance,10,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",965,2,7,False
+1465,atm support,atm,3,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1465,2,7,False
+1396,virtual card not working,dispos,29,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1396,2,7,False
+2152,change pin,change,21,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2152,2,7,False
+1159,change pin,edit,30,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1159,2,7,False
+976,card acceptance,card acceptance,10,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",976,2,7,False
+1518,direct debit payment not recognised,direct,28,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1518,2,7,False
+1773,Refund not showing up,Ref,51,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1773,2,7,False
+1476,atm support,atm,3,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1476,2,7,False
+1477,atm support,atm,3,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1477,2,7,False
+237,atm support,pending cash,46,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",237,2,7,False
+2097,why verify identity,re,53,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2097,2,7,False
+2434,card delivery estimate,getting spare,39,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2434,2,7,False
+1349,transfer into account,to,62,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1349,2,7,False
+1625,transaction charged twice,pending card,45,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1625,2,7,False
+2675,card not working,top up failed,59,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2675,2,7,False
+274,supported cards and currencies,fi,36,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",274,2,7,False
+564,contactless not working,contact,23,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",564,2,7,False
+2482,card delivery estimate,order,43,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2482,2,7,False
+1685,cancel transfer,request,52,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1685,2,7,False
+804,why verify identity,card payment fee,15,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",804,2,7,False
+2142,change pin,change,21,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2142,2,7,False
+2965,top up by card charge,apple,2,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2965,2,7,False
+2985,top up by card charge,apple,2,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2985,2,7,False
+1394,virtual card not working,dispos,29,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1394,2,7,False
+1103,lost or stolen card,card payment not,16,False,False,True,"{65: 1, 41: 1}","[3234, 3759]",1103,2,7,False
+2420,order physical card,getting spare,39,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2420,2,7,False
+1875,transfer fee charged,pending transfer,48,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1875,2,7,False
+1146,change pin,edit,30,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1146,2,7,False
+1516,lost or stolen card,direct,28,False,False,True,"{65: 1, 41: 1}","[3234, 3759]",1516,2,7,False
+2805,topping up by card,top up by card,57,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2805,2,7,False
+2702,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2702,2,7,False
+2882,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2882,2,7,False
+2793,exchange rate,exchange charge,31,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2793,2,7,False
+241,supported cards and currencies,fi,36,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",241,2,7,False
+1068,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1068,2,7,False
+494,age limit,age,1,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",494,2,7,False
+327,top up by card charge,automatic,4,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",327,2,7,False
+458,lost or stolen card,lost or stolen card,41,True,True,True,"{65: 1, 41: 1}","[3234, 3759]",458,2,7,False
+428,exchange rate,exchange via,33,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",428,2,7,False
+1681,request refund,request,52,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1681,2,7,False
+2040,transfer timing,transfer timing,67,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2040,2,7,False
+2271,change pin,receiving,50,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2271,2,7,False
+2309,transfer not received by recipient,failed,35,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2309,2,7,False
+1819,declined card payment,declined card,25,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1819,2,7,False
+1538,passcode forgotten,pass,44,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1538,2,7,False
+1405,lost or stolen card,comprom,22,False,False,True,"{65: 1, 41: 1}","[3234, 3759]",1405,2,7,False
+522,pin blocked,pin,49,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",522,2,7,False
+2230,transfer fee charged,transfer fee,64,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2230,2,7,False
+1626,pending card payment,pending card,45,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1626,2,7,False
+972,card acceptance,card acceptance,10,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",972,2,7,False
+2201,transfer fee charged,transfer fee,64,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2201,2,7,False
+1523,passcode forgotten,pass,44,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1523,2,7,False
+2629,virtual card not working,get dispos,37,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2629,2,7,False
+1760,transaction charged twice,Ref,51,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1760,2,7,False
+1176,why verify identity,why,74,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1176,2,7,False
+68,card linking,card link,13,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",68,2,7,False
+1901,cancel transfer,term,55,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1901,2,7,False
+2274,transfer into account,receiving,50,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2274,2,7,False
+2249,transfer into account,receiving,50,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2249,2,7,False
+519,age limit,age,1,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",519,2,7,False
+2019,transaction charged twice,verify source,70,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2019,2,7,False
+2997,top up failed,apple,2,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2997,2,7,False
+744,top up limits,top up limits,60,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",744,2,7,False
+1377,disposable card limits,dispos,29,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1377,2,7,False
+893,card not working,supported,54,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",893,2,7,False
+1833,card not working,declined card,25,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1833,2,7,False
+1114,card payment not recognised,card payment not,16,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1114,2,7,False
+1899,cancel transfer,term,55,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1899,2,7,False
+1059,transaction charged twice,balance not updated after che,6,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1059,2,7,False
+1428,card not working,comprom,22,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1428,2,7,False
+1915,cancel transfer,term,55,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1915,2,7,False
+826,card payment fee charged,card payment fee,15,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",826,2,7,False
+2580,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2580,2,7,False
+2132,change pin,change,21,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2132,2,7,False
+418,change pin,exchange via,33,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",418,2,7,False
+1601,pending card payment,pending card,45,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1601,2,7,False
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1645,2,7,False
+1610,transaction charged twice,pending card,45,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1610,2,7,False
+598,contactless not working,contact,23,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",598,2,7,False
+2992,top up by card charge,apple,2,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2992,2,7,False
+3017,verify my identity,verify my,69,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",3017,2,7,False
+2134,change pin,change,21,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2134,2,7,False
+2540,virtual card not working,virtual,72,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2540,2,7,False
+1505,direct debit payment not recognised,direct,28,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1505,2,7,False
+1093,transaction charged twice,card payment not,16,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1093,2,7,False
+863,transfer not received by recipient,transfer not,66,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",863,2,7,False
+1021,top up reverted,top up re,61,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1021,2,7,False
+754,top up limits,top up limits,60,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",754,2,7,False
+1364,get disposable virtual card,dispos,29,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1364,2,7,False
+2301,transfer not received by recipient,failed,35,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2301,2,7,False
+1134,change pin,edit,30,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1134,2,7,False
+1186,verify my identity,why,74,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1186,2,7,False
+1774,Refund not showing up,Ref,51,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1774,2,7,False
+131,card payment not recognised,card payment wrong,17,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",131,2,7,False
+902,card acceptance,supported,54,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",902,2,7,False
+2243,get physical card,receiving,50,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2243,2,7,False
+2494,get physical card,order,43,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2494,2,7,False
+2705,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2705,2,7,False
+592,contactless not working,contact,23,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",592,2,7,False
+2386,verify top up,verify top,71,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2386,2,7,False
+2800,top up by card charge,top up by card,57,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2800,2,7,False
+949,virtual card not working,getting virtual,40,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",949,2,7,False
+448,lost or stolen card,lost or stolen card,41,True,True,True,"{65: 1, 41: 1}","[3234, 3759]",448,2,7,False
+18,card not working,card arrival,11,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",18,2,7,False
+1348,transfer into account,to,62,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1348,2,7,False
+825,card payment fee charged,card payment fee,15,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",825,2,7,False
+362,card not working,card not,14,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",362,2,7,False
+1828,card payment not recognised,declined card,25,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1828,2,7,False
+1554,passcode forgotten,pass,44,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1554,2,7,False
+2568,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2568,2,7,False
+385,card not working,card not,14,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",385,2,7,False
+2911,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2911,2,7,False
+2305,transfer not received by recipient,failed,35,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2305,2,7,False
+2467,top up by cash or cheque,top up by cash,58,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2467,2,7,False
+1252,pin blocked,get physical,38,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1252,2,7,False
+2104,card payment not recognised,re,53,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2104,2,7,False
+2316,transfer not received by recipient,failed,35,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2316,2,7,False
+1595,cash withdrawal not recognised,declined cash,26,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1595,2,7,False
+1673,lost or stolen phone,lost or stolen phone,42,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1673,2,7,False
+1856,pending transfer,pending transfer,48,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1856,2,7,False
+2106,transaction charged twice,re,53,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2106,2,7,False
+2527,virtual card not working,virtual,72,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2527,2,7,False
+2602,virtual card not working,get dispos,37,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2602,2,7,False
+1522,passcode forgotten,pass,44,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1522,2,7,False
+2713,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2713,2,7,False
+2519,get physical card,order,43,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2519,2,7,False
+2504,get physical card,order,43,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2504,2,7,False
+538,card not working,pin,49,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",538,2,7,False
+1635,transaction charged twice,pending card,45,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1635,2,7,False
+2383,top up failed,verify top,71,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2383,2,7,False
+1544,passcode forgotten,pass,44,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1544,2,7,False
+1883,cancel transfer,term,55,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1883,2,7,False
+2493,get physical card,order,43,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2493,2,7,False
+1877,transfer not received by recipient,pending transfer,48,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1877,2,7,False
+2998,top up by card charge,apple,2,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2998,2,7,False
+1717,Refund not showing up,request,52,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1717,2,7,False
+1372,disposable card limits,dispos,29,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1372,2,7,False
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1671,2,7,False
+1793,Refund not showing up,Ref,51,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1793,2,7,False
+469,lost or stolen card,lost or stolen card,41,True,True,True,"{65: 1, 41: 1}","[3234, 3759]",469,2,7,False
+2324,transfer into account,transfer into,65,True,True,False,"{65: 1, 41: 1}","[3234, 3759]",2324,2,7,False
+2202,transfer fee charged,transfer fee,64,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2202,2,7,False
+1383,disposable card limits,dispos,29,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1383,2,7,False
+2333,transfer into account,transfer into,65,True,True,False,"{65: 1, 41: 1}","[3234, 3759]",2333,2,7,False
+2642,top up failed,top up failed,59,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2642,2,7,False
+2726,transaction charged twice,cash withdrawal not,20,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2726,2,7,False
+227,pending card payment,pending cash,46,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",227,2,7,False
+749,top up by cash or cheque,top up limits,60,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",749,2,7,False
+400,exchange rate,exchange via,33,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",400,2,7,False
+2711,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2711,2,7,False
+59,card not working,card link,13,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",59,2,7,False
+1304,card payment fee charged,visa,73,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1304,2,7,False
+1474,atm support,atm,3,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1474,2,7,False
+2570,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2570,2,7,False
+1539,passcode forgotten,pass,44,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1539,2,7,False
+2302,transfer not received by recipient,failed,35,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2302,2,7,False
+305,lost or stolen card,card delivery,12,False,False,True,"{65: 1, 41: 1}","[3234, 3759]",305,2,7,False
+713,transaction charged twice,cancel,8,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",713,2,7,False
+1398,disposable card limits,dispos,29,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1398,2,7,False
+1241,pin blocked,get physical,38,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1241,2,7,False
+271,exchange rate,fi,36,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",271,2,7,False
+1025,top up by card charge,top up re,61,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1025,2,7,False
+470,lost or stolen card,lost or stolen card,41,True,True,True,"{65: 1, 41: 1}","[3234, 3759]",470,2,7,False
+2779,exchange rate,exchange charge,31,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2779,2,7,False
+2417,get physical card,getting spare,39,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2417,2,7,False
+1887,cancel transfer,term,55,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1887,2,7,False
+1976,transaction charged twice,transaction,63,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1976,2,7,False
+917,supported cards and currencies,supported,54,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",917,2,7,False
+2649,top up failed,top up failed,59,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2649,2,7,False
+735,top up limits,top up limits,60,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",735,2,7,False
+2927,lost or stolen card,card about,9,False,False,True,"{65: 1, 41: 1}","[3234, 3759]",2927,2,7,False
+1689,wrong amount of cash received,request,52,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1689,2,7,False
+64,reverted card payment?,card link,13,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",64,2,7,False
+1568,unable to verify identity,declined cash,26,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1568,2,7,False
+1391,virtual card not working,dispos,29,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1391,2,7,False
+1744,transfer not received by recipient,declined transfer,27,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1744,2,7,False
+2821,card payment fee charged,top up by card,57,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2821,2,7,False
+1714,cancel transfer,request,52,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1714,2,7,False
+2350,transfer into account,transfer into,65,True,True,False,"{65: 1, 41: 1}","[3234, 3759]",2350,2,7,False
+1136,change pin,edit,30,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1136,2,7,False
+2704,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2704,2,7,False
+1298,get physical card,visa,73,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1298,2,7,False
+1586,cash withdrawal not recognised,declined cash,26,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1586,2,7,False
+1435,lost or stolen card,comprom,22,False,False,True,"{65: 1, 41: 1}","[3234, 3759]",1435,2,7,False
+1361,disposable card limits,dispos,29,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1361,2,7,False
+1002,top up reverted,top up re,61,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1002,2,7,False
+1360,get disposable virtual card,dispos,29,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1360,2,7,False
+2356,transfer into account,transfer into,65,True,True,False,"{65: 1, 41: 1}","[3234, 3759]",2356,2,7,False
+2289,transfer not received by recipient,failed,35,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2289,2,7,False
+1384,disposable card limits,dispos,29,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1384,2,7,False
+1210,failed transfer,unable,68,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1210,2,7,False
+2240,card payment not recognised,receiving,50,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2240,2,7,False
+1266,pin blocked,get physical,38,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1266,2,7,False
+2060,transfer timing,transfer timing,67,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2060,2,7,False
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",769,2,7,False
+979,card not working,card acceptance,10,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",979,2,7,False
+1237,verify my identity,unable,68,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1237,2,7,False
+1456,atm support,atm,3,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1456,2,7,False
+948,order physical card,getting virtual,40,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",948,2,7,False
+1261,card not working,get physical,38,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1261,2,7,False
+1752,transfer not received by recipient,declined transfer,27,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1752,2,7,False
+1862,transfer timing,pending transfer,48,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1862,2,7,False
+709,cancel transfer,cancel,8,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",709,2,7,False
+1981,why verify identity,transaction,63,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1981,2,7,False
+2746,cancel transfer,cash withdrawal not,20,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2746,2,7,False
+3036,verify my identity,verify my,69,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",3036,2,7,False
+1501,cancel transfer,direct,28,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1501,2,7,False
+2819,top up by card charge,top up by card,57,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2819,2,7,False
+2826,transfer into account,top up by card,57,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2826,2,7,False
+2723,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2723,2,7,False
+1325,transfer into account,to,62,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1325,2,7,False
+2124,change pin,change,21,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2124,2,7,False
+1417,card not working,comprom,22,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1417,2,7,False
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",791,2,7,False
+2136,change pin,change,21,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2136,2,7,False
+1352,transfer into account,to,62,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1352,2,7,False
+2905,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2905,2,7,False
+2360,verify top up,verify top,71,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2360,2,7,False
+1319,get physical card,visa,73,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1319,2,7,False
+1772,Refund not showing up,Ref,51,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1772,2,7,False
+217,pending cash withdrawal,pending cash,46,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",217,2,7,False
+1936,lost or stolen card,card swallowed,18,False,False,True,"{65: 1, 41: 1}","[3234, 3759]",1936,2,7,False
+2880,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2880,2,7,False
+402,change pin,exchange via,33,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",402,2,7,False
+1350,top up by bank transfer charge,to,62,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1350,2,7,False
+80,exchange rate,exchange rate,32,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",80,2,7,False
+1356,top up failed,to,62,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1356,2,7,False
+2385,top up by card charge,verify top,71,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2385,2,7,False
+2341,top up by card charge,transfer into,65,True,False,False,"{65: 1, 41: 1}","[3234, 3759]",2341,2,7,False
+1869,pending transfer,pending transfer,48,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",1869,2,7,False
+2881,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2881,2,7,False
+1151,change pin,edit,30,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1151,2,7,False
+73,card linking,card link,13,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",73,2,7,False
+2264,transfer into account,receiving,50,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",2264,2,7,False
+1779,balance not updated after bank transfer,Ref,51,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",1779,2,7,False
+46,reverted card payment?,card link,13,False,False,False,"{65: 1, 41: 1}","[3234, 3759]",46,2,7,False
+2898,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{65: 1, 41: 1}","[3234, 3759]",2898,2,7,False

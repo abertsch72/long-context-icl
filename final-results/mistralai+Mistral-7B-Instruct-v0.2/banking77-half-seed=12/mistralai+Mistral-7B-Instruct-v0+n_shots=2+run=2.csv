@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1104,2,2,False
+472,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",472,2,2,False
+1345,card delivery estimate,order,43,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1345,2,2,False
+838,pending card payment,pending card,45,False,True,False,"{29: 1, 25: 1}","[3626, 401]",838,2,2,False
+942,declined card payment,declined,25,True,True,False,"{29: 1, 25: 1}","[3626, 401]",942,2,2,False
+707,atm support,atm,3,False,True,False,"{29: 1, 25: 1}","[3626, 401]",707,2,2,False
+378,contactless not working,contact,23,False,True,False,"{29: 1, 25: 1}","[3626, 401]",378,2,2,False
+1258,failed transfer,failed,35,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1258,2,2,False
+451,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",451,2,2,False
+1467,top up by card charge,top up by card,57,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1467,2,2,False
+652,request refund,dispos,29,True,False,False,"{29: 1, 25: 1}","[3626, 401]",652,2,2,False
+774,passcode forgotten,pass,44,False,True,False,"{29: 1, 25: 1}","[3626, 401]",774,2,2,False
+1112,balance not updated after bank transfer,verify,70,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1112,2,2,False
+659,disposable card limits,dispos,29,True,True,False,"{29: 1, 25: 1}","[3626, 401]",659,2,2,False
+67,exchange rate,exchange,32,False,True,False,"{29: 1, 25: 1}","[3626, 401]",67,2,2,False
+773,lost or stolen phone,pass,44,False,False,False,"{29: 1, 25: 1}","[3626, 401]",773,2,2,False
+679,disposable card limits,dispos,29,True,True,False,"{29: 1, 25: 1}","[3626, 401]",679,2,2,False
+956,declined card payment,declined,25,True,True,False,"{29: 1, 25: 1}","[3626, 401]",956,2,2,False
+919,request refund,request,52,False,True,False,"{29: 1, 25: 1}","[3626, 401]",919,2,2,False
+1221,receiving money,receiving,50,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1221,2,2,False
+605,transfer not received by recipient,to,62,False,False,False,"{29: 1, 25: 1}","[3626, 401]",605,2,2,False
+240,declined card payment,card not,14,False,False,False,"{29: 1, 25: 1}","[3626, 401]",240,2,2,False
+1069,card not working,card swallowed,18,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1069,2,2,False
+1228,transfer not received by recipient,receiving,50,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1228,2,2,False
+1006,request refund,term,55,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1006,2,2,False
+1308,transfer not received by recipient,top up by cash,58,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1308,2,2,False
+106,extra charge on statement,extra,34,False,True,False,"{29: 1, 25: 1}","[3626, 401]",106,2,2,False
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1429,2,2,False
+455,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",455,2,2,False
+1380,virtual card not working,virtual,72,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1380,2,2,False
+325,failed transfer,pin,49,False,False,False,"{29: 1, 25: 1}","[3626, 401]",325,2,2,False
+745,direct debit payment not recognised,direct,28,False,True,False,"{29: 1, 25: 1}","[3626, 401]",745,2,2,False
+1439,balance not updated after bank transfer,balance,5,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1439,2,2,False
+941,declined card payment,declined,25,True,True,False,"{29: 1, 25: 1}","[3626, 401]",941,2,2,False
+401,card not working,pending top,47,False,False,False,"{29: 1, 25: 1}","[3626, 401]",401,2,2,False
+1190,change pin,change,21,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1190,2,2,False
+759,declined card payment,direct,28,False,False,False,"{29: 1, 25: 1}","[3626, 401]",759,2,2,False
+1180,change pin,change,21,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1180,2,2,False
+123,exchange rate,fi,36,False,False,False,"{29: 1, 25: 1}","[3626, 401]",123,2,2,False
+1517,activate my card,activate,0,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1517,2,2,False
+227,automatic top up,automatic,4,False,True,False,"{29: 1, 25: 1}","[3626, 401]",227,2,2,False
+1321,request refund,order,43,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1321,2,2,False
+393,contactless not working,contact,23,False,True,False,"{29: 1, 25: 1}","[3626, 401]",393,2,2,False
+999,transfer timing,pending transfer,48,False,False,False,"{29: 1, 25: 1}","[3626, 401]",999,2,2,False
+927,declined card payment,declined,25,True,True,False,"{29: 1, 25: 1}","[3626, 401]",927,2,2,False
+244,card not working,card not,14,False,True,False,"{29: 1, 25: 1}","[3626, 401]",244,2,2,False
+181,order physical card,card delivery,12,False,False,False,"{29: 1, 25: 1}","[3626, 401]",181,2,2,False
+1170,pin blocked,change,21,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1170,2,2,False
+666,virtual card not working,dispos,29,True,False,False,"{29: 1, 25: 1}","[3626, 401]",666,2,2,False
+1028,request refund,term,55,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1028,2,2,False
+772,lost or stolen phone,pass,44,False,False,False,"{29: 1, 25: 1}","[3626, 401]",772,2,2,False
+1223,change pin,receiving,50,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1223,2,2,False
+421,failed transfer,pending top,47,False,False,False,"{29: 1, 25: 1}","[3626, 401]",421,2,2,False
+132,exchange rate,fi,36,False,False,False,"{29: 1, 25: 1}","[3626, 401]",132,2,2,False
+155,request refund,fi,36,False,False,False,"{29: 1, 25: 1}","[3626, 401]",155,2,2,False
+459,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",459,2,2,False
+371,contactless not working,contact,23,False,True,False,"{29: 1, 25: 1}","[3626, 401]",371,2,2,False
+15,activate my card,card link,13,False,False,False,"{29: 1, 25: 1}","[3626, 401]",15,2,2,False
+1253,transfer not received by recipient,failed,35,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1253,2,2,False
+197,request refund,card delivery,12,False,False,False,"{29: 1, 25: 1}","[3626, 401]",197,2,2,False
+527,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",527,2,2,False
+531,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",531,2,2,False
+382,contactless not working,contact,23,False,True,False,"{29: 1, 25: 1}","[3626, 401]",382,2,2,False
+620,transfer not received by recipient,to,62,False,False,False,"{29: 1, 25: 1}","[3626, 401]",620,2,2,False
+871,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",871,2,2,False
+1095,verify source of funds,verify,70,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1095,2,2,False
+1501,card not working,activate,0,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1501,2,2,False
+1368,virtual card not working,virtual,72,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1368,2,2,False
+344,pin blocked,pin,49,False,True,False,"{29: 1, 25: 1}","[3626, 401]",344,2,2,False
+429,pending top up,pending top,47,False,True,False,"{29: 1, 25: 1}","[3626, 401]",429,2,2,False
+291,age limit,age,1,False,True,False,"{29: 1, 25: 1}","[3626, 401]",291,2,2,False
+474,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",474,2,2,False
+137,fiat currency support,fi,36,False,True,False,"{29: 1, 25: 1}","[3626, 401]",137,2,2,False
+784,passcode forgotten,pass,44,False,True,False,"{29: 1, 25: 1}","[3626, 401]",784,2,2,False
+1021,request refund,term,55,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1021,2,2,False
+1414,transfer not received by recipient,balance,5,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1414,2,2,False
+741,pending card payment,direct,28,False,False,False,"{29: 1, 25: 1}","[3626, 401]",741,2,2,False
+904,request refund,request,52,False,True,False,"{29: 1, 25: 1}","[3626, 401]",904,2,2,False
+723,request refund,direct,28,False,False,False,"{29: 1, 25: 1}","[3626, 401]",723,2,2,False
+87,pending card payment,extra,34,False,False,False,"{29: 1, 25: 1}","[3626, 401]",87,2,2,False
+1457,card acceptance,top up by card,57,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1457,2,2,False
+747,direct debit payment not recognised,direct,28,False,True,False,"{29: 1, 25: 1}","[3626, 401]",747,2,2,False
+728,card not working,direct,28,False,False,False,"{29: 1, 25: 1}","[3626, 401]",728,2,2,False
+860,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",860,2,2,False
+355,card not working,pin,49,False,False,False,"{29: 1, 25: 1}","[3626, 401]",355,2,2,False
+1294,top up by cash or cheque,top up by cash,58,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1294,2,2,False
+521,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",521,2,2,False
+299,age limit,age,1,False,True,False,"{29: 1, 25: 1}","[3626, 401]",299,2,2,False
+807,pending card payment,pending card,45,False,True,False,"{29: 1, 25: 1}","[3626, 401]",807,2,2,False
+1367,virtual card not working,virtual,72,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1367,2,2,False
+556,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",556,2,2,False
+239,top up by card charge,automatic,4,False,False,False,"{29: 1, 25: 1}","[3626, 401]",239,2,2,False
+1418,lost or stolen phone,balance,5,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1418,2,2,False
+203,top up by card charge,automatic,4,False,False,False,"{29: 1, 25: 1}","[3626, 401]",203,2,2,False
+1265,transfer not received by recipient,failed,35,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1265,2,2,False
+1509,card not working,activate,0,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1509,2,2,False
+284,age limit,age,1,False,True,False,"{29: 1, 25: 1}","[3626, 401]",284,2,2,False
+1335,card delivery estimate,order,43,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1335,2,2,False
+517,transfer not received by recipient,transfer not,66,False,True,False,"{29: 1, 25: 1}","[3626, 401]",517,2,2,False
+458,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",458,2,2,False
+808,pending card payment,pending card,45,False,True,False,"{29: 1, 25: 1}","[3626, 401]",808,2,2,False
+290,age limit,age,1,False,True,False,"{29: 1, 25: 1}","[3626, 401]",290,2,2,False
+584,top up reverted,top up re,61,False,True,False,"{29: 1, 25: 1}","[3626, 401]",584,2,2,False
+129,fiat currency support,fi,36,False,True,False,"{29: 1, 25: 1}","[3626, 401]",129,2,2,False
+306,age limit,age,1,False,True,False,"{29: 1, 25: 1}","[3626, 401]",306,2,2,False
+457,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",457,2,2,False
+179,card delivery estimate,card delivery,12,False,True,False,"{29: 1, 25: 1}","[3626, 401]",179,2,2,False
+628,transfer not received by recipient,to,62,False,False,False,"{29: 1, 25: 1}","[3626, 401]",628,2,2,False
+26,card not working,card link,13,False,False,False,"{29: 1, 25: 1}","[3626, 401]",26,2,2,False
+1276,transfer not received by recipient,failed,35,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1276,2,2,False
+839,pending card payment,pending card,45,False,True,False,"{29: 1, 25: 1}","[3626, 401]",839,2,2,False
+1174,change pin,change,21,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1174,2,2,False
+557,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",557,2,2,False
+446,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",446,2,2,False
+1117,verify source of funds,verify,70,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1117,2,2,False
+215,top up by card charge,automatic,4,False,False,False,"{29: 1, 25: 1}","[3626, 401]",215,2,2,False
+966,pending transfer,pending transfer,48,False,True,False,"{29: 1, 25: 1}","[3626, 401]",966,2,2,False
+420,top up reverted,pending top,47,False,False,False,"{29: 1, 25: 1}","[3626, 401]",420,2,2,False
+614,top up by card charge,to,62,False,False,False,"{29: 1, 25: 1}","[3626, 401]",614,2,2,False
+192,card not working,card delivery,12,False,False,False,"{29: 1, 25: 1}","[3626, 401]",192,2,2,False
+667,virtual card not working,dispos,29,True,False,False,"{29: 1, 25: 1}","[3626, 401]",667,2,2,False
+852,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",852,2,2,False
+1083,verify source of funds,verify,70,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1083,2,2,False
+1106,verify source of funds,verify,70,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1106,2,2,False
+917,request refund,request,52,False,True,False,"{29: 1, 25: 1}","[3626, 401]",917,2,2,False
+508,pending card payment,transfer not,66,False,False,False,"{29: 1, 25: 1}","[3626, 401]",508,2,2,False
+146,fiat currency support,fi,36,False,True,False,"{29: 1, 25: 1}","[3626, 401]",146,2,2,False
+1307,top up by cash or cheque,top up by cash,58,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1307,2,2,False
+334,pin blocked,pin,49,False,True,False,"{29: 1, 25: 1}","[3626, 401]",334,2,2,False
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{29: 1, 25: 1}","[3626, 401]",962,2,2,False
+1015,request refund,term,55,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1015,2,2,False
+1486,card not working,activate,0,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1486,2,2,False
+391,contactless not working,contact,23,False,True,False,"{29: 1, 25: 1}","[3626, 401]",391,2,2,False
+1243,transfer not received by recipient,failed,35,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1243,2,2,False
+69,exchange rate,exchange,32,False,True,False,"{29: 1, 25: 1}","[3626, 401]",69,2,2,False
+392,contactless not working,contact,23,False,True,False,"{29: 1, 25: 1}","[3626, 401]",392,2,2,False
+792,passcode forgotten,pass,44,False,True,False,"{29: 1, 25: 1}","[3626, 401]",792,2,2,False
+1448,card acceptance,top up by card,57,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1448,2,2,False
+490,transfer not received by recipient,transfer not,66,False,True,False,"{29: 1, 25: 1}","[3626, 401]",490,2,2,False
+676,disposable card limits,dispos,29,True,True,False,"{29: 1, 25: 1}","[3626, 401]",676,2,2,False
+648,disposable card limits,dispos,29,True,True,False,"{29: 1, 25: 1}","[3626, 401]",648,2,2,False
+818,pending card payment,pending card,45,False,True,False,"{29: 1, 25: 1}","[3626, 401]",818,2,2,False
+982,transfer timing,pending transfer,48,False,False,False,"{29: 1, 25: 1}","[3626, 401]",982,2,2,False
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{29: 1, 25: 1}","[3626, 401]",973,2,2,False
+535,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",535,2,2,False
+793,passcode forgotten,pass,44,False,True,False,"{29: 1, 25: 1}","[3626, 401]",793,2,2,False
+259,card not working,card not,14,False,True,False,"{29: 1, 25: 1}","[3626, 401]",259,2,2,False
+430,top up reverted,pending top,47,False,False,False,"{29: 1, 25: 1}","[3626, 401]",430,2,2,False
+481,transfer not received by recipient,transfer not,66,False,True,False,"{29: 1, 25: 1}","[3626, 401]",481,2,2,False
+567,top up reverted,top up re,61,False,True,False,"{29: 1, 25: 1}","[3626, 401]",567,2,2,False
+72,exchange rate,exchange,32,False,True,False,"{29: 1, 25: 1}","[3626, 401]",72,2,2,False
+113,extra charge on statement,extra,34,False,True,False,"{29: 1, 25: 1}","[3626, 401]",113,2,2,False
+384,contactless not working,contact,23,False,True,False,"{29: 1, 25: 1}","[3626, 401]",384,2,2,False
+1053,lost or stolen phone,card swallowed,18,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1053,2,2,False
+1401,transfer not received by recipient,balance,5,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1401,2,2,False
+969,pending transfer,pending transfer,48,False,True,False,"{29: 1, 25: 1}","[3626, 401]",969,2,2,False
+312,age limit,age,1,False,True,False,"{29: 1, 25: 1}","[3626, 401]",312,2,2,False
+892,request refund,request,52,False,True,False,"{29: 1, 25: 1}","[3626, 401]",892,2,2,False
+454,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",454,2,2,False
+479,top up limits,top up limits,60,False,True,False,"{29: 1, 25: 1}","[3626, 401]",479,2,2,False
+650,disposable card limits,dispos,29,True,True,False,"{29: 1, 25: 1}","[3626, 401]",650,2,2,False
+23,card linking,card link,13,False,True,False,"{29: 1, 25: 1}","[3626, 401]",23,2,2,False
+1212,verify source of funds,receiving,50,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1212,2,2,False
+1214,receiving money,receiving,50,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1214,2,2,False
+1349,card delivery estimate,order,43,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1349,2,2,False
+262,card not working,card not,14,False,True,False,"{29: 1, 25: 1}","[3626, 401]",262,2,2,False
+48,exchange rate,exchange,32,False,True,False,"{29: 1, 25: 1}","[3626, 401]",48,2,2,False
+285,request refund,age,1,False,False,False,"{29: 1, 25: 1}","[3626, 401]",285,2,2,False
+851,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",851,2,2,False
+1352,request refund,order,43,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1352,2,2,False
+327,pin blocked,pin,49,False,True,False,"{29: 1, 25: 1}","[3626, 401]",327,2,2,False
+1438,transfer not received by recipient,balance,5,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1438,2,2,False
+29,card linking,card link,13,False,True,False,"{29: 1, 25: 1}","[3626, 401]",29,2,2,False
+234,top up by card charge,automatic,4,False,False,False,"{29: 1, 25: 1}","[3626, 401]",234,2,2,False
+528,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",528,2,2,False
+369,card not working,contact,23,False,False,False,"{29: 1, 25: 1}","[3626, 401]",369,2,2,False
+128,fiat currency support,fi,36,False,True,False,"{29: 1, 25: 1}","[3626, 401]",128,2,2,False
+1151,transfer timing,transfer timing,67,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1151,2,2,False
+544,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",544,2,2,False
+884,request refund,request,52,False,True,False,"{29: 1, 25: 1}","[3626, 401]",884,2,2,False
+593,top up reverted,top up re,61,False,True,False,"{29: 1, 25: 1}","[3626, 401]",593,2,2,False
+229,top up by card charge,automatic,4,False,False,False,"{29: 1, 25: 1}","[3626, 401]",229,2,2,False
+876,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",876,2,2,False
+629,transfer not received by recipient,to,62,False,False,False,"{29: 1, 25: 1}","[3626, 401]",629,2,2,False
+1419,pending transfer,balance,5,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1419,2,2,False
+821,pending card payment,pending card,45,False,True,False,"{29: 1, 25: 1}","[3626, 401]",821,2,2,False
+1285,top up by cash or cheque,top up by cash,58,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1285,2,2,False
+678,disposable card limits,dispos,29,True,True,False,"{29: 1, 25: 1}","[3626, 401]",678,2,2,False
+204,top up by card charge,automatic,4,False,False,False,"{29: 1, 25: 1}","[3626, 401]",204,2,2,False
+872,card not working,lost,42,False,False,False,"{29: 1, 25: 1}","[3626, 401]",872,2,2,False
+696,atm support,atm,3,False,True,False,"{29: 1, 25: 1}","[3626, 401]",696,2,2,False
+219,balance not updated after bank transfer,automatic,4,False,False,False,"{29: 1, 25: 1}","[3626, 401]",219,2,2,False
+190,request refund,card delivery,12,False,False,False,"{29: 1, 25: 1}","[3626, 401]",190,2,2,False
+379,contactless not working,contact,23,False,True,False,"{29: 1, 25: 1}","[3626, 401]",379,2,2,False
+1340,card acceptance,order,43,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1340,2,2,False
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{29: 1, 25: 1}","[3626, 401]",978,2,2,False
+645,disposable card limits,dispos,29,True,True,False,"{29: 1, 25: 1}","[3626, 401]",645,2,2,False
+735,direct debit payment not recognised,direct,28,False,True,False,"{29: 1, 25: 1}","[3626, 401]",735,2,2,False
+850,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",850,2,2,False
+1353,lost or stolen phone,order,43,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1353,2,2,False
+800,pending card payment,pending card,45,False,True,False,"{29: 1, 25: 1}","[3626, 401]",800,2,2,False
+1329,card delivery estimate,order,43,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1329,2,2,False
+115,extra charge on statement,extra,34,False,True,False,"{29: 1, 25: 1}","[3626, 401]",115,2,2,False
+1396,virtual card not working,virtual,72,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1396,2,2,False
+34,card acceptance,card link,13,False,False,False,"{29: 1, 25: 1}","[3626, 401]",34,2,2,False
+967,pending transfer,pending transfer,48,False,True,False,"{29: 1, 25: 1}","[3626, 401]",967,2,2,False
+1512,card not working,activate,0,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1512,2,2,False
+439,pending top up,pending top,47,False,True,False,"{29: 1, 25: 1}","[3626, 401]",439,2,2,False
+1411,transfer timing,balance,5,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1411,2,2,False
+1217,receiving money,receiving,50,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1217,2,2,False
+867,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",867,2,2,False
+704,atm support,atm,3,False,True,False,"{29: 1, 25: 1}","[3626, 401]",704,2,2,False
+1211,receiving money,receiving,50,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1211,2,2,False
+646,disposable card limits,dispos,29,True,True,False,"{29: 1, 25: 1}","[3626, 401]",646,2,2,False
+1165,change pin,change,21,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1165,2,2,False
+799,verify source of funds,pass,44,False,False,False,"{29: 1, 25: 1}","[3626, 401]",799,2,2,False
+898,order physical card,request,52,False,False,False,"{29: 1, 25: 1}","[3626, 401]",898,2,2,False
+36,lost or stolen phone,card link,13,False,False,False,"{29: 1, 25: 1}","[3626, 401]",36,2,2,False
+1278,transfer not received by recipient,failed,35,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1278,2,2,False
+324,pin blocked,pin,49,False,True,False,"{29: 1, 25: 1}","[3626, 401]",324,2,2,False
+689,atm support,atm,3,False,True,False,"{29: 1, 25: 1}","[3626, 401]",689,2,2,False
+1508,activate my card,activate,0,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1508,2,2,False
+992,pending transfer,pending transfer,48,False,True,False,"{29: 1, 25: 1}","[3626, 401]",992,2,2,False
+314,age limit,age,1,False,True,False,"{29: 1, 25: 1}","[3626, 401]",314,2,2,False
+1082,balance not updated after bank transfer,verify,70,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1082,2,2,False
+1096,verify source of funds,verify,70,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1096,2,2,False
+787,request refund,pass,44,False,False,False,"{29: 1, 25: 1}","[3626, 401]",787,2,2,False
+842,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",842,2,2,False
+191,request refund,card delivery,12,False,False,False,"{29: 1, 25: 1}","[3626, 401]",191,2,2,False
+845,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",845,2,2,False
+1027,request refund,term,55,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1027,2,2,False
+99,extra charge on statement,extra,34,False,True,False,"{29: 1, 25: 1}","[3626, 401]",99,2,2,False
+552,card acceptance,card acceptance,10,False,True,False,"{29: 1, 25: 1}","[3626, 401]",552,2,2,False
+1024,terminate account,term,55,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1024,2,2,False
+141,exchange rate,fi,36,False,False,False,"{29: 1, 25: 1}","[3626, 401]",141,2,2,False
+625,transfer not received by recipient,to,62,False,False,False,"{29: 1, 25: 1}","[3626, 401]",625,2,2,False
+922,declined card payment,declined,25,True,True,False,"{29: 1, 25: 1}","[3626, 401]",922,2,2,False
+977,transfer timing,pending transfer,48,False,False,False,"{29: 1, 25: 1}","[3626, 401]",977,2,2,False
+135,change pin,fi,36,False,False,False,"{29: 1, 25: 1}","[3626, 401]",135,2,2,False
+1109,verify source of funds,verify,70,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1109,2,2,False
+405,pending top up,pending top,47,False,True,False,"{29: 1, 25: 1}","[3626, 401]",405,2,2,False
+760,passcode forgotten,pass,44,False,True,False,"{29: 1, 25: 1}","[3626, 401]",760,2,2,False
+1035,request refund,term,55,False,False,False,"{29: 1, 25: 1}","[3626, 401]",1035,2,2,False
+928,card not working,declined,25,True,False,False,"{29: 1, 25: 1}","[3626, 401]",928,2,2,False
+976,pending transfer,pending transfer,48,False,True,False,"{29: 1, 25: 1}","[3626, 401]",976,2,2,False
+963,pending transfer,pending transfer,48,False,True,False,"{29: 1, 25: 1}","[3626, 401]",963,2,2,False
+762,passcode forgotten,pass,44,False,True,False,"{29: 1, 25: 1}","[3626, 401]",762,2,2,False
+514,transfer not received by recipient,transfer not,66,False,True,False,"{29: 1, 25: 1}","[3626, 401]",514,2,2,False
+870,lost or stolen phone,lost,42,False,True,False,"{29: 1, 25: 1}","[3626, 401]",870,2,2,False
+1122,transfer timing,transfer timing,67,False,True,False,"{29: 1, 25: 1}","[3626, 401]",1122,2,2,False

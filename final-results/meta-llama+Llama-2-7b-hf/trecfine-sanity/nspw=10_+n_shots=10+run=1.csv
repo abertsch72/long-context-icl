@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4640,human group,human group,28,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",4640,10,1,False,10
+1918,entity animal,human group,28,True,False,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",1918,10,1,False,10
+3653,location city,location city,32,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",3653,10,1,False,10
+4511,numeric date,numeric date,39,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",4511,10,1,False,10
+1862,human individual,human individual,29,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",1862,10,1,False,10
+2359,human individual,human individual,29,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",2359,10,1,False,10
+515,numeric percent,numeric percent,45,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",515,10,1,False,10
+5396,human group,human group,28,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",5396,10,1,False,10
+4210,description description,description description,25,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",4210,10,1,False,10
+3545,entity animal,entity animal,2,True,True,True,"{28: 3, 32: 1, 39: 1, 29: 2, 45: 1, 25: 1, 2: 1}","[4640, 1918, 3653, 4511, 1862, 2359, 515, 5396, 4210, 3545]",3545,10,1,False,10

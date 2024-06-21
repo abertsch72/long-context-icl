@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+905,supported cards and currencies,supported,54,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",905,2,4,False
+1982,transaction charged twice,transaction,63,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1982,2,4,False
+2766,exchange rate,exchange charge,31,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2766,2,4,False
+2416,request refund,getting spare,39,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2416,2,4,False
+2895,atm support,cash withdrawal charge,19,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2895,2,4,False
+2137,pin blocked,change,21,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2137,2,4,False
+732,top up limits,top up limits,60,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",732,2,4,False
+1927,card not working,card swallowed,18,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1927,2,4,False
+945,card delivery estimate,getting virtual,40,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",945,2,4,False
+1942,card not working,card swallowed,18,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1942,2,4,False
+112,exchange rate,exchange rate,32,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",112,2,4,False
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2909,2,4,False
+965,card acceptance,card acceptance,10,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",965,2,4,False
+1465,atm support,atm,3,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1465,2,4,False
+1396,virtual card not working,dispos,29,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1396,2,4,False
+2152,change pin,change,21,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2152,2,4,False
+1159,change pin,edit,30,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1159,2,4,False
+976,card acceptance,card acceptance,10,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",976,2,4,False
+1518,direct debit payment not recognised,direct,28,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1518,2,4,False
+1773,card not working,Ref,51,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1773,2,4,False
+1476,atm support,atm,3,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1476,2,4,False
+1477,card payment not recognised,atm,3,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1477,2,4,False
+237,atm support,pending cash,46,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",237,2,4,False
+2097,why verify identity,re,53,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2097,2,4,False
+2434,card delivery estimate,getting spare,39,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2434,2,4,False
+1349,transfer into account,to,62,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1349,2,4,False
+1625,card payment not recognised,pending card,45,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1625,2,4,False
+2675,card not working,top up failed,59,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2675,2,4,False
+274,supported cards and currencies,fi,36,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",274,2,4,False
+564,contactless not working,contact,23,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",564,2,4,False
+2482,card delivery estimate,order,43,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2482,2,4,False
+1685,cancel transfer,request,52,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1685,2,4,False
+804,why verify identity,card payment fee,15,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",804,2,4,False
+2142,change pin,change,21,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2142,2,4,False
+2965,top up by card charge,apple,2,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2965,2,4,False
+2985,top up by card charge,apple,2,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2985,2,4,False
+1394,virtual card not working,dispos,29,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1394,2,4,False
+1103,card not working,card payment not,16,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1103,2,4,False
+2420,card delivery estimate,getting spare,39,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2420,2,4,False
+1875,pending transfer,pending transfer,48,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1875,2,4,False
+1146,change pin,edit,30,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1146,2,4,False
+1516,card payment not recognised,direct,28,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1516,2,4,False
+2805,card payment fee charged,top up by card,57,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2805,2,4,False
+2702,why verify identity,balance not updated after bank,5,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2702,2,4,False
+2882,why verify identity,cash withdrawal charge,19,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2882,2,4,False
+2793,exchange rate,exchange charge,31,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2793,2,4,False
+241,exchange rate,fi,36,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",241,2,4,False
+1068,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1068,2,4,False
+494,age limit,age,1,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",494,2,4,False
+327,top up by card charge,automatic,4,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",327,2,4,False
+458,lost or stolen card,lost or stolen card,41,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",458,2,4,False
+428,supported cards and currencies,exchange via,33,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",428,2,4,False
+1681,request refund,request,52,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1681,2,4,False
+2040,transfer timing,transfer timing,67,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2040,2,4,False
+2271,change pin,receiving,50,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2271,2,4,False
+2309,transfer not received by recipient,failed,35,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2309,2,4,False
+1819,why verify identity,declined card,25,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1819,2,4,False
+1538,passcode forgotten,pass,44,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1538,2,4,False
+1405,card not working,comprom,22,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1405,2,4,False
+522,reverted card payment?,pin,49,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",522,2,4,False
+2230,transfer fee charged,transfer fee,64,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2230,2,4,False
+1626,pending card payment,pending card,45,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1626,2,4,False
+972,card acceptance,card acceptance,10,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",972,2,4,False
+2201,transfer fee charged,transfer fee,64,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2201,2,4,False
+1523,passcode forgotten,pass,44,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1523,2,4,False
+2629,get disposable virtual card,get dispos,37,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2629,2,4,False
+1760,Refund not showing up,Ref,51,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1760,2,4,False
+1176,why verify identity,why,74,True,True,False,"{12: 1, 74: 1}","[1233, 5498]",1176,2,4,False
+68,card linking,card link,13,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",68,2,4,False
+1901,cancel transfer,term,55,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1901,2,4,False
+2274,transfer fee charged,receiving,50,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2274,2,4,False
+2249,card payment not recognised,receiving,50,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2249,2,4,False
+519,age limit,age,1,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",519,2,4,False
+2019,transaction charged twice,verify source,70,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2019,2,4,False
+2997,why verify identity,apple,2,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2997,2,4,False
+744,top up limits,top up limits,60,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",744,2,4,False
+1377,disposable card limits,dispos,29,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1377,2,4,False
+893,card acceptance,supported,54,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",893,2,4,False
+1833,card not working,declined card,25,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1833,2,4,False
+1114,card payment not recognised,card payment not,16,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1114,2,4,False
+1899,cancel transfer,term,55,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1899,2,4,False
+1059,why verify identity,balance not updated after che,6,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1059,2,4,False
+1428,card not working,comprom,22,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1428,2,4,False
+1915,cancel transfer,term,55,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1915,2,4,False
+826,card payment fee charged,card payment fee,15,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",826,2,4,False
+2580,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2580,2,4,False
+2132,change pin,change,21,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2132,2,4,False
+418,change pin,exchange via,33,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",418,2,4,False
+1601,pending card payment,pending card,45,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1601,2,4,False
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1645,2,4,False
+1610,why verify identity,pending card,45,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1610,2,4,False
+598,contactless not working,contact,23,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",598,2,4,False
+2992,top up by card charge,apple,2,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2992,2,4,False
+3017,verify my identity,verify my,69,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",3017,2,4,False
+2134,change pin,change,21,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2134,2,4,False
+2540,virtual card not working,virtual,72,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2540,2,4,False
+1505,direct debit payment not recognised,direct,28,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1505,2,4,False
+1093,why verify identity,card payment not,16,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1093,2,4,False
+863,transfer not received by recipient,transfer not,66,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",863,2,4,False
+1021,why verify identity,top up re,61,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1021,2,4,False
+754,top up limits,top up limits,60,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",754,2,4,False
+1364,disposable card limits,dispos,29,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1364,2,4,False
+2301,transfer not received by recipient,failed,35,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2301,2,4,False
+1134,change pin,edit,30,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1134,2,4,False
+1186,why verify identity,why,74,True,True,False,"{12: 1, 74: 1}","[1233, 5498]",1186,2,4,False
+1774,Refund not showing up,Ref,51,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1774,2,4,False
+131,card payment wrong exchange rate,card payment wrong,17,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",131,2,4,False
+902,card acceptance,supported,54,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",902,2,4,False
+2243,get physical card,receiving,50,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2243,2,4,False
+2494,card delivery estimate,order,43,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2494,2,4,False
+2705,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2705,2,4,False
+592,contactless not working,contact,23,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",592,2,4,False
+2386,verify top up,verify top,71,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2386,2,4,False
+2800,card payment fee charged,top up by card,57,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2800,2,4,False
+949,virtual card not working,getting virtual,40,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",949,2,4,False
+448,card not working,lost or stolen card,41,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",448,2,4,False
+18,card delivery estimate,card arrival,11,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",18,2,4,False
+1348,transfer into account,to,62,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1348,2,4,False
+825,card delivery estimate,card payment fee,15,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",825,2,4,False
+362,card not working,card not,14,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",362,2,4,False
+1828,card payment not recognised,declined card,25,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1828,2,4,False
+1554,passcode forgotten,pass,44,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1554,2,4,False
+2568,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2568,2,4,False
+385,card not working,card not,14,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",385,2,4,False
+2911,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2911,2,4,False
+2305,transfer not received by recipient,failed,35,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2305,2,4,False
+2467,cash withdrawal charge,top up by cash,58,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2467,2,4,False
+1252,pin blocked,get physical,38,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1252,2,4,False
+2104,card payment not recognised,re,53,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2104,2,4,False
+2316,transfer not received by recipient,failed,35,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2316,2,4,False
+1595,why verify identity,declined cash,26,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1595,2,4,False
+1673,lost or stolen phone,lost or stolen phone,42,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1673,2,4,False
+1856,pending transfer,pending transfer,48,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1856,2,4,False
+2106,why verify identity,re,53,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2106,2,4,False
+2527,virtual card not working,virtual,72,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2527,2,4,False
+2602,virtual card not working,get dispos,37,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2602,2,4,False
+1522,passcode forgotten,pass,44,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1522,2,4,False
+2713,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2713,2,4,False
+2519,get physical card,order,43,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2519,2,4,False
+2504,get physical card,order,43,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2504,2,4,False
+538,card not working,pin,49,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",538,2,4,False
+1635,transaction charged twice,pending card,45,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1635,2,4,False
+2383,top up failed,verify top,71,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2383,2,4,False
+1544,passcode forgotten,pass,44,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1544,2,4,False
+1883,cancel transfer,term,55,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1883,2,4,False
+2493,get physical card,order,43,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2493,2,4,False
+1877,transfer not received by recipient,pending transfer,48,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1877,2,4,False
+2998,top up by card charge,apple,2,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2998,2,4,False
+1717,Refund not showing up,request,52,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1717,2,4,False
+1372,disposable card limits,dispos,29,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1372,2,4,False
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1671,2,4,False
+1793,Refund not showing up,Ref,51,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1793,2,4,False
+469,card not working,lost or stolen card,41,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",469,2,4,False
+2324,transfer not received by recipient,transfer into,65,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2324,2,4,False
+2202,transfer fee charged,transfer fee,64,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2202,2,4,False
+1383,disposable card limits,dispos,29,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1383,2,4,False
+2333,transfer into account,transfer into,65,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2333,2,4,False
+2642,top up failed,top up failed,59,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2642,2,4,False
+2726,transaction charged twice,cash withdrawal not,20,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2726,2,4,False
+227,pending card payment,pending cash,46,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",227,2,4,False
+749,top up limits,top up limits,60,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",749,2,4,False
+400,exchange rate,exchange via,33,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",400,2,4,False
+2711,pending transfer,balance not updated after bank,5,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2711,2,4,False
+59,card not working,card link,13,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",59,2,4,False
+1304,card delivery estimate,visa,73,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1304,2,4,False
+1474,atm support,atm,3,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1474,2,4,False
+2570,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2570,2,4,False
+1539,passcode forgotten,pass,44,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1539,2,4,False
+2302,transfer not received by recipient,failed,35,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2302,2,4,False
+305,card delivery estimate,card delivery,12,True,True,False,"{12: 1, 74: 1}","[1233, 5498]",305,2,4,False
+713,change pin,cancel,8,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",713,2,4,False
+1398,disposable card limits,dispos,29,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1398,2,4,False
+1241,card delivery estimate,get physical,38,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1241,2,4,False
+271,exchange rate,fi,36,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",271,2,4,False
+1025,top up failed,top up re,61,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1025,2,4,False
+470,lost or stolen card,lost or stolen card,41,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",470,2,4,False
+2779,exchange rate,exchange charge,31,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2779,2,4,False
+2417,card delivery estimate,getting spare,39,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2417,2,4,False
+1887,cancel transfer,term,55,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1887,2,4,False
+1976,transaction charged twice,transaction,63,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1976,2,4,False
+917,supported cards and currencies,supported,54,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",917,2,4,False
+2649,top up failed,top up failed,59,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2649,2,4,False
+735,top up limits,top up limits,60,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",735,2,4,False
+2927,card delivery estimate,card about,9,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2927,2,4,False
+1689,wrong amount of cash received,request,52,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1689,2,4,False
+64,reverted card payment?,card link,13,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",64,2,4,False
+1568,why verify identity,declined cash,26,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1568,2,4,False
+1391,virtual card not working,dispos,29,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1391,2,4,False
+1744,transfer not received by recipient,declined transfer,27,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1744,2,4,False
+2821,card payment fee charged,top up by card,57,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2821,2,4,False
+1714,cancel transfer,request,52,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1714,2,4,False
+2350,transfer into account,transfer into,65,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2350,2,4,False
+1136,change pin,edit,30,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1136,2,4,False
+2704,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2704,2,4,False
+1298,get physical card,visa,73,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1298,2,4,False
+1586,why verify identity,declined cash,26,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1586,2,4,False
+1435,card not working,comprom,22,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1435,2,4,False
+1361,disposable card limits,dispos,29,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1361,2,4,False
+1002,top up reverted,top up re,61,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1002,2,4,False
+1360,get disposable virtual card,dispos,29,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1360,2,4,False
+2356,transfer into account,transfer into,65,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2356,2,4,False
+2289,transfer not received by recipient,failed,35,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2289,2,4,False
+1384,disposable card limits,dispos,29,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1384,2,4,False
+1210,failed transfer,unable,68,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1210,2,4,False
+2240,card payment not recognised,receiving,50,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2240,2,4,False
+1266,pin blocked,get physical,38,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1266,2,4,False
+2060,transfer timing,transfer timing,67,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2060,2,4,False
+769,wrong amount of cash received,wrong amount,75,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",769,2,4,False
+979,card acceptance,card acceptance,10,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",979,2,4,False
+1237,why verify identity,unable,68,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1237,2,4,False
+1456,cash withdrawal charge,atm,3,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1456,2,4,False
+948,order physical card,getting virtual,40,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",948,2,4,False
+1261,card delivery estimate,get physical,38,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1261,2,4,False
+1752,transfer not received by recipient,declined transfer,27,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1752,2,4,False
+1862,transfer timing,pending transfer,48,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1862,2,4,False
+709,cancel transfer,cancel,8,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",709,2,4,False
+1981,why verify identity,transaction,63,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1981,2,4,False
+2746,cancel transfer,cash withdrawal not,20,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2746,2,4,False
+3036,verify my identity,verify my,69,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",3036,2,4,False
+1501,cancel transfer,direct,28,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1501,2,4,False
+2819,top up by card charge,top up by card,57,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2819,2,4,False
+2826,card payment fee charged,top up by card,57,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2826,2,4,False
+2723,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2723,2,4,False
+1325,transfer into account,to,62,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1325,2,4,False
+2124,change pin,change,21,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2124,2,4,False
+1417,card not working,comprom,22,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1417,2,4,False
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",791,2,4,False
+2136,change pin,change,21,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2136,2,4,False
+1352,transfer fee charged,to,62,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1352,2,4,False
+2905,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2905,2,4,False
+2360,verify top up,verify top,71,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2360,2,4,False
+1319,visa or mastercard,visa,73,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1319,2,4,False
+1772,Refund not showing up,Ref,51,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1772,2,4,False
+217,pending cash withdrawal,pending cash,46,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",217,2,4,False
+1936,card not working,card swallowed,18,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1936,2,4,False
+2880,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2880,2,4,False
+402,change pin,exchange via,33,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",402,2,4,False
+1350,top up by card charge,to,62,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1350,2,4,False
+80,exchange rate,exchange rate,32,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",80,2,4,False
+1356,card not working,to,62,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1356,2,4,False
+2385,top up by card charge,verify top,71,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2385,2,4,False
+2341,top up by card charge,transfer into,65,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2341,2,4,False
+1869,pending transfer,pending transfer,48,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",1869,2,4,False
+2881,extra charge on statement,cash withdrawal charge,19,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2881,2,4,False
+1151,change pin,edit,30,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1151,2,4,False
+73,card linking,card link,13,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",73,2,4,False
+2264,transfer into account,receiving,50,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",2264,2,4,False
+1779,why verify identity,Ref,51,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",1779,2,4,False
+46,reverted card payment?,card link,13,False,False,False,"{12: 1, 74: 1}","[1233, 5498]",46,2,4,False
+2898,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{12: 1, 74: 1}","[1233, 5498]",2898,2,4,False

@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+9500,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",9500,2,8,False,2
+8444,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",8444,2,8,False,2
+5268,card payment fee charged,card payment fee,15,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",5268,2,8,False,2
+9253,extra charge on statement,transaction,63,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9253,2,8,False,2
+1847,transfer not received by recipient,transfer not,66,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1847,2,8,False,2
+6623,atm support,declined c,26,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6623,2,8,False,2
+1163,change pin,change,21,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1163,2,8,False,2
+110,virtual card not working,virtual,72,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",110,2,8,False,2
+7622,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7622,2,8,False,2
+2852,transaction charged twice,transaction,63,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2852,2,8,False,2
+4591,verify top up,verify top,71,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",4591,2,8,False,2
+4483,order physical card,card delivery,12,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4483,2,8,False,2
+6415,transfer into account,to,62,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6415,2,8,False,2
+4232,cash withdrawal not recognised,verify source,70,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4232,2,8,False,2
+2888,extra charge on statement,cash withdrawal charge,19,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2888,2,8,False,2
+1028,card payment fee charged,top up by card,57,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1028,2,8,False,2
+6972,transfer not received by recipient,cancel,8,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6972,2,8,False,2
+1264,pin blocked,get physical,38,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1264,2,8,False,2
+8742,card not working,lost or stolen card,41,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8742,2,8,False,2
+3258,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",3258,2,8,False,2
+6152,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6152,2,8,False,2
+2249,card linking,card linking,13,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2249,2,8,False,2
+1092,card not working,getting spare,39,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1092,2,8,False,2
+8207,card acceptance,supported,54,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8207,2,8,False,2
+2485,cash withdrawal not recognised,wrong amount,75,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2485,2,8,False,2
+4129,exchange rate,exchange via,33,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4129,2,8,False,2
+8107,card delivery estimate,order,43,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8107,2,8,False,2
+3371,exchange rate,card payment wrong,17,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3371,2,8,False,2
+4045,get physical card,card about,9,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4045,2,8,False,2
+7562,card not working,pending top,47,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7562,2,8,False,2
+1134,card delivery estimate,card delivery,12,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1134,2,8,False,2
+4960,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",4960,2,8,False,2
+1535,exchange rate,exchange charge,31,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1535,2,8,False,2
+7720,top up by card charge,verify top,71,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7720,2,8,False,2
+3144,pending transfer,pending transfer,48,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",3144,2,8,False,2
+3097,card not working,top up failed,59,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3097,2,8,False,2
+3911,card not working,revert,53,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3911,2,8,False,2
+3451,card payment not recognised,declined card,25,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3451,2,8,False,2
+4633,virtual card not working,getting virtual,40,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4633,2,8,False,2
+5134,verify my identity,unable,68,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5134,2,8,False,2
+6532,top up failed,top up failed,59,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6532,2,8,False,2
+5124,wrong amount of cash received,wrong amount,75,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",5124,2,8,False,2
+9644,change pin,change,21,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",9644,2,8,False,2
+8109,declined card payment,declined card,25,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",8109,2,8,False,2
+8435,failed transfer,pending card,45,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8435,2,8,False,2
+1139,direct debit payment not recognised,direct,28,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1139,2,8,False,2
+7932,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7932,2,8,False,2
+9210,get physical card,age,1,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9210,2,8,False,2
+2689,verify top up,verify top,71,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2689,2,8,False,2
+6418,lost or stolen phone,lost or stolen phone,42,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6418,2,8,False,2
+9376,top up failed,top up revert,61,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9376,2,8,False,2
+242,top up by card charge,supported,54,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",242,2,8,False,2
+70,pending transfer,pending transfer,48,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",70,2,8,False,2
+5673,card delivery estimate,card about,9,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5673,2,8,False,2
+9202,card not working,supported,54,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9202,2,8,False,2
+2009,transfer not received by recipient,transfer not,66,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2009,2,8,False,2
+365,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",365,2,8,False,2
+4614,pin blocked,get physical,38,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4614,2,8,False,2
+8282,atm support,at,3,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",8282,2,8,False,2
+6231,verify my identity,why,74,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6231,2,8,False,2
+6086,cancel transfer,cancel,8,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6086,2,8,False,2
+8381,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",8381,2,8,False,2
+8356,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8356,2,8,False,2
+2389,passcode forgotten,pass,44,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2389,2,8,False,2
+9163,verify my identity,unable,68,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9163,2,8,False,2
+9882,card not working,dispos,29,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9882,2,8,False,2
+7967,transfer not received by recipient,declined transfer,27,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7967,2,8,False,2
+2545,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2545,2,8,False,2
+2202,transaction charged twice,card payment fee,15,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2202,2,8,False,2
+4993,transaction charged twice,transaction,63,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",4993,2,8,False,2
+7101,topping up by card,card arrival,11,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7101,2,8,False,2
+783,lost or stolen phone,lost or stolen phone,42,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",783,2,8,False,2
+8732,card not working,order,43,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8732,2,8,False,2
+1224,atm support,wrong amount,75,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1224,2,8,False,2
+6828,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6828,2,8,False,2
+3213,transfer not received by recipient,declined transfer,27,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3213,2,8,False,2
+3291,get physical card,age,1,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3291,2,8,False,2
+2817,card not working,top up failed,59,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2817,2,8,False,2
+3959,activate my card,activ,0,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",3959,2,8,False,2
+2459,top up failed,apple,2,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2459,2,8,False,2
+2189,contactless not working,contact,23,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2189,2,8,False,2
+4913,transfer not received by recipient,transfer not,66,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",4913,2,8,False,2
+6392,extra charge on statement,request,52,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6392,2,8,False,2
+975,top up limits,top up limits,60,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",975,2,8,False,2
+7989,virtual card not working,get dispos,37,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7989,2,8,False,2
+1813,exchange rate,exchange rate,32,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1813,2,8,False,2
+1907,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",1907,2,8,False,2
+8507,cancel transfer,cancel,8,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",8507,2,8,False,2
+6813,pending cash withdrawal,pending c,46,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6813,2,8,False,2
+1812,lost or stolen phone,lost or stolen phone,42,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1812,2,8,False,2
+8681,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",8681,2,8,False,2
+7333,lost or stolen card,lost or stolen phone,42,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7333,2,8,False,2
+7596,top up by cash or cheque,top up by c,58,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",7596,2,8,False,2
+6787,activate my card,activ,0,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6787,2,8,False,2
+1306,verify top up,verify top,71,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1306,2,8,False,2
+7717,top up failed,top up failed,59,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",7717,2,8,False,2
+8011,order physical card,card delivery,12,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8011,2,8,False,2
+7374,transfer timing,transfer timing,67,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",7374,2,8,False,2
+4487,card not working,dispos,29,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4487,2,8,False,2
+3701,contactless not working,contact,23,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",3701,2,8,False,2
+764,transfer not received by recipient,benef,7,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",764,2,8,False,2
+8417,top up by card charge,apple,2,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8417,2,8,False,2
+9132,get disposable virtual card,verify source,70,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9132,2,8,False,2
+2500,cancel transfer,cancel,8,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2500,2,8,False,2
+1434,card payment fee charged,top up by card,57,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1434,2,8,False,2
+7793,card not working,card payment not,16,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7793,2,8,False,2
+1911,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1911,2,8,False,2
+7186,pending card payment,pending card,45,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",7186,2,8,False,2
+32,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",32,2,8,False,2
+9590,exchange rate,fi,36,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9590,2,8,False,2
+124,pending transfer,pending transfer,48,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",124,2,8,False,2
+3355,disposable card limits,get dispos,37,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3355,2,8,False,2
+1114,change pin,receiving,50,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1114,2,8,False,2
+8257,transfer not received by recipient,transfer timing,67,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8257,2,8,False,2
+7630,topping up by card,balance not updated after che,6,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7630,2,8,False,2
+8423,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8423,2,8,False,2
+6772,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6772,2,8,False,2
+5656,extra charge on statement,card payment not,16,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5656,2,8,False,2
+2061,card not working,lost or stolen card,41,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2061,2,8,False,2
+415,top up failed,top up revert,61,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",415,2,8,False,2
+1437,atm support,declined c,26,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1437,2,8,False,2
+6089,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6089,2,8,False,2
+8653,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8653,2,8,False,2
+2671,age limit,age,1,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2671,2,8,False,2
+9240,card not working,card linking,13,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9240,2,8,False,2
+6010,Refund not showing up,Ref,51,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6010,2,8,False,2
+3879,lost or stolen card,cash withdrawal not,20,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3879,2,8,False,2
+2011,top up failed,top up revert,61,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2011,2,8,False,2
+6807,card not working,card delivery,12,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6807,2,8,False,2
+7515,transfer not received by recipient,failed,35,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7515,2,8,False,2
+7600,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7600,2,8,False,2
+4953,verify my identity,verify my,69,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",4953,2,8,False,2
+1752,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1752,2,8,False,2
+8888,get physical card,age,1,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8888,2,8,False,2
+808,transaction charged twice,revert,53,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",808,2,8,False,2
+3544,order physical card,card about,9,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3544,2,8,False,2
+1007,order physical card,order,43,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1007,2,8,False,2
+5472,virtual card not working,getting virtual,40,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5472,2,8,False,2
+4816,cancel transfer,direct,28,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4816,2,8,False,2
+8728,automatic top up,automatic,4,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",8728,2,8,False,2
+7107,atm support,wrong amount,75,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7107,2,8,False,2
+5865,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5865,2,8,False,2
+46,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",46,2,8,False,2
+5566,exchange rate,exchange charge,31,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5566,2,8,False,2
+5474,card not working,declined c,26,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5474,2,8,False,2
+163,cancel transfer,pending c,46,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",163,2,8,False,2
+4351,pending transfer,pending transfer,48,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",4351,2,8,False,2
+6919,passcode forgotten,pass,44,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6919,2,8,False,2
+7290,card payment not recognised,pending card,45,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7290,2,8,False,2
+4143,card payment not recognised,vis,73,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4143,2,8,False,2
+9440,top up by card charge,to,62,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9440,2,8,False,2
+8099,get physical card,getting spare,39,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8099,2,8,False,2
+1747,get physical card,direct,28,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1747,2,8,False,2
+9291,top up failed,top up failed,59,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",9291,2,8,False,2
+2236,order physical card,order,43,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2236,2,8,False,2
+3964,top up by cash or cheque,top up by c,58,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",3964,2,8,False,2
+9527,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",9527,2,8,False,2
+1440,declined card payment,declined c,26,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1440,2,8,False,2
+6832,wrong exchange rate for cash withdrawal,card payment wrong,17,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6832,2,8,False,2
+8974,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",8974,2,8,False,2
+6466,declined card payment,declined card,25,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6466,2,8,False,2
+7199,card not working,declined card,25,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7199,2,8,False,2
+2382,get disposable virtual card,get dispos,37,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2382,2,8,False,2
+2472,virtual card not working,getting virtual,40,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2472,2,8,False,2
+7963,get disposable virtual card,verify source,70,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7963,2,8,False,2
+3485,topping up by card,top up by bank,56,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3485,2,8,False,2
+6965,cancel transfer,request,52,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6965,2,8,False,2
+1507,cash withdrawal charge,cash withdrawal charge,19,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",1507,2,8,False,2
+3597,topping up by card,top up by card,57,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3597,2,8,False,2
+8782,transaction charged twice,extra,34,True,False,False,"{49: 1, 34: 1}","[9500, 8444]",8782,2,8,False,2
+6839,card payment fee charged,top up by card,57,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6839,2,8,False,2
+4247,transfer fee charged,transfer not,66,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4247,2,8,False,2
+6601,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6601,2,8,False,2
+7782,transfer timing,transfer timing,67,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",7782,2,8,False,2
+3502,transaction charged twice,revert,53,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3502,2,8,False,2
+5833,transfer timing,transfer timing,67,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",5833,2,8,False,2
+341,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",341,2,8,False,2
+9480,exchange rate,card payment wrong,17,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9480,2,8,False,2
+9898,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",9898,2,8,False,2
+7207,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7207,2,8,False,2
+5499,topping up by card,cash withdrawal charge,19,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5499,2,8,False,2
+2291,Refund not showing up,Ref,51,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2291,2,8,False,2
+202,top up failed,apple,2,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",202,2,8,False,2
+9403,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",9403,2,8,False,2
+8832,transaction charged twice,card payment not,16,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8832,2,8,False,2
+9810,direct debit payment not recognised,receiving,50,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9810,2,8,False,2
+9835,card not working,card not,14,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",9835,2,8,False,2
+4443,transfer timing,balance not updated after bank,5,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4443,2,8,False,2
+3776,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3776,2,8,False,2
+5948,atm support,wrong amount,75,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5948,2,8,False,2
+9357,wrong amount of cash received,card payment not,16,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9357,2,8,False,2
+8402,extra charge on statement,extra,34,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",8402,2,8,False,2
+1872,pin blocked,get physical,38,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1872,2,8,False,2
+990,exchange rate,exchange charge,31,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",990,2,8,False,2
+1866,transaction charged twice,revert,53,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1866,2,8,False,2
+6916,cash withdrawal not recognised,balance not updated after che,6,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6916,2,8,False,2
+4672,transfer into account,transfer into,65,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",4672,2,8,False,2
+4735,balance not updated after bank transfer,fi,36,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4735,2,8,False,2
+800,card not working,contact,23,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",800,2,8,False,2
+2771,transaction charged twice,transfer not,66,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2771,2,8,False,2
+3511,exchange rate,card payment wrong,17,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3511,2,8,False,2
+1532,transfer into account,supported,54,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1532,2,8,False,2
+292,top up by card charge,automatic,4,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",292,2,8,False,2
+1989,cash withdrawal not recognised,top up by c,58,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1989,2,8,False,2
+8530,card not working,vis,73,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8530,2,8,False,2
+3250,transfer into account,top up by c,58,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3250,2,8,False,2
+5353,change pin,receiving,50,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5353,2,8,False,2
+4526,contactless not working,contact,23,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",4526,2,8,False,2
+1716,transfer not received by recipient,pending transfer,48,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",1716,2,8,False,2
+3042,wrong amount of cash received,card payment not,16,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3042,2,8,False,2
+483,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",483,2,8,False,2
+2257,change pin,change,21,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",2257,2,8,False,2
+3921,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3921,2,8,False,2
+409,extra charge on statement,card payment fee,15,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",409,2,8,False,2
+4574,extra charge on statement,card payment fee,15,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",4574,2,8,False,2
+3288,automatic top up,automatic,4,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",3288,2,8,False,2
+2243,card not working,card linking,13,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2243,2,8,False,2
+9211,wrong amount of cash received,wrong amount,75,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",9211,2,8,False,2
+9648,cancel transfer,terminate,55,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9648,2,8,False,2
+8111,atm support,declined c,26,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8111,2,8,False,2
+5640,card not working,card arrival,11,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5640,2,8,False,2
+5751,top up by card charge,automatic,4,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5751,2,8,False,2
+9467,transaction charged twice,transfer not,66,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9467,2,8,False,2
+6956,top up failed,top up revert,61,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6956,2,8,False,2
+2454,extra charge on statement,transaction,63,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",2454,2,8,False,2
+4448,pin blocked,pin,49,True,True,False,"{49: 1, 34: 1}","[9500, 8444]",4448,2,8,False,2
+6049,card delivery estimate,order,43,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6049,2,8,False,2
+9711,top up by cash or cheque,top up by c,58,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",9711,2,8,False,2
+599,card not working,card sw,18,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",599,2,8,False,2
+304,exchange rate,wrong exchange,76,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",304,2,8,False,2
+3385,wrong amount of cash received,wrong amount,75,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",3385,2,8,False,2
+5925,transfer fee charged,transfer fee,64,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",5925,2,8,False,2
+5880,atm support,pending c,46,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5880,2,8,False,2
+5237,card not working,declined card,25,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",5237,2,8,False,2
+3432,exchange rate,exchange via,33,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3432,2,8,False,2
+833,card payment not recognised,vis,73,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",833,2,8,False,2
+3209,transfer not received by recipient,transfer not,66,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",3209,2,8,False,2
+8133,transfer fee charged,verify source,70,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",8133,2,8,False,2
+5576,change pin,change,21,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",5576,2,8,False,2
+7978,extra charge on statement,transaction,63,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7978,2,8,False,2
+6646,top up failed,pending top,47,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6646,2,8,False,2
+3813,card not working,getting spare,39,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3813,2,8,False,2
+6552,transfer into account,benef,7,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6552,2,8,False,2
+3170,card not working,dispos,29,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",3170,2,8,False,2
+9116,card not working,lost or stolen card,41,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",9116,2,8,False,2
+6008,top up limits,top up limits,60,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",6008,2,8,False,2
+350,transfer into account,transfer into,65,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",350,2,8,False,2
+3151,card not working,card not,14,False,True,False,"{49: 1, 34: 1}","[9500, 8444]",3151,2,8,False,2
+7283,transfer into account,exchange via,33,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",7283,2,8,False,2
+6743,verify my identity,why,74,False,False,False,"{49: 1, 34: 1}","[9500, 8444]",6743,2,8,False,2

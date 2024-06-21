@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,balance not updated after bank transfer,verify,70,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1104,2,8,False
+472,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",472,2,8,False
+1345,card delivery estimate,order,43,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1345,2,8,False
+838,pending transfer,pending card,45,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",838,2,8,False
+942,card not working,declined,25,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",942,2,8,False
+707,atm support,atm,3,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",707,2,8,False
+378,contactless not working,contact,23,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",378,2,8,False
+1258,transfer not received by recipient,failed,35,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1258,2,8,False
+451,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",451,2,8,False
+1467,top up reverted,top up by card,57,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1467,2,8,False
+652,disposable card limits,dispos,29,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",652,2,8,False
+774,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",774,2,8,False
+1112,transfer not received by recipient,verify,70,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1112,2,8,False
+659,disposable card limits,dispos,29,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",659,2,8,False
+67,exchange rate,exchange,32,True,True,False,"{10: 1, 32: 1}","[4184, 1949]",67,2,8,False
+773,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",773,2,8,False
+679,disposable card limits,dispos,29,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",679,2,8,False
+956,card not working,declined,25,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",956,2,8,False
+919,order physical card,request,52,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",919,2,8,False
+1221,receiving money,receiving,50,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1221,2,8,False
+605,transfer not received by recipient,to,62,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",605,2,8,False
+240,card not working,card not,14,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",240,2,8,False
+1069,card not working,card swallowed,18,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1069,2,8,False
+1228,transfer not received by recipient,receiving,50,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1228,2,8,False
+1006,request refund,term,55,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1006,2,8,False
+1308,card acceptance,top up by cash,58,False,False,True,"{10: 1, 32: 1}","[4184, 1949]",1308,2,8,False
+106,extra charge on statement,extra,34,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",106,2,8,False
+1429,balance not updated after bank transfer,balance,5,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1429,2,8,False
+455,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",455,2,8,False
+1380,virtual card not working,virtual,72,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1380,2,8,False
+325,card not working,pin,49,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",325,2,8,False
+745,direct debit payment not recognised,direct,28,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",745,2,8,False
+1439,balance not updated after bank transfer,balance,5,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1439,2,8,False
+941,card not working,declined,25,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",941,2,8,False
+401,card not working,pending top,47,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",401,2,8,False
+1190,pin blocked,change,21,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1190,2,8,False
+759,declined card payment,direct,28,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",759,2,8,False
+1180,pin blocked,change,21,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1180,2,8,False
+123,exchange rate,fi,36,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",123,2,8,False
+1517,card not working,activate,0,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1517,2,8,False
+227,automatic top up,automatic,4,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",227,2,8,False
+1321,card delivery estimate,order,43,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1321,2,8,False
+393,contactless not working,contact,23,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",393,2,8,False
+999,transfer timing,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",999,2,8,False
+927,card not working,declined,25,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",927,2,8,False
+244,card not working,card not,14,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",244,2,8,False
+181,order physical card,card delivery,12,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",181,2,8,False
+1170,pin blocked,change,21,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1170,2,8,False
+666,virtual card not working,dispos,29,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",666,2,8,False
+1028,terminate account,term,55,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1028,2,8,False
+772,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",772,2,8,False
+1223,exchange rate,receiving,50,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1223,2,8,False
+421,top up reverted,pending top,47,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",421,2,8,False
+132,exchange rate,fi,36,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",132,2,8,False
+155,exchange rate,fi,36,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",155,2,8,False
+459,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",459,2,8,False
+371,contactless not working,contact,23,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",371,2,8,False
+15,card not working,card link,13,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",15,2,8,False
+1253,transfer not received by recipient,failed,35,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1253,2,8,False
+197,order physical card,card delivery,12,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",197,2,8,False
+527,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",527,2,8,False
+531,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",531,2,8,False
+382,contactless not working,contact,23,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",382,2,8,False
+620,transfer not received by recipient,to,62,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",620,2,8,False
+871,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",871,2,8,False
+1095,verify source of funds,verify,70,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1095,2,8,False
+1501,card not working,activate,0,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1501,2,8,False
+1368,virtual card not working,virtual,72,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1368,2,8,False
+344,pin blocked,pin,49,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",344,2,8,False
+429,top up reverted,pending top,47,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",429,2,8,False
+291,age limit,age,1,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",291,2,8,False
+474,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",474,2,8,False
+137,fiat currency support,fi,36,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",137,2,8,False
+784,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",784,2,8,False
+1021,request refund,term,55,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1021,2,8,False
+1414,transfer not received by recipient,balance,5,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1414,2,8,False
+741,declined card payment,direct,28,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",741,2,8,False
+904,order physical card,request,52,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",904,2,8,False
+723,card not working,direct,28,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",723,2,8,False
+87,card not working,extra,34,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",87,2,8,False
+1457,card acceptance,top up by card,57,False,False,True,"{10: 1, 32: 1}","[4184, 1949]",1457,2,8,False
+747,direct debit payment not recognised,direct,28,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",747,2,8,False
+728,card not working,direct,28,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",728,2,8,False
+860,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",860,2,8,False
+355,card not working,pin,49,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",355,2,8,False
+1294,top up by cash or cheque,top up by cash,58,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1294,2,8,False
+521,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",521,2,8,False
+299,age limit,age,1,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",299,2,8,False
+807,pending transfer,pending card,45,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",807,2,8,False
+1367,virtual card not working,virtual,72,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1367,2,8,False
+556,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",556,2,8,False
+239,top up by card charge,automatic,4,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",239,2,8,False
+1418,transfer not received by recipient,balance,5,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1418,2,8,False
+203,top up by card charge,automatic,4,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",203,2,8,False
+1265,transfer not received by recipient,failed,35,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1265,2,8,False
+1509,card delivery estimate,activate,0,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1509,2,8,False
+284,age limit,age,1,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",284,2,8,False
+1335,card delivery estimate,order,43,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1335,2,8,False
+517,transfer not received by recipient,transfer not,66,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",517,2,8,False
+458,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",458,2,8,False
+808,pending transfer,pending card,45,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",808,2,8,False
+290,age limit,age,1,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",290,2,8,False
+584,top up reverted,top up re,61,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",584,2,8,False
+129,fiat currency support,fi,36,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",129,2,8,False
+306,age limit,age,1,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",306,2,8,False
+457,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",457,2,8,False
+179,card delivery estimate,card delivery,12,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",179,2,8,False
+628,transfer not received by recipient,to,62,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",628,2,8,False
+26,card not working,card link,13,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",26,2,8,False
+1276,transfer not received by recipient,failed,35,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1276,2,8,False
+839,pending transfer,pending card,45,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",839,2,8,False
+1174,pin blocked,change,21,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1174,2,8,False
+557,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",557,2,8,False
+446,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",446,2,8,False
+1117,transfer not received by recipient,verify,70,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1117,2,8,False
+215,top up by card charge,automatic,4,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",215,2,8,False
+966,transfer timing,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",966,2,8,False
+420,top up reverted,pending top,47,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",420,2,8,False
+614,top up by card charge,to,62,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",614,2,8,False
+192,card delivery estimate,card delivery,12,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",192,2,8,False
+667,virtual card not working,dispos,29,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",667,2,8,False
+852,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",852,2,8,False
+1083,verify source of funds,verify,70,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1083,2,8,False
+1106,verify source of funds,verify,70,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1106,2,8,False
+917,order physical card,request,52,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",917,2,8,False
+508,pending transfer,transfer not,66,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",508,2,8,False
+146,fiat currency support,fi,36,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",146,2,8,False
+1307,top up by cash or cheque,top up by cash,58,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1307,2,8,False
+334,pin blocked,pin,49,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",334,2,8,False
+962,transfer not received by recipient,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",962,2,8,False
+1015,request refund,term,55,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1015,2,8,False
+1486,card not working,activate,0,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1486,2,8,False
+391,contactless not working,contact,23,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",391,2,8,False
+1243,transfer not received by recipient,failed,35,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1243,2,8,False
+69,exchange rate,exchange,32,True,True,False,"{10: 1, 32: 1}","[4184, 1949]",69,2,8,False
+392,contactless not working,contact,23,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",392,2,8,False
+792,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",792,2,8,False
+1448,card acceptance,top up by card,57,False,False,True,"{10: 1, 32: 1}","[4184, 1949]",1448,2,8,False
+490,transfer not received by recipient,transfer not,66,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",490,2,8,False
+676,virtual card not working,dispos,29,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",676,2,8,False
+648,disposable card limits,dispos,29,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",648,2,8,False
+818,pending card payment,pending card,45,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",818,2,8,False
+982,transfer timing,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",982,2,8,False
+973,transfer not received by recipient,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",973,2,8,False
+535,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",535,2,8,False
+793,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",793,2,8,False
+259,card not working,card not,14,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",259,2,8,False
+430,top up reverted,pending top,47,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",430,2,8,False
+481,transfer not received by recipient,transfer not,66,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",481,2,8,False
+567,top up reverted,top up re,61,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",567,2,8,False
+72,exchange rate,exchange,32,True,True,False,"{10: 1, 32: 1}","[4184, 1949]",72,2,8,False
+113,extra charge on statement,extra,34,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",113,2,8,False
+384,contactless not working,contact,23,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",384,2,8,False
+1053,card swallowed,card swallowed,18,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1053,2,8,False
+1401,transfer not received by recipient,balance,5,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1401,2,8,False
+969,transfer not received by recipient,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",969,2,8,False
+312,age limit,age,1,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",312,2,8,False
+892,order physical card,request,52,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",892,2,8,False
+454,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",454,2,8,False
+479,top up limits,top up limits,60,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",479,2,8,False
+650,disposable card limits,dispos,29,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",650,2,8,False
+23,card linking,card link,13,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",23,2,8,False
+1212,exchange rate,receiving,50,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1212,2,8,False
+1214,receiving money,receiving,50,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1214,2,8,False
+1349,card delivery estimate,order,43,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1349,2,8,False
+262,card not working,card not,14,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",262,2,8,False
+48,exchange rate,exchange,32,True,True,False,"{10: 1, 32: 1}","[4184, 1949]",48,2,8,False
+285,activate my card,age,1,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",285,2,8,False
+851,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",851,2,8,False
+1352,card delivery estimate,order,43,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1352,2,8,False
+327,pin blocked,pin,49,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",327,2,8,False
+1438,transfer not received by recipient,balance,5,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1438,2,8,False
+29,card linking,card link,13,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",29,2,8,False
+234,top up by card charge,automatic,4,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",234,2,8,False
+528,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",528,2,8,False
+369,card not working,contact,23,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",369,2,8,False
+128,fiat currency support,fi,36,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",128,2,8,False
+1151,transfer timing,transfer timing,67,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1151,2,8,False
+544,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",544,2,8,False
+884,request refund,request,52,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",884,2,8,False
+593,top up reverted,top up re,61,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",593,2,8,False
+229,top up by card charge,automatic,4,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",229,2,8,False
+876,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",876,2,8,False
+629,transfer not received by recipient,to,62,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",629,2,8,False
+1419,transfer not received by recipient,balance,5,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1419,2,8,False
+821,pending transfer,pending card,45,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",821,2,8,False
+1285,top up by card charge,top up by cash,58,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1285,2,8,False
+678,disposable card limits,dispos,29,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",678,2,8,False
+204,top up by card charge,automatic,4,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",204,2,8,False
+872,card not working,lost,42,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",872,2,8,False
+696,atm support,atm,3,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",696,2,8,False
+219,card not working,automatic,4,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",219,2,8,False
+190,card delivery estimate,card delivery,12,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",190,2,8,False
+379,contactless not working,contact,23,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",379,2,8,False
+1340,card acceptance,order,43,False,False,True,"{10: 1, 32: 1}","[4184, 1949]",1340,2,8,False
+978,transfer not received by recipient,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",978,2,8,False
+645,disposable card limits,dispos,29,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",645,2,8,False
+735,direct debit payment not recognised,direct,28,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",735,2,8,False
+850,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",850,2,8,False
+1353,card delivery estimate,order,43,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1353,2,8,False
+800,card not working,pending card,45,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",800,2,8,False
+1329,card delivery estimate,order,43,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1329,2,8,False
+115,extra charge on statement,extra,34,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",115,2,8,False
+1396,virtual card not working,virtual,72,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1396,2,8,False
+34,card linking,card link,13,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",34,2,8,False
+967,transfer not received by recipient,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",967,2,8,False
+1512,card delivery estimate,activate,0,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1512,2,8,False
+439,pending top up,pending top,47,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",439,2,8,False
+1411,transfer timing,balance,5,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1411,2,8,False
+1217,transfer not received by recipient,receiving,50,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1217,2,8,False
+867,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",867,2,8,False
+704,atm support,atm,3,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",704,2,8,False
+1211,receiving money,receiving,50,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1211,2,8,False
+646,disposable card limits,dispos,29,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",646,2,8,False
+1165,pin blocked,change,21,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1165,2,8,False
+799,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",799,2,8,False
+898,order physical card,request,52,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",898,2,8,False
+36,card not working,card link,13,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",36,2,8,False
+1278,transfer not received by recipient,failed,35,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1278,2,8,False
+324,pin blocked,pin,49,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",324,2,8,False
+689,atm support,atm,3,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",689,2,8,False
+1508,card delivery estimate,activate,0,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1508,2,8,False
+992,transfer timing,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",992,2,8,False
+314,age limit,age,1,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",314,2,8,False
+1082,transfer timing,verify,70,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1082,2,8,False
+1096,verify source of funds,verify,70,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1096,2,8,False
+787,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",787,2,8,False
+842,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",842,2,8,False
+191,card delivery estimate,card delivery,12,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",191,2,8,False
+845,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",845,2,8,False
+1027,request refund,term,55,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1027,2,8,False
+99,extra charge on statement,extra,34,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",99,2,8,False
+552,card acceptance,card acceptance,10,True,True,True,"{10: 1, 32: 1}","[4184, 1949]",552,2,8,False
+1024,terminate account,term,55,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1024,2,8,False
+141,exchange rate,fi,36,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",141,2,8,False
+625,transfer not received by recipient,to,62,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",625,2,8,False
+922,card not working,declined,25,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",922,2,8,False
+977,transfer timing,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",977,2,8,False
+135,exchange rate,fi,36,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",135,2,8,False
+1109,transfer not received by recipient,verify,70,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",1109,2,8,False
+405,top up reverted,pending top,47,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",405,2,8,False
+760,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",760,2,8,False
+1035,terminate account,term,55,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1035,2,8,False
+928,card not working,declined,25,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",928,2,8,False
+976,transfer timing,pending transfer,48,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",976,2,8,False
+963,pending transfer,pending transfer,48,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",963,2,8,False
+762,passcode forgotten,pass,44,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",762,2,8,False
+514,transfer timing,transfer not,66,False,False,False,"{10: 1, 32: 1}","[4184, 1949]",514,2,8,False
+870,lost or stolen phone,lost,42,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",870,2,8,False
+1122,transfer timing,transfer timing,67,False,True,False,"{10: 1, 32: 1}","[4184, 1949]",1122,2,8,False

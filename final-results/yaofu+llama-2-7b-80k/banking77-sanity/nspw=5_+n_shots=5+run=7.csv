@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+3945,cancel transfer,request,52,True,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3945,5,7,False,5
+8741,supported cards and currencies,supported,54,True,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8741,5,7,False,5
+3726,wrong amount of cash received,wrong amount,75,True,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3726,5,7,False,5
+8199,fiat currency support,fi,36,True,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8199,5,7,False,5
+4364,get disposable virtual card,get dispos,37,True,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4364,5,7,False,5
+7292,get physical card,card delivery,12,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7292,5,7,False,5
+468,exchange rate,receiving,50,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",468,5,7,False,5
+1676,transfer into account,transfer into,65,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1676,5,7,False,5
+2356,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2356,5,7,False,5
+8577,exchange rate,wrong exchange,76,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8577,5,7,False,5
+4988,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4988,5,7,False,5
+8843,lost or stolen phone,lost or stolen phone,42,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8843,5,7,False,5
+2737,verify my identity,unable,68,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2737,5,7,False,5
+8399,change pin,edit,30,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8399,5,7,False,5
+865,extra charge on statement,wrong exchange,76,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",865,5,7,False,5
+1122,transfer timing,transfer timing,67,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1122,5,7,False,5
+2040,change pin,change,21,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2040,5,7,False,5
+3570,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3570,5,7,False,5
+7774,card payment fee charged,top up by card,57,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7774,5,7,False,5
+2958,declined card payment,declined card,25,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2958,5,7,False,5
+3234,transfer into account,transfer into,65,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3234,5,7,False,5
+1638,activate my card,activ,0,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1638,5,7,False,5
+2995,top up by card charge,supported,54,True,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2995,5,7,False,5
+1039,verify source of funds,verify source,70,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1039,5,7,False,5
+1036,wrong amount of cash received,extra,34,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1036,5,7,False,5
+4195,get disposable virtual card,lost or stolen phone,42,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4195,5,7,False,5
+4613,top up by card charge,apple,2,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4613,5,7,False,5
+421,top up by card charge,apple,2,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",421,5,7,False,5
+4614,pin blocked,get physical,38,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4614,5,7,False,5
+8447,lost or stolen card,pass,44,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8447,5,7,False,5
+1878,age limit,age,1,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1878,5,7,False,5
+6592,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6592,5,7,False,5
+6933,transfer fee charged,top up by bank,56,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6933,5,7,False,5
+109,request refund,Ref,51,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",109,5,7,False,5
+8177,transfer timing,transfer not,66,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8177,5,7,False,5
+5877,top up by card charge,top up by c,58,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5877,5,7,False,5
+3295,get disposable virtual card,top up by bank,56,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3295,5,7,False,5
+2467,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2467,5,7,False,5
+6355,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6355,5,7,False,5
+3649,card delivery estimate,country,24,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3649,5,7,False,5
+3428,pending card payment,pending card,45,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3428,5,7,False,5
+4955,atm support,cash withdrawal charge,19,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4955,5,7,False,5
+2658,card linking,card linking,13,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2658,5,7,False,5
+6927,card payment fee charged,card payment fee,15,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6927,5,7,False,5
+8135,pin blocked,pin,49,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8135,5,7,False,5
+8900,card acceptance,card accept,10,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8900,5,7,False,5
+2786,transfer fee charged,top up by bank,56,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2786,5,7,False,5
+6308,transfer fee charged,top up by bank,56,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6308,5,7,False,5
+4426,verify top up,verify top,71,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4426,5,7,False,5
+9076,get disposable virtual card,apple,2,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9076,5,7,False,5
+3730,change pin,edit,30,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3730,5,7,False,5
+9118,card payment not recognised,vis,73,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9118,5,7,False,5
+2362,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2362,5,7,False,5
+640,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",640,5,7,False,5
+3003,get disposable virtual card,Ref,51,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3003,5,7,False,5
+728,cancel transfer,terminate,55,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",728,5,7,False,5
+5426,get disposable virtual card,age,1,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5426,5,7,False,5
+3736,activate my card,activ,0,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3736,5,7,False,5
+4402,card payment not recognised,revert,53,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4402,5,7,False,5
+432,cancel transfer,transaction,63,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",432,5,7,False,5
+5560,topping up by card,top up limits,60,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5560,5,7,False,5
+9680,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9680,5,7,False,5
+6527,request refund,Ref,51,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6527,5,7,False,5
+860,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",860,5,7,False,5
+330,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",330,5,7,False,5
+398,exchange rate,exchange rate,32,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",398,5,7,False,5
+2619,transfer not received by recipient,pending transfer,48,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2619,5,7,False,5
+9892,card not working,card linking,13,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9892,5,7,False,5
+9048,cancel transfer,cancel,8,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9048,5,7,False,5
+3533,get disposable virtual card,Ref,51,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3533,5,7,False,5
+5991,verify my identity,why,74,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5991,5,7,False,5
+7219,card not working,lost or stolen card,41,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7219,5,7,False,5
+1433,terminate account,terminate,55,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1433,5,7,False,5
+7683,pending card payment,pending card,45,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7683,5,7,False,5
+65,get disposable virtual card,transfer not,66,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",65,5,7,False,5
+4562,why verify identity,cash withdrawal charge,19,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4562,5,7,False,5
+7740,card delivery estimate,country,24,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7740,5,7,False,5
+6438,transfer not received by recipient,declined transfer,27,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6438,5,7,False,5
+5859,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5859,5,7,False,5
+7280,get disposable virtual card,transaction,63,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7280,5,7,False,5
+4639,get disposable virtual card,Ref,51,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4639,5,7,False,5
+8568,card payment not recognised,declined card,25,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8568,5,7,False,5
+5393,atm support,at,3,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5393,5,7,False,5
+8766,exchange rate,exchange charge,31,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8766,5,7,False,5
+786,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",786,5,7,False,5
+2261,contactless not working,contact,23,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2261,5,7,False,5
+8103,wrong amount of cash received,transfer fee,64,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8103,5,7,False,5
+4102,change pin,pass,44,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4102,5,7,False,5
+9737,cancel transfer,direct,28,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9737,5,7,False,5
+9446,transaction charged twice,declined transfer,27,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9446,5,7,False,5
+1225,virtual card not working,getting virtual,40,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1225,5,7,False,5
+6994,wrong amount of cash received,card payment fee,15,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6994,5,7,False,5
+7112,card not working,declined c,26,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7112,5,7,False,5
+3229,top up reverted,top up revert,61,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3229,5,7,False,5
+6920,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6920,5,7,False,5
+3035,transfer timing,balance not updated after bank,5,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3035,5,7,False,5
+2107,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2107,5,7,False,5
+2396,passcode forgotten,pass,44,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2396,5,7,False,5
+2979,transfer timing,pending transfer,48,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2979,5,7,False,5
+1448,wrong amount of cash received,extra,34,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1448,5,7,False,5
+8318,change pin,change,21,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8318,5,7,False,5
+6319,virtual card not working,getting virtual,40,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6319,5,7,False,5
+7153,wrong amount of cash received,transaction,63,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7153,5,7,False,5
+6996,wrong amount of cash received,cash withdrawal not,20,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6996,5,7,False,5
+1573,verify my identity,unable,68,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1573,5,7,False,5
+5354,card delivery estimate,getting spare,39,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5354,5,7,False,5
+2753,card not working,card not,14,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2753,5,7,False,5
+2595,extra charge on statement,transfer fee,64,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2595,5,7,False,5
+4012,pin blocked,get physical,38,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4012,5,7,False,5
+5674,terminate account,terminate,55,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5674,5,7,False,5
+8032,transfer not received by recipient,failed,35,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8032,5,7,False,5
+3713,change pin,edit,30,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3713,5,7,False,5
+4835,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4835,5,7,False,5
+1946,top up failed,apple,2,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1946,5,7,False,5
+8929,transfer not received by recipient,balance not updated after bank,5,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8929,5,7,False,5
+1857,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1857,5,7,False,5
+4502,get disposable virtual card,card about,9,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4502,5,7,False,5
+9673,card not working,card about,9,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9673,5,7,False,5
+2088,top up by bank transfer charge,top up by bank,56,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2088,5,7,False,5
+2736,top up failed,verify top,71,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2736,5,7,False,5
+3066,wrong amount of cash received,cash withdrawal charge,19,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3066,5,7,False,5
+4858,card delivery estimate,order,43,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4858,5,7,False,5
+8203,wrong amount of cash received,balance not updated after che,6,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8203,5,7,False,5
+9921,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9921,5,7,False,5
+6169,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6169,5,7,False,5
+4648,supported cards and currencies,fi,36,True,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4648,5,7,False,5
+4395,top up by card charge,automatic,4,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4395,5,7,False,5
+6004,transfer into account,transfer into,65,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6004,5,7,False,5
+2561,get disposable virtual card,Ref,51,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2561,5,7,False,5
+980,transfer not received by recipient,transfer not,66,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",980,5,7,False,5
+4745,transfer not received by recipient,transfer not,66,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4745,5,7,False,5
+6674,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6674,5,7,False,5
+7299,failed transfer,declined card,25,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7299,5,7,False,5
+8185,change pin,change,21,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8185,5,7,False,5
+4028,card not working,comprom,22,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4028,5,7,False,5
+1636,extra charge on statement,extra,34,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1636,5,7,False,5
+6706,top up failed,verify top,71,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6706,5,7,False,5
+5437,card not working,card not,14,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5437,5,7,False,5
+9968,top up limits,automatic,4,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9968,5,7,False,5
+6646,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6646,5,7,False,5
+7252,card not working,cash withdrawal not,20,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7252,5,7,False,5
+1938,wrong amount of cash received,extra,34,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1938,5,7,False,5
+9110,get disposable virtual card,virtual,72,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9110,5,7,False,5
+6325,get disposable virtual card,get dispos,37,True,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6325,5,7,False,5
+5027,change pin,change,21,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5027,5,7,False,5
+6689,transfer not received by recipient,pending transfer,48,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6689,5,7,False,5
+3266,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3266,5,7,False,5
+2953,card delivery estimate,card delivery,12,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2953,5,7,False,5
+2565,card not working,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2565,5,7,False,5
+4693,apple pay or google pay,apple,2,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4693,5,7,False,5
+5157,wrong amount of cash received,card payment fee,15,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5157,5,7,False,5
+5025,get disposable virtual card,vis,73,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5025,5,7,False,5
+5929,change pin,change,21,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5929,5,7,False,5
+930,wrong amount of cash received,card payment fee,15,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",930,5,7,False,5
+2965,get disposable virtual card,country,24,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2965,5,7,False,5
+7656,pending card payment,pending card,45,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7656,5,7,False,5
+6743,verify my identity,why,74,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6743,5,7,False,5
+6235,passcode forgotten,pass,44,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6235,5,7,False,5
+5467,exchange rate,fi,36,True,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5467,5,7,False,5
+2694,top up by card charge,apple,2,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2694,5,7,False,5
+8265,virtual card not working,virtual,72,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8265,5,7,False,5
+7702,exchange rate,exchange via,33,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7702,5,7,False,5
+6182,pending card payment,pending card,45,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6182,5,7,False,5
+4692,cancel transfer,cancel,8,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4692,5,7,False,5
+5073,top up by card charge,top up by card,57,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5073,5,7,False,5
+7614,wrong amount of cash received,balance not updated after che,6,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7614,5,7,False,5
+4338,transaction charged twice,pending transfer,48,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4338,5,7,False,5
+8667,exchange rate,exchange rate,32,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8667,5,7,False,5
+8395,get disposable virtual card,verify source,70,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8395,5,7,False,5
+2130,wrong amount of cash received,extra,34,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2130,5,7,False,5
+344,card not working,activ,0,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",344,5,7,False,5
+8296,transfer timing,transfer timing,67,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8296,5,7,False,5
+1498,terminate account,terminate,55,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1498,5,7,False,5
+5406,direct debit payment not recognised,direct,28,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5406,5,7,False,5
+1635,why verify identity,transfer fee,64,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1635,5,7,False,5
+1589,card payment not recognised,revert,53,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1589,5,7,False,5
+3761,card delivery estimate,card about,9,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3761,5,7,False,5
+812,pending cash withdrawal,pending c,46,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",812,5,7,False,5
+1947,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1947,5,7,False,5
+847,top up by card charge,pending top,47,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",847,5,7,False,5
+393,card not working,card about,9,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",393,5,7,False,5
+8473,top up failed,verify top,71,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8473,5,7,False,5
+8623,card delivery estimate,vis,73,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8623,5,7,False,5
+8546,cancel transfer,transaction,63,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8546,5,7,False,5
+949,cash withdrawal not recognised,top up by c,58,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",949,5,7,False,5
+9731,get disposable virtual card,revert,53,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9731,5,7,False,5
+6862,cash withdrawal not recognised,cash withdrawal not,20,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",6862,5,7,False,5
+4959,cash withdrawal not recognised,declined c,26,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4959,5,7,False,5
+575,get disposable virtual card,vis,73,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",575,5,7,False,5
+617,card payment fee charged,card payment fee,15,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",617,5,7,False,5
+3929,change pin,change,21,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3929,5,7,False,5
+8662,exchange rate,exchange rate,32,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8662,5,7,False,5
+9869,cash withdrawal not recognised,pending c,46,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9869,5,7,False,5
+9644,change pin,change,21,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9644,5,7,False,5
+2194,card not working,card payment not,16,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2194,5,7,False,5
+3279,top up by card charge,automatic,4,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3279,5,7,False,5
+836,age limit,age,1,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",836,5,7,False,5
+2300,top up limits,top up limits,60,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2300,5,7,False,5
+5899,transfer not received by recipient,declined transfer,27,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5899,5,7,False,5
+8666,transfer not received by recipient,pending transfer,48,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8666,5,7,False,5
+7555,transfer timing,transfer timing,67,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7555,5,7,False,5
+4811,transfer not received by recipient,benef,7,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4811,5,7,False,5
+2299,change pin,change,21,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2299,5,7,False,5
+3674,change pin,pass,44,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3674,5,7,False,5
+8536,card not working,to,62,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8536,5,7,False,5
+9183,top up failed,top up failed,59,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9183,5,7,False,5
+8593,verify top up,verify top,71,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8593,5,7,False,5
+1969,get disposable virtual card,dispos,29,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1969,5,7,False,5
+2572,verify my identity,verify my,69,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2572,5,7,False,5
+4881,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4881,5,7,False,5
+8826,transfer not received by recipient,transfer not,66,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8826,5,7,False,5
+3288,automatic top up,automatic,4,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3288,5,7,False,5
+4147,card acceptance,card accept,10,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4147,5,7,False,5
+5524,apple pay or google pay,apple,2,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5524,5,7,False,5
+7844,top up failed,top up revert,61,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7844,5,7,False,5
+7440,exchange rate,card payment wrong,17,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7440,5,7,False,5
+7611,age limit,age,1,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7611,5,7,False,5
+4256,top up by card charge,pending top,47,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4256,5,7,False,5
+2028,apple pay or google pay,apple,2,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2028,5,7,False,5
+1578,card not working,top up failed,59,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1578,5,7,False,5
+2751,top up by card charge,automatic,4,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2751,5,7,False,5
+3045,transfer fee charged,receiving,50,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3045,5,7,False,5
+3620,get disposable virtual card,balance not updated after che,6,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3620,5,7,False,5
+3303,get disposable virtual card,getting spare,39,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3303,5,7,False,5
+2613,top up failed,verify top,71,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2613,5,7,False,5
+9269,cancel transfer,cancel,8,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9269,5,7,False,5
+3380,card not working,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3380,5,7,False,5
+3793,card not working,lost or stolen card,41,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3793,5,7,False,5
+2774,get disposable virtual card,Ref,51,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2774,5,7,False,5
+4049,supported cards and currencies,country,24,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4049,5,7,False,5
+9546,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9546,5,7,False,5
+8633,cancel transfer,direct,28,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8633,5,7,False,5
+1440,why verify identity,declined c,26,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1440,5,7,False,5
+8388,get disposable virtual card,pass,44,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",8388,5,7,False,5
+2675,top up by card charge,top up by card,57,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",2675,5,7,False,5
+618,wrong amount of cash received,transfer fee,64,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",618,5,7,False,5
+998,transfer into account,transfer into,65,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",998,5,7,False,5
+9723,top up failed,to,62,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9723,5,7,False,5
+9396,virtual card not working,getting virtual,40,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9396,5,7,False,5
+4828,apple pay or google pay,apple,2,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",4828,5,7,False,5
+5731,card not working,pin,49,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5731,5,7,False,5
+1384,get disposable virtual card,request,52,True,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1384,5,7,False,5
+659,transaction charged twice,transaction,63,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",659,5,7,False,5
+5045,top up limits,top up limits,60,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",5045,5,7,False,5
+3283,top up failed,pending top,47,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3283,5,7,False,5
+3944,card delivery estimate,card arrival,11,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",3944,5,7,False,5
+9462,cancel transfer,revert,53,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9462,5,7,False,5
+7285,card delivery estimate,getting spare,39,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",7285,5,7,False,5
+1141,disposable card limits,dispos,29,False,True,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",1141,5,7,False,5
+9448,get physical card,at,3,False,False,False,"{52: 1, 54: 1, 75: 1, 36: 1, 37: 1}","[3945, 8741, 3726, 8199, 4364]",9448,5,7,False,5

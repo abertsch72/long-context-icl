@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+390,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",390,5,9,False
+1713,lists create or add,lists,38,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1713,5,9,False
+2719,play music,general repeat,28,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2719,5,9,False
+2326,play audiobook,play aud,46,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2326,5,9,False
+1702,iot hue light off,iot hue light off,33,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1702,5,9,False
+2350,general affirm,general explain,22,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2350,5,9,False
+507,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",507,5,9,False
+2994,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2994,5,9,False
+1937,takeaway order,take,61,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1937,5,9,False
+1669,general repeat,general repeat,28,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1669,5,9,False
+2229,general affirm,general affirm,18,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2229,5,9,False
+3083,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3083,5,9,False
+424,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",424,5,9,False
+1118,music query,play music,48,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1118,5,9,False
+967,general quirky,recommendation,57,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",967,5,9,False
+549,alarm query,alarm query,0,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",549,5,9,False
+2217,calendar set,datetime,13,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2217,5,9,False
+1793,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1793,5,9,False
+1928,general explain,general explain,22,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1928,5,9,False
+2437,cooking recipe,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2437,5,9,False
+2331,recommendation locations,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2331,5,9,False
+1316,calendar set,email query,16,True,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1316,5,9,False
+1956,iot hue light change,iot hue lighton,34,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1956,5,9,False
+2879,general quirky,general qu,27,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2879,5,9,False
+2260,play podcasts,play podcast,49,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2260,5,9,False
+2529,iot hue light off,calendar set,9,True,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2529,5,9,False
+3011,play music,play podcast,49,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3011,5,9,False
+909,social query,social,60,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",909,5,9,False
+1771,general repeat,general repeat,28,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1771,5,9,False
+378,alarm remove,alarm remove,1,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",378,5,9,False
+1734,music query,play music,48,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1734,5,9,False
+2270,calendar set,lists,38,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2270,5,9,False
+1495,iot hue light change,iot hue light change,31,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1495,5,9,False
+1017,email query contact,email query,16,True,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1017,5,9,False
+2934,email query contact,email send,17,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2934,5,9,False
+1674,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1674,5,9,False
+2857,email query contact,iot hue light change,31,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2857,5,9,False
+1857,cooking recipe,cooking,11,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1857,5,9,False
+843,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",843,5,9,False
+2147,email query contact,email send,17,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2147,5,9,False
+1221,play podcasts,play podcast,49,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1221,5,9,False
+683,calendar set,transport,63,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",683,5,9,False
+2012,music query,play music,48,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2012,5,9,False
+2004,audio volume mute,audio volume m,4,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2004,5,9,False
+3006,datetime query,datetime,13,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3006,5,9,False
+1509,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1509,5,9,False
+781,iot hue light off,iot hue light off,33,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",781,5,9,False
+2068,play game,play game,47,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2068,5,9,False
+2137,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2137,5,9,False
+2333,alarm remove,alarm remove,1,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2333,5,9,False
+1533,general affirm,general affirm,18,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1533,5,9,False
+2581,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2581,5,9,False
+1853,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1853,5,9,False
+1288,play game,play game,47,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1288,5,9,False
+731,iot hue light change,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",731,5,9,False
+1327,recommendation locations,lists,38,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1327,5,9,False
+113,play podcasts,play podcast,49,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",113,5,9,False
+993,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",993,5,9,False
+2256,email query contact,email query,16,True,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2256,5,9,False
+1656,iot hue light off,iot hue light off,33,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1656,5,9,False
+1935,iot hue light change,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1935,5,9,False
+2403,calendar set,datetime,13,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2403,5,9,False
+1955,general affirm,general affirm,18,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1955,5,9,False
+2452,play audiobook,play aud,46,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2452,5,9,False
+1506,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1506,5,9,False
+486,email query contact,play podcast,49,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",486,5,9,False
+1847,lists create or add,lists,38,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1847,5,9,False
+978,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",978,5,9,False
+1361,general affirm,general repeat,28,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1361,5,9,False
+2887,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2887,5,9,False
+2118,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2118,5,9,False
+132,general explain,general explain,22,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",132,5,9,False
+2018,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2018,5,9,False
+713,email query contact,email query,16,True,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",713,5,9,False
+1417,play game,iot hue light change,31,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1417,5,9,False
+1320,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1320,5,9,False
+2901,iot hue light off,iot hue light off,33,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2901,5,9,False
+2976,music query,play music,48,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2976,5,9,False
+1601,music query,music query,43,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1601,5,9,False
+1438,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1438,5,9,False
+2633,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2633,5,9,False
+69,email query contact,email send,17,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",69,5,9,False
+3043,general affirm,general affirm,18,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3043,5,9,False
+1068,music query,play music,48,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1068,5,9,False
+537,play music,play podcast,49,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",537,5,9,False
+1639,lists create or add,lists,38,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1639,5,9,False
+2358,general repeat,general repeat,28,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2358,5,9,False
+1036,transport query,transport,63,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1036,5,9,False
+427,audio volume mute,audio volume m,4,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",427,5,9,False
+2583,general greet,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2583,5,9,False
+1310,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1310,5,9,False
+1073,datetime query,datetime,13,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1073,5,9,False
+914,recommendation locations,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",914,5,9,False
+1542,iot cleaning,general explain,22,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1542,5,9,False
+2602,datetime query,datetime,13,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2602,5,9,False
+908,iot wemo on,iot w,37,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",908,5,9,False
+935,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",935,5,9,False
+1500,social query,social,60,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1500,5,9,False
+1291,play podcasts,play podcast,49,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1291,5,9,False
+1141,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1141,5,9,False
+964,cooking recipe,cooking,11,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",964,5,9,False
+3024,general greet,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3024,5,9,False
+417,email query contact,email send,17,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",417,5,9,False
+1359,audio volume mute,audio volume m,4,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1359,5,9,False
+2224,general quirky,qa stock,55,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2224,5,9,False
+312,email sendemail,email send,17,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",312,5,9,False
+1625,cooking recipe,cooking,11,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1625,5,9,False
+1800,datetime query,datetime,13,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1800,5,9,False
+224,calendar set,datetime,13,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",224,5,9,False
+1801,email query contact,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1801,5,9,False
+2007,general greet,recommendation,57,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2007,5,9,False
+2573,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2573,5,9,False
+2386,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2386,5,9,False
+271,transport query,play podcast,49,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",271,5,9,False
+1551,music query,play game,47,True,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1551,5,9,False
+1567,general affirm,general affirm,18,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1567,5,9,False
+1610,email query contact,email send,17,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1610,5,9,False
+1677,play music,cooking,11,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1677,5,9,False
+2788,calendar set,datetime,13,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2788,5,9,False
+2466,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2466,5,9,False
+2092,general affirm,general explain,22,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2092,5,9,False
+3076,cooking recipe,cooking,11,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3076,5,9,False
+234,calendar set,lists,38,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",234,5,9,False
+2991,email sendemail,email send,17,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2991,5,9,False
+2402,music query,iot hue lighton,34,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2402,5,9,False
+19,email query contact,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",19,5,9,False
+1936,email query contact,email query,16,True,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1936,5,9,False
+1153,cooking recipe,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1153,5,9,False
+1821,email query contact,email send,17,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1821,5,9,False
+2433,cooking recipe,cooking,11,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2433,5,9,False
+2702,email query contact,email send,17,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2702,5,9,False
+971,recommendation locations,play game,47,True,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",971,5,9,False
+880,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",880,5,9,False
+901,general affirm,general affirm,18,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",901,5,9,False
+1809,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1809,5,9,False
+1135,general greet,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1135,5,9,False
+757,music query,play music,48,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",757,5,9,False
+470,music query,play music,48,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",470,5,9,False
+2664,general explain,general explain,22,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2664,5,9,False
+2938,general affirm,general explain,22,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2938,5,9,False
+1930,email add contact,email add,14,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1930,5,9,False
+1650,email query contact,email query,16,True,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1650,5,9,False
+1412,cooking recipe,cooking,11,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1412,5,9,False
+238,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",238,5,9,False
+2063,takeaway order,take,61,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2063,5,9,False
+2346,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2346,5,9,False
+2729,play game,play game,47,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2729,5,9,False
+2009,datetime query,datetime,13,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2009,5,9,False
+2724,takeaway order,iot cleaning,29,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2724,5,9,False
+1774,iot hue light change,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1774,5,9,False
+539,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",539,5,9,False
+2661,play podcasts,play podcast,49,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2661,5,9,False
+1559,iot hue light change,iot hue light change,31,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1559,5,9,False
+1549,music query,audio volume m,4,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1549,5,9,False
+599,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",599,5,9,False
+2965,general explain,general explain,22,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2965,5,9,False
+933,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",933,5,9,False
+825,transport query,transport,63,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",825,5,9,False
+2949,iot wemo on,general explain,22,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2949,5,9,False
+1653,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1653,5,9,False
+1659,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1659,5,9,False
+976,general affirm,general affirm,18,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",976,5,9,False
+2438,general quirky,qa stock,55,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2438,5,9,False
+2419,email sendemail,email send,17,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2419,5,9,False
+1538,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1538,5,9,False
+2929,general affirm,qa stock,55,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2929,5,9,False
+1754,general greet,general gre,23,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1754,5,9,False
+1049,cooking recipe,cooking,11,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1049,5,9,False
+2227,calendar set,general qu,27,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2227,5,9,False
+94,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",94,5,9,False
+1947,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1947,5,9,False
+2850,calendar set,general qu,27,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2850,5,9,False
+1535,email query contact,email query,16,True,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1535,5,9,False
+2404,iot hue light change,iot hue light change,31,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2404,5,9,False
+60,music query,play music,48,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",60,5,9,False
+1321,play music,general repeat,28,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1321,5,9,False
+1773,general quirky,qa math,54,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1773,5,9,False
+142,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",142,5,9,False
+735,social query,social,60,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",735,5,9,False
+1006,alarm query,alarm query,0,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1006,5,9,False
+1202,iot hue light change,iot hue lighton,34,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1202,5,9,False
+302,email query contact,email send,17,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",302,5,9,False
+694,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",694,5,9,False
+1139,play podcasts,play podcast,49,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1139,5,9,False
+1285,play game,general repeat,28,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1285,5,9,False
+1300,iot hue light change,iot hue lighton,34,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1300,5,9,False
+2593,general explain,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2593,5,9,False
+1277,transport query,transport,63,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1277,5,9,False
+2323,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2323,5,9,False
+1350,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1350,5,9,False
+1053,iot hue light change,iot hue light change,31,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1053,5,9,False
+1020,audio volume mute,audio volume other,5,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1020,5,9,False
+2501,music query,iot hue light change,31,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2501,5,9,False
+1888,recommendation locations,recommendation,57,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1888,5,9,False
+1514,iot hue light change,iot hue light change,31,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1514,5,9,False
+2642,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2642,5,9,False
+1253,general explain,general explain,22,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1253,5,9,False
+793,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",793,5,9,False
+65,play game,play game,47,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",65,5,9,False
+1696,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1696,5,9,False
+476,email add contact,email add,14,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",476,5,9,False
+520,transport query,transport,63,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",520,5,9,False
+2845,datetime query,datetime,13,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2845,5,9,False
+2011,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2011,5,9,False
+2123,takeaway order,take,61,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2123,5,9,False
+1152,general affirm,general affirm,18,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1152,5,9,False
+826,iot hue light change,iot hue light change,31,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",826,5,9,False
+1268,general affirm,transport,63,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1268,5,9,False
+3062,general repeat,general repeat,28,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3062,5,9,False
+47,iot hue light change,iot hue light change,31,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",47,5,9,False
+1695,calendar set,datetime,13,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1695,5,9,False
+1493,alarm remove,alarm remove,1,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1493,5,9,False
+2233,iot wemo on,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2233,5,9,False
+2373,datetime query,datetime,13,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2373,5,9,False
+1683,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1683,5,9,False
+2650,general greet,iot hue light change,31,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2650,5,9,False
+523,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",523,5,9,False
+2621,email sendemail,email send,17,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2621,5,9,False
+2268,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2268,5,9,False
+2120,alarm query,alarm query,0,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2120,5,9,False
+791,general affirm,general explain,22,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",791,5,9,False
+1207,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1207,5,9,False
+2167,play game,general repeat,28,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2167,5,9,False
+553,iot wemo on,general explain,22,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",553,5,9,False
+604,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",604,5,9,False
+1278,play audiobook,general repeat,28,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1278,5,9,False
+521,social query,social,60,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",521,5,9,False
+827,transport query,transport,63,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",827,5,9,False
+776,takeaway order,take,61,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",776,5,9,False
+3086,calendar set,datetime,13,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3086,5,9,False
+1660,social query,social,60,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1660,5,9,False
+1420,audio volume other,iot hue light change,31,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1420,5,9,False
+1940,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1940,5,9,False
+1108,iot wemo on,qa stock,55,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1108,5,9,False
+1375,play game,play game,47,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1375,5,9,False
+2150,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2150,5,9,False
+1379,iot cleaning,general explain,22,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1379,5,9,False
+1934,calendar remove,calendar remove,8,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1934,5,9,False
+1554,general affirm,general qu,27,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1554,5,9,False
+3051,general affirm,email send,17,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",3051,5,9,False
+1907,general greet,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1907,5,9,False
+2813,play music,play aud,46,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2813,5,9,False
+324,calendar set,calendar set,9,True,True,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",324,5,9,False
+2250,takeaway order,general qu,27,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2250,5,9,False
+2819,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2819,5,9,False
+2569,play music,play music,48,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",2569,5,9,False
+555,general affirm,general qu,27,False,False,True,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",555,5,9,False
+495,email sendemail,email send,17,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",495,5,9,False
+1336,music query,music query,43,False,True,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1336,5,9,False
+1797,general greet,transport,63,False,False,False,"{18: 1, 47: 1, 9: 1, 8: 1, 16: 1}","[5833, 1160, 2949, 6124, 7704]",1797,5,9,False

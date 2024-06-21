@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+1104,transfer not received by recipient,benef,7,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1104,5,2,False
+472,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",472,5,2,False
+1453,card about to expire,card about,9,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1453,5,2,False
+835,lost or stolen phone,lost or stolen phone,42,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",835,5,2,False
+939,card payment not recognised,transaction,63,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",939,5,2,False
+707,verify my identity,unable,68,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",707,5,2,False
+378,contactless not working,contact,23,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",378,5,2,False
+1078,card payment not recognised,re,53,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1078,5,2,False
+451,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",451,5,2,False
+1467,card not working,card about,9,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1467,5,2,False
+652,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",652,5,2,False
+771,card payment not recognised,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",771,5,2,False
+1279,top up failed,top up failed,59,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1279,5,2,False
+659,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",659,5,2,False
+67,exchange rate,exchange rate,32,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",67,5,2,False
+770,card payment not recognised,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",770,5,2,False
+679,transaction charged twice,card payment not,16,True,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",679,5,2,False
+954,transaction charged twice,transaction,63,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",954,5,2,False
+917,terminate account,term,55,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",917,5,2,False
+1222,card payment not recognised,get dispos,37,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1222,5,2,False
+604,card acceptance,card acceptance,10,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",604,5,2,False
+240,exchange via app,exchange via,33,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",240,5,2,False
+1316,card payment not recognised,cash,20,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1316,5,2,False
+1229,get disposable virtual card,get dispos,37,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1229,5,2,False
+1004,transfer timing,transfer timing,67,True,True,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1004,5,2,False
+1130,receiving money,receiving,50,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1130,5,2,False
+106,exchange rate,card payment wrong,17,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",106,5,2,False
+1041,card payment not recognised,re,53,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1041,5,2,False
+455,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",455,5,2,False
+1380,top up by card charge,top up by,57,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1380,5,2,False
+325,pin blocked,pin,49,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",325,5,2,False
+742,pin blocked,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",742,5,2,False
+1439,card not working,activate,0,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1439,5,2,False
+938,transaction charged twice,transaction,63,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",938,5,2,False
+401,top up failed,pending,47,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",401,5,2,False
+1212,activate my card,get dispos,37,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1212,5,2,False
+756,pin blocked,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",756,5,2,False
+1180,card payment fee charged,failed,35,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1180,5,2,False
+122,transaction charged twice,extra,34,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",122,5,2,False
+1517,verify my identity,verify my,69,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1517,5,2,False
+227,card not working,card not,14,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",227,5,2,False
+1321,exchange rate,exchange charge,31,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1321,5,2,False
+393,contactless not working,contact,23,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",393,5,2,False
+997,transaction charged twice,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",997,5,2,False
+924,transaction charged twice,transaction,63,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",924,5,2,False
+244,exchange via app,exchange via,33,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",244,5,2,False
+181,automatic top up,automatic,4,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",181,5,2,False
+1169,transfer not received by recipient,failed,35,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1169,5,2,False
+666,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",666,5,2,False
+1026,transfer timing,transfer timing,67,True,True,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1026,5,2,False
+769,card payment not recognised,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",769,5,2,False
+1063,card payment not recognised,re,53,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1063,5,2,False
+421,top up failed,pending,47,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",421,5,2,False
+131,transaction charged twice,extra,34,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",131,5,2,False
+155,extra charge on statement,extra,34,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",155,5,2,False
+459,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",459,5,2,False
+371,contactless not working,contact,23,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",371,5,2,False
+15,reverted card payment?,card link,13,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",15,5,2,False
+1254,top up failed,top up failed,59,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1254,5,2,False
+197,automatic top up,automatic,4,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",197,5,2,False
+523,transaction charged twice,transfer not,66,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",523,5,2,False
+527,transfer not received by recipient,transfer not,66,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",527,5,2,False
+382,contactless not working,contact,23,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",382,5,2,False
+619,card acceptance,card acceptance,10,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",619,5,2,False
+868,Refund not showing up,Ref,51,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",868,5,2,False
+1095,transfer not received by recipient,benef,7,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1095,5,2,False
+1406,card not working,activate,0,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1406,5,2,False
+1368,top up by card charge,top up by,57,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1368,5,2,False
+344,pin blocked,pin,49,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",344,5,2,False
+429,top up failed,pending,47,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",429,5,2,False
+291,card not working,lost or stolen card,41,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",291,5,2,False
+474,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",474,5,2,False
+136,extra charge on statement,extra,34,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",136,5,2,False
+781,card payment not recognised,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",781,5,2,False
+1019,transfer timing,transfer timing,67,True,True,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1019,5,2,False
+1485,verify my identity,verify my,69,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1485,5,2,False
+738,pin blocked,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",738,5,2,False
+903,terminate account,term,55,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",903,5,2,False
+723,pin blocked,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",723,5,2,False
+87,exchange rate,card payment wrong,17,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",87,5,2,False
+1184,transfer not received by recipient,failed,35,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1184,5,2,False
+744,card payment not recognised,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",744,5,2,False
+727,card payment not recognised,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",727,5,2,False
+857,transaction charged twice,Ref,51,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",857,5,2,False
+355,card payment not recognised,pin,49,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",355,5,2,False
+1294,card payment not recognised,cash,20,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1294,5,2,False
+517,card payment fee charged,card payment fee,15,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",517,5,2,False
+299,lost or stolen card,lost or stolen card,41,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",299,5,2,False
+804,lost or stolen card,lost or stolen phone,42,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",804,5,2,False
+1367,top up by card charge,top up by,57,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1367,5,2,False
+555,transfer timing,transfer not,66,False,False,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",555,5,2,False
+239,card not working,card not,14,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",239,5,2,False
+1418,activate my card,activate,0,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1418,5,2,False
+203,card not working,card not,14,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",203,5,2,False
+1044,transaction charged twice,re,53,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1044,5,2,False
+1509,verify my identity,verify my,69,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1509,5,2,False
+284,lost or stolen card,lost or stolen card,41,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",284,5,2,False
+1335,exchange rate,exchange charge,31,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1335,5,2,False
+513,transaction charged twice,card payment fee,15,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",513,5,2,False
+458,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",458,5,2,False
+805,lost or stolen phone,lost or stolen phone,42,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",805,5,2,False
+290,lost or stolen card,lost or stolen card,41,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",290,5,2,False
+583,get physical card,getting,40,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",583,5,2,False
+128,extra charge on statement,extra,34,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",128,5,2,False
+306,lost or stolen card,lost or stolen card,41,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",306,5,2,False
+457,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",457,5,2,False
+179,automatic top up,automatic,4,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",179,5,2,False
+627,card payment not recognised,card acceptance,10,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",627,5,2,False
+26,card not working,card link,13,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",26,5,2,False
+1276,top up failed,top up failed,59,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1276,5,2,False
+836,lost or stolen phone,lost or stolen phone,42,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",836,5,2,False
+1174,transfer not received by recipient,failed,35,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1174,5,2,False
+556,transaction charged twice,transfer not,66,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",556,5,2,False
+446,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",446,5,2,False
+1117,unable to verify identity,benef,7,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1117,5,2,False
+215,card not working,card not,14,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",215,5,2,False
+964,transaction charged twice,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",964,5,2,False
+420,top up failed,pending,47,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",420,5,2,False
+613,card acceptance,card acceptance,10,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",613,5,2,False
+192,automatic top up,automatic,4,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",192,5,2,False
+667,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",667,5,2,False
+849,Refund not showing up,Ref,51,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",849,5,2,False
+1083,transfer not received by recipient,benef,7,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1083,5,2,False
+1106,transfer not received by recipient,benef,7,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1106,5,2,False
+915,terminate account,term,55,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",915,5,2,False
+504,extra charge on statement,card payment fee,15,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",504,5,2,False
+145,extra charge on statement,extra,34,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",145,5,2,False
+1307,transaction charged twice,cash,20,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1307,5,2,False
+334,pin blocked,pin,49,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",334,5,2,False
+960,verify source of funds,verify source,70,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",960,5,2,False
+1013,transfer timing,transfer timing,67,True,True,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1013,5,2,False
+1486,verify my identity,verify my,69,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1486,5,2,False
+391,contactless not working,contact,23,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",391,5,2,False
+1244,top up failed,top up failed,59,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1244,5,2,False
+69,exchange rate,exchange rate,32,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",69,5,2,False
+392,contactless not working,contact,23,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",392,5,2,False
+789,card not working,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",789,5,2,False
+1331,exchange rate,exchange charge,31,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1331,5,2,False
+490,card payment fee charged,card payment fee,15,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",490,5,2,False
+676,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",676,5,2,False
+647,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",647,5,2,False
+815,lost or stolen phone,lost or stolen phone,42,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",815,5,2,False
+980,transaction charged twice,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",980,5,2,False
+971,transaction charged twice,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",971,5,2,False
+531,transfer not received by recipient,transfer not,66,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",531,5,2,False
+790,card not working,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",790,5,2,False
+259,exchange rate,exchange via,33,True,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",259,5,2,False
+430,top up failed,pending,47,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",430,5,2,False
+481,card payment fee charged,card payment fee,15,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",481,5,2,False
+566,get physical card,getting,40,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",566,5,2,False
+72,exchange rate,exchange rate,32,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",72,5,2,False
+112,exchange rate,card payment wrong,17,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",112,5,2,False
+384,contactless not working,contact,23,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",384,5,2,False
+1039,transfer timing,transfer timing,67,True,True,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1039,5,2,False
+1401,card not working,activate,0,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1401,5,2,False
+967,transaction charged twice,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",967,5,2,False
+312,card payment not recognised,lost or stolen card,41,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",312,5,2,False
+891,terminate account,term,55,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",891,5,2,False
+454,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",454,5,2,False
+479,top up limits,top up limits,60,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",479,5,2,False
+649,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",649,5,2,False
+23,card linking,card link,13,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",23,5,2,False
+1213,card payment not recognised,get dispos,37,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1213,5,2,False
+1215,get disposable virtual card,get dispos,37,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1215,5,2,False
+1349,exchange rate,exchange charge,31,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1349,5,2,False
+262,exchange via app,exchange via,33,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",262,5,2,False
+48,exchange rate,exchange rate,32,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",48,5,2,False
+285,lost or stolen card,lost or stolen card,41,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",285,5,2,False
+848,Refund not showing up,Ref,51,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",848,5,2,False
+1352,exchange charge,exchange charge,31,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1352,5,2,False
+327,pin blocked,pin,49,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",327,5,2,False
+1438,activate my card,activate,0,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1438,5,2,False
+29,card linking,card link,13,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",29,5,2,False
+234,card not working,card not,14,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",234,5,2,False
+524,transfer not received by recipient,transfer not,66,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",524,5,2,False
+369,card not working,contact,23,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",369,5,2,False
+127,transaction charged twice,extra,34,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",127,5,2,False
+1277,top up failed,top up failed,59,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1277,5,2,False
+543,transfer not received by recipient,transfer not,66,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",543,5,2,False
+883,terminate account,term,55,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",883,5,2,False
+592,get physical card,getting,40,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",592,5,2,False
+229,card not working,card not,14,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",229,5,2,False
+874,transaction charged twice,Ref,51,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",874,5,2,False
+628,card acceptance,card acceptance,10,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",628,5,2,False
+1195,transfer not received by recipient,failed,35,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1195,5,2,False
+818,lost or stolen phone,lost or stolen phone,42,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",818,5,2,False
+1285,transaction charged twice,cash,20,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1285,5,2,False
+678,transaction charged twice,card payment not,16,True,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",678,5,2,False
+204,card not working,card not,14,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",204,5,2,False
+869,transaction charged twice,Ref,51,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",869,5,2,False
+696,verify my identity,unable,68,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",696,5,2,False
+219,card not working,card not,14,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",219,5,2,False
+190,automatic top up,automatic,4,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",190,5,2,False
+379,contactless not working,contact,23,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",379,5,2,False
+1139,receiving money,receiving,50,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1139,5,2,False
+976,verify my identity,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",976,5,2,False
+644,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",644,5,2,False
+733,card payment not recognised,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",733,5,2,False
+847,Refund not showing up,Ref,51,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",847,5,2,False
+1353,exchange rate,exchange charge,31,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1353,5,2,False
+797,card not working,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",797,5,2,False
+1329,exchange charge,exchange charge,31,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1329,5,2,False
+114,exchange rate,card payment wrong,17,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",114,5,2,False
+1396,top up by card charge,top up by,57,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1396,5,2,False
+34,card payment not recognised,card link,13,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",34,5,2,False
+965,transaction charged twice,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",965,5,2,False
+1226,get disposable virtual card,get dispos,37,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1226,5,2,False
+439,top up failed,pending,47,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",439,5,2,False
+1411,card payment not recognised,activate,0,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1411,5,2,False
+1218,get disposable virtual card,get dispos,37,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1218,5,2,False
+864,Refund not showing up,Ref,51,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",864,5,2,False
+704,verify my identity,unable,68,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",704,5,2,False
+1362,card payment fee charged,top up by,57,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1362,5,2,False
+645,card payment not recognised,card payment not,16,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",645,5,2,False
+1165,transfer not received by recipient,failed,35,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1165,5,2,False
+796,card payment not recognised,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",796,5,2,False
+897,terminate account,term,55,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",897,5,2,False
+36,reverted card payment?,card link,13,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",36,5,2,False
+1278,top up failed,top up failed,59,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1278,5,2,False
+324,pin blocked,pin,49,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",324,5,2,False
+689,verify my identity,unable,68,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",689,5,2,False
+1508,verify my identity,verify my,69,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1508,5,2,False
+990,transaction charged twice,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",990,5,2,False
+314,card not working,lost or stolen card,41,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",314,5,2,False
+1082,transfer not received by recipient,benef,7,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1082,5,2,False
+1096,transfer not received by recipient,benef,7,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1096,5,2,False
+784,card payment not recognised,comprom,22,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",784,5,2,False
+839,lost or stolen card,lost or stolen phone,42,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",839,5,2,False
+191,automatic top up,automatic,4,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",191,5,2,False
+842,Refund not showing up,Ref,51,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",842,5,2,False
+1025,transfer timing,transfer timing,67,True,True,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1025,5,2,False
+99,exchange rate,card payment wrong,17,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",99,5,2,False
+551,transfer timing,transfer not,66,False,False,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",551,5,2,False
+1022,transfer timing,transfer timing,67,True,True,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1022,5,2,False
+140,transaction charged twice,extra,34,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",140,5,2,False
+624,card acceptance,card acceptance,10,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",624,5,2,False
+919,terminate account,term,55,True,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",919,5,2,False
+975,verify source of funds,verify source,70,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",975,5,2,False
+134,extra charge on statement,extra,34,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",134,5,2,False
+1142,top up by card charge,receiving,50,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1142,5,2,False
+405,top up failed,pending,47,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",405,5,2,False
+757,card payment not recognised,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",757,5,2,False
+1034,transfer timing,transfer timing,67,True,True,True,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1034,5,2,False
+925,transaction charged twice,transaction,63,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",925,5,2,False
+974,verify source of funds,verify source,70,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",974,5,2,False
+961,transaction charged twice,verify source,70,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",961,5,2,False
+759,pin blocked,get physical,38,False,False,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",759,5,2,False
+510,card payment fee charged,card payment fee,15,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",510,5,2,False
+867,Refund not showing up,Ref,51,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",867,5,2,False
+1444,card about to expire,card about,9,False,True,False,"{55: 1, 4: 1, 67: 1, 16: 1, 33: 1}","[351, 2208, 1962, 139, 774]",1444,5,2,False

@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+8382,declined card payment,declined card,25,True,True,False,{25: 1},[8382],8382,1,5,False
+4437,declined card payment,declined card,25,True,True,False,{25: 1},[8382],4437,1,5,False
+2348,card payment not recognised,cash withdrawal not,20,False,False,False,{25: 1},[8382],2348,1,5,False
+7139,declined card payment,pass,44,False,False,False,{25: 1},[8382],7139,1,5,False
+3104,atm support,at,3,False,True,False,{25: 1},[8382],3104,1,5,False
+5698,declined card payment,card payment wrong,17,False,False,False,{25: 1},[8382],5698,1,5,False
+8950,declined card payment,wrong exchange,76,False,False,False,{25: 1},[8382],8950,1,5,False
+2658,card linking,card linking,13,False,True,False,{25: 1},[8382],2658,1,5,False
+9151,cash withdrawal not recognised,balance not updated after che,6,False,False,False,{25: 1},[8382],9151,1,5,False
+6372,card payment not recognised,comprom,22,False,False,False,{25: 1},[8382],6372,1,5,False
+332,card not working,card linking,13,False,False,False,{25: 1},[8382],332,1,5,False
+6080,declined card payment,balance not updated after bank,5,False,False,False,{25: 1},[8382],6080,1,5,False
+5685,declined card payment,country,24,False,False,False,{25: 1},[8382],5685,1,5,False
+650,declined card payment,extra,34,False,False,False,{25: 1},[8382],650,1,5,False
+7251,declined card payment,top up limits,60,False,False,False,{25: 1},[8382],7251,1,5,False
+970,declined card payment,revert,53,False,False,False,{25: 1},[8382],970,1,5,False
+5650,exchange rate,exchange rate,32,False,True,False,{25: 1},[8382],5650,1,5,False
+7021,exchange rate,exchange charge,31,False,False,False,{25: 1},[8382],7021,1,5,False
+9557,get physical card,getting virtual,40,False,False,False,{25: 1},[8382],9557,1,5,False
+7921,card payment not recognised,order,43,False,False,False,{25: 1},[8382],7921,1,5,False
+5099,card payment not recognised,card linking,13,False,False,False,{25: 1},[8382],5099,1,5,False
+2203,declined card payment,balance not updated after bank,5,False,False,False,{25: 1},[8382],2203,1,5,False
+2261,card payment not recognised,contact,23,False,False,False,{25: 1},[8382],2261,1,5,False
+5026,wrong amount of cash received,wrong amount,75,False,True,False,{25: 1},[8382],5026,1,5,False
+8243,card payment not recognised,vis,73,False,False,False,{25: 1},[8382],8243,1,5,False
+4313,declined card payment,top up by bank,56,False,False,False,{25: 1},[8382],4313,1,5,False
+8584,get physical card,getting spare,39,False,False,False,{25: 1},[8382],8584,1,5,False
+5657,card payment fee charged,card payment fee,15,False,True,False,{25: 1},[8382],5657,1,5,False
+498,declined card payment,declined transfer,27,False,False,False,{25: 1},[8382],498,1,5,False
+4727,declined card payment,transaction,63,False,False,False,{25: 1},[8382],4727,1,5,False
+7455,declined card payment,apple,2,False,False,False,{25: 1},[8382],7455,1,5,False
+7093,exchange rate,exchange via,33,False,False,False,{25: 1},[8382],7093,1,5,False
+3127,declined card payment,cash withdrawal charge,19,False,False,False,{25: 1},[8382],3127,1,5,False
+1992,lost or stolen card,lost or stolen card,41,False,True,False,{25: 1},[8382],1992,1,5,False
+2371,cancel transfer,card payment fee,15,False,False,False,{25: 1},[8382],2371,1,5,False
+2763,declined card payment,cancel,8,False,False,False,{25: 1},[8382],2763,1,5,False
+667,card payment not recognised,getting spare,39,False,False,False,{25: 1},[8382],667,1,5,False
+7557,cash withdrawal not recognised,top up by c,58,False,False,False,{25: 1},[8382],7557,1,5,False
+1980,declined card payment,verify my,69,False,False,False,{25: 1},[8382],1980,1,5,False
+880,declined card payment,transfer fee,64,False,False,False,{25: 1},[8382],880,1,5,False
+3922,declined card payment,card payment not,16,False,False,False,{25: 1},[8382],3922,1,5,False
+6671,transfer not received by recipient,pending transfer,48,False,False,False,{25: 1},[8382],6671,1,5,False
+6290,exchange rate,card payment wrong,17,False,False,False,{25: 1},[8382],6290,1,5,False
+1781,declined card payment,balance not updated after che,6,False,False,False,{25: 1},[8382],1781,1,5,False
+7191,declined card payment,balance not updated after che,6,False,False,False,{25: 1},[8382],7191,1,5,False
+6748,change pin,edit,30,False,False,False,{25: 1},[8382],6748,1,5,False
+7627,card payment not recognised,get dispos,37,False,False,False,{25: 1},[8382],7627,1,5,False
+9538,declined card payment,top up revert,61,False,False,False,{25: 1},[8382],9538,1,5,False
+2068,wrong amount of cash received,wrong amount,75,False,True,False,{25: 1},[8382],2068,1,5,False
+330,cash withdrawal not recognised,pending c,46,False,False,False,{25: 1},[8382],330,1,5,False
+9336,top up limits,top up limits,60,False,True,False,{25: 1},[8382],9336,1,5,False
+4914,declined card payment,pending card,45,False,False,False,{25: 1},[8382],4914,1,5,False
+2475,order physical card,get dispos,37,False,False,False,{25: 1},[8382],2475,1,5,False
+4133,pending cash withdrawal,pending c,46,False,True,False,{25: 1},[8382],4133,1,5,False
+1896,declined card payment,verify top,71,False,False,False,{25: 1},[8382],1896,1,5,False
+709,declined card payment,top up by bank,56,False,False,False,{25: 1},[8382],709,1,5,False
+9341,verify my identity,why,74,False,False,False,{25: 1},[8382],9341,1,5,False
+2372,why verify identity,balance not updated after che,6,False,False,False,{25: 1},[8382],2372,1,5,False
+5648,declined card payment,transfer not,66,False,False,False,{25: 1},[8382],5648,1,5,False
+8593,declined card payment,verify top,71,False,False,False,{25: 1},[8382],8593,1,5,False
+3673,transfer fee charged,benef,7,False,False,False,{25: 1},[8382],3673,1,5,False
+3678,lost or stolen phone,lost or stolen phone,42,False,True,False,{25: 1},[8382],3678,1,5,False
+6447,card payment not recognised,vis,73,False,False,False,{25: 1},[8382],6447,1,5,False
+2239,declined card payment,pin,49,False,False,False,{25: 1},[8382],2239,1,5,False
+8296,card payment not recognised,transfer timing,67,False,False,False,{25: 1},[8382],8296,1,5,False
+89,card not working,card arrival,11,False,False,False,{25: 1},[8382],89,1,5,False
+4004,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{25: 1},[8382],4004,1,5,False
+5058,card payment not recognised,order,43,False,False,False,{25: 1},[8382],5058,1,5,False
+4239,verify my identity,balance not updated after che,6,False,False,False,{25: 1},[8382],4239,1,5,False
+4517,transfer fee charged,top up by bank,56,False,False,False,{25: 1},[8382],4517,1,5,False
+9723,top up failed,to,62,False,False,False,{25: 1},[8382],9723,1,5,False
+2944,declined card payment,card payment not,16,False,False,False,{25: 1},[8382],2944,1,5,False
+7348,declined card payment,declined card,25,True,True,False,{25: 1},[8382],7348,1,5,False
+6956,top up failed,top up revert,61,False,False,False,{25: 1},[8382],6956,1,5,False
+3753,get physical card,card sw,18,False,False,False,{25: 1},[8382],3753,1,5,False
+264,transfer fee charged,to,62,False,False,False,{25: 1},[8382],264,1,5,False
+282,card payment not recognised,why,74,False,False,False,{25: 1},[8382],282,1,5,False
+8415,get disposable virtual card,get dispos,37,False,True,False,{25: 1},[8382],8415,1,5,False
+8456,card payment fee charged,card payment fee,15,False,True,False,{25: 1},[8382],8456,1,5,False
+8459,card payment fee charged,card payment fee,15,False,True,False,{25: 1},[8382],8459,1,5,False
+8821,get physical card,wrong exchange,76,False,False,False,{25: 1},[8382],8821,1,5,False
+6483,declined card payment,apple,2,False,False,False,{25: 1},[8382],6483,1,5,False
+5682,card payment not recognised,card arrival,11,False,False,False,{25: 1},[8382],5682,1,5,False
+780,terminate account,terminate,55,False,True,False,{25: 1},[8382],780,1,5,False
+5687,get physical card,getting virtual,40,False,False,False,{25: 1},[8382],5687,1,5,False
+7509,card payment not recognised,verify my,69,False,False,False,{25: 1},[8382],7509,1,5,False
+2536,age limit,age,1,False,True,False,{25: 1},[8382],2536,1,5,False
+7058,card payment not recognised,pin,49,False,False,False,{25: 1},[8382],7058,1,5,False
+2035,top up by card charge,apple,2,False,False,False,{25: 1},[8382],2035,1,5,False
+4027,declined card payment,revert,53,False,False,False,{25: 1},[8382],4027,1,5,False
+8098,transfer fee charged,transfer timing,67,False,False,False,{25: 1},[8382],8098,1,5,False
+8401,change pin,edit,30,False,False,False,{25: 1},[8382],8401,1,5,False
+4916,card payment not recognised,supported,54,False,False,False,{25: 1},[8382],4916,1,5,False
+7102,exchange rate,fi,36,False,False,False,{25: 1},[8382],7102,1,5,False
+6328,declined card payment,declined transfer,27,False,False,False,{25: 1},[8382],6328,1,5,False
+7206,declined card payment,card sw,18,False,False,False,{25: 1},[8382],7206,1,5,False
+7217,top up failed,pending top,47,False,False,False,{25: 1},[8382],7217,1,5,False
+3,exchange rate,exchange charge,31,False,False,False,{25: 1},[8382],3,1,5,False
+2821,declined card payment,pending card,45,False,False,False,{25: 1},[8382],2821,1,5,False
+8269,exchange rate,exchange charge,31,False,False,False,{25: 1},[8382],8269,1,5,False
+3999,card payment fee charged,card payment fee,15,False,True,False,{25: 1},[8382],3999,1,5,False
+9170,cancel transfer,card payment fee,15,False,False,False,{25: 1},[8382],9170,1,5,False
+779,declined card payment,cash withdrawal not,20,False,False,False,{25: 1},[8382],779,1,5,False
+9824,change pin,change,21,False,True,False,{25: 1},[8382],9824,1,5,False
+4467,transfer not received by recipient,balance not updated after bank,5,False,False,False,{25: 1},[8382],4467,1,5,False
+3438,transfer fee charged,top up by bank,56,False,False,False,{25: 1},[8382],3438,1,5,False
+659,declined card payment,transaction,63,False,False,False,{25: 1},[8382],659,1,5,False
+5194,declined card payment,virtual,72,False,False,False,{25: 1},[8382],5194,1,5,False
+1633,card delivery estimate,order,43,False,False,False,{25: 1},[8382],1633,1,5,False
+8348,cancel transfer,request,52,False,False,False,{25: 1},[8382],8348,1,5,False
+4796,top up by card charge,top up limits,60,False,False,False,{25: 1},[8382],4796,1,5,False
+536,lost or stolen card,lost or stolen phone,42,False,False,False,{25: 1},[8382],536,1,5,False
+5710,declined card payment,wrong amount,75,False,False,False,{25: 1},[8382],5710,1,5,False
+4654,card payment not recognised,dispos,29,False,False,False,{25: 1},[8382],4654,1,5,False
+274,exchange rate,exchange charge,31,False,False,False,{25: 1},[8382],274,1,5,False
+7622,balance not updated after bank transfer,balance not updated after bank,5,False,True,False,{25: 1},[8382],7622,1,5,False
+8837,cancel transfer,request,52,False,False,False,{25: 1},[8382],8837,1,5,False
+2197,declined card payment,contact,23,False,False,False,{25: 1},[8382],2197,1,5,False
+9053,declined card payment,failed,35,False,False,False,{25: 1},[8382],9053,1,5,False
+9189,card not working,card linking,13,False,False,False,{25: 1},[8382],9189,1,5,False
+128,declined card payment,extra,34,False,False,False,{25: 1},[8382],128,1,5,False
+9130,top up by bank transfer charge,top up by bank,56,False,True,False,{25: 1},[8382],9130,1,5,False
+1630,declined card payment,top up revert,61,False,False,False,{25: 1},[8382],1630,1,5,False
+242,top up by card charge,supported,54,False,False,False,{25: 1},[8382],242,1,5,False
+6991,card payment fee charged,card payment fee,15,False,True,False,{25: 1},[8382],6991,1,5,False
+42,card payment not recognised,card delivery,12,False,False,False,{25: 1},[8382],42,1,5,False
+8868,cash withdrawal not recognised,pending c,46,False,False,False,{25: 1},[8382],8868,1,5,False
+2495,top up by cash or cheque,top up by c,58,False,True,False,{25: 1},[8382],2495,1,5,False
+3323,atm support,wrong amount,75,False,False,False,{25: 1},[8382],3323,1,5,False
+8270,declined card payment,declined c,26,False,False,False,{25: 1},[8382],8270,1,5,False
+3485,topping up by card,top up by bank,56,False,False,False,{25: 1},[8382],3485,1,5,False
+6625,cancel transfer,transaction,63,False,False,False,{25: 1},[8382],6625,1,5,False
+3578,transfer not received by recipient,transfer not,66,False,True,False,{25: 1},[8382],3578,1,5,False
+8418,cancel transfer,top up revert,61,False,False,False,{25: 1},[8382],8418,1,5,False
+4574,declined card payment,card payment fee,15,False,False,False,{25: 1},[8382],4574,1,5,False
+6375,card payment not recognised,getting spare,39,False,False,False,{25: 1},[8382],6375,1,5,False
+4744,exchange rate,exchange charge,31,False,False,False,{25: 1},[8382],4744,1,5,False
+9838,exchange rate,wrong exchange,76,False,False,False,{25: 1},[8382],9838,1,5,False
+3342,cancel transfer,request,52,False,False,False,{25: 1},[8382],3342,1,5,False
+4712,card payment not recognised,card accept,10,False,False,False,{25: 1},[8382],4712,1,5,False
+1205,cancel transfer,terminate,55,False,False,False,{25: 1},[8382],1205,1,5,False
+1251,declined card payment,cash withdrawal charge,19,False,False,False,{25: 1},[8382],1251,1,5,False
+2105,declined card payment,country,24,False,False,False,{25: 1},[8382],2105,1,5,False
+8460,card payment not recognised,verify my,69,False,False,False,{25: 1},[8382],8460,1,5,False
+3147,cancel transfer,terminate,55,False,False,False,{25: 1},[8382],3147,1,5,False
+7247,cancel transfer,request,52,False,False,False,{25: 1},[8382],7247,1,5,False
+2157,declined card payment,direct,28,False,False,False,{25: 1},[8382],2157,1,5,False
+4701,declined card payment,declined card,25,True,True,False,{25: 1},[8382],4701,1,5,False
+1231,get physical card,order,43,False,False,False,{25: 1},[8382],1231,1,5,False
+2199,declined card payment,supported,54,False,False,False,{25: 1},[8382],2199,1,5,False
+8502,declined card payment,virtual,72,False,False,False,{25: 1},[8382],8502,1,5,False
+1133,declined card payment,receiving,50,False,False,False,{25: 1},[8382],1133,1,5,False
+2114,declined card payment,vis,73,False,False,False,{25: 1},[8382],2114,1,5,False
+3285,activate my card,activ,0,False,True,False,{25: 1},[8382],3285,1,5,False
+944,atm support,cash withdrawal charge,19,False,False,False,{25: 1},[8382],944,1,5,False
+5511,transfer fee charged,transfer timing,67,False,False,False,{25: 1},[8382],5511,1,5,False
+3044,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{25: 1},[8382],3044,1,5,False
+9931,cancel transfer,cancel,8,False,True,False,{25: 1},[8382],9931,1,5,False
+2749,activate my card,activ,0,False,True,False,{25: 1},[8382],2749,1,5,False
+859,declined card payment,pending c,46,False,False,False,{25: 1},[8382],859,1,5,False
+9539,get physical card,order,43,False,False,False,{25: 1},[8382],9539,1,5,False
+5864,change pin,edit,30,False,False,False,{25: 1},[8382],5864,1,5,False
+8482,declined card payment,cash withdrawal not,20,False,False,False,{25: 1},[8382],8482,1,5,False
+8331,lost or stolen phone,lost or stolen phone,42,False,True,False,{25: 1},[8382],8331,1,5,False
+3970,get physical card,vis,73,False,False,False,{25: 1},[8382],3970,1,5,False
+3333,pin blocked,change,21,False,False,False,{25: 1},[8382],3333,1,5,False
+7235,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,{25: 1},[8382],7235,1,5,False
+7084,declined card payment,pending card,45,False,False,False,{25: 1},[8382],7084,1,5,False
+6729,declined card payment,direct,28,False,False,False,{25: 1},[8382],6729,1,5,False
+6722,get physical card,extra,34,False,False,False,{25: 1},[8382],6722,1,5,False
+3222,verify my identity,verify source,70,False,False,False,{25: 1},[8382],3222,1,5,False
+5500,declined card payment,verify my,69,False,False,False,{25: 1},[8382],5500,1,5,False
+7640,card payment fee charged,card payment fee,15,False,True,False,{25: 1},[8382],7640,1,5,False
+6465,get physical card,fi,36,False,False,False,{25: 1},[8382],6465,1,5,False
+5952,declined card payment,verify top,71,False,False,False,{25: 1},[8382],5952,1,5,False
+6128,declined card payment,top up failed,59,False,False,False,{25: 1},[8382],6128,1,5,False
+3732,declined card payment,declined card,25,True,True,False,{25: 1},[8382],3732,1,5,False
+8069,declined card payment,revert,53,False,False,False,{25: 1},[8382],8069,1,5,False
+3378,transfer not received by recipient,benef,7,False,False,False,{25: 1},[8382],3378,1,5,False
+2255,atm support,wrong amount,75,False,False,False,{25: 1},[8382],2255,1,5,False
+3399,atm support,declined c,26,False,False,False,{25: 1},[8382],3399,1,5,False
+4514,topping up by card,top up by card,57,False,False,False,{25: 1},[8382],4514,1,5,False
+3357,declined card payment,country,24,False,False,False,{25: 1},[8382],3357,1,5,False
+8733,exchange rate,card payment wrong,17,False,False,False,{25: 1},[8382],8733,1,5,False
+5658,top up by card charge,automatic,4,False,False,False,{25: 1},[8382],5658,1,5,False
+5596,card payment not recognised,get dispos,37,False,False,False,{25: 1},[8382],5596,1,5,False
+2293,get physical card,getting spare,39,False,False,False,{25: 1},[8382],2293,1,5,False
+4755,get disposable virtual card,get dispos,37,False,True,False,{25: 1},[8382],4755,1,5,False
+2942,declined card payment,direct,28,False,False,False,{25: 1},[8382],2942,1,5,False
+3784,declined card payment,transaction,63,False,False,False,{25: 1},[8382],3784,1,5,False
+4422,change pin,receiving,50,False,False,False,{25: 1},[8382],4422,1,5,False
+1512,card payment not recognised,cash withdrawal not,20,False,False,False,{25: 1},[8382],1512,1,5,False
+1080,declined card payment,pin,49,False,False,False,{25: 1},[8382],1080,1,5,False
+9181,card payment fee charged,order,43,False,False,False,{25: 1},[8382],9181,1,5,False
+8939,atm support,declined c,26,False,False,False,{25: 1},[8382],8939,1,5,False
+3711,atm support,declined c,26,False,False,False,{25: 1},[8382],3711,1,5,False
+7394,card payment not recognised,comprom,22,False,False,False,{25: 1},[8382],7394,1,5,False
+1922,card payment not recognised,cash withdrawal not,20,False,False,False,{25: 1},[8382],1922,1,5,False
+6322,declined card payment,transfer not,66,False,False,False,{25: 1},[8382],6322,1,5,False
+249,verify my identity,verify my,69,False,True,False,{25: 1},[8382],249,1,5,False
+6913,declined card payment,card payment not,16,False,False,False,{25: 1},[8382],6913,1,5,False
+7757,transfer not received by recipient,transfer fee,64,False,False,False,{25: 1},[8382],7757,1,5,False
+7601,declined card payment,pending transfer,48,False,False,False,{25: 1},[8382],7601,1,5,False
+1994,declined card payment,getting spare,39,False,False,False,{25: 1},[8382],1994,1,5,False
+2730,card not working,card arrival,11,False,False,False,{25: 1},[8382],2730,1,5,False
+1644,get physical card,at,3,False,False,False,{25: 1},[8382],1644,1,5,False
+2990,card payment not recognised,declined card,25,True,False,False,{25: 1},[8382],2990,1,5,False
+6993,exchange rate,exchange rate,32,False,True,False,{25: 1},[8382],6993,1,5,False
+4880,cash withdrawal not recognised,pending c,46,False,False,False,{25: 1},[8382],4880,1,5,False
+6284,declined card payment,declined card,25,True,True,False,{25: 1},[8382],6284,1,5,False
+7100,change pin,pass,44,False,False,False,{25: 1},[8382],7100,1,5,False
+6705,declined card payment,cash withdrawal charge,19,False,False,False,{25: 1},[8382],6705,1,5,False
+898,declined card payment,top up by card,57,False,False,False,{25: 1},[8382],898,1,5,False
+8577,exchange rate,wrong exchange,76,False,False,False,{25: 1},[8382],8577,1,5,False
+1413,card payment not recognised,vis,73,False,False,False,{25: 1},[8382],1413,1,5,False
+2931,card payment not recognised,order,43,False,False,False,{25: 1},[8382],2931,1,5,False
+2323,get physical card,getting spare,39,False,False,False,{25: 1},[8382],2323,1,5,False
+6419,declined card payment,apple,2,False,False,False,{25: 1},[8382],6419,1,5,False
+6548,top up failed,to,62,False,False,False,{25: 1},[8382],6548,1,5,False
+5832,card delivery estimate,card delivery,12,False,True,False,{25: 1},[8382],5832,1,5,False
+9894,transfer fee charged,transfer timing,67,False,False,False,{25: 1},[8382],9894,1,5,False
+1780,cash withdrawal not recognised,wrong amount,75,False,False,False,{25: 1},[8382],1780,1,5,False
+2551,declined card payment,top up by bank,56,False,False,False,{25: 1},[8382],2551,1,5,False
+5253,card payment not recognised,getting spare,39,False,False,False,{25: 1},[8382],5253,1,5,False
+3110,declined card payment,why,74,False,False,False,{25: 1},[8382],3110,1,5,False
+4137,card payment not recognised,order,43,False,False,False,{25: 1},[8382],4137,1,5,False
+5196,verify my identity,unable,68,False,False,False,{25: 1},[8382],5196,1,5,False
+2601,transfer not received by recipient,benef,7,False,False,False,{25: 1},[8382],2601,1,5,False
+3208,atm support,cash withdrawal charge,19,False,False,False,{25: 1},[8382],3208,1,5,False
+8530,declined card payment,vis,73,False,False,False,{25: 1},[8382],8530,1,5,False
+2020,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{25: 1},[8382],2020,1,5,False
+7301,declined card payment,transaction,63,False,False,False,{25: 1},[8382],7301,1,5,False
+3039,cancel transfer,cash withdrawal charge,19,False,False,False,{25: 1},[8382],3039,1,5,False
+8240,declined card payment,failed,35,False,False,False,{25: 1},[8382],8240,1,5,False
+1885,declined card payment,why,74,False,False,False,{25: 1},[8382],1885,1,5,False
+1452,transfer fee charged,transfer timing,67,False,False,False,{25: 1},[8382],1452,1,5,False
+5724,declined card payment,supported,54,False,False,False,{25: 1},[8382],5724,1,5,False
+4782,card not working,getting virtual,40,False,False,False,{25: 1},[8382],4782,1,5,False
+3983,get physical card,vis,73,False,False,False,{25: 1},[8382],3983,1,5,False
+538,card payment not recognised,lost or stolen card,41,False,False,False,{25: 1},[8382],538,1,5,False
+1660,card payment not recognised,country,24,False,False,False,{25: 1},[8382],1660,1,5,False
+2563,activate my card,activ,0,False,True,False,{25: 1},[8382],2563,1,5,False
+9995,declined card payment,extra,34,False,False,False,{25: 1},[8382],9995,1,5,False
+1568,card payment not recognised,supported,54,False,False,False,{25: 1},[8382],1568,1,5,False
+6832,declined card payment,card payment wrong,17,False,False,False,{25: 1},[8382],6832,1,5,False
+3885,cancel transfer,terminate,55,False,False,False,{25: 1},[8382],3885,1,5,False
+978,get physical card,getting virtual,40,False,False,False,{25: 1},[8382],978,1,5,False
+2384,declined card payment,cash withdrawal charge,19,False,False,False,{25: 1},[8382],2384,1,5,False
+1708,get physical card,request,52,False,False,False,{25: 1},[8382],1708,1,5,False
+3345,declined card payment,top up by card,57,False,False,False,{25: 1},[8382],3345,1,5,False

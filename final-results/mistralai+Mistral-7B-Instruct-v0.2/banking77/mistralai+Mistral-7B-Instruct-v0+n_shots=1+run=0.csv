@@ -1,0 +1,251 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer
+905,supported cards and currencies,supported,54,False,True,False,{34: 1},[5162],905,1,0,False
+1982,transaction charged twice,transaction,63,False,True,False,{34: 1},[5162],1982,1,0,False
+2766,exchange rate,exchange charge,31,False,False,False,{34: 1},[5162],2766,1,0,False
+2416,request refund,getting spare,39,False,False,False,{34: 1},[5162],2416,1,0,False
+2895,atm support,cash withdrawal charge,19,False,False,False,{34: 1},[5162],2895,1,0,False
+2137,pin blocked,change,21,False,False,False,{34: 1},[5162],2137,1,0,False
+732,top up limits,top up limits,60,False,True,False,{34: 1},[5162],732,1,0,False
+1927,atm support,card swallowed,18,False,False,False,{34: 1},[5162],1927,1,0,False
+945,card delivery estimate,getting virtual,40,False,False,False,{34: 1},[5162],945,1,0,False
+1942,card not working,card swallowed,18,False,False,False,{34: 1},[5162],1942,1,0,False
+112,exchange rate,exchange rate,32,False,True,False,{34: 1},[5162],112,1,0,False
+2909,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{34: 1},[5162],2909,1,0,False
+965,card acceptance,card acceptance,10,False,True,False,{34: 1},[5162],965,1,0,False
+1465,atm support,atm,3,False,True,False,{34: 1},[5162],1465,1,0,False
+1396,virtual card not working,dispos,29,False,False,False,{34: 1},[5162],1396,1,0,False
+2152,change pin,change,21,False,True,False,{34: 1},[5162],2152,1,0,False
+1159,change pin,edit,30,False,False,False,{34: 1},[5162],1159,1,0,False
+976,card acceptance,card acceptance,10,False,True,False,{34: 1},[5162],976,1,0,False
+1518,request refund,direct,28,False,False,False,{34: 1},[5162],1518,1,0,False
+1773,Refund not showing up,Ref,51,False,True,False,{34: 1},[5162],1773,1,0,False
+1476,atm support,atm,3,False,True,False,{34: 1},[5162],1476,1,0,False
+1477,atm support,atm,3,False,True,False,{34: 1},[5162],1477,1,0,False
+237,atm support,pending cash,46,False,False,False,{34: 1},[5162],237,1,0,False
+2097,transaction charged twice,re,53,False,False,False,{34: 1},[5162],2097,1,0,False
+2434,extra charge on statement,getting spare,39,False,False,False,{34: 1},[5162],2434,1,0,False
+1349,transfer fee charged,to,62,False,False,False,{34: 1},[5162],1349,1,0,False
+1625,transaction charged twice,pending card,45,False,False,False,{34: 1},[5162],1625,1,0,False
+2675,card not working,top up failed,59,False,False,False,{34: 1},[5162],2675,1,0,False
+274,supported cards and currencies,fi,36,False,False,False,{34: 1},[5162],274,1,0,False
+564,contactless not working,contact,23,False,True,False,{34: 1},[5162],564,1,0,False
+2482,card delivery estimate,order,43,False,False,False,{34: 1},[5162],2482,1,0,False
+1685,request refund,request,52,False,True,False,{34: 1},[5162],1685,1,0,False
+804,extra charge on statement,card payment fee,15,False,False,False,{34: 1},[5162],804,1,0,False
+2142,change pin,change,21,False,True,False,{34: 1},[5162],2142,1,0,False
+2965,apple pay or google pay,apple,2,False,True,False,{34: 1},[5162],2965,1,0,False
+2985,top up by card charge,apple,2,False,False,False,{34: 1},[5162],2985,1,0,False
+1394,virtual card not working,dispos,29,False,False,False,{34: 1},[5162],1394,1,0,False
+1103,card not working,card payment not,16,False,False,False,{34: 1},[5162],1103,1,0,False
+2420,card delivery estimate,getting spare,39,False,False,False,{34: 1},[5162],2420,1,0,False
+1875,transfer fee charged,pending transfer,48,False,False,False,{34: 1},[5162],1875,1,0,False
+1146,change pin,edit,30,False,False,False,{34: 1},[5162],1146,1,0,False
+1516,transaction charged twice,direct,28,False,False,False,{34: 1},[5162],1516,1,0,False
+2805,card payment fee charged,top up by card,57,False,False,False,{34: 1},[5162],2805,1,0,False
+2702,transaction charged twice,balance not updated after bank,5,False,False,False,{34: 1},[5162],2702,1,0,False
+2882,atm support,cash withdrawal charge,19,False,False,False,{34: 1},[5162],2882,1,0,False
+2793,exchange rate,exchange charge,31,False,False,False,{34: 1},[5162],2793,1,0,False
+241,supported cards and currencies,fi,36,False,False,False,{34: 1},[5162],241,1,0,False
+1068,cash withdrawal not recognised,balance not updated after che,6,False,False,False,{34: 1},[5162],1068,1,0,False
+494,age limit,age,1,False,True,False,{34: 1},[5162],494,1,0,False
+327,top up by bank transfer charge,automatic,4,False,False,False,{34: 1},[5162],327,1,0,False
+458,lost or stolen card,lost or stolen card,41,False,True,False,{34: 1},[5162],458,1,0,False
+428,exchange rate,exchange via,33,False,False,False,{34: 1},[5162],428,1,0,False
+1681,Refund not showing up,request,52,False,False,False,{34: 1},[5162],1681,1,0,False
+2040,transfer timing,transfer timing,67,False,True,False,{34: 1},[5162],2040,1,0,False
+2271,change pin,receiving,50,False,False,False,{34: 1},[5162],2271,1,0,False
+2309,transfer not received by recipient,failed,35,False,False,False,{34: 1},[5162],2309,1,0,False
+1819,declined card payment,declined card,25,False,True,False,{34: 1},[5162],1819,1,0,False
+1538,passcode forgotten,pass,44,False,True,False,{34: 1},[5162],1538,1,0,False
+1405,request refund,comprom,22,False,False,False,{34: 1},[5162],1405,1,0,False
+522,pin blocked,pin,49,False,True,False,{34: 1},[5162],522,1,0,False
+2230,transaction charged twice,transfer fee,64,False,False,False,{34: 1},[5162],2230,1,0,False
+1626,pending transfer,pending card,45,False,False,False,{34: 1},[5162],1626,1,0,False
+972,card acceptance,card acceptance,10,False,True,False,{34: 1},[5162],972,1,0,False
+2201,transfer fee charged,transfer fee,64,False,True,False,{34: 1},[5162],2201,1,0,False
+1523,passcode forgotten,pass,44,False,True,False,{34: 1},[5162],1523,1,0,False
+2629,virtual card not working,get dispos,37,False,False,False,{34: 1},[5162],2629,1,0,False
+1760,Refund not showing up,Ref,51,False,True,False,{34: 1},[5162],1760,1,0,False
+1176,verify my identity,why,74,False,False,False,{34: 1},[5162],1176,1,0,False
+68,card linking,card link,13,False,True,False,{34: 1},[5162],68,1,0,False
+1901,request refund,term,55,False,False,False,{34: 1},[5162],1901,1,0,False
+2274,transfer fee charged,receiving,50,False,False,False,{34: 1},[5162],2274,1,0,False
+2249,get physical card,receiving,50,False,False,False,{34: 1},[5162],2249,1,0,False
+519,age limit,age,1,False,True,False,{34: 1},[5162],519,1,0,False
+2019,transaction charged twice,verify source,70,False,False,False,{34: 1},[5162],2019,1,0,False
+2997,apple pay or google pay,apple,2,False,True,False,{34: 1},[5162],2997,1,0,False
+744,top up limits,top up limits,60,False,True,False,{34: 1},[5162],744,1,0,False
+1377,disposable card limits,dispos,29,False,True,False,{34: 1},[5162],1377,1,0,False
+893,card payment not recognised,supported,54,False,False,False,{34: 1},[5162],893,1,0,False
+1833,card not working,declined card,25,False,False,False,{34: 1},[5162],1833,1,0,False
+1114,transaction charged twice,card payment not,16,False,False,False,{34: 1},[5162],1114,1,0,False
+1899,cancel transfer,term,55,False,False,False,{34: 1},[5162],1899,1,0,False
+1059,transaction charged twice,balance not updated after che,6,False,False,False,{34: 1},[5162],1059,1,0,False
+1428,card not working,comprom,22,False,False,False,{34: 1},[5162],1428,1,0,False
+1915,cancel transfer,term,55,False,False,False,{34: 1},[5162],1915,1,0,False
+826,card payment fee charged,card payment fee,15,False,True,False,{34: 1},[5162],826,1,0,False
+2580,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,{34: 1},[5162],2580,1,0,False
+2132,atm support,change,21,False,False,False,{34: 1},[5162],2132,1,0,False
+418,change pin,exchange via,33,False,False,False,{34: 1},[5162],418,1,0,False
+1601,pending transfer,pending card,45,False,False,False,{34: 1},[5162],1601,1,0,False
+1645,lost or stolen phone,lost or stolen phone,42,False,True,False,{34: 1},[5162],1645,1,0,False
+1610,transaction charged twice,pending card,45,False,False,False,{34: 1},[5162],1610,1,0,False
+598,contactless not working,contact,23,False,True,False,{34: 1},[5162],598,1,0,False
+2992,top up by card charge,apple,2,False,False,False,{34: 1},[5162],2992,1,0,False
+3017,verify my identity,verify my,69,False,True,False,{34: 1},[5162],3017,1,0,False
+2134,change pin,change,21,False,True,False,{34: 1},[5162],2134,1,0,False
+2540,virtual card not working,virtual,72,False,True,False,{34: 1},[5162],2540,1,0,False
+1505,wrong amount of cash received,direct,28,False,False,False,{34: 1},[5162],1505,1,0,False
+1093,transaction charged twice,card payment not,16,False,False,False,{34: 1},[5162],1093,1,0,False
+863,transfer not received by recipient,transfer not,66,False,True,False,{34: 1},[5162],863,1,0,False
+1021,top up failed,top up re,61,False,False,False,{34: 1},[5162],1021,1,0,False
+754,top up limits,top up limits,60,False,True,False,{34: 1},[5162],754,1,0,False
+1364,request refund,dispos,29,False,False,False,{34: 1},[5162],1364,1,0,False
+2301,transfer not received by recipient,failed,35,False,False,False,{34: 1},[5162],2301,1,0,False
+1134,change pin,edit,30,False,False,False,{34: 1},[5162],1134,1,0,False
+1186,verify my identity,why,74,False,False,False,{34: 1},[5162],1186,1,0,False
+1774,Refund not showing up,Ref,51,False,True,False,{34: 1},[5162],1774,1,0,False
+131,exchange rate,card payment wrong,17,False,False,False,{34: 1},[5162],131,1,0,False
+902,card acceptance,supported,54,False,False,False,{34: 1},[5162],902,1,0,False
+2243,transfer fee charged,receiving,50,False,False,False,{34: 1},[5162],2243,1,0,False
+2494,card delivery estimate,order,43,False,False,False,{34: 1},[5162],2494,1,0,False
+2705,transaction charged twice,balance not updated after bank,5,False,False,False,{34: 1},[5162],2705,1,0,False
+592,contactless not working,contact,23,False,True,False,{34: 1},[5162],592,1,0,False
+2386,top up reverted,verify top,71,False,False,False,{34: 1},[5162],2386,1,0,False
+2800,card payment fee charged,top up by card,57,False,False,False,{34: 1},[5162],2800,1,0,False
+949,virtual card not working,getting virtual,40,False,False,False,{34: 1},[5162],949,1,0,False
+448,card payment not recognised,lost or stolen card,41,False,False,False,{34: 1},[5162],448,1,0,False
+18,card delivery estimate,card arrival,11,False,False,False,{34: 1},[5162],18,1,0,False
+1348,transfer fee charged,to,62,False,False,False,{34: 1},[5162],1348,1,0,False
+825,card payment fee charged,card payment fee,15,False,True,False,{34: 1},[5162],825,1,0,False
+362,card not working,card not,14,False,True,False,{34: 1},[5162],362,1,0,False
+1828,card payment not recognised,declined card,25,False,False,False,{34: 1},[5162],1828,1,0,False
+1554,passcode forgotten,pass,44,False,True,False,{34: 1},[5162],1554,1,0,False
+2568,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,{34: 1},[5162],2568,1,0,False
+385,card not working,card not,14,False,True,False,{34: 1},[5162],385,1,0,False
+2911,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{34: 1},[5162],2911,1,0,False
+2305,transfer not received by recipient,failed,35,False,False,False,{34: 1},[5162],2305,1,0,False
+2467,top up by cash or cheque,top up by cash,58,False,True,False,{34: 1},[5162],2467,1,0,False
+1252,pin blocked,get physical,38,False,False,False,{34: 1},[5162],1252,1,0,False
+2104,card payment not recognised,re,53,False,False,False,{34: 1},[5162],2104,1,0,False
+2316,transfer not received by recipient,failed,35,False,False,False,{34: 1},[5162],2316,1,0,False
+1595,unable to verify identity,declined cash,26,False,False,False,{34: 1},[5162],1595,1,0,False
+1673,lost or stolen phone,lost or stolen phone,42,False,True,False,{34: 1},[5162],1673,1,0,False
+1856,transfer timing,pending transfer,48,False,False,False,{34: 1},[5162],1856,1,0,False
+2106,Refund not showing up,re,53,False,False,False,{34: 1},[5162],2106,1,0,False
+2527,virtual card not working,virtual,72,False,True,False,{34: 1},[5162],2527,1,0,False
+2602,virtual card not working,get dispos,37,False,False,False,{34: 1},[5162],2602,1,0,False
+1522,passcode forgotten,pass,44,False,True,False,{34: 1},[5162],1522,1,0,False
+2713,transfer not received by recipient,balance not updated after bank,5,False,False,False,{34: 1},[5162],2713,1,0,False
+2519,request refund,order,43,False,False,False,{34: 1},[5162],2519,1,0,False
+2504,request refund,order,43,False,False,False,{34: 1},[5162],2504,1,0,False
+538,card payment not recognised,pin,49,False,False,False,{34: 1},[5162],538,1,0,False
+1635,transaction charged twice,pending card,45,False,False,False,{34: 1},[5162],1635,1,0,False
+2383,top up failed,verify top,71,False,False,False,{34: 1},[5162],2383,1,0,False
+1544,request refund,pass,44,False,False,False,{34: 1},[5162],1544,1,0,False
+1883,cancel transfer,term,55,False,False,False,{34: 1},[5162],1883,1,0,False
+2493,request refund,order,43,False,False,False,{34: 1},[5162],2493,1,0,False
+1877,transfer not received by recipient,pending transfer,48,False,False,False,{34: 1},[5162],1877,1,0,False
+2998,apple pay or google pay,apple,2,False,True,False,{34: 1},[5162],2998,1,0,False
+1717,Refund not showing up,request,52,False,False,False,{34: 1},[5162],1717,1,0,False
+1372,request refund,dispos,29,False,False,False,{34: 1},[5162],1372,1,0,False
+1671,lost or stolen phone,lost or stolen phone,42,False,True,False,{34: 1},[5162],1671,1,0,False
+1793,Refund not showing up,Ref,51,False,True,False,{34: 1},[5162],1793,1,0,False
+469,card not working,lost or stolen card,41,False,False,False,{34: 1},[5162],469,1,0,False
+2324,transfer fee charged,transfer into,65,False,False,False,{34: 1},[5162],2324,1,0,False
+2202,transfer fee charged,transfer fee,64,False,True,False,{34: 1},[5162],2202,1,0,False
+1383,disposable card limits,dispos,29,False,True,False,{34: 1},[5162],1383,1,0,False
+2333,transfer into account,transfer into,65,False,True,False,{34: 1},[5162],2333,1,0,False
+2642,transaction charged twice,top up failed,59,False,False,False,{34: 1},[5162],2642,1,0,False
+2726,transaction charged twice,cash withdrawal not,20,False,False,False,{34: 1},[5162],2726,1,0,False
+227,pending card payment,pending cash,46,False,False,False,{34: 1},[5162],227,1,0,False
+749,card payment fee charged,top up limits,60,False,False,False,{34: 1},[5162],749,1,0,False
+400,exchange rate,exchange via,33,False,False,False,{34: 1},[5162],400,1,0,False
+2711,transfer not received by recipient,balance not updated after bank,5,False,False,False,{34: 1},[5162],2711,1,0,False
+59,card not working,card link,13,False,False,False,{34: 1},[5162],59,1,0,False
+1304,card payment fee charged,visa,73,False,False,False,{34: 1},[5162],1304,1,0,False
+1474,atm support,atm,3,False,True,False,{34: 1},[5162],1474,1,0,False
+2570,wrong exchange rate for cash withdrawal,wrong exchange,76,False,True,False,{34: 1},[5162],2570,1,0,False
+1539,passcode forgotten,pass,44,False,True,False,{34: 1},[5162],1539,1,0,False
+2302,transfer not received by recipient,failed,35,False,False,False,{34: 1},[5162],2302,1,0,False
+305,request refund,card delivery,12,False,False,False,{34: 1},[5162],305,1,0,False
+713,request refund,cancel,8,False,False,False,{34: 1},[5162],713,1,0,False
+1398,disposable card limits,dispos,29,False,True,False,{34: 1},[5162],1398,1,0,False
+1241,pin blocked,get physical,38,False,False,False,{34: 1},[5162],1241,1,0,False
+271,exchange rate,fi,36,False,False,False,{34: 1},[5162],271,1,0,False
+1025,failed transfer,top up re,61,False,False,False,{34: 1},[5162],1025,1,0,False
+470,card not working,lost or stolen card,41,False,False,False,{34: 1},[5162],470,1,0,False
+2779,exchange rate,exchange charge,31,False,False,False,{34: 1},[5162],2779,1,0,False
+2417,request refund,getting spare,39,False,False,False,{34: 1},[5162],2417,1,0,False
+1887,request refund,term,55,False,False,False,{34: 1},[5162],1887,1,0,False
+1976,transaction charged twice,transaction,63,False,True,False,{34: 1},[5162],1976,1,0,False
+917,supported cards and currencies,supported,54,False,True,False,{34: 1},[5162],917,1,0,False
+2649,top up failed,top up failed,59,False,True,False,{34: 1},[5162],2649,1,0,False
+735,top up limits,top up limits,60,False,True,False,{34: 1},[5162],735,1,0,False
+2927,request refund,card about,9,False,False,False,{34: 1},[5162],2927,1,0,False
+1689,wrong amount of cash received,request,52,False,False,False,{34: 1},[5162],1689,1,0,False
+64,card not working,card link,13,False,False,False,{34: 1},[5162],64,1,0,False
+1568,unable to verify identity,declined cash,26,False,False,False,{34: 1},[5162],1568,1,0,False
+1391,virtual card not working,dispos,29,False,False,False,{34: 1},[5162],1391,1,0,False
+1744,transfer not received by recipient,declined transfer,27,False,False,False,{34: 1},[5162],1744,1,0,False
+2821,card payment fee charged,top up by card,57,False,False,False,{34: 1},[5162],2821,1,0,False
+1714,cancel transfer,request,52,False,False,False,{34: 1},[5162],1714,1,0,False
+2350,transfer into account,transfer into,65,False,True,False,{34: 1},[5162],2350,1,0,False
+1136,change pin,edit,30,False,False,False,{34: 1},[5162],1136,1,0,False
+2704,transaction charged twice,balance not updated after bank,5,False,False,False,{34: 1},[5162],2704,1,0,False
+1298,visa or mastercard,visa,73,False,True,False,{34: 1},[5162],1298,1,0,False
+1586,unable to verify identity,declined cash,26,False,False,False,{34: 1},[5162],1586,1,0,False
+1435,card payment not recognised,comprom,22,False,False,False,{34: 1},[5162],1435,1,0,False
+1361,request refund,dispos,29,False,False,False,{34: 1},[5162],1361,1,0,False
+1002,top up reverted,top up re,61,False,True,False,{34: 1},[5162],1002,1,0,False
+1360,request refund,dispos,29,False,False,False,{34: 1},[5162],1360,1,0,False
+2356,transfer fee charged,transfer into,65,False,False,False,{34: 1},[5162],2356,1,0,False
+2289,transfer not received by recipient,failed,35,False,False,False,{34: 1},[5162],2289,1,0,False
+1384,disposable card limits,dispos,29,False,True,False,{34: 1},[5162],1384,1,0,False
+1210,failed transfer,unable,68,False,False,False,{34: 1},[5162],1210,1,0,False
+2240,get physical card,receiving,50,False,False,False,{34: 1},[5162],2240,1,0,False
+1266,pin blocked,get physical,38,False,False,False,{34: 1},[5162],1266,1,0,False
+2060,transfer timing,transfer timing,67,False,True,False,{34: 1},[5162],2060,1,0,False
+769,atm support,wrong amount,75,False,False,False,{34: 1},[5162],769,1,0,False
+979,card acceptance,card acceptance,10,False,True,False,{34: 1},[5162],979,1,0,False
+1237,unable to verify identity,unable,68,False,True,False,{34: 1},[5162],1237,1,0,False
+1456,atm support,atm,3,False,True,False,{34: 1},[5162],1456,1,0,False
+948,order physical card,getting virtual,40,False,False,False,{34: 1},[5162],948,1,0,False
+1261,card payment not recognised,get physical,38,False,False,False,{34: 1},[5162],1261,1,0,False
+1752,transfer not received by recipient,declined transfer,27,False,False,False,{34: 1},[5162],1752,1,0,False
+1862,transfer timing,pending transfer,48,False,False,False,{34: 1},[5162],1862,1,0,False
+709,cancel transfer,cancel,8,False,True,False,{34: 1},[5162],709,1,0,False
+1981,extra charge on statement,transaction,63,False,False,False,{34: 1},[5162],1981,1,0,False
+2746,card not working,cash withdrawal not,20,False,False,False,{34: 1},[5162],2746,1,0,False
+3036,verify my identity,verify my,69,False,True,False,{34: 1},[5162],3036,1,0,False
+1501,wrong amount of cash received,direct,28,False,False,False,{34: 1},[5162],1501,1,0,False
+2819,top up by card charge,top up by card,57,False,True,False,{34: 1},[5162],2819,1,0,False
+2826,transaction charged twice,top up by card,57,False,False,False,{34: 1},[5162],2826,1,0,False
+2723,transaction charged twice,cash withdrawal not,20,False,False,False,{34: 1},[5162],2723,1,0,False
+1325,request refund,to,62,False,False,False,{34: 1},[5162],1325,1,0,False
+2124,change pin,change,21,False,True,False,{34: 1},[5162],2124,1,0,False
+1417,card not working,comprom,22,False,False,False,{34: 1},[5162],1417,1,0,False
+791,cash withdrawal not recognised,wrong amount,75,False,False,False,{34: 1},[5162],791,1,0,False
+2136,change pin,change,21,False,True,False,{34: 1},[5162],2136,1,0,False
+1352,transfer fee charged,to,62,False,False,False,{34: 1},[5162],1352,1,0,False
+2905,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{34: 1},[5162],2905,1,0,False
+2360,verify top up,verify top,71,False,True,False,{34: 1},[5162],2360,1,0,False
+1319,visa or mastercard,visa,73,False,True,False,{34: 1},[5162],1319,1,0,False
+1772,Refund not showing up,Ref,51,False,True,False,{34: 1},[5162],1772,1,0,False
+217,atm support,pending cash,46,False,False,False,{34: 1},[5162],217,1,0,False
+1936,atm support,card swallowed,18,False,False,False,{34: 1},[5162],1936,1,0,False
+2880,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{34: 1},[5162],2880,1,0,False
+402,exchange rate,exchange via,33,False,False,False,{34: 1},[5162],402,1,0,False
+1350,top up by bank transfer charge,to,62,False,False,False,{34: 1},[5162],1350,1,0,False
+80,exchange rate,exchange rate,32,False,True,False,{34: 1},[5162],80,1,0,False
+1356,transaction charged twice,to,62,False,False,False,{34: 1},[5162],1356,1,0,False
+2385,top up reverted,verify top,71,False,False,False,{34: 1},[5162],2385,1,0,False
+2341,top up by card charge,transfer into,65,False,False,False,{34: 1},[5162],2341,1,0,False
+1869,pending transfer,pending transfer,48,False,True,False,{34: 1},[5162],1869,1,0,False
+2881,atm support,cash withdrawal charge,19,False,False,False,{34: 1},[5162],2881,1,0,False
+1151,change pin,edit,30,False,False,False,{34: 1},[5162],1151,1,0,False
+73,card linking,card link,13,False,True,False,{34: 1},[5162],73,1,0,False
+2264,transfer fee charged,receiving,50,False,False,False,{34: 1},[5162],2264,1,0,False
+1779,balance not updated after bank transfer,Ref,51,False,False,False,{34: 1},[5162],1779,1,0,False
+46,reverted card payment?,card link,13,False,False,False,{34: 1},[5162],46,1,0,False
+2898,cash withdrawal charge,cash withdrawal charge,19,False,True,False,{34: 1},[5162],2898,1,0,False

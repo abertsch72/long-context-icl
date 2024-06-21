@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+4844,human title,human title,30,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",4844,10,5,False,10
+2512,description manner,description manner,26,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",2512,10,5,False,10
+4143,human individual,human individual,29,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",4143,10,5,False,10
+4454,entity animal,entity animal,2,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",4454,10,5,False,10
+1437,description reason,description reason,27,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",1437,10,5,False,10
+3400,description definition,description definition,24,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",3400,10,5,False,10
+3562,location other,location other,35,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",3562,10,5,False,10
+5376,entity color,entity color,4,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",5376,10,5,False,10
+3148,human individual,human individual,29,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",3148,10,5,False,10
+2436,entity disease,entity disease,7,True,True,True,"{30: 1, 26: 1, 29: 2, 2: 1, 27: 1, 24: 1, 35: 1, 4: 1, 7: 1}","[4844, 2512, 4143, 4454, 1437, 3400, 3562, 5376, 3148, 2436]",2436,10,5,False,10

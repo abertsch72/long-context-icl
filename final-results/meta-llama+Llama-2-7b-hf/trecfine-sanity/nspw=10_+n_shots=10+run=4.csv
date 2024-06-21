@@ -1,0 +1,11 @@
+,outputs,label_tokens,true_numeric_labels,true_label_present_in_prompt,correct,predicted_label_present_in_prompt,prompt_labels,prompt_example_indices,id,n_shots,run_number,unlimiformer,nspw
+2011,human individual,human individual,29,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",2011,10,4,False,10
+3798,description manner,description manner,26,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",3798,10,4,False,10
+2436,entity disease,entity disease,7,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",2436,10,4,False,10
+510,numeric date,numeric date,39,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",510,10,4,False,10
+2106,human individual,human individual,29,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",2106,10,4,False,10
+3598,description definition,description definition,24,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",3598,10,4,False,10
+2938,entity substance,entity subst,18,True,True,False,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",2938,10,4,False,10
+2575,description manner,description manner,26,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",2575,10,4,False,10
+2906,numeric money,numeric money,41,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",2906,10,4,False,10
+5025,entity animal,entity animal,2,True,True,True,"{29: 2, 26: 2, 7: 1, 39: 1, 24: 1, 18: 1, 41: 1, 2: 1}","[2011, 3798, 2436, 510, 2106, 3598, 2938, 2575, 2906, 5025]",5025,10,4,False,10
