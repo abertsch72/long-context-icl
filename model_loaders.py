@@ -1,10 +1,7 @@
 import torch
 from transformers import AutoConfig, LlamaTokenizer, GPT2Tokenizer, PreTrainedTokenizerBase, LlamaForCausalLM, GPT2LMHeadModel
 
-from modeling_gpt2_with_pcw import GPT2LMHeadPCW
 from pcw_wrapper import PCWModelWrapper
-
-from modeling_llama_with_pcw import LlamaForCausalLMPCW
 
 GPT2_WINDOW_SIZE = 1024
 LLAMA_WINDOW_SIZE = 4096 #2048
